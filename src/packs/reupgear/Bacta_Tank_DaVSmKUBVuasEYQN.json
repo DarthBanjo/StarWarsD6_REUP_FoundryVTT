@@ -1,0 +1,36 @@
+{
+  "_id": "DaVSmKUBVuasEYQN",
+  "name": "Bacta Tank",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/bacta.webp",
+  "data": {
+    "description": "<p>This large, specialized tank is filled with the powerful healing agent, bacta, which promotes rapid healing. A bacta tank can be used when treating wounds, disease, poison, or radiation in a creature.</p>\n<p>A bacta tank and a supply of bacta is expensive, so such medical equipment is usually found only in hospitals, aboard capital ships, and within major military bases. Each hour of treatment consumes one liter of bacta, which costs 100 credits. A typical tank holds up to 300 liters of bacta, and the tank must hold at least 150 liters at all times to provide any benefit. Only one creature can be immersed in the tank at any given time.</p>\n<p><strong>Model:</strong> Zaltin and Xucphra Corporation Bacta Tank</p>\n<p><strong>Type: </strong>Bacta tank</p>\n<p><strong>Skill:</strong> <em>(A) medicine</em></p>\n<p><strong>Cost: </strong>100,000 (empty), (100 per liter of bacta, tank holds 300 liters)</p>\n<p><strong>Availability: </strong>2</p>\n<p><strong>Game Notes:</strong> Fully heals a patient on a successful Easy <em>(A) medicine</em> or Heroic <em>first aid</em> or <em>Technical</em> roll. Healing time is:</p>\n<ul>\n<li>1D hours for <em>Wounded </em>patients,</li>\n<li>4D hours for <em>Incapacitated </em>and</li>\n<li>1D days for <em>Mortally Wounded</em>.</li>\n</ul>\n<p>If the roll fails, patient&rsquo;s injury worsens two levels.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.DaVSmKUBVuasEYQN"
+    }
+  },
+  "_key": "!items!DaVSmKUBVuasEYQN"
+}

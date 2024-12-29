@@ -1,0 +1,36 @@
+{
+  "_id": "qK0rBZFozzRFcrmS",
+  "name": "Rocket Pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/rocketpack.webp",
+  "data": {
+    "description": "<p>Rocket packs are an alternative to jet packs. Where jet packs pull outside air into an ignition chamber &mdash; mixing fuel and air internally to provide thrust &mdash; rocket packs contain combustible chemical fuel. Because of this, rocket packs do not require outside air to generate thrust, allowing the devices to operate in space as well as inside an atmosphere.</p>\n<p>Rocket packs are heavier and louder than jet packs (due largely to the onboard chemical fuel cells). As a trade off, rocket packs are considerably faster, and provide a better &ldquo;all-environment&rdquo; flight capability. The main danger in using a rocket pack in combat is the chemical fuel cell; a stray blaster shot can<br />cause a rocket pack to explode.</p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Zanclraman DSP-5 rocket pack</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Personal rocket pack</span></p>\n<p><strong><span class=\"fontstyle0\">Skill:<em> </em></span></strong><em><span class=\"fontstyle3\">Rocket pack operation</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">400</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, R</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">The DSP-5 rocket pack can carry up to 60 kilograms and can move up to 70 meters vertically or 160 meters horizontally in a single charge. The unit has 12 charges.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 400,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.qK0rBZFozzRFcrmS"
+    }
+  },
+  "_key": "!items!qK0rBZFozzRFcrmS"
+}

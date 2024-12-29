@@ -1,0 +1,41 @@
+{
+  "_id": "cGTKB0Ho9r21SBge",
+  "name": "Datapad (with epic play or poem)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mKaiF1wwafJpWEvH"
+    },
+    "scene-packer": {
+      "hash": "1575c10b64dfdf2ead4974f0b62aedf219e2b179",
+      "sourceId": "Item.cGTKB0Ho9r21SBge",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!cGTKB0Ho9r21SBge"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "8LEKit9V6iqfxhhJ",
+  "name": "Hooded cloak",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "df7c9c821114a1e7ffa2cb65b526eceddd72f414",
+      "sourceId": "Item.8LEKit9V6iqfxhhJ"
+    }
+  },
+  "_key": "!items!8LEKit9V6iqfxhhJ"
+}

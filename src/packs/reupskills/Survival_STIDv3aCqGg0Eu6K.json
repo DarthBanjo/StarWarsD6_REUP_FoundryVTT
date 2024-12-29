@@ -1,0 +1,31 @@
+{
+  "_id": "STIDv3aCqGg0Eu6K",
+  "name": "Survival",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_survival.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of environment &mdash; </span><span class=\"fontstyle0\">volcano, jungle, desert, poisonous atmosphere</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill represents how much a character knows about surviving in hostile environments, including deserts, jungles, ocean, forests, asteroid belts, volcanoes, poisonous atmosphere worlds, mountains and other dangerous terrain.</span></p>\n<p><span class=\"fontstyle0\">Survival </span><span class=\"fontstyle2\">can be rolled to gain general information &mdash; revealing what the character knows about this environment &mdash; and it can give clues as to how best to deal with native dangers.</span></p>\n<p><span class=\"fontstyle2\">If the character is in a dangerous situation, the player may roll the </span><span class=\"fontstyle0\">survival </span><span class=\"fontstyle2\">skill to see if the character knows how to handle the situation.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">When the character makes a </span><span class=\"fontstyle2\">survival </span></strong><span class=\"fontstyle0\"><strong>roll, use these difficulty guidelines:</strong><br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Character is intimately familiar with terrain type. Luke on Tatooine.<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Character is familiar with terrain type. Leia on Endor.<br /></span><strong><span class=\"fontstyle3\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Character is somewhat familiar with terrain. May have briefly visited area before. Han on Hoth.<br /></span><span class=\"fontstyle3\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Character is unfamiliar with terrain; first time in a particular environment. Admiral Ackbar on Tatooine.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Character is completely unfamiliar with situation. Leia inside a space slug.<br /></span><strong><span class=\"fontstyle3\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Character is completely unfamiliar with situation and has no idea how to proceed. Any character who doesn&rsquo;t know where they are.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round when used for knowledge or reacting to danger; one hour or more when looking for necessities.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!STIDv3aCqGg0Eu6K"
+}

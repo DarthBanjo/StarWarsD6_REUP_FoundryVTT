@@ -1,0 +1,37 @@
+{
+  "_id": "bVZPmsquKc3rCA8Z",
+  "name": "Gaudy Jewelry",
+  "type": "gear",
+  "img": "icons/commodities/treasure/crown-blue-gold.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "89288cab5a1bac6c9615c99a8a8dc1cc68ce1742",
+      "sourceId": "Item.bVZPmsquKc3rCA8Z"
+    }
+  },
+  "_key": "!items!bVZPmsquKc3rCA8Z"
+}

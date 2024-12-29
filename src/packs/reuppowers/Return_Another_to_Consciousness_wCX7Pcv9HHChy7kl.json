@@ -1,0 +1,25 @@
+{
+  "_id": "wCX7Pcv9HHChy7kl",
+  "name": "Return Another to Consciousness",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_returnanotherconc.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Easy. Modified by proximity and relationship.</p>\n<p><strong>Alter Difficulty: </strong></p>\n<ul>\n<li>Easy for incapacitated characters;</li>\n<li>Difficult for mortally wounded characters.</li>\n</ul>\n<p><strong>Required Powers:</strong>&nbsp;<em>Remain Conscious,&nbsp;Control Pain</em></p>\n<p><strong>Effect:</strong> The target returns to consciousness. The target has the same restrictions as imposed by the <em>remain conscious</em> power, and must be touching the Jedi.</p>\n<p><span class=\"fontstyle3\">The target may remain conscious even after suffering injuries which would knock them unconscious. </span></p>\n<p><span class=\"fontstyle3\">If the roll is unsuccessful, the target character passes out immediately. If the roll is successful, the target character may only perform one other action that round. </span><span class=\"fontstyle3\">The character may make a last-ditch heroic effort before passing out. After that other action has been completed, the target character will lapse into unconsciousness (unless the Jedi has activated activated&nbsp;</span><span class=\"fontstyle4\"><em>control another's pain</em>&nbsp;</span><span class=\"fontstyle3\">or done something else to stay conscious).</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.wCX7Pcv9HHChy7kl"
+    }
+  },
+  "_key": "!items!wCX7Pcv9HHChy7kl"
+}

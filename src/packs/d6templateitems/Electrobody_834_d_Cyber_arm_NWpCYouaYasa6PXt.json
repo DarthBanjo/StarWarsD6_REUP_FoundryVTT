@@ -1,0 +1,61 @@
+{
+  "_id": "NWpCYouaYasa6PXt",
+  "name": "Electrobody 834/d Cyber arm",
+  "type": "cybernetic",
+  "img": "icons/equipment/hand/gauntlet-armored-heavy-steel.webp",
+  "data": {
+    "description": "<p><strong><span lang=\"EN-US\">Model:</span></strong><span lang=\"EN-US\"><strong>&nbsp;</strong>Electrobody 834/D Cyber arm</span></p>\n<p><strong><span lang=\"EN-US\">Type:</span></strong><span lang=\"EN-US\">&nbsp;Cyber limb</span></p>\n<p><strong><span lang=\"EN-US\">Surgery:</span></strong><span lang=\"EN-US\">&nbsp;Difficult</span></p>\n<p><strong><span lang=\"EN-US\">Cost:</span></strong><span lang=\"EN-US\">&nbsp;4,000</span></p>\n<p><strong><span lang=\"EN-US\">Availability:</span></strong><span lang=\"EN-US\">&nbsp;2</span></p>\n<p><strong><span lang=\"EN-US\">Game notes:</span></strong><span lang=\"EN-US\"><strong>&nbsp;</strong>The simple cyber arm has&nbsp;strength&nbsp;3D, when resisting damage. The arm adds +1D to the wearers&nbsp;lifting&nbsp;and&nbsp;brawling&nbsp;skills, this bonus also applies to melee and brawling damage.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.LEFT_ARM",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [
+    {
+      "_id": "RPrFT9iB83pYyhje",
+      "changes": [
+        {
+          "key": "data.strengthdamage.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Electrobody 834/d Cyber arm",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!NWpCYouaYasa6PXt.RPrFT9iB83pYyhje"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Item.NWpCYouaYasa6PXt"
+    }
+  },
+  "_key": "!items!NWpCYouaYasa6PXt"
+}

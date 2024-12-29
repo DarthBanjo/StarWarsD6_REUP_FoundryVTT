@@ -1,0 +1,37 @@
+{
+  "_id": "KR5ACdoSYQzqoVbD",
+  "name": "Ground Assault Vehicle (appropriate to mission)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/at-te.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e0b9199b5c07b6a4e0cd06fcb7dbfaeba5efd4b7",
+      "sourceId": "Item.KR5ACdoSYQzqoVbD"
+    }
+  },
+  "_key": "!items!KR5ACdoSYQzqoVbD"
+}

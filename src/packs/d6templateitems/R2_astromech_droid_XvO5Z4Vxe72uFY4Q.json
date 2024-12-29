@@ -1,0 +1,37 @@
+{
+  "_id": "XvO5Z4Vxe72uFY4Q",
+  "name": "R2 astromech droid",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/droid_astromech_2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "303a58b34df9ccb167b994ac7e4dbf1c6756ae8b",
+      "sourceId": "Item.XvO5Z4Vxe72uFY4Q"
+    }
+  },
+  "_key": "!items!XvO5Z4Vxe72uFY4Q"
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "OUvsmCEiJQmioizY",
+  "name": "Vibro-Ax",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/vibroaxe.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This powerful vibro weapon features an energy cell that causes the blade to vibrate rapidly when activated. This gives the weapon far greater power than a standard axe, with minimal effort from the wielder. A vibro-ax requires an energy cell.</span></p>\n<p><span class=\"fontstyle4\"><strong>Model:</strong> </span><span class=\"fontstyle5\">Standard vibro-ax</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Melee weapon</span></p>\n<p><span class=\"fontstyle4\"><strong>Scale:</strong> </span><span class=\"fontstyle5\">Character</span></p>\n<p><span class=\"fontstyle4\"><strong>Skill:</strong> </span><span class=\"fontstyle6\"><em>Melee Combat: Vibro-Ax</em></span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R</span></p>\n<p><strong><span class=\"fontstyle4\">Difficulty: </span></strong><span class=\"fontstyle5\">Moderate</span></p>\n<p><span class=\"fontstyle4\"><strong>Damage:</strong> </span><span class=\"fontstyle5\">STR+2D to STR+3D+1 (depending on model) (maximum: 7D)</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Melee Combat",
+      "specialization": "Vibro-Ax"
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "p",
+      "score": 6,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 0,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_MODERATE",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.OUvsmCEiJQmioizY"
+    }
+  },
+  "_key": "!items!OUvsmCEiJQmioizY"
+}

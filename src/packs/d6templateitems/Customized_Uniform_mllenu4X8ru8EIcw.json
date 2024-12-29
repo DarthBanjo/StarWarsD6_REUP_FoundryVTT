@@ -1,0 +1,37 @@
+{
+  "_id": "mllenu4X8ru8EIcw",
+  "name": "Customized Uniform",
+  "type": "gear",
+  "img": "icons/equipment/chest/robe-layered-red.webp",
+  "data": {
+    "description": "<p>Emblazoned with your own custom logo.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9b9c6989d80b6d09a0ab37c690b6d654aeea4337",
+      "sourceId": "Item.mllenu4X8ru8EIcw"
+    }
+  },
+  "_key": "!items!mllenu4X8ru8EIcw"
+}

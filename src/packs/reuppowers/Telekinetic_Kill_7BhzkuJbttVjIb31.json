@@ -1,0 +1,21 @@
+{
+  "_id": "7BhzkuJbttVjIb31",
+  "name": "Telekinetic Kill",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_telekill.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Easy. Modified by proximity.</p>\n<p><strong>Sense Difficulty: </strong>Easy. Modified by proximity.</p>\n<p><strong>Alter Difficulty: </strong>The target's <em>control </em>or <em>Perception </em>roll.</p>\n<p><strong>Required Power:&nbsp;</strong><em>Control Pain,&nbsp;Inflict Pain,&nbsp;Injure/Kill,&nbsp;Life Sense</em></p>\n<p><strong>Warning: </strong>A character who uses this power automatically receives a dark side Point.</p>\n<p><strong>Effect: </strong>This power is used to telekinetically injure or kill a target. When the user makes his <em>alter </em>roll against the character's <em>control </em>or <em>Perception </em>total to determine damage. The exact method used to kill the target varies: collapse the trachea, stir the brain, squeeze the heart, or any number of other methods.</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!7BhzkuJbttVjIb31"
+}

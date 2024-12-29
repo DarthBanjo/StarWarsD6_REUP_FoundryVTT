@@ -1,0 +1,86 @@
+{
+  "_id": "dmMaXOC5SKKrx0bk",
+  "name": "Sporting Blaster Rifle",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/blasterrifle2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Built in an attempt to circumvent restrictions on the blaster rifle, the &ldquo;sport rifle&rdquo; is merely a smaller version of its more lethal cousin. It was introduced early in the days of the Empire by groups that worried over the new centralization of power. However, it is just as restricted in use as the blaster rifle.<br /></span></p>\n<p><strong><span class=\"fontstyle7\">Type: </span></strong><span class=\"fontstyle8\">Sporting blaster rifle</span></p>\n<p><span class=\"fontstyle7\"><strong>Scale:</strong> </span><span class=\"fontstyle8\">Character</span></p>\n<p><strong><span class=\"fontstyle7\">Skill: </span></strong><em><span class=\"fontstyle9\">Blaster: Blaster Rifle</span></em></p>\n<p><strong><span class=\"fontstyle7\">Ammo: </span></strong><span class=\"fontstyle8\">100</span></p>\n<p><span class=\"fontstyle7\"><strong>Cost:</strong> </span><span class=\"fontstyle8\">900 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle7\">Availability: </span></strong><span class=\"fontstyle8\">1, F</span></p>\n<p><span class=\"fontstyle7\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle8\">1</span></p>\n<p><span class=\"fontstyle7\"><strong>Range:</strong> </span><span class=\"fontstyle8\">3-40/120/350</span></p>\n<p><strong><span class=\"fontstyle7\">Damage: </span></strong><span class=\"fontstyle8\">4D+1</span></p>\n<p><strong><span class=\"fontstyle7\">Game Notes: </span></strong><span class=\"fontstyle8\">If the retractable stock and scope are used for 1 round of aiming, the character receives an additional +1D to </span><span class=\"fontstyle9\"><em>blaster</em>.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 900,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Blaster",
+      "specialization": "Blaster Rifle"
+    },
+    "range": {
+      "short": "40",
+      "medium": "120",
+      "long": "350"
+    },
+    "damage": {
+      "type": "e",
+      "score": 13,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 100,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS",
+    "credits": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.weapons.KLBJ7laaeg8xWwub"
+    }
+  },
+  "_key": "!items!dmMaXOC5SKKrx0bk"
+}

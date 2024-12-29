@@ -1,0 +1,31 @@
+{
+  "_id": "OSpw8D5OIHZpHONG",
+  "name": "Hide",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_hide.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle1\">Specializations: Camouflage</span><span class=\"fontstyle3\">.</span></em></p>\n<p><span class=\"fontstyle1\">Hide </span><span class=\"fontstyle3\">represents a character&rsquo;s ability to conceal objects from view. The skill is used when trying to hide weapons on one&rsquo;s person, conceal goods within luggage, plant objects to be left in a room and other similar tasks. </span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle0\">When characters are attempting to spot hidden objects, they must make an opposed </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">check. Modifiers include how well the gamemaster thinks the character hid the object. Just rolling high to </span><span class=\"fontstyle2\">hide </span><span class=\"fontstyle0\">a lightsaber on a character&rsquo;s belt won&rsquo;t do any good in a pat-down search, but dumping one into a ventilator shaft will be much more effective (usually).</span></span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle2\">Hide </span><span class=\"fontstyle0\">can also be used to conceal large objects: camouflaging a grounded starfighter or covering up the cave entrance of a secret base.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!OSpw8D5OIHZpHONG"
+}

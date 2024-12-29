@@ -1,0 +1,59 @@
+{
+  "_id": "UW2AeAZh0U2igJH2",
+  "name": "Link Armor",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_linkarmor.webp",
+  "data": {
+    "description": "<p><strong>Link Armor</strong><br /><strong>Model:</strong> ProTech SupraLink<br /><strong>Type: </strong>Link armor<br /><strong>Scale: </strong>Character<br /><strong>Cost: </strong>500<br /><strong>Availability: </strong>1<br /><strong>Game Notes: </strong>Head, torso, arms, legs: +1D to all physical (non-energy) attacks; +2 to all energy attacks; -1D penalty to all Dexterity attribute and skill checks.</p>\n<p><strong>Possible Modifications: </strong>Character may opt to create twinlayer link armor by weaving two suits (one slightly larger than the other) together. The modification changes the armor&rsquo;s statistics to the following: +1D+2 to all physical attacks; +1D to all energy attacks; -2D to all Dexterity attribute and skill checks. The alteration requires a Difficult armor repair roll, 550 credits, and one week of work.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 2,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "HKnPSKMaSfkfp7X6",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Link Armor DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_linkarmor.webp",
+      "tint": null,
+      "_key": "!items.effects!UW2AeAZh0U2igJH2.HKnPSKMaSfkfp7X6"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "93465ce23d56ba72449e9f96138be9d9e026119c",
+      "sourceId": "Item.UW2AeAZh0U2igJH2"
+    }
+  },
+  "_key": "!items!UW2AeAZh0U2igJH2"
+}

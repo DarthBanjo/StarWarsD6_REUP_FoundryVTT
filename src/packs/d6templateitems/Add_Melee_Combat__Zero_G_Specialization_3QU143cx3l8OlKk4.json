@@ -1,0 +1,26 @@
+{
+  "_id": "3QU143cx3l8OlKk4",
+  "name": "Add Melee Combat: Zero-G Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_meleecombat.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4d8fb4be809578977c8ef8b959feb7ca75303b09",
+      "sourceId": "Item.3QU143cx3l8OlKk4"
+    }
+  },
+  "_key": "!items!3QU143cx3l8OlKk4"
+}

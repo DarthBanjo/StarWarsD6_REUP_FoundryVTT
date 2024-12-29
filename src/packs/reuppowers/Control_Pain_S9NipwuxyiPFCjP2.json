@@ -1,0 +1,44 @@
+{
+  "_id": "S9NipwuxyiPFCjP2",
+  "name": "Control Pain",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_controlpain.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Very Easy for </span><span class=\"fontstyle3\">wounded </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle3\">stunned </span><span class=\"fontstyle2\">characters, Easy for </span><span class=\"fontstyle3\">incapacitated </span><span class=\"fontstyle2\">characters, Difficult for </span><span class=\"fontstyle3\">mortally wounded </span><span class=\"fontstyle2\">characters.</span></p>\n<p><em><span class=\"fontstyle3\">The power can be kept &ldquo;up,&rdquo; so the character can ignore the pain of injuries for a long period of time. However, whenever the character is injured again, the Jedi must make a new </span><span class=\"fontstyle2\">control pain </span><span class=\"fontstyle3\">roll, with the difficulty being the new level of&nbsp; injury.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\">A wounded Jedi who </span><span class=\"fontstyle3\">controls pain </span><span class=\"fontstyle2\">can act as if she has not been wounded, starting with the round after the power roll has been made. The wound is not healed, but the character doesn&rsquo;t suffer the penalties of being wounded: a </span><span class=\"fontstyle3\">wounded </span><span class=\"fontstyle2\">Jedi doesn&rsquo;t suffer any die code penalties; an </span><span class=\"fontstyle3\">incapacitated </span><span class=\"fontstyle2\">character can still act normally, as can a </span><span class=\"fontstyle3\">mortally wounded </span><span class=\"fontstyle2\">character. This power can also be used to shrug off any stun results.</span></p>\n<p><span class=\"fontstyle2\">However, the character is still injured, and thus is prone to getting worse, even if the Jedi doesn&rsquo;t feel the pain. For example, a character who&rsquo;s been </span><span class=\"fontstyle3\">wounded twice </span><span class=\"fontstyle2\">and is wounded again would still become </span><span class=\"fontstyle3\">incapacitated</span><span class=\"fontstyle2\">. </span><span class=\"fontstyle3\">Mortally wounded </span><span class=\"fontstyle2\">Jedi may still die from injuries, even if they don&rsquo;t feel any pain.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "u9msSIwcd2Lt6lmI",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10,
+        "startRound": 1
+      },
+      "label": "Control Pain",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_controlpain.svg",
+      "tint": null,
+      "_key": "!items.effects!S9NipwuxyiPFCjP2.u9msSIwcd2Lt6lmI"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!S9NipwuxyiPFCjP2"
+}

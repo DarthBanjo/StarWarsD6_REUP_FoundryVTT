@@ -1,0 +1,31 @@
+{
+  "_id": "dT5NsEuvjjrXjJpM",
+  "name": "Brawling Parry",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_brawlingparry.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Style of </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">being parried when unarmed and avoiding a brawling or melee attack &mdash; </span><span class=\"fontstyle0\">boxing</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">martial arts</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Brawling parry </span><span class=\"fontstyle2\">is a &ldquo;reaction skill&rdquo; used to avoid being hit by a </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">melee combat </span><span class=\"fontstyle2\">attack if you&rsquo;re unarmed. </span><span class=\"fontstyle0\">Brawling parry </span><span class=\"fontstyle2\">is used to hold one&rsquo;s ground yet avoid or block a hand-to-hand combat attack.</span> </p>\n<p><span class=\"fontstyle0\">If your character is using </span><span class=\"fontstyle2\">brawling parry </span><span class=\"fontstyle0\">in defending against someone who is attacking with a weapon or sharp natural tools, the attacker gets a +10 bonus modifier to his attack roll. (REUP P90)</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!dT5NsEuvjjrXjJpM"
+}

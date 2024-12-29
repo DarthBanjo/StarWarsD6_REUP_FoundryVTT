@@ -1,0 +1,37 @@
+{
+  "_id": "jLWbHuodqTiAN1Hy",
+  "name": "Loud musical instrument that you don't know how to play (but do - badly - at all hours)",
+  "type": "gear",
+  "img": "icons/tools/instruments/lute-gold-brown.webp",
+  "data": {
+    "description": "<p>Annoying Squib</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d2b8b7ca0de2e75a46c8a3a65521c003b8c06297",
+      "sourceId": "Item.jLWbHuodqTiAN1Hy"
+    }
+  },
+  "_key": "!items!jLWbHuodqTiAN1Hy"
+}

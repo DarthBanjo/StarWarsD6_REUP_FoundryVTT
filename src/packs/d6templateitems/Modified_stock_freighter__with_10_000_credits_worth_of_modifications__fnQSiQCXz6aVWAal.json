@@ -1,0 +1,37 @@
+{
+  "_id": "fnQSiQCXz6aVWAal",
+  "name": "Modified stock freighter (with 10,000 credits worth of modifications)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/yt1300_2.webp",
+  "data": {
+    "description": "<p>Use stats for YT-1300 or work with your gamemaster.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "534d641a959f0a68c496af22b340a50fa7bab9fc",
+      "sourceId": "Item.fnQSiQCXz6aVWAal"
+    }
+  },
+  "_key": "!items!fnQSiQCXz6aVWAal"
+}

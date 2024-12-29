@@ -1,0 +1,74 @@
+{
+  "_id": "WUoDTa1zOy01Qm7G",
+  "name": "Force Scream",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/other_forcescream.svg",
+  "data": {
+    "description": "<p><strong>Note: </strong>This is an involuntary power that may be activated when the dark Jedi loses control of his or her temper.</p>\n<p><strong>Effect: </strong>The dark side of the Force is seductive, offering tremendous power to lure the weak-willed into its grip. Fear, anger and jealousy are the ties that bind the servants of the dark side, and by tapping into such emotions, the dark Jedi are capable of unleashing untold devastation.</p>\n<p>The power to destroy, however, does little to improve control of these abilities. Dark Jedi who have become angered sometimes lose control of their emotions. This can trigger shock waves that ripple through the Force, devastating both the dark Jedi and those who are unfortunate enough to be in close proximity.</p>\n<p>The \"Force scream,\" as it is called, has been called \"a wave of hatred, amplified and fueled by the dark side, that is capable of smashing through mental and physical defenses with ease.\" A number of references to dark Jedi in Old Republic archives often mention the dark Jedi losing control, violently, in the final moments of battle with the Jedi affiliated with the light side of the Force.</p>\n<p>In game terms, a Force scream is a reflex, usually occurring when dark Jedi are provoked into losing their tempers. A dark Jedi must make a Difficult willpower roll whenever angered to the point of rage; if this roll fails, the Jedi releases the Force scream. A dark Jedi that fails this roll has all die codes reduced by -2D for one hour and must rest for one hour, or suffer an additional penalty of -2D until rested (penalties are cumulative).</p>\n<p>The Force scream causes damage equal to the Dark Jedi's alter skill to all beings within 50 meters, including the dark Jedi who unleashes this mental energy. Force sensitive characters roll their alter dice to resist damage; those without the alter skill use Strength to resist damage.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "d4AFqiVzEBDBxZWg",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.kno.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.mec.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.per.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.tec.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "-6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Force Scream",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/other_forcescream.svg",
+      "tint": null,
+      "_key": "!items.effects!WUoDTa1zOy01Qm7G.d4AFqiVzEBDBxZWg"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!WUoDTa1zOy01Qm7G"
+}

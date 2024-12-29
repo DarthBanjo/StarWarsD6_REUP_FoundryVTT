@@ -1,0 +1,32 @@
+{
+  "_id": "5N7iJ0rqNpjT0n2y",
+  "name": "Food, common (1kg)",
+  "type": "gear",
+  "img": "icons/commodities/materials/bowl-powder-blue.webp",
+  "data": {
+    "description": "<p>1 kg</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!5N7iJ0rqNpjT0n2y"
+}

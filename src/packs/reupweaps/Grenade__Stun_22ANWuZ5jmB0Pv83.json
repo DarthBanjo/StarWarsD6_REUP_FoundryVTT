@@ -1,0 +1,85 @@
+{
+  "_id": "22ANWuZ5jmB0Pv83",
+  "name": "Grenade, Stun",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/stun.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">When the object of a mission is to detain or subdue rather than kill, mercenary units, military personnel, and local law enforcement agencies use stun grenades. The standard stun grenade unleashes concussive energy that knocks out creatures within its burst radius. Droids, vehicles, and objects are immune to stun damage.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> Stun</span><span class=\"fontstyle2\">Grenade</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><span class=\"fontstyle0\"><strong>Skill:</strong> </span><em><span class=\"fontstyle3\">Grenade</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle0\">4</span><span class=\"fontstyle2\">00</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, R</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">3-7/20/40</span></p>\n<p><span class=\"fontstyle0\"><strong>Blast Radius:</strong> </span><span class=\"fontstyle2\">0-2/4/6/8</span></p>\n<p><strong><span class=\"fontstyle0\">Damage: </span></strong><span class=\"fontstyle0\">6</span><span class=\"fontstyle2\">D/5D/3D/2D</span></p>\n<p><strong><span class=\"fontstyle2\">Game Notes:</span></strong><span class=\"fontstyle2\"> Stun grenades are rechargable</span></p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 400,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Explosive",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Grenade",
+      "specialization": ""
+    },
+    "range": {
+      "short": "7",
+      "medium": "20",
+      "long": "40"
+    },
+    "damage": {
+      "type": "e",
+      "score": 0,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 2,
+        "damage": 6
+      },
+      "2": {
+        "range": 4,
+        "damage": 5
+      },
+      "3": {
+        "range": 6,
+        "damage": 3
+      },
+      "4": {
+        "range": 8,
+        "damage": 2
+      }
+    },
+    "ammo": 1,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2nYPQ7fUeg2qrCow"
+    }
+  },
+  "_key": "!items!22ANWuZ5jmB0Pv83"
+}

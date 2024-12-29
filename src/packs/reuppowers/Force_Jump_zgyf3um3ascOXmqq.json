@@ -1,0 +1,25 @@
+{
+  "_id": "zgyf3um3ascOXmqq",
+  "name": "Force Jump",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_forcejump.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Easy.</p>\n<p><strong>Alter Difficulty: </strong>Easy.</p>\n<p><strong>Required Powers: </strong><em>Enhance attribute, telekinesis.</em></p>\n<p><strong>Effect:</strong> A Jedi uses this power to increase his jumping ability in order to perform impossibly high leaps. If both Force skill rolls are successful, the character uses his normal <em>climbing/ jumping</em> skill to perform the jump, but he uses the special table below to determine difficulties. If the control roll exceeds the difficulty, the character gains an immediate bonus to his <em>climbing/jumping </em>roll.</p>\n<table>\n<tbody>\n<tr>\n<td width=\"84\">Control Roll &ge;<br />Difficulty by:</td>\n<td width=\"58\">Jumping<br />Increase</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<td width=\"60\">1-3</td>\n<td width=\"50\">+1D</td>\n</tr>\n<tr>\n<td width=\"60\">4-8</td>\n<td width=\"50\">+2D</td>\n</tr>\n<tr>\n<td width=\"60\">9-15</td>\n<td width=\"50\">+3D</td>\n</tr>\n<tr>\n<td width=\"60\">16-25</td>\n<td width=\"50\">+4D</td>\n</tr>\n<tr>\n<td width=\"60\">26-37 <br />38+</td>\n<td width=\"50\">+5D<br />+6D</td>\n</tr>\n</tbody>\n</table>\n<p>If the Jedi fails any Force skill roll, the power is not activated and the character is left to use his normal jumping ability (and there are certain situations where you can&rsquo;t back out of a jump because your power failed). At the gamemaster&rsquo;s discretion, a failed <em>climbing/jumping</em> roll might mean the Jedi fails to achieve the desired height/distance, fails to properly cushion his landing and suffers normal falling damage, or both.</p>\n<p><strong>Note: </strong>Multiple action penalties apply. The <em>climbing/jumping</em> roll is a third action in that round, whether the power is successful or not.</p>\n<table>\n<tbody>\n<tr>\n<td width=\"64\">Height</td>\n<td width=\"70\">Jumping</td>\n</tr>\n<tr>\n<td width=\"64\">Jumped</td>\n<td width=\"70\">Difficulty</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<td width=\"76\">0-1 meter</td>\n<td width=\"76\">Very Easy</td>\n</tr>\n<tr>\n<td width=\"76\">1-2 meters</td>\n<td width=\"76\">Easy</td>\n</tr>\n<tr>\n<td width=\"76\">3-4 meters</td>\n<td width=\"76\">Moderate</td>\n</tr>\n<tr>\n<td width=\"76\">5-8 meters</td>\n<td width=\"76\">Difficult</td>\n</tr>\n<tr>\n<td width=\"76\">9-15 meters</td>\n<td width=\"76\">Very Difficult</td>\n</tr>\n<tr>\n<td width=\"76\">16-20 meters</td>\n<td width=\"76\">Heroic</td>\n</tr>\n</tbody>\n</table>\n<p>Add +5 to the difficulty for every additional 5 meters. If the character is simply jumping downwards, with no upwards movement, reduce jumping difficulty by one level. Add +1 to the difficulty per meter of horizontal distance jumped. </p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.zgyf3um3ascOXmqq"
+    }
+  },
+  "_key": "!items!zgyf3um3ascOXmqq"
+}

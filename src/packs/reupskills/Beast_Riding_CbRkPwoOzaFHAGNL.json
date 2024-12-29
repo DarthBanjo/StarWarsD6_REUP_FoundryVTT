@@ -1,0 +1,31 @@
+{
+  "_id": "CbRkPwoOzaFHAGNL",
+  "name": "Beast Riding",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_beast.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular riding animal &mdash; </span><span class=\"fontstyle0\">banthas, Cracian thumpers, dewbacks, tauntauns</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Beast riding </span><span class=\"fontstyle2\">represents a character&rsquo;s ability to ride any live mount. Unlike vehicles, animals sometimes resist orders from their riders. Each animal has an </span><span class=\"fontstyle0\">orneriness code</span><span class=\"fontstyle2\">. When a character mounts a riding animal, the character makes an opposed roll against the animal&rsquo;s orneriness code. If the character rolls higher than the animal, it does as he wishes. If the animal rolls higher, find the results on the chart below.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Animal rolls higher than character by:</strong><br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">21+ points: </span></strong><span class=\"fontstyle2\">Animal bucks rider. Roll the animal&rsquo;s </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">versus the character&rsquo;s </span><span class=\"fontstyle3\">Dexterity</span><span class=\"fontstyle2\">: If the animal rolls higher, the character is thrown to the ground. The animal will trample the rider if there is no immediate threat; otherwise, it will run to safety.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">16-20 points: </span></strong><span class=\"fontstyle2\">Animal bucks rider and runs to safety. If the<br />character falls off, the creature will not attempt to trample the<br />rider.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>11-15 points:</strong> </span><span class=\"fontstyle2\">Animal refuses to follow rider&rsquo;s command and runs to safety. The rider may regain control by making another </span><span class=\"fontstyle3\">beast riding </span><span class=\"fontstyle2\">roll and beating the animal&rsquo;s total by 5 or more points.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>6-10 points:</strong> </span><span class=\"fontstyle2\">Animal stops moving and refuses to move for the rest of the round or the next round.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">1-5 points: </span></strong><span class=\"fontstyle2\">Animal stops moving and refuses to move for the rest of the round.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!CbRkPwoOzaFHAGNL"
+}

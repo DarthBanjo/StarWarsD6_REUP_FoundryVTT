@@ -1,0 +1,31 @@
+{
+  "_id": "xSvaQ9E2hkxt4KAu",
+  "name": "Bargain",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_bargain.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of merchandise to be purchased or sold &mdash; spice, weapons, droids, datapads. </span></em></p>\n<p><span class=\"fontstyle2\">Characters use this skill to haggle over prices for goods they want to purchase or sell. The difficulty is often an opposed roll against the gamemaster character&rsquo;s </span><span class=\"fontstyle0\">bargain </span><span class=\"fontstyle2\">skill.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Bribery:</strong> </span><span class=\"fontstyle2\">Bargain </span><span class=\"fontstyle3\">can also be used to bribe others.</span></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One minute to an hour.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!xSvaQ9E2hkxt4KAu"
+}

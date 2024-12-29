@@ -1,0 +1,26 @@
+{
+  "_id": "peBpmLAfJAq8Z7ie",
+  "name": "Anzati Tracking",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/s_anzati.webp",
+  "data": {
+    "description": "<p>Anzati are able to sense the Force in others, and each is automatically considered Force-sensitive and possessing of the Sense Force skill. When tracking prey, Anzati oftentimes use Force powers such as Life Detection, Life Sense, Receptive Telepathy, Sense Force, and Sense Force Potential.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "754cc5a11c77f39ce4474f0b4cde4136ac6c6587",
+      "sourceId": "Item.peBpmLAfJAq8Z7ie"
+    }
+  },
+  "_key": "!items!peBpmLAfJAq8Z7ie"
+}

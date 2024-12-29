@@ -1,0 +1,37 @@
+{
+  "_id": "bUFgjFfUFDOJ4r4q",
+  "name": "Holoprojector for Datapad",
+  "type": "gear",
+  "img": "icons/svg/upgrade.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e910a321a39c2420038fb93ccc0c8fcc9f172c2d",
+      "sourceId": "Item.bUFgjFfUFDOJ4r4q"
+    }
+  },
+  "_key": "!items!bUFgjFfUFDOJ4r4q"
+}

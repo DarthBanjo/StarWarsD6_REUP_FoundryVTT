@@ -1,0 +1,551 @@
+{
+  "_id": "iAIu9SCUZO9gzP14",
+  "name": "Typical Merchant",
+  "type": "npc",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/merchant.webp",
+  "data": {
+    "move": {
+      "type": "Number",
+      "label": "OD6S.CHAR_MOVE",
+      "mod": 0,
+      "value": 10
+    },
+    "chartype": {
+      "type": "String",
+      "label": "OD6S.CHAR_TYPE",
+      "content": "Shopkeeper"
+    },
+    "species": {
+      "type": "String",
+      "label": "OD6S.CHAR_SPECIES",
+      "content": "Various"
+    },
+    "wounds": {
+      "type": "String",
+      "label": "OD6S.CHAR_HEALTH",
+      "short_label": "OD6S.CHAR_HEALTH",
+      "value": "0",
+      "body_points": {
+        "max": 0,
+        "current": 0
+      }
+    },
+    "stuns": {
+      "type": "Number",
+      "label": "OD6S_CHAR_STUNS",
+      "value": 0
+    },
+    "strengthdamage": {
+      "type": "Number",
+      "label": "OD6S.STRENGTH_DAMAGE",
+      "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "melee": {
+      "type": "Number",
+      "label": "OD6S.MELEE_ATTACK_MOD",
+      "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "brawl": {
+      "type": "Number",
+      "label": "OD6S.BRAWL_ATTACK_MOD",
+      "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "normal"
+    },
+    "dodge": {
+      "type": "Number",
+      "label": "OD6S.DODGE",
+      "short_label": "OD6S.DODGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "parry": {
+      "type": "Number",
+      "label": "OD6S.PARRY",
+      "short_label": "OD6S.PARRY_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "block": {
+      "type": "Number",
+      "label": "OD6S.BLOCK",
+      "short_label": "OD6S.BLOCK_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "pr": {
+      "type": "Number",
+      "label": "OD6S.PHYSICAL_RESISTANCE",
+      "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "er": {
+      "type": "Number",
+      "label": "OD6S.ENERGY_RESISTANCE",
+      "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "credits": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CREDITS",
+      "value": 0
+    },
+    "funds": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FUNDS",
+      "score": 0
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "scale": {
+      "type": "Number",
+      "label": "OD6S.SCALE",
+      "score": 0
+    },
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number"
+      }
+    },
+    "customeffects": {
+      "skills": {},
+      "specializations": {}
+    },
+    "custom1": "",
+    "custom2": "",
+    "custom3": "",
+    "custom4": "",
+    "labels": {},
+    "tags": [],
+    "description": {
+      "type": "String",
+      "label": "OD6S.DESCRIPTION",
+      "content": ""
+    },
+    "vehicle": {}
+  },
+  "token": {
+    "name": "Typical Merchant",
+    "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/merchant.webp",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "power"
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "PjktJXBFtAeMjmsI",
+      "name": "Streetwise",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_streetwise.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific planet or criminal organization &mdash; </span><span class=\"fontstyle0\">Celanon, Corellia, Jabba the Halt&rsquo;s organization, Black Sun, Talon Karrde&rsquo;s organization</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Streetwise </span><span class=\"fontstyle2\">reflects a character&rsquo;s familiarity with underworld organizations and their operation. He can use </span><span class=\"fontstyle0\">streetwise </span><span class=\"fontstyle2\">to make a contact in the criminal underworld, purchase illegal goods or services, or find someone to do something illegal.</span></p>\n<p><span class=\"fontstyle2\">Illegal activities may include the usual vices: gambling, fencing stolen goods, racketeering, blackmail, contract killing, and fraud. Because Imperial laws are repressive, some actions deemed &ldquo;criminal&rdquo; may be perfectly moral: freeing slaves, delivering medicine and food to refugees from Imperial aggression, and smuggling wanted criminals (such as Alliance personnel) through Imperial blockades.</span></p>\n<p><span class=\"fontstyle2\">This skill also reflects knowledge of specific criminal bosses, such as Jabba the Hutt or Talon Karrde, and their organizations and activities.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "kno",
+        "min": false,
+        "base": 2,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round to one day or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+        }
+      },
+      "id": "PjktJXBFtAeMjmsI",
+      "dice": 0,
+      "pips": 2,
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.PjktJXBFtAeMjmsI"
+    },
+    {
+      "_id": "K4HdQdrXrEaKrLby",
+      "name": "Repulsorlift Operation",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_repulsorliftops.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model repulsorlift vehicle &mdash; </span><span class=\"fontstyle0\">XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder</span></em><span class=\"fontstyle2\"><em>.</em></span></p>\n<p><span class=\"fontstyle2\">The character knows how to operate common repulsorlift (or &ldquo;antigrav&rdquo;) craft, including landspeeders, snowspeeders, T-16 skyhoppers, cloud cars, airspeeders, speeder bikes, skiffs and sail barges.</span></p>\n<p><span class=\"fontstyle0\">Repulsorlift operation </span><span class=\"fontstyle2\">can be used for a vehicle dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.K4HdQdrXrEaKrLby"
+    },
+    {
+      "_id": "NRSjhWqPZDmcfWGJ",
+      "name": "Bargain",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_bargain.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of merchandise to be purchased or sold &mdash; spice, weapons, droids, datapads. </span></em></p>\n<p><span class=\"fontstyle2\">Characters use this skill to haggle over prices for goods they want to purchase or sell. The difficulty is often an opposed roll against the gamemaster character&rsquo;s </span><span class=\"fontstyle0\">bargain </span><span class=\"fontstyle2\">skill.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Bribery:</strong> </span><span class=\"fontstyle2\">Bargain </span><span class=\"fontstyle3\">can also be used to bribe others.</span></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One minute to an hour.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "NRSjhWqPZDmcfWGJ",
+      "dice": 2,
+      "pips": 0,
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.NRSjhWqPZDmcfWGJ"
+    },
+    {
+      "_id": "qnhmesPXVo0CKgXD",
+      "name": "Con",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_con.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular method of conning &mdash; </span><span class=\"fontstyle0\">disguise, fast-talk</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is used to trick and deceive characters, or otherwise convince them to do something that isn&rsquo;t in their best interest. (</span><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is another interaction skill, so you&rsquo;ll often want to use roleplaying to resolve these situations.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">The difficulty of the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">depends upon who is being conned.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">A close friend or relative who has no reason to suspect a </span><span class=\"fontstyle2\">con</span><span class=\"fontstyle0\">.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Naive teenager, gullible person.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">A stormtrooper when the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">doesn&rsquo;t personally involve him.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">A customs or law enforcement officer; stormtrooper when </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">will involve possible danger.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Someone who should know better. Jabba the Hutt, an Imperial general.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Someone who </span><span class=\"fontstyle2\">really </span><span class=\"fontstyle0\">knows better. A Jedi Knight, Emperor Palpatine.<br /></span></span></p>\n<p>&nbsp;</p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle3\"><strong>Modifiers:</strong><br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to victim&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will cause victim to do something illegal or highly dangerous.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+5 or more to victim&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Person knows the character is prone to pulling cons and has their guard up.<br /></span><span class=\"fontstyle3\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will convince victim to do something they might normally do anyway.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+5 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim generally likes character, but suspects something because of character&rsquo;s unusual behavior.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim has no reason to suspect dishonesty, and trusts and likes that character.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">Characters can </span><span class=\"fontstyle2\">actively resist </span><span class=\"fontstyle0\">a </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">attempt by rolling their </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">dice against the opponent&rsquo;s </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">total. In that case, the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">difficulty number is </span><span class=\"fontstyle2\">ignored</span><span class=\"fontstyle0\">, but the modifiers are not.</span></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 5,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One combat round to several minutes, depending upon how long it takes the character to say what is needed to pull off the con.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "qnhmesPXVo0CKgXD",
+      "dice": 1,
+      "pips": 2,
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.qnhmesPXVo0CKgXD"
+    },
+    {
+      "_id": "J1qBjbgR9a5tMfgH",
+      "name": "Persuasion",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_persuasion.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific form of persuasion &mdash; </span><span class=\"fontstyle0\">debate, storytelling, flirt, oration</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Persuasion </span><span class=\"fontstyle2\">is similar to </span><span class=\"fontstyle0\">con </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle0\">bargain </span><span class=\"fontstyle2\">&mdash; and is a little bit of both. A character using </span><span class=\"fontstyle0\">persuasion </span><span class=\"fontstyle2\">is trying to convince someone to go along with them &mdash; but they aren&rsquo;t tricking the person (that would be </span><span class=\"fontstyle0\">con</span><span class=\"fontstyle2\">), and they aren&rsquo;t paying them (as in a </span><span class=\"fontstyle0\">bargain</span><span class=\"fontstyle2\">).</span></p>\n<p><span class=\"fontstyle2\">However, potential rewards can be offered &mdash; talking someone into rescuing a princess from an Imperial holding cell is definitely a </span><span class=\"fontstyle0\">persuasion </span><span class=\"fontstyle2\">attempt. And stating that the reward would be &ldquo;bigger than anything you can imagine&rdquo; without going into details is not unusual.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 2,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "J1qBjbgR9a5tMfgH",
+      "dice": 0,
+      "pips": 2,
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.J1qBjbgR9a5tMfgH"
+    },
+    {
+      "_id": "umyZSNI5ZQJgmRRx",
+      "name": "Datapad",
+      "type": "gear",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad3.webp",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">Datapads are electronic information storage devices noted for their small size and portability. Datapads can store relevant personal data, encyclopedic entries and other basic information, though the microprocessors in such units generally cannot perform higher level computing.</span></p>\n<p><span class=\"fontstyle0\">Datapads are available in a wide range of configurations &mdash; less expensive models are often dedicated to the storage and collation of a single type of data. Smaller, more expensive units can be customized to handle a variety of information types. Some high-priced datapads contain a small holo-projector which gives the user a &ldquo;heads-up&rdquo; display rather than the standard flat screen common on lower-end units.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Datapad</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Portable computer workstation</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Computer programming/repair</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">100; (1,000 with holo-projector unit and built-in comlink.)</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">Datapads may be used to access public information networks or the HoloNet if combined with a comlink or other connection device. It can be loaded with as many as 5 datacards simultaneously.</span> </p>",
+        "labels": {},
+        "tags": [],
+        "cost": 100,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "effects": [],
+      "folder": "AmWaFZUgZjgTLi4Q",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mKaiF1wwafJpWEvH"
+        }
+      },
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.umyZSNI5ZQJgmRRx"
+    },
+    {
+      "_id": "NrNrPWUBwvL6LQ4X",
+      "name": "Credits",
+      "type": "gear",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/credits2.webp",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">The credit chip is a small, flat card that features a security codeout and credit algorithm memory stripes. The chip can hold a specified number of credits appropriate to the government that issued it, or it can draw from a specific account held by the user. Credit chips not only allow quick and easy transfers of </span><span class=\"fontstyle0\">funds but also protect users from theft. Credit chips are encrypted storage devices. Accessing a credit chip in order to manipulate the credits it will dispense, requires a Very Difficult </span><span class=\"fontstyle5\"><em>computer programming/repair</em> </span><span class=\"fontstyle0\">roll. If you fail by 5 or more on your roll to access an account, the credit chip&rsquo;s security program detects the intrusion attempt and self-destructs.</span></p>\n<p><span class=\"fontstyle0\">Modifying a credit chip so that government and bank computers think that it draws on a different account or that it has a different value stored requires a Heroic </span><span class=\"fontstyle5\"><em>computer programming/ repair</em> </span><span class=\"fontstyle0\">roll. You won&rsquo;t know if your check succeeded until after you attempt to use the modified credit chip. If you fail, the government or bank computer orders the chip&rsquo;s self-destruct programming to activate, ruining the chip. If you fail by 10 or more, the chip&rsquo;s self-destruct programming activates and the government or bank computer has traced your location, dispatching security personnel to apprehend you.</span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Standard Credit Chip</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Credit chip</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">For a newly purchased chip, a Very Easy </span><em><span class=\"fontstyle3\">computer programming/repair </span></em><span class=\"fontstyle2\">roll is required to encode a password making it accessible only by the owner</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 100,
+        "price": "",
+        "availability": "",
+        "quantity": 200,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "effects": [],
+      "folder": "AmWaFZUgZjgTLi4Q",
+      "sort": 100000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.IvIg1BJp5RUR6INa"
+        }
+      },
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.NrNrPWUBwvL6LQ4X"
+    },
+    {
+      "_id": "ae9Kc1JCHGFjGp3f",
+      "name": "Various Goods for Sale",
+      "type": "gear",
+      "img": "icons/commodities/materials/metal-liquid.webp",
+      "data": {
+        "description": "",
+        "labels": {},
+        "tags": [],
+        "cost": 50,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "effects": [],
+      "folder": "BSOC8ts68GQfvfc4",
+      "sort": 1100000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-commodity.cjcV1w0NSXMwrQUR"
+        }
+      },
+      "_key": "!actors.items!iAIu9SCUZO9gzP14.ae9Kc1JCHGFjGp3f"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "od6s": {
+      "fatepointeffect": false,
+      "crew": "",
+      "hasTakenTurn": false
+    }
+  },
+  "_key": "!actors!iAIu9SCUZO9gzP14"
+}

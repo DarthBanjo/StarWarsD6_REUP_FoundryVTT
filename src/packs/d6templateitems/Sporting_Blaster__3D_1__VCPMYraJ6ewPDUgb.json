@@ -1,0 +1,90 @@
+{
+  "_id": "VCPMYraJ6ewPDUgb",
+  "name": "Sporting Blaster (3D+1)",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/smallblaster_1.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A small, short blaster, often used for small-game hunting or personal defense. Sometimes used for dueling. This is the smallest weapon to use standard power packs. (Princess Leia used a sporting blaster in </span><span class=\"fontstyle2\">Star Wars: A New Hope</span><span class=\"fontstyle0\">).<br /></span></p>\n<p><strong><span class=\"fontstyle8\">Type: </span></strong><span class=\"fontstyle9\">Sporting blaster</span></p>\n<p><span class=\"fontstyle8\"><strong>Scale:</strong> </span><span class=\"fontstyle9\">Character</span></p>\n<p><span class=\"fontstyle8\"><strong>Skill:</strong> </span><em><span class=\"fontstyle10\">Blaster: Sporting Blaster</span></em></p>\n<p><strong><span class=\"fontstyle8\">Ammo: </span></strong><span class=\"fontstyle9\">50</span></p>\n<p><strong><span class=\"fontstyle8\">Cost: </span></strong><span class=\"fontstyle9\">350 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle8\">Availability: </span></strong><span class=\"fontstyle9\">1, F</span></p>\n<p><strong><span class=\"fontstyle8\">Fire Rate: </span></strong><span class=\"fontstyle9\">1</span></p>\n<p><span class=\"fontstyle8\"><strong>Range:</strong> </span><span class=\"fontstyle9\">3-10/30/60</span></p>\n<p><span class=\"fontstyle8\"><strong>Damage:</strong> </span><span class=\"fontstyle9\">3D+1</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 350,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Blaster",
+      "specialization": "Sporting Blaster"
+    },
+    "range": {
+      "short": "10",
+      "medium": "30",
+      "long": "60"
+    },
+    "damage": {
+      "type": "e",
+      "score": 10,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 50,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS",
+    "credits": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.weapons.l0ZTW2CZqGHpNa6L"
+    },
+    "scene-packer": {
+      "hash": "97eb16e24ca8b41fdb50ffa56dd866a9640f609b",
+      "sourceId": "Item.VCPMYraJ6ewPDUgb"
+    }
+  },
+  "_key": "!items!VCPMYraJ6ewPDUgb"
+}

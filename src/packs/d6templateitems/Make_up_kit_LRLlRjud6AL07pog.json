@@ -1,0 +1,37 @@
+{
+  "_id": "LRLlRjud6AL07pog",
+  "name": "Make-up kit",
+  "type": "gear",
+  "img": "icons/tools/hand/brush-paint-brown-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7d74d2ffcfbe137a51f96f5a58a1d302cfbd5ba3",
+      "sourceId": "Item.LRLlRjud6AL07pog"
+    }
+  },
+  "_key": "!items!LRLlRjud6AL07pog"
+}

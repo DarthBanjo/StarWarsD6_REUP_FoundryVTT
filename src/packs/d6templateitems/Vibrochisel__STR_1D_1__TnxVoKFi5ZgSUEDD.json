@@ -1,0 +1,40 @@
+{
+  "_id": "TnxVoKFi5ZgSUEDD",
+  "name": "Vibrochisel (STR+1D+1)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/tool_vibropick.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.EEjuAVAF5a8fEe6N"
+    },
+    "scene-packer": {
+      "hash": "ca6f48c3b3fe95fb97fc6d8dab0ab10ac46a9ef1",
+      "sourceId": "Item.TnxVoKFi5ZgSUEDD"
+    }
+  },
+  "_key": "!items!TnxVoKFi5ZgSUEDD"
+}

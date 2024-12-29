@@ -1,0 +1,31 @@
+{
+  "_id": "h9mlzoPlqwZzkyDN",
+  "name": "Communications",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_communications.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model of communications unit &mdash; </span><span class=\"fontstyle0\">comlink, subspace radio</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Communications </span><span class=\"fontstyle2\">represents a character&rsquo;s ability to use subspace radios, comlinks and other communications systems. While operating communications devices is generally a Very Easy task, the difficulty numbers are higher when the skill is used to descramble enemy codes and find particular enemy transmission frequencies.</span></p>\n<p><span class=\"fontstyle2\">Characters may also use </span><span class=\"fontstyle0\">communications </span><span class=\"fontstyle2\">to send or receive a signal through natural hazards which disrupt communications, such as a gas cloud, heavy magnetic fields or locations with a high metal content.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>The following difficulties are for finding a specific kind of frequency:</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Listening in on a known, registered frequency. Public communications, low-security corporate commnets.<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Listening in on a specific private frequency. Low-security government communications such as emergency services.<br /></span><span class=\"fontstyle2\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Listening in on a somewhat sensitive communication frequency. Local governments, sensitive businesses or security-conscious individuals.<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Tapping professionally secure channels. Lower-level Imperial or higher-level police bands.<br /></span><span class=\"fontstyle2\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Listening in on higher Imperial channels, or high-ranking government channels.<br /></span><strong><span class=\"fontstyle2\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Listening in on a top-secret Imperial, Rebel or New Republic frequency.</span></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!h9mlzoPlqwZzkyDN"
+}

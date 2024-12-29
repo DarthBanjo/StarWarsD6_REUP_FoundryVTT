@@ -1,0 +1,37 @@
+{
+  "_id": "ncvUNFWgi8WNH7UW",
+  "name": "Venra Root (+1D to Perception and Sense)",
+  "type": "gear",
+  "img": "icons/consumables/plants/sprout-glowing-roots-green.webp",
+  "data": {
+    "description": "<p>Root must be chewed for effect. Duration lasts one hour. A moderate <em>stamina </em>roll is required to avoid incapacitation)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "661476f146c9a5291f3cfaf33d2aaf6b98d495ba",
+      "sourceId": "Item.ncvUNFWgi8WNH7UW"
+    }
+  },
+  "_key": "!items!ncvUNFWgi8WNH7UW"
+}

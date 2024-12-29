@@ -1,0 +1,36 @@
+{
+  "_id": "U6pHHzxzuh93bUos",
+  "name": "Tool, Plasma Welder",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/tool_laserwelder.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Joins two surfaces together. Allows for welds from 0.2-20 centimeters in diameter.</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.U6pHHzxzuh93bUos"
+    }
+  },
+  "_key": "!items!U6pHHzxzuh93bUos"
+}

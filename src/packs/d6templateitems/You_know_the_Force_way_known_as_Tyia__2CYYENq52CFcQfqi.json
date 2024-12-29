@@ -1,0 +1,26 @@
+{
+  "_id": "2CYYENq52CFcQfqi",
+  "name": "You know the Force way known as Tyia.",
+  "type": "specialability",
+  "img": "icons/magic/control/debuff-energy-hold-levitate-teal-blue.webp",
+  "data": {
+    "description": "<p>Tyia teaches that individual introspection is the way to learn the true way of the universe &mdash; students are taught to control their own personal Force (called \"Tyia\") through meditation and ceremony. Because of the unique way in which the Tyia studies the Force, there are some special rules regarding its use:</p>\n<ul>\n<li>A Tyia student learning&nbsp;<em>Control&nbsp;</em>at 1D automatically learns&nbsp;<strong>Hibernation Trance&nbsp;</strong>and&nbsp;<strong>Emptiness&nbsp;</strong>(which is an Easy difficulty for Tyia). The character learns an additional three&nbsp;Control&nbsp;powers.</li>\n<li>All&nbsp;<em>Alter&nbsp;</em>powers have their difficulty increased by one level.</li>\n<li>All powers have minimum&nbsp;time to use&nbsp;of one minute.</li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1c09e6117c3134863b34b863f19d4488eb2b3529",
+      "sourceId": "Item.2CYYENq52CFcQfqi"
+    }
+  },
+  "_key": "!items!2CYYENq52CFcQfqi"
+}

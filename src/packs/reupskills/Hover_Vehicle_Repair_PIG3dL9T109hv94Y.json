@@ -1,0 +1,31 @@
+{
+  "_id": "PIG3dL9T109hv94Y",
+  "name": "Hover Vehicle Repair",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_hovervehiclerepair.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model hover vehicle &mdash; </span><span class=\"fontstyle0\">hoverscout</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Characters use this skill when repairing or modifying hover vehicle systems. Each roll may repair one damaged component aboard a particular craft. The cost and difficulty to repair a hover vehicle depends on how badly it is hit, and what systems have been damaged. See &ldquo;Using Repair Skills&rdquo; above for difficulties and costs associated with various systems which may be damaged.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!PIG3dL9T109hv94Y"
+}

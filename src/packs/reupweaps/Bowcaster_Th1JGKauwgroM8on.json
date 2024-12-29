@@ -1,0 +1,85 @@
+{
+  "_id": "Th1JGKauwgroM8on",
+  "name": "Bowcaster",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/bowcaster.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A weapon unique to the arboreal Wookiees of Kashyyyk, the bowcaster (also called a laser crossbow) is an ancient and curious combination of energy and projectile weapon.</span></p>\n<p><span class=\"fontstyle0\">The weapon requires great physical strength to cock and load. The weapon fires explosive quarrels wrapped in an energy cocoon, giving the explosive the appearance of an elongated blaster bolt. The weapons are only available on Kashyyyk.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Energy/projectile weapon hybrid</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><span class=\"fontstyle4\"><strong>Skill:</strong> </span><em><span class=\"fontstyle6\">Bowcaster</span></em></p>\n<p><span class=\"fontstyle4\"><strong>Ammo:</strong> </span><span class=\"fontstyle5\">6 (quarrels; power packs fire 50 shots before being replaced)</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">900 Not sold to non-Wookiees</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">3, R</span></p>\n<p><span class=\"fontstyle4\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Range:</strong> </span><span class=\"fontstyle5\">3-10/30/50</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">4D</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">If a character wants to fire the weapon more than once </span><span class=\"fontstyle5\">in a round, he must make an Easy </span><span class=\"fontstyle6\">Strength </span><span class=\"fontstyle5\">roll to be able to aim </span><span class=\"fontstyle5\">the weapon (this is a &ldquo;free action&rdquo;). Reloading the weapon with </span><span class=\"fontstyle5\">new quarrels requires a Moderate </span><span class=\"fontstyle6\">Strength </span><span class=\"fontstyle5\">roll.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 900,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Bowcaster",
+      "specialization": ""
+    },
+    "range": {
+      "short": "10",
+      "medium": "30",
+      "long": "50"
+    },
+    "damage": {
+      "type": "e",
+      "score": 12,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 6,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.Th1JGKauwgroM8on"
+    }
+  },
+  "_key": "!items!Th1JGKauwgroM8on"
+}

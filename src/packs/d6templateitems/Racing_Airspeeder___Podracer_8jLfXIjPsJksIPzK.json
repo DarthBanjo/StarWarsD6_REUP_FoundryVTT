@@ -1,0 +1,37 @@
+{
+  "_id": "8jLfXIjPsJksIPzK",
+  "name": "Racing Airspeeder / Podracer",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/podracer.webp",
+  "data": {
+    "description": "<p><strong>Racing airspeeder/Podracer </strong>(maneuverability 3D, move 140; 400kmh, body strength 2D, 2 stun blasters (fire control 1D, damage 2D stun))</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "208bd6794c48e9dca264762d69d521caf63490d9",
+      "sourceId": "Item.8jLfXIjPsJksIPzK"
+    }
+  },
+  "_key": "!items!8jLfXIjPsJksIPzK"
+}

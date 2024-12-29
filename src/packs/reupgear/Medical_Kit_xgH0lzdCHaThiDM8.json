@@ -1,0 +1,36 @@
+{
+  "_id": "xgH0lzdCHaThiDM8",
+  "name": "Medical Kit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/medbackpack.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This backpack-sized medical kit includes almost everything a first responder needs to save a life: diagnostic scanners, antivenom, medicine to counteract the effects of contaminated water and radiation poisoning, burn treatments, defibrillators, respirator, shock blankets, pressure cuffs, a collapsible repulsorlift stretcher for patient transport (capable of hovering with 150 kg load), and even a surgical cutting tool.</span></p>\n<p><span class=\"fontstyle0\">You need a medical kit to revive a dying character, treat disease, treat poison, or treat radiation.</span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Model:&nbsp;</span></strong><span class=\"fontstyle2\">Chiwab Amalgamated Pharmaceuticals Company ECM-598</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\"><strong>Type:</strong>&nbsp;</span><span class=\"fontstyle2\">Advanced medical kit</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Skill:&nbsp;</span></strong><em><span class=\"fontstyle3\">First aid, (A) medicine</span></em></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle0\">600</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Availability:&nbsp;</span></strong><span class=\"fontstyle2\">2</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\"><strong><span class=\"fontstyle0\">Game Notes:&nbsp;</span></strong><span class=\"fontstyle2\">Treat all components as requiring a Very Easy&nbsp;</span><span class=\"fontstyle3\">(A)&nbsp;<em>medicine&nbsp;</em></span><span class=\"fontstyle2\">roll or a Moderate&nbsp;</span><span class=\"fontstyle3\"><em>first aid&nbsp;</em></span><span class=\"fontstyle2\">roll unless otherwise noted. Each kit contains the following items:</span></span></span></p>\n<ul>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Medpacs:</em>&nbsp;</span><span class=\"fontstyle2\">A medical kit has six external pouches for carrying medpacs (not included in cost).</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Hand-Held Diagnostic Scanner</em>:&nbsp;</span><span class=\"fontstyle2\">Provides readout of patient&rsquo;s vital signs, specifics on injury and recommended procedures. Can also be used with a Difficult&nbsp;</span><em><span class=\"fontstyle3\">sensors&nbsp;</span></em><span class=\"fontstyle2\">roll.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Medicines:</em>&nbsp;</span><span class=\"fontstyle2\">Anesthetics, blood pressure, respiration and pulse regulation compounds, as well as other essential medicines (for a number of common species).</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><em><span class=\"fontstyle3\">Emergency Procedures Database:&nbsp;</span></em><span class=\"fontstyle2\">Easy&nbsp;</span><span class=\"fontstyle3\">computer programming/repair&nbsp;</span><span class=\"fontstyle2\">roll. Based on initial scanner findings, this emergency database provides the user with a quick reference collection of treatment procedures.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><em><span class=\"fontstyle3\">Filtration Mask:&nbsp;</span></em><span class=\"fontstyle2\">Supplies sufficient oxygen flow; may also be connected to one of several atmospheric compound bottles for nonoxygen breathers.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Heat Closure Packs:</em>&nbsp;</span><span class=\"fontstyle2\">Pressurized sealant bandages with medicines which, when exposed to air, cauterize and sterilize a wound up to 10 centimeters in diameter.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Laser Scalpel:</em>&nbsp;</span><span class=\"fontstyle2\">Easy&nbsp;</span><span class=\"fontstyle3\"><em>(A) medicine</em>&nbsp;</span><span class=\"fontstyle2\">or Difficult&nbsp;</span><span class=\"fontstyle3\"><em>first aid</em>&nbsp;</span><span class=\"fontstyle2\">roll. Precision cutting tool.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Medicine Dispenser:</em>&nbsp;</span><span class=\"fontstyle2\">Can be loaded with a variety of medicines.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Portable Repulsor-Stretcher:</em>&nbsp;</span><span class=\"fontstyle2\">Collapsible one-person operation antigrav stretcher capable of supporting up to 150 kilograms.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><em><span class=\"fontstyle3\">Pressure Cuffs:&nbsp;</span></em><span class=\"fontstyle2\">Circular metal sleeves of varying diameter (5-30 centimeters) which inflate pressurized chambers around wound area.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><em><span class=\"fontstyle3\">Sterile Heating Cloth:&nbsp;</span></em><span class=\"fontstyle2\">Covers an area up to 1.6 meters &times; 0.75 meters with a sterilized, heat-insulated covering.</span></span></span></li>\n<li><span class=\"fontstyle0\"><span class=\"fontstyle2\"><span class=\"fontstyle3\"><em>Universal Plasma Fluid Sacks:</em>&nbsp;A medical kit has two sacks. Their i</span><span class=\"fontstyle2\">ntravenous feed provides universal plasma stabilization serums.</span></span></span></li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "cost": 600,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.xgH0lzdCHaThiDM8"
+    }
+  },
+  "_key": "!items!xgH0lzdCHaThiDM8"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "MDUsyCOqerA8NOa4",
+  "name": "Computer, Mainframe",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/mainframe.webp",
+  "data": {
+    "description": "<p>Mainframes are the complex computer systems and networks which are the backbone of corporations, capital ships, and governments. These systems support multiple users and generally have very complex anti-slicing systems (Requiring Very Difficult to Heroic <em>computer programming/repair </em>skill rolls just to get access to the mainframe). Most large capital starships will have a type of mainframe computer.</p>\n<p><strong>Model: </strong>Standard Mainframe<br /><strong>Type</strong>: Computer mainframe<br /><strong>Skill:</strong> <em>Computer programming/repair</em><br /><strong>Cost: </strong>Varies (see below)<br /><strong>Availability:</strong> 1</p>\n<p><strong>Game Notes:&nbsp;</strong> <span class=\"fontstyle0\">Mainframes are data processing and information storage computers, capable of supporting multiple users simultaneously. Mainframe security varies by the kind of corporation it belongs to. Mainframes grant a </span><span class=\"fontstyle2\">computer programming/repair </span><span class=\"fontstyle0\">bonus to rolls involving information download. The bonus depends on the mainframe&rsquo;s power, note that the cost per console is for a single computer terminal, not for the entire mainframe computer:</span></p>\n<table style=\"width: 100%; margin-left: auto; margin-right: auto;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Bonus</strong></td>\n<td><strong>Cost</strong></td>\n</tr>\n<tr>\n<td>+1</td>\n<td>2,500</td>\n</tr>\n<tr>\n<td>+2</td>\n<td>3,900</td>\n</tr>\n<tr>\n<td>1D</td>\n<td>5,200</td>\n</tr>\n<tr>\n<td>1D+1</td>\n<td>8,500</td>\n</tr>\n<tr>\n<td>1D+2</td>\n<td>17,000</td>\n</tr>\n<tr>\n<td>2D</td>\n<td>43,000</td>\n</tr>\n</tbody>\n</table>",
+    "labels": {},
+    "tags": [],
+    "cost": 2500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.MDUsyCOqerA8NOa4"
+    }
+  },
+  "_key": "!items!MDUsyCOqerA8NOa4"
+}

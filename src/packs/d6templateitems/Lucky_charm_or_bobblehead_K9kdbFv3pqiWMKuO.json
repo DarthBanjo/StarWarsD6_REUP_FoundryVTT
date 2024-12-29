@@ -1,0 +1,37 @@
+{
+  "_id": "K9kdbFv3pqiWMKuO",
+  "name": "Lucky charm or bobblehead",
+  "type": "gear",
+  "img": "icons/commodities/treasure/statuette-gargoyle-green-gold.webp",
+  "data": {
+    "description": "<p>This usually sits on your control board for good luck.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "310ce622c3871666d1cd1012debc34a05d60bf1a",
+      "sourceId": "Item.K9kdbFv3pqiWMKuO"
+    }
+  },
+  "_key": "!items!K9kdbFv3pqiWMKuO"
+}

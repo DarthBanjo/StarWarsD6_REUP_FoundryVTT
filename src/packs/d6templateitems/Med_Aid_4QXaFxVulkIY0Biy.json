@@ -1,0 +1,41 @@
+{
+  "_id": "4QXaFxVulkIY0Biy",
+  "name": "Med-Aid",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/medpack.webp",
+  "data": {
+    "description": "<p><strong>Med-Aid</strong><br /><strong>Model: </strong>Jassim Design QuickMed<br /><strong>Type:</strong> Emergency medical kit<br /><strong>Skill: </strong>First aid<br /><strong>Cost: </strong>250<br />Availability: 1<br />Game Notes: Med-aids convey a +1D bonus to any first aid skill rolls. Each med-aid may be used only once.<br /><strong>Source: </strong>Gundark&rsquo;s Fantastic Technology (page 82), Tales of the Jedi Companion (page 123)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 250,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.m6JwSi809Ijjmb8b"
+    },
+    "scene-packer": {
+      "hash": "73370fad370d66b51b2c9d9847b94427337d04b0",
+      "sourceId": "Item.4QXaFxVulkIY0Biy",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!4QXaFxVulkIY0Biy"
+}

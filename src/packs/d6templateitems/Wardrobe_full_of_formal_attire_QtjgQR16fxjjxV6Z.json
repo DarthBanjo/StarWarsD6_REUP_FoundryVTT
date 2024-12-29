@@ -1,0 +1,37 @@
+{
+  "_id": "QtjgQR16fxjjxV6Z",
+  "name": "Wardrobe full of formal attire",
+  "type": "gear",
+  "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "728682195b1020a6f4633be34e608f07800ae47d",
+      "sourceId": "Item.QtjgQR16fxjjxV6Z"
+    }
+  },
+  "_key": "!items!QtjgQR16fxjjxV6Z"
+}

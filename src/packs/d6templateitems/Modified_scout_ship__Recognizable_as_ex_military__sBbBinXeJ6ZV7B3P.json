@@ -1,0 +1,40 @@
+{
+  "_id": "sBbBinXeJ6ZV7B3P",
+  "name": "Modified scout ship (Recognizable as ex-military)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/imperialshuttle.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7aefb51bcffe3a4e15fca84819adf4f5e03e32e7",
+      "sourceId": "Item.sBbBinXeJ6ZV7B3P"
+    },
+    "core": {
+      "sourceId": "Item.RaYOPSg9KrWCmej7"
+    }
+  },
+  "_key": "!items!sBbBinXeJ6ZV7B3P"
+}

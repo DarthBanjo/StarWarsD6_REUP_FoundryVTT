@@ -1,0 +1,36 @@
+{
+  "_id": "Yz8qChMQa7iLKYxZ",
+  "name": "Helmet Package",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/helmetstuff.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">When installed in the helmet of a suit of armor, this electronic package allows the armor to grant the wearer a bonus to </span><em><span class=\"fontstyle2\">Perception </span></em><span class=\"fontstyle0\">checks in low-visibility situations, and a bonus to ranged weapon skill uses against targets that move more than 10 meters per round. It also includes an integrated hands-free comlink. Stormtrooper armor and its variants include such a system (MFTAS, or Multi-Frequency Target Acquisition System), already included in its statistics. Installing a helmet package takes 1 hour and a Moderate </span><em><span class=\"fontstyle2\">armor repair </span></em><span class=\"fontstyle0\">check.<br /></span></p>\n<p><strong><span class=\"fontstyle5\">Model: </span></strong><span class=\"fontstyle6\">Corellian Engineering HTP-40</span></p>\n<p><strong><span class=\"fontstyle5\">Type: </span></strong><span class=\"fontstyle6\">Helmet Targeting System</span></p>\n<p><strong><span class=\"fontstyle5\">Scale: </span></strong><span class=\"fontstyle6\">Character</span></p>\n<p><span class=\"fontstyle5\"><strong>Cost:</strong> </span><span class=\"fontstyle6\">4,000</span></p>\n<p><strong><span class=\"fontstyle5\">Availability: </span></strong><span class=\"fontstyle6\">2, R</span></p>\n<p><span class=\"fontstyle5\"><strong>Game Notes:</strong> </span><span class=\"fontstyle6\">Helmet contains tongue-activated comlink. Targeting system adds +1D to </span><em><span class=\"fontstyle7\">Perception </span></em><span class=\"fontstyle6\">checks in low-visibility situations, and +1D to ranged weapon skill uses against targets that move more than 10 meters per round.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 4000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Yz8qChMQa7iLKYxZ"
+    }
+  },
+  "_key": "!items!Yz8qChMQa7iLKYxZ"
+}

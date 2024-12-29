@@ -1,0 +1,85 @@
+{
+  "_id": "UzHGYkNi44znIetp",
+  "name": "Club",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/club.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Powered by the wielder&rsquo;s brute strength, clubs break an opponent&rsquo;s bones, or worse. They are the favored weapons of thugs. Batons (a variety of the club) are used by police forces on relatively peaceful worlds in crowd-control situations.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Typical club</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Melee Combat: Club</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">15</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Difficulty: </span></strong><span class=\"fontstyle5\">Very Easy</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">STR+1D</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 15,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Melee Combat",
+      "specialization": "Club"
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "p",
+      "score": 3,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 0,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_VERY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.UzHGYkNi44znIetp"
+    }
+  },
+  "_key": "!items!UzHGYkNi44znIetp"
+}

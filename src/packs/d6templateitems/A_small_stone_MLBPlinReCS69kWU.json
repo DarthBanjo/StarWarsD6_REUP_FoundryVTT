@@ -1,0 +1,37 @@
+{
+  "_id": "MLBPlinReCS69kWU",
+  "name": "A small stone",
+  "type": "gear",
+  "img": "icons/commodities/stone/rock-gift.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "040318e64422e8f2d1d4e5ea9b24131d1f3960aa",
+      "sourceId": "Item.MLBPlinReCS69kWU"
+    }
+  },
+  "_key": "!items!MLBPlinReCS69kWU"
+}

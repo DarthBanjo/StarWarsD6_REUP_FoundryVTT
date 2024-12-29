@@ -1,0 +1,31 @@
+{
+  "_id": "jxPjeI7rYRxj7Wn1",
+  "name": "Scholar",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_scholar.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle1\">Specialization: </span><span class=\"fontstyle3\">Particular field of study &mdash; </span><span class=\"fontstyle1\">archaeology, Jedi lore, history, geology, physics</span><span class=\"fontstyle3\">.</span></em></p>\n<p><span class=\"fontstyle3\">This skill reflects formal academic training or dedicated research in a particular field. </span><span class=\"fontstyle1\">Scholar </span><span class=\"fontstyle3\">also reflects a character&rsquo;s ability to find information through research. Characters often choose a specialization to reflect a specific area which they have studied. Specializations are subjects often taught at the great universities throughout the galaxy, including archaeology, botany, chemistry, geology, history, hyperspace theories, and physics. Specializations can also be topics a character can research on his own. </span></p>\n<p><span class=\"fontstyle1\">Scholar </span><span class=\"fontstyle3\">represents &ldquo;book-learning,&rdquo; not information learned from practical experience. A character can know the various hyperspace theories inside and out, but this doesn&rsquo;t qualify him to fly starships through hyperspace (that&rsquo;s covered by the </span><span class=\"fontstyle1\">astrogation </span><span class=\"fontstyle3\">skill). He might know the physical principles which make a blaster fire, but that doesn&rsquo;t make him a better shot. </span></p>\n<p><span class=\"fontstyle3\">Gamemasters can choose to allow players a limited benefit under certain circumstances &mdash; the character is applying theory in a real-world situation. For example, a character with </span><span class=\"fontstyle1\">scholar: military tactics </span><span class=\"fontstyle3\">(the history of tactics) doesn&rsquo;t get a bonus to </span><span class=\"fontstyle1\">tactics </span><span class=\"fontstyle3\">rolls, but under certain circumstances, a good </span><span class=\"fontstyle1\">scholar: military tactics </span><span class=\"fontstyle3\">roll might merit a small (+1D or so) bonus to </span><span class=\"fontstyle1\">tactics.</span></p>\n<p><span class=\"fontstyle3\">Gamemasters should allow players to choose their own </span><span class=\"fontstyle1\">scholar </span><span class=\"fontstyle3\">specializations &mdash; new ones can be created at the gamemaster&rsquo;s discretion. When determining a character&rsquo;s background, players should explain why and how they gained such academic training in a field.</span></p>\n<p><span class=\"fontstyle3\">Like many other </span><span class=\"fontstyle1\">Knowledge </span><span class=\"fontstyle3\">skills, the difficulty is based on the obscurity and detail of the information sought.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several days.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!jxPjeI7rYRxj7Wn1"
+}

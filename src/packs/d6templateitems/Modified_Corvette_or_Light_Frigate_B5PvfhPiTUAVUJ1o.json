@@ -1,0 +1,37 @@
+{
+  "_id": "B5PvfhPiTUAVUJ1o",
+  "name": "Modified Corvette or Light Frigate",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/corelliancorvette.webp",
+  "data": {
+    "description": "<p>Work with your gamemaster.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1500000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "32a9d633b4fee5943bfd83941e4feefa34fbe516",
+      "sourceId": "Item.B5PvfhPiTUAVUJ1o"
+    }
+  },
+  "_key": "!items!B5PvfhPiTUAVUJ1o"
+}

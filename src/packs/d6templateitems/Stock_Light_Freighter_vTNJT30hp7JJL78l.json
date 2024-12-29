@@ -1,0 +1,37 @@
+{
+  "_id": "vTNJT30hp7JJL78l",
+  "name": "Stock Light Freighter",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/yt-2000.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5dc311ca89fa326a4203494adbd7f7cbbad45e49",
+      "sourceId": "Item.vTNJT30hp7JJL78l"
+    }
+  },
+  "_key": "!items!vTNJT30hp7JJL78l"
+}

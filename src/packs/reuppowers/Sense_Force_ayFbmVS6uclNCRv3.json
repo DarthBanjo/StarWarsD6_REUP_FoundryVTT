@@ -1,0 +1,21 @@
+{
+  "_id": "ayFbmVS6uclNCRv3",
+  "name": "Sense Force",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_senseforce.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Moderate for an area;</li>\n<li>Difficult for sensing details or specific objects/Force-users within the area.</li>\n<li>Modified by proximity.</li>\n</ul>\n<p><strong>Effect: </strong>This power is used to sense the ambient Force within a place. It cannot be used to specifically detect sentient beings, but there are many forms of life and many areas of the galaxy intertwined with the Force which can be sensed with this power.</p>\n<p><em>Sense Force</em> will tell a character the rough magnitude of the Force in an area or object (rich, moderate or poor in the Force), the rough type and quantity of life-forms (\"many insects,\" \"only microbes and bacteria,\" \"teeming with plant and animal life, including higher predators\") and whether the area or object tends toward the dark side or the light (for example, the tree on Dagobah which Luke Skywalker entered is a \"dark side nexus\" rich in the negative energies of the dark side of the Force). An area rich in negative or positive energies may indicate past events or the activities of past inhabitants. The Jedi may also receive \"vague premonitions\" about the area, such as \"I sense something wrong,\" or \"I sense a great impending tragedy.\"</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!ayFbmVS6uclNCRv3"
+}

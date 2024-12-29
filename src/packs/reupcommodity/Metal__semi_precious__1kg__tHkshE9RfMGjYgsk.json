@@ -1,0 +1,32 @@
+{
+  "_id": "tHkshE9RfMGjYgsk",
+  "name": "Metal, semi-precious (1kg)",
+  "type": "gear",
+  "img": "icons/commodities/metal/ingot-copper.webp",
+  "data": {
+    "description": "<p>1 kg = 200</p>\n<p>1 metric ton = 200,000</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!tHkshE9RfMGjYgsk"
+}

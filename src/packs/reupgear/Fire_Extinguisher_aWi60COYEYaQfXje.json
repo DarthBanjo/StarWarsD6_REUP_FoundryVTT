@@ -1,0 +1,36 @@
+{
+  "_id": "aWi60COYEYaQfXje",
+  "name": "Fire Extinguisher",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBYSA/fireextinguisher.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Fire-extinguishers use a chemical agent to inhibit a fires access to oxygen. The chemical is non-toxic to most species and is able to fight most fire classes (electrical, chemical, wood),&nbsp; however a fire extinguisher is useless against plasma or other unusual fire types.</span></p>\n<p><span class=\"fontstyle0\">A full-round blast from this tool produces a chemical cloud that provides total concealment. Those inside the cloud can&rsquo;t see targets outside the cloud, and those outside the cloud can&rsquo;t see targets inside the cloud. The cloud spreads 5 meters in all directions for every round it is activated. It dissipates after 3 rounds (no matter how large the cloud). Each round where the fire extinguisher is used depletes one-tenth of it&rsquo;s chemical supply.</span></p>\n<p><strong><span class=\"fontstyle7\">Model: </span></strong><span class=\"fontstyle8\">Themex 50-A Fire Suppressor</span></p>\n<p><strong><span class=\"fontstyle7\">Type: </span></strong><span class=\"fontstyle8\">Fire extinguisher</span></p>\n<p><span class=\"fontstyle7\"><strong>Cost:</strong> </span><span class=\"fontstyle8\">50</span></p>\n<p><strong><span class=\"fontstyle7\">Availability: </span></strong><span class=\"fontstyle8\">1</span></p>\n<p><strong><span class=\"fontstyle7\">Game Notes: </span></strong><span class=\"fontstyle8\">The extinguisher can put out a fire of up to a 50 meter in area at a rate of 5 meters per round before it is depleted. Reloading the fire extinguisher takes an entire round. Replacement chemical cartridges for the extinguisher cost 25 credits each.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.aWi60COYEYaQfXje"
+    }
+  },
+  "_key": "!items!aWi60COYEYaQfXje"
+}

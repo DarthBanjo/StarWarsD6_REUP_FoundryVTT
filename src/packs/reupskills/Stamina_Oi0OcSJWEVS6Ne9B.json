@@ -1,0 +1,31 @@
+{
+  "_id": "Oi0OcSJWEVS6Ne9B",
+  "name": "Stamina",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/str_stamina.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Stamina </span><span class=\"fontstyle2\">checks reflect that a character is being pushed to his or her physical limits. They should be called for once in a while to show the strain on a character; only require them when a character does something out of the ordinary.</span></p>\n<p><span class=\"fontstyle2\">Whenever a character fails a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">roll, he is fatigued; all actions are at -1D for every </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check failed until the character rests for as long as he exerted himself.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "str",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "Stamina checks are made when characters exert themselves over long periods of time.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.k8QCsoBe74eik0Af"
+    }
+  },
+  "_key": "!items!Oi0OcSJWEVS6Ne9B"
+}

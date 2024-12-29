@@ -1,0 +1,38 @@
+{
+  "_id": "i6PKLsqELFI4gPWR",
+  "name": "Receptive Telepathy",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_receptivetelepathy.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Very Easy for friendly, non-resisting targets.</li>\n<li>A resisting target makes a <em>Perception </em>or <em>control</em> roll to determine the difficulty.</li>\n<li>Modified by proximity and relationship.</li>\n</ul>\n<p><strong>Required Powers:</strong>&nbsp;<em>Life Detection,&nbsp;Life Sense</em></p>\n<p><em>This power may be kept \"up\" if the target is willing and the proximity modifier doesn't increase.</em></p>\n<p><strong>Effect: </strong>A Jedi who makes the <em>sense</em> roll can read the surface thoughts and emotions of the target. The Jedi \"hears\" what the target is thinking, but cannot probe for deeper information. If the <em>sense </em>roll doubles the difficulty number, the Jedi can sift through any memories up to 24 hours old. A Jedi cannot sift through memories in the same round that contact is made &mdash; this process takes a full round. A Jedi can read the minds of more than one person at a time, but each additional target requires a new<em> receptive telepathy </em>roll. This power may be used on creatures and other sentient species, although it cannot be used on droids.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "sRn241GVIndxfeHu",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Receptive Telepathy",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_receptivetelepathy.svg",
+      "tint": null,
+      "_key": "!items.effects!i6PKLsqELFI4gPWR.sRn241GVIndxfeHu"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!i6PKLsqELFI4gPWR"
+}

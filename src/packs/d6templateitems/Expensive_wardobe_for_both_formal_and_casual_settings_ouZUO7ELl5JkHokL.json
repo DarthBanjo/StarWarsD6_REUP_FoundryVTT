@@ -1,0 +1,40 @@
+{
+  "_id": "ouZUO7ELl5JkHokL",
+  "name": "Expensive wardobe for both formal and casual settings",
+  "type": "gear",
+  "img": "icons/containers/chest/chest-simple-box-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3d7edda86c538e9ef7ab530f41fd063b884c4fc7",
+      "sourceId": "Item.ouZUO7ELl5JkHokL"
+    },
+    "core": {
+      "sourceId": "Item.Im3NUXk3780alik5"
+    }
+  },
+  "_key": "!items!ouZUO7ELl5JkHokL"
+}

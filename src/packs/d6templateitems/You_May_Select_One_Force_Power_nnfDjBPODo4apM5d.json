@@ -1,0 +1,47 @@
+{
+  "_id": "nnfDjBPODo4apM5d",
+  "name": "You May Select One Force Power",
+  "type": "manifestation",
+  "img": "icons/magic/control/debuff-energy-hold-green.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0aa7649d1f98317c1c78de0892c324c5bd7d6899",
+      "sourceId": "Item.DvLvatY6tQ5taTDz"
+    }
+  },
+  "_key": "!items!nnfDjBPODo4apM5d"
+}

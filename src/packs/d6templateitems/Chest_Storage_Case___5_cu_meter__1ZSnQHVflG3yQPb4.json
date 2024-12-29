@@ -1,0 +1,41 @@
+{
+  "_id": "1ZSnQHVflG3yQPb4",
+  "name": "Chest Storage Case (.5 cu meter)",
+  "type": "cybernetic",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_scoutdroid.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.HEAD",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "bd54789d40bfdcf18c4c0f57ebaa029202a79d1b",
+      "sourceId": "Item.1ZSnQHVflG3yQPb4"
+    }
+  },
+  "_key": "!items!1ZSnQHVflG3yQPb4"
+}

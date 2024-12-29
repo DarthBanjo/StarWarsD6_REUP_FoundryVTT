@@ -1,0 +1,31 @@
+{
+  "_id": "5g0Sy8rw5Cl7Bu2n",
+  "name": "Climbing/Jumping",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/str_climjump.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: Climbing, jumping</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Use this skill when a character attempts to climb a tree, wall or cliff, leap a wide gap, or jump up and grab an outcropping.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">Climbing </span></strong><span class=\"fontstyle2\"><strong>Modifiers:</strong><br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-10 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Many handholds.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Prepared for climbing.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-5 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Taking care in climbing.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-3 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 90-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 60-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-9 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 45-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+3 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 25% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 50% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+15 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 100% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+5 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Slick or loose surface.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+10 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Fewer than basic handholds and footholds.<br /></span><br /><strong><span class=\"fontstyle0\">Jumping </span></strong><span class=\"fontstyle2\"><strong>Modifiers:</strong><br /><strong>No Modifier:</strong> </span><span class=\"fontstyle3\">Performing the maneuver from a flat surface, to another flat surface.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-5 to the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Unlimited landing area.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+5 to the the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Limited landing area,<br /></span><strong><span class=\"fontstyle2\" style=\"color: #000000;\">+10 to the jumper&rsquo;s difficulty: </span></strong><span class=\"fontstyle3\">Almost no landing area.<br /></span><strong><span class=\"fontstyle2\" style=\"color: #000000;\">+3 or more to the jumper&rsquo;s difficulty: </span></strong><span class=\"fontstyle3\">Rough, slick, or unsteady landing area.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Uphill (more than 30-degrees).<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 50% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+9 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 75% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+12 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 100% of body weight.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "str",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.k8QCsoBe74eik0Af"
+    }
+  },
+  "_key": "!items!5g0Sy8rw5Cl7Bu2n"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "2scvI9z6Aptmjr3k",
+  "name": "Stylish clothing",
+  "type": "gear",
+  "img": "icons/equipment/leg/skirt-cloth-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0d99050218e0e7ead288bc251b61c2c874d71f9c",
+      "sourceId": "Item.2scvI9z6Aptmjr3k"
+    }
+  },
+  "_key": "!items!2scvI9z6Aptmjr3k"
+}

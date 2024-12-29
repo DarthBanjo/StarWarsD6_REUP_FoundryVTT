@@ -1,0 +1,37 @@
+{
+  "_id": "SqRtrqKne2q9BiK7",
+  "name": "Surveying equipment",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/toolkit2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c5bfe05721bbda6c6f50b4133b41e56df7c4009a",
+      "sourceId": "Item.SqRtrqKne2q9BiK7"
+    }
+  },
+  "_key": "!items!SqRtrqKne2q9BiK7"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "q1XagO0fYbD7WaVI",
+  "name": "First Aid",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_firstaid.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Species of patient &mdash; </span><span class=\"fontstyle0\">humans, Ewoks, Wookiees</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">First aid </span><span class=\"fontstyle2\">reflects a character&rsquo;s ability to perform emergency life saving procedures in the field. For rules on the use of </span><span class=\"fontstyle0\">first aid</span><span class=\"fontstyle2\">, see &ldquo;Combat and Injuries.&rdquo;</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!q1XagO0fYbD7WaVI"
+}

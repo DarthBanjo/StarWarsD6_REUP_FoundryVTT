@@ -1,0 +1,31 @@
+{
+  "_id": "s8LoGZHbd03QCjPE",
+  "name": "Planetary Systems",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_planetarysys.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific system or planet &mdash; </span><span class=\"fontstyle0\">Tatooine, Endor, Hoth, Kessel.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets. Much of this information is gained from personal experience, computer records and hearsay from others who&rsquo;ve visited various systems.</span></p>\n<p><span class=\"fontstyle0\">Characters specializing in particular planets have a deeper knowledge of more subtle details &mdash; more than the average general database would contain. Although someone with an improved </span><span class=\"fontstyle2\">planetary systems </span><span class=\"fontstyle0\">skill would know that Tatooine&rsquo;s deserts are home to Jawas and Tusken Raiders, those with </span><span class=\"fontstyle2\">planetary systems: Tatooine </span><span class=\"fontstyle0\">would know the role the Jawa scavengers play in supplying the moisture farmers with spare parts and droids.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!s8LoGZHbd03QCjPE"
+}

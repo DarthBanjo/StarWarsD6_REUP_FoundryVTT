@@ -1,0 +1,26 @@
+{
+  "_id": "b6WFXHKlJOoRC8pD",
+  "name": "Low Light Vision",
+  "type": "specialability",
+  "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
+  "data": {
+    "description": "<p>This character can see twice as far as a normal human in poor lighting conidtions. The gamemaster should allow this character to make the appropriate&nbsp;<em>Perception</em>-based skill checks at lower difficulty than normal human characters.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "af0e8be857e000bd928f26b7051a7d81143415d9",
+      "sourceId": "Item.b6WFXHKlJOoRC8pD"
+    }
+  },
+  "_key": "!items!b6WFXHKlJOoRC8pD"
+}

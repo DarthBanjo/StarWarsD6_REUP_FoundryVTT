@@ -1,0 +1,37 @@
+{
+  "_id": "Dmh3WoPoFeZrlzee",
+  "name": "Encryption Unit for Comlink",
+  "type": "gear",
+  "img": "icons/svg/upgrade.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4f53965fd00d748ff8bb7c8718775e19e9ee5954",
+      "sourceId": "Item.Dmh3WoPoFeZrlzee"
+    }
+  },
+  "_key": "!items!Dmh3WoPoFeZrlzee"
+}

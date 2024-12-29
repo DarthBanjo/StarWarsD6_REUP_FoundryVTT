@@ -1,0 +1,37 @@
+{
+  "_id": "MjE242wWwuG3SP1m",
+  "name": "Mementoes from a dozen worlds",
+  "type": "gear",
+  "img": "icons/commodities/treasure/box-jade-tassel.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0733e68e90560b66f1a284a1546fc85877dea631",
+      "sourceId": "Item.MjE242wWwuG3SP1m"
+    }
+  },
+  "_key": "!items!MjE242wWwuG3SP1m"
+}

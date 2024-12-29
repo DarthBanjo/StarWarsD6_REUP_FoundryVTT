@@ -1,0 +1,31 @@
+{
+  "_id": "PbKk3lcK54sY12bZ",
+  "name": "(A) Aquatic Vehicle Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_aquatic.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Advanced skill -- requires</strong><strong>&nbsp;4D in </strong></span><strong><span class=\"fontstyle2\"><em>aquatic vehicle repair</em>.</span></strong></p>\n<p><span class=\"fontstyle0\">This skill allows for the design of various aquatic vehicles and aquatic vehicle systems.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!PbKk3lcK54sY12bZ"
+}

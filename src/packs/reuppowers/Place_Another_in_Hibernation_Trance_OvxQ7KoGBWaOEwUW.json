@@ -1,0 +1,25 @@
+{
+  "_id": "OvxQ7KoGBWaOEwUW",
+  "name": "Place Another in Hibernation Trance",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_placeotherinhibernationtrance.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Easy, as modified by the target's relationship.</p>\n<p><strong>Alter Difficulty: </strong>Very Easy, as modified by proximity.</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Hibernation Trance</em></p>\n<p><strong>Time to Use:</strong> Five minutes.</p>\n<p><strong>Effect: </strong>This power allows a Jedi to put another character into a hibernation trance. The affected character must be in physical contact with the power's user and must agree to be shut down &mdash; the power cannot be used as an \"attack\" to knock others unconscious. This power can be used to bring another character out of an hibernation trance, but the alter difficulty is increased by +10.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.OvxQ7KoGBWaOEwUW"
+    }
+  },
+  "_key": "!items!OvxQ7KoGBWaOEwUW"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "QbAMkmJTYvupVkL9",
+  "name": "Aquata Breather",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/aquagill.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">While underwater, an Aquata Breather can provide up to 2 hours of breathable air through its mouthpiece.</span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">A99 Aquata Breather</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Breathing device</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">350</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">2</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Provides up to 2 hours of breathable air through its mouthpiece. The A99 has advanced filters to allow it to function underwater, in a vacuum, and in certain poisonous environments.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 350,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.AzeCP4vb9UWg22nR"
+    }
+  },
+  "_key": "!items!QbAMkmJTYvupVkL9"
+}

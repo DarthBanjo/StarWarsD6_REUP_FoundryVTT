@@ -1,0 +1,1207 @@
+{
+  "name": "Extremist",
+  "type": "character-template",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_janoperative.webp",
+  "data": {
+    "description": "<p><strong>A Quote: </strong>\"It isn't enough to hurt the military arm of the Empire - you must frighten the sheep that feed it.\"</p>\n<p><strong>Background: </strong>You watched in horror as the Empire invaded your homeworld in the Colonies and razed your house to the ground. At first you hated the Imperial Army, but when you realized that citizens from the Core didn't suffer like this - and didn't care that you did - you grew to hate the entire Imperial system.</p>\n<p>You joined a Rebel cell for a time, but all they wanted to do was spy and hit a few Imperial depots. You wanted to hurt the Imperial citizens of the Core; to make them realize that the Empire could no more protect them than the Old Republic.</p>\n<p>Then you fell in with the Justice Action Network, an anti-Empire organization that embodied all you believe. With their support and contacts, you can finally strike terror in the hearts of the Imperials.</p>\n<p><strong>Personality: </strong>You are a radical, even among anti-Empire organizations. Some Rebel pansies call you a terorist, but you're the one out doing what they only talk about - the Imperial propaganda machine can bury most Rebel victories, but no one can ignore your accomplishments. Occasionally you doubt that your cause is just, but when you see pampered Coreworld Imperial citizens cheering their emperor, you know they must suffer as you have.</p>\n<p><strong>Objectives: </strong>To weaken the Empire's claim to order by attacking vulnerable and high-profile civilian targets in the Colonies and the Core.</p>\n<p><strong>Connection With Characters: </strong>Your activities bring you into contact with numerous underworld figures such as bounty hunters and smugglers. You might also know nobles, Imperials and senatorials through fellow cell members. </p>\n<p><strong>Source: </strong>Player's guide to Tapani</p>",
+    "labels": {},
+    "tags": [],
+    "species": "",
+    "attributes": {
+      "agi": 12,
+      "str": 10,
+      "kno": 9,
+      "mec": 8,
+      "per": 6,
+      "tec": 9,
+      "met": 0
+    },
+    "fp": 1,
+    "cp": 5,
+    "funds": 0,
+    "credits": 1000,
+    "move": 10,
+    "me": false,
+    "items": [
+      {
+        "name": "Grenade Launcher",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">Grenade launchers are military weapons that greatly improve the range of grenades. Grenades fired by grenade launchers always explode on impact, regardless of timers or other considerations. The type of grenade used determines the damage, type, and burst radius. Grenade launchers cannot be used to hurl thermal detonators because these devices are simply too big and heavy (although some larger grenade mortars can hurl thermal detonators as well).<br /></span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Grenade launcher</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Missile Weapons: Grenade Launcher</span></em></p>\n<p><strong><span class=\"fontstyle4\">Ammo: </span></strong><span class=\"fontstyle5\">4</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">2, X</span></p>\n<p><strong><span class=\"fontstyle4\">Fire Rate: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">0-250/350/500</span></p>\n<p><strong><span class=\"fontstyle4\">Blast Radius: </span></strong><span class=\"fontstyle5\">By grenade type</span></p>\n<p><span class=\"fontstyle4\"><strong>Damage:</strong> </span><span class=\"fontstyle5\">By grenade type</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Heavy Blaster Pistol",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">A heavy blaster pistol is a compromise: it gives the user a lot more firepower, but with a very limited range &mdash; this is accomplished by draining a lot of energy from the power pack, at the expense of ammo. A heavy blaster pistol is crammed into a standard pistol frame, making it easy to disguise if necessary. These weapons are illegal or heavily restricted in many systems. Han Solo&rsquo;s favorite weapon is a modified BlasTech DL-44 heavy blaster pistol.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Heavy blaster pistol</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Blaster: Heavy Blaster Pistol</span></em></p>\n<p><strong><span class=\"fontstyle0\">Ammo: </span></strong><span class=\"fontstyle2\">25</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">750 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1, F, R or X</span></p>\n<p><strong><span class=\"fontstyle0\">Fire Rate: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">3-7/25/50</span></p>\n<p><strong><span class=\"fontstyle0\">Damage: </span></strong><span class=\"fontstyle2\">5D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Five Grenades, Fragmentation",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">Grenades come in a variety of sizes and forms, and can be simple explosives, or may eject noxious gases or smoke or any other number of payloads, depending upon the specific needs of the purchaser.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Grenade</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><span class=\"fontstyle0\"><strong>Skill:</strong> </span><em><span class=\"fontstyle3\">Grenade</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">200</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1, R</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">3-7/20/40</span></p>\n<p><span class=\"fontstyle0\"><strong>Blast Radius:</strong> </span><span class=\"fontstyle2\">0-2/4/6/10</span></p>\n<p><strong><span class=\"fontstyle0\">Damage: </span></strong><span class=\"fontstyle2\">5D/4D/3D/2D</span></p>\n<p>&nbsp;</p>"
+      },
+      {
+        "name": "Rocket Pack",
+        "type": "gear",
+        "description": "<p>Rocket packs are an alternative to jet packs. Where jet packs pull outside air into an ignition chamber &mdash; mixing fuel and air internally to provide thrust &mdash; rocket packs contain combustible chemical fuel. Because of this, rocket packs do not require outside air to generate thrust, allowing the devices to operate in space as well as inside an atmosphere.</p>\n<p>Rocket packs are heavier and louder than jet packs (due largely to the onboard chemical fuel cells). As a trade off, rocket packs are considerably faster, and provide a better &ldquo;all-environment&rdquo; flight capability. The main danger in using a rocket pack in combat is the chemical fuel cell; a stray blaster shot can<br />cause a rocket pack to explode.</p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Zanclraman DSP-5 rocket pack</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Personal rocket pack</span></p>\n<p><strong><span class=\"fontstyle0\">Skill:<em> </em></span></strong><em><span class=\"fontstyle3\">Rocket pack operation</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">400</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, R</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">The DSP-5 rocket pack can carry up to 60 kilograms and can move up to 70 meters vertically or 160 meters horizontally in a single charge. The unit has 12 charges.</span> </p>"
+      },
+      {
+        "name": "Mine, Vehicle",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">Mines are used to eliminate incoming troops and vehicles. Most are triggered by physical pressure (such as moving ground troops) or the presence of repulsor fields (generated by incoming vehicles). The </span><em><span class=\"fontstyle2\">demolitions </span></em><span class=\"fontstyle0\">skill roll of the character setting the mine is equal to the </span><em><span class=\"fontstyle2\">hide </span></em><span class=\"fontstyle0\">value of the mine (in case someone is searching for it) </span><em><span class=\"fontstyle2\">and </span></em><span class=\"fontstyle0\">the &ldquo;to hit&rdquo; roll of the weapon. When the mine is triggered, the character must use his normal </span><em><span class=\"fontstyle2\">dodge </span></em><span class=\"fontstyle0\">to get out of the immediate blast radius of the explosion &mdash; if his normal </span><em><span class=\"fontstyle2\">dodge </span></em><span class=\"fontstyle0\">is higher than the </span><em><span class=\"fontstyle2\">demolitions </span></em><span class=\"fontstyle0\">roll, then he gets to the next higher range of the radius. A successful full </span><span class=\"fontstyle2\"><em>dodge </em></span><span class=\"fontstyle0\">will get the character out of the entire blast radius.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Anti-vehicle mine</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Speeder</span></p>\n<p><strong><span class=\"fontstyle0\">Skill:<em> </em></span></strong><span class=\"fontstyle3\"><em>Demolitions: Land Mines</em></span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">750</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, X</span></p>\n<p><strong><span class=\"fontstyle0\">Blast Radius: </span></strong><span class=\"fontstyle2\">0-2/4/6/10</span></p>\n<p><span class=\"fontstyle0\"><strong>Damage:</strong> </span><span class=\"fontstyle2\">5D/4D/3D/2D (speeder-scale damage)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Vibroblade",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">The vibroblade is a close-combat weapon favored by soldiers and mercenaries throughout the galaxy. It resembles a short sword with a high-tech look and feel. Vibroblades are illegal in most urban areas. A vibroblade requires an energy cell to operate.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard vibroblade</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Melee</span></p>\n<p><span class=\"fontstyle4\"><strong>Scale:</strong> </span><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Melee Combat: Vibroblade</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">250</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, F</span></p>\n<p><strong><span class=\"fontstyle4\">Difficulty: </span></strong><span class=\"fontstyle5\">Moderate</span></p>\n<p><span class=\"fontstyle4\"><strong>Damage:</strong> </span><span class=\"fontstyle5\">STR+1D to STR+3D (depending on model) (maximum: 6D)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Sensor Pack, Portable",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Sensor packs are portable scanning devices that can detect life-forms, com signals, energy emissions, tectonic instability and any number of other phenomena. Most sensor packs are hand-held devices that are fairly bulky; more sensitive apparatus must often be handled by two or more people.</span></p>\n<p><span class=\"fontstyle0\">Smaller sensor packs are only capable of detecting a single phenomenon (such as a comm signal or life-form); the more functions the sensor pack is required to perform, the larger the unit tends to be. Most hand-held sensor packs are only capable of giving general information about what has been detected (such as the general direction and frequency of a comm signal, or the relative distance to a life-form) but cannot give precise data. Larger units tend to be more accurate &mdash; and more sensitive &mdash; but are also more expensive.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">NeuroSaav 8932/D Sensor Pack</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Portable scanning device</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\"><em>Sensors</em></span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">300</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">2</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">The NeuroSaav 8932/D is a general-purpose sensor apparatus that can detect </span><span class=\"fontstyle6\">either </span><span class=\"fontstyle5\">the presence of a life form, </span><span class=\"fontstyle6\">or </span><span class=\"fontstyle5\">the presence of a comm signal. Characters using the unit receive a +1D bonus to </span><em><span class=\"fontstyle6\">sensors</span></em><span class=\"fontstyle5\">. The device can scan up to 300 meters away, and will give approximate bearings to the source of a comm transmission or to the location of a life form.</span></p>"
+      }
+    ],
+    "label": "OD6S.CHARACTER_TEMPLATES",
+    "effects": [],
+    "folder": "null",
+    "sort": 0,
+    "config": {
+      "startCombat": false,
+      "socket": {
+        "functions": {},
+        "socketName": "system.od6s",
+        "pendingRequests": {}
+      },
+      "baseHitDifficulty": 10,
+      "default_sensor_skill": "OD6S.SENSORS",
+      "fatePointsName": "Force Points",
+      "fatePointsShortName": "FPs",
+      "useAFatePointName": "Use a force point?",
+      "metaphysicsName": "",
+      "manifestationsName": "Force Powers",
+      "metaphysicsExtranormalName": "Force-Sensitive",
+      "vehicleToughnessName": "Body Strength",
+      "passengerDamageDice": true,
+      "starshipToughessName": "",
+      "vehicleDifficulty": true,
+      "brawlAttribute": "",
+      "opposed": [],
+      "chatPath": "systems/od6s/templates/chat/",
+      "wildDieOneDefault": 0,
+      "wildDieOneAuto": 0,
+      "grenadeDamageDice": true,
+      "highlightEffects": true,
+      "randomHitLocations": true,
+      "mapRange": true,
+      "meleeDifficulty": true,
+      "baseAttackDifficulty": 10,
+      "defenseLock": false,
+      "currencyName": "Credits",
+      "fatePointRound": true,
+      "fatePointClimactic": true,
+      "woundConfig": 0,
+      "bodyPointsName": "Body Points",
+      "highHitDamage": false,
+      "autoOpposed": true,
+      "pipsPerDice": 3,
+      "speciesMaxDice": 1,
+      "speciesMinDice": 5,
+      "flatSkills": false,
+      "cost": "1",
+      "fundsFate": false,
+      "showSkillSpecialization": true,
+      "channelSkillName": "Control",
+      "senseSkillName": "Sense",
+      "transformSkillName": "Alter",
+      "deadlinessLevel": {
+        "character": 3,
+        "creature": 3,
+        "npc": 3
+      },
+      "wildDieResult": {
+        "0": "OD6S.WILD_RESULT_ONE",
+        "1": "OD6S.WILD_DIE_NONE",
+        "2": "OD6S.REMOVE_HIGHEST_DIE",
+        "3": "OD6S.COMPLICATION"
+      },
+      "actorMasks": {
+        "character": 0,
+        "npc": 1,
+        "creature": 2,
+        "vehicle": 3,
+        "starship": 4
+      },
+      "equippable": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "cargo_hold": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "deadliness": {
+        "0": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_WOUNDED_3",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "8": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "2": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "3": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "4": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "5": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        }
+      },
+      "damage": {
+        "OD6S": {
+          "WOUNDS_STUNNED": 1,
+          "WOUNDS_WOUNDED": 4,
+          "WOUNDS_INCAPACITATED": 9,
+          "WOUNDS_MORTALLY_WOUNDED": 13,
+          "WOUNDS_DEAD": 16
+        }
+      },
+      "bodyPointLevels": {
+        "OD6S": {
+          "WOUNDS_HEALTHY": 9999,
+          "WOUNDS_STUNNED": 81,
+          "WOUNDS_WOUNDED": 60,
+          "WOUNDS_SEVERELY_WOUNDED": 40,
+          "WOUNDS_INCAPACITATED": 20,
+          "WOUNDS_MORTALLY_WOUNDED": 10,
+          "WOUNDS_DEAD": 1
+        }
+      },
+      "vehicle_damage": {
+        "OD6S": {
+          "DAMAGE_NONE": {
+            "damage": 0,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_VERY_LIGHT": {
+            "damage": 1,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_LIGHT": {
+            "damage": 4,
+            "passenger_damage": "OD6S.PASSENGER_QUARTER_DAMAGE",
+            "passenger_damage_dice": 1
+          },
+          "DAMAGE_HEAVY": {
+            "damage": 9,
+            "passenger_damage": "OD6S.PASSENGER_HALF_DAMAGE",
+            "passenger_damage_dice": 3
+          },
+          "DAMAGE_SEVERE": {
+            "damage": 13,
+            "passenger_damage": "OD6S.PASSENGER_THREE_QUARTERS_DAMAGE",
+            "passenger_damage_dice": 6
+          },
+          "DAMAGE_DESTROYED": {
+            "damage": 16,
+            "passenger_damage": "OD6S.PASSENGER_FULL_DAMAGE",
+            "passenger_damage_dice": 12
+          }
+        }
+      },
+      "vehicle_speeds": {
+        "stopped": {
+          "name": "OD6S.VEHICLE_SPEED_STOPPED",
+          "damage": 6,
+          "mod": 0
+        },
+        "cautious": {
+          "name": "OD6S.VEHICLE_SPEED_CAUTIOUS",
+          "damage": 12,
+          "mod": 0
+        },
+        "cruise": {
+          "name": "OD6S.VEHICLE_SPEED_CRUISE",
+          "damage": 18,
+          "mod": 0
+        },
+        "high": {
+          "name": "OD6S.VEHICLE_SPEED_HIGH",
+          "damage": 24,
+          "mod": 5
+        },
+        "all_out": {
+          "name": "OD6S.VEHICLE_SPEED_ALL_OUT",
+          "damage": 30,
+          "mod": 10
+        }
+      },
+      "collision_types": {
+        "head_on": {
+          "name": "OD6S.VEHICLE_HEAD_ON",
+          "score": 9
+        },
+        "sidewipe": {
+          "name": "OD6S.VEHICLE_SIDESWIPE",
+          "score": -9
+        },
+        "rear_end": {
+          "name": "OD6S.VEHICLE_REAR_END",
+          "score": -9
+        },
+        "t_bone": {
+          "name": "OD6S.VEHICLE_T_BONE",
+          "score": 0
+        }
+      },
+      "weaponTypes": [
+        "OD6S.RANGED",
+        "OD6S.MELEE",
+        "OD6S.MISSILE",
+        "OD6S.THROWN",
+        "OD6S.EXPLOSIVE"
+      ],
+      "meleeDifficulties": [
+        "OD6S.DIFFICULTY_VERY_EASY",
+        "OD6S.DIFFICULTY_EASY",
+        "OD6S.DIFFICULTY_MODERATE",
+        "OD6S.DIFFICULTY_DIFFICULT",
+        "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "OD6S.DIFFICULTY_HEROIC"
+      ],
+      "actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_RANGED_ATTACK",
+          "type": "rangedattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "",
+          "subtype": "rangedattack"
+        },
+        "melee_attack": {
+          "name": "OD6S.ACTION_MELEE_ATTACK",
+          "type": "meleeattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Melee Combat",
+          "subtype": "meleeattack"
+        },
+        "brawl_attack": {
+          "name": "OD6S.ACTION_BRAWL_ATTACK",
+          "type": "brawlattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Brawling",
+          "subtype": "brawlattack"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_DODGE",
+          "type": "dodge",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Dodge",
+          "subtype": "dodge"
+        },
+        "parry": {
+          "name": "OD6S.ACTION_PARRY",
+          "type": "parry",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.MELEE_PARRY",
+          "subtype": "parry"
+        },
+        "block": {
+          "name": "OD6S.BRAWLING_PARRY",
+          "type": "block",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.BRAWLING_PARRY",
+          "subtype": "block"
+        },
+        "other": {
+          "name": "OD6S.ACTION_OTHER",
+          "type": "action",
+          "rollable": false,
+          "subtype": "misc"
+        }
+      },
+      "vehicle_actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_VEHICLE_RANGED_ATTACK",
+          "type": "vehiclerangedattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "ram": {
+          "name": "OD6S.ACTION_VEHICLE_RAM",
+          "type": "vehicleramattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_VEHICLE_DODGE",
+          "type": "vehicledodge",
+          "rollable": true,
+          "base": "mec"
+        },
+        "maneuver": {
+          "name": "OD6S.ACTION_VEHICLE_MANEUVER",
+          "type": "vehiclemaneuver",
+          "rollable": true,
+          "base": "mec"
+        },
+        "sensors": {
+          "name": "OD6S.ACTION_VEHICLE_SENSORS",
+          "type": "vehiclesensors",
+          "base": "mec",
+          "skill": "OD6S.SENSORS",
+          "rollable": true
+        },
+        "other": {
+          "name": "OD6S.ACTION_VEHICLE_OTHER",
+          "type": "action",
+          "rollable": false
+        }
+      },
+      "difficulty": {
+        "OD6S": {
+          "DIFFICULTY_UNKNOWN": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_CUSTOM": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_AUTOMATIC": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_VERY_EASY": {
+            "min": 1,
+            "max": 5
+          },
+          "DIFFICULTY_EASY": {
+            "min": 6,
+            "max": 10
+          },
+          "DIFFICULTY_MODERATE": {
+            "min": 11,
+            "max": 15
+          },
+          "DIFFICULTY_DIFFICULT": {
+            "min": 16,
+            "max": 20
+          },
+          "DIFFICULTY_VERY_DIFFICULT": {
+            "min": 21,
+            "max": 25
+          },
+          "DIFFICULTY_HEROIC": {
+            "min": 26,
+            "max": 30
+          },
+          "DIFFICULTY_LEGENDARY": {
+            "min": 31,
+            "max": 40
+          }
+        }
+      },
+      "difficultyShort": {
+        "VE": "OD6S.DIFFICULTY_VERY_EASY",
+        "E": "OD6S.DIFFICULTY_EASY",
+        "M": "OD6S.DIFFICULTY_MODERATE",
+        "D": "OD6S.DIFFICULTY_DIFFICULT",
+        "VD": "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "H": "OD6S.DIFFICULTY_HEROIC",
+        "L": "OD6S.DIFFICULTY_LEGENDARY"
+      },
+      "terrain_difficulty": {
+        "OD6S": {
+          "TERRAIN_EASY": {
+            "mod": 0
+          },
+          "TERRAIN_MODERATE": {
+            "mod": 5
+          },
+          "TERRAIN_ROUGH": {
+            "mod": 10
+          },
+          "TERRAIN_VERY_ROUGH": {
+            "mod": 15
+          },
+          "TERRAIN_HAZARDOUS": {
+            "mod": 20
+          },
+          "TERRAIN_VERY_HAZARDOUS": {
+            "mod": 25
+          }
+        }
+      },
+      "result": {
+        "OD6S": {
+          "FAILURE": {
+            "description": "OD6S.FAILURE",
+            "difference": -1
+          },
+          "RESULT_MINIMAL": {
+            "description": "OD6S.RESULT_MINIMAL_DESCRIPTION",
+            "difference": 0
+          },
+          "RESULT_SOLID": {
+            "description": "OD6S.RESULT_SOLID_DESCRIPTION",
+            "difference": 1
+          },
+          "RESULT_GOOD": {
+            "description": "OD6S.RESULT_GOOD_DESCRIPTION",
+            "difference": 5
+          },
+          "RESULT_SUPERIOR": {
+            "description": "OD6S.RESULT_SUPERIOR_DESCRIPTION",
+            "difference": 9
+          },
+          "RESULT_SPECTACULAR": {
+            "description": "OD6S.RESULT_SPECTACULAR_DESCRIPTION",
+            "difference": 13
+          },
+          "RESULT_INCREDIBLE": {
+            "description": "OD6S.RESULT_INCREDIBLE_DESCRIPTION",
+            "difference": 16
+          }
+        }
+      },
+      "cover": {
+        "OD6S": {
+          "COVER_SMOKE": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_LIGHT_SMOKE": {
+                "modifier": 3
+              },
+              "COVER_THICK_SMOKE": {
+                "modifier": 6
+              },
+              "COVER_VERY_THICK_SMOKE": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER_LIGHT": {
+            "OD6S": {
+              "COVER_LIGHT_NONE": {
+                "modifier": 0
+              },
+              "COVER_POOR_LIGHT": {
+                "modifier": 3
+              },
+              "COVER_MOONLIGHT_NIGHT": {
+                "modifier": 6
+              },
+              "COVER_COMPLETE_DARKNESS": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_QUARTER": {
+                "modifier": 3
+              },
+              "COVER_HALF": {
+                "modifier": 6
+              },
+              "COVER_THREE_QUARTERS": {
+                "modifier": 12
+              },
+              "COVER_FULL": {
+                "modifier": 0
+              }
+            }
+          }
+        }
+      },
+      "calledShot": {
+        "OD6S": {
+          "CALLED_SHOT_NONE": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_LARGE": {
+            "modifier": 3,
+            "damage": 0
+          },
+          "CALLED_SHOT_MEDIUM": {
+            "modifier": 12,
+            "damage": 0
+          },
+          "CALLED_SHOT_SMALL": {
+            "modifier": 24,
+            "damage": 0
+          },
+          "CALLED_SHOT_HEAD": {
+            "modifier": 5,
+            "damage": 12
+          },
+          "CALLED_SHOT_HEART": {
+            "modifier": 15,
+            "damage": 12
+          },
+          "CALLED_SHOT_TORSO": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_ARM": {
+            "modifier": 5,
+            "damage": -2
+          },
+          "CALLED_SHOT_LEG": {
+            "modifier": 5,
+            "damage": -1
+          },
+          "CALLED_SHOT_HAND": {
+            "modifier": 15,
+            "damage": -2
+          }
+        }
+      },
+      "gravity": {
+        "OD6S": {
+          "GRAVITY_STANDARD": {
+            "modifier": 0
+          },
+          "GRAVITY_LOW": {
+            "modifier": -3
+          },
+          "GRAVITY_NONE": {
+            "modifier": -6
+          },
+          "GRAVITY_HEAVY": {
+            "modifier": 9
+          }
+        }
+      },
+      "misc": {
+        "OD6S": {
+          "MISC": {
+            "modifier": 0
+          }
+        }
+      },
+      "rangedAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_RANGED_SINGLE_FIRE_AS_MULTI": {
+            "attack": -3,
+            "damage": 3,
+            "multi": true
+          },
+          "ATTACK_RANGED_FULL_AUTO": {
+            "attack": -6,
+            "damage": 6,
+            "multi": false
+          },
+          "ATTACK_RANGED_SWEEP": {
+            "attack": -6,
+            "damage": -9,
+            "multu": false
+          },
+          "ATTACK_RANGED_BURST_FIRE_AS_SINGLE": {
+            "attack": 0,
+            "damage": -6,
+            "multi": false
+          }
+        }
+      },
+      "meleeAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "brawlAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_GRAB": {
+            "attack": 9,
+            "damage": 0
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          },
+          "ATTACK_SWEEP": {
+            "attack": -6,
+            "damage": -9
+          },
+          "ATTACK_TACKLE": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "attributes": {
+        "agi": {
+          "name": "Dexterity",
+          "shortName": "DEX"
+        },
+        "str": {
+          "name": "Strength",
+          "shortName": "STR"
+        },
+        "mec": {
+          "name": "Mechanical",
+          "shortName": "MEC"
+        },
+        "kno": {
+          "name": "Knowledge",
+          "shortName": "KNO"
+        },
+        "per": {
+          "name": "Perception",
+          "shortName": "PER"
+        },
+        "tec": {
+          "name": "Technical",
+          "shortName": "TEC"
+        },
+        "met": {
+          "name": "The Force",
+          "shortName": "The Force"
+        }
+      },
+      "ranges": {
+        "OD6S": {
+          "RANGE_POINT_BLANK_SHORT": {
+            "name": "OD6S.RANGE_POINT_BLANK",
+            "difficulty": -5,
+            "map": "OD6S.DIFFICULTY_VERY_EASY"
+          },
+          "RANGE_SHORT_SHORT": {
+            "name": "OD6S.RANGE_SHORT",
+            "difficulty": 0,
+            "map": "OD6S.DIFFICULTY_EASY"
+          },
+          "RANGE_MEDIUM_SHORT": {
+            "name": "OD6S.RANGE_MEDIUM",
+            "difficulty": 5,
+            "map": "OD6S.DIFFICULTY_MODERATE"
+          },
+          "RANGE_LONG_SHORT": {
+            "name": "OD6S.RANGE_LONG",
+            "difficulty": 10,
+            "map": "OD6S.DIFFICULTY_DIFFICULT"
+          }
+        }
+      },
+      "damageTypes": {
+        "p": "OD6S.PHYSICAL",
+        "e": "OD6S.ENERGY"
+      },
+      "cyberneticsLocations": [
+        "OD6S.HEAD",
+        "OD6S.RIGHT_ARM",
+        "OD6S.LEFT_ARM",
+        "OD6S.BODY",
+        "OD6S.RIGHT_LEG",
+        "OD6S.LEFT_LEG"
+      ],
+      "allowedItemTypes": {
+        "container": [
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ],
+        "character": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "character-template",
+          "species-template"
+        ],
+        "npc": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "species-template"
+        ],
+        "creature": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic"
+        ],
+        "vehicle": [
+          "vehicle-weapon",
+          "vehicle-gear"
+        ],
+        "starship": [
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "actorTypeLabels": {
+        "character": "ACTOR.TypeCharacter",
+        "creature": "ACTOR.TypeCreature",
+        "npc": "ACTOR.TypeNpc",
+        "starship": "ACTOR.TypeStarship",
+        "vehicle": "ACTOR.TypeVehicle"
+      },
+      "templateItemTypes": {
+        "character-template": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation"
+        ],
+        "species-template": [
+          "specialability"
+        ],
+        "item-group": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "itemLabels": {
+        "skill": "OD6S.SKILL",
+        "specialization": "OD6S.SPECIALIZATION",
+        "advantage": "OD6S.ADVANTAGE",
+        "disadvantage": "OD6S.DISADVANTAGE",
+        "specialability": "OD6S.SPECIAL_ABILITY",
+        "armor": "OD6S.ARMOR",
+        "weapon": "OD6S.WEAPON",
+        "gear": "OD6S.GEAR",
+        "cybernetic": "OD6S.CYBERNETICS",
+        "vehicle": "OD6S.VEHICLE",
+        "manifestation": "OD6S.MANIFESTATION",
+        "character-template": "OD6S.CHARACTER_TEMPLATE",
+        "action": "OD6S.ACTION",
+        "species-template": "ITEM.TypeSpecies-template",
+        "starship-gear": "ITEM.TypeStarship-gear",
+        "starship-weapon": "ITEM.TypeStarship-weapon",
+        "vehicle-gear": "ITEM.TypeVehicle-gear",
+        "vehicle-weapon": "ITEM.TypeVehicle-weapon"
+      },
+      "chatTemplates": {
+        "generic": "systems/od6s/templates/chat/generic.html",
+        "roll": "systems/od6s/templates/chat/roll.html",
+        "opposed": "systems/od6s/templates/chat/opposed.html",
+        "damageresult": "systems/od6s/templates/chat/damageresult.html"
+      },
+      "data_tab": {
+        "defense": {
+          "dodge": "OD6S.DODGE",
+          "parry": "OD6S.PARRY",
+          "block": "OD6S.BLOCK"
+        },
+        "offense": {
+          "ranged": "OD6S.RANGED",
+          "melee": "OD6S.MELEE",
+          "brawl": "OD6S.BRAWL"
+        }
+      },
+      "statusEffects": [
+        {
+          "id": "dead",
+          "label": "EFFECT.StatusDead",
+          "icon": "icons/svg/skull.svg"
+        },
+        {
+          "id": "unconscious",
+          "label": "EFFECT.StatusUnconscious",
+          "icon": "icons/svg/unconscious.svg"
+        },
+        {
+          "id": "sleep",
+          "label": "EFFECT.StatusAsleep",
+          "icon": "icons/svg/sleep.svg"
+        },
+        {
+          "id": "stun",
+          "label": "EFFECT.StatusStunned",
+          "icon": "icons/svg/daze.svg"
+        },
+        {
+          "id": "prone",
+          "label": "EFFECT.StatusProne",
+          "icon": "icons/svg/falling.svg"
+        },
+        {
+          "id": "restrain",
+          "label": "EFFECT.StatusRestrained",
+          "icon": "icons/svg/net.svg"
+        },
+        {
+          "id": "paralysis",
+          "label": "EFFECT.StatusParalysis",
+          "icon": "icons/svg/paralysis.svg"
+        },
+        {
+          "id": "fly",
+          "label": "EFFECT.StatusFlying",
+          "icon": "icons/svg/wing.svg"
+        },
+        {
+          "id": "blind",
+          "label": "EFFECT.StatusBlind",
+          "icon": "icons/svg/blind.svg"
+        },
+        {
+          "id": "deaf",
+          "label": "EFFECT.StatusDeaf",
+          "icon": "icons/svg/deaf.svg"
+        },
+        {
+          "id": "silence",
+          "label": "EFFECT.StatusSilenced",
+          "icon": "icons/svg/silenced.svg"
+        },
+        {
+          "id": "fear",
+          "label": "EFFECT.StatusFear",
+          "icon": "icons/svg/terror.svg"
+        },
+        {
+          "id": "burning",
+          "label": "EFFECT.StatusBurning",
+          "icon": "icons/svg/fire.svg"
+        },
+        {
+          "id": "frozen",
+          "label": "EFFECT.StatusFrozen",
+          "icon": "icons/svg/frozen.svg"
+        },
+        {
+          "id": "shock",
+          "label": "EFFECT.StatusShocked",
+          "icon": "icons/svg/lightning.svg"
+        },
+        {
+          "id": "bleeding",
+          "label": "EFFECT.StatusBleeding",
+          "icon": "icons/svg/blood.svg"
+        },
+        {
+          "id": "disease",
+          "label": "EFFECT.StatusDisease",
+          "icon": "icons/svg/biohazard.svg"
+        },
+        {
+          "id": "poison",
+          "label": "EFFECT.StatusPoison",
+          "icon": "icons/svg/poison.svg"
+        },
+        {
+          "id": "radiation",
+          "label": "EFFECT.StatusRadiation",
+          "icon": "icons/svg/radiation.svg"
+        },
+        {
+          "id": "upgrade",
+          "label": "EFFECT.StatusUpgrade",
+          "icon": "icons/svg/upgrade.svg"
+        },
+        {
+          "id": "downgrade",
+          "label": "EFFECT.StatusDowngrade",
+          "icon": "icons/svg/downgrade.svg"
+        },
+        {
+          "id": "target",
+          "label": "EFFECT.StatusTarget",
+          "icon": "icons/svg/target.svg"
+        }
+      ],
+      "hitLocations": {
+        "0": "OD6S.LOCATION_RIGHT_HAND",
+        "1": "OD6S.LOCATION_LEFT_HAND",
+        "2": "OD6S.LOCATION_RIGHT_LEG",
+        "3": "OD6S.LOCATION_RIGHT_FOOT",
+        "4": "OD6S.LOCATION_LEFT_LEG",
+        "5": "OD6S.LOCATION_LEFT_FOOT",
+        "6": "OD6S.LOCATION_ABDOMEN",
+        "7": "OD6S.LOCATION_CHEST",
+        "8": "OD6S.LOCATION_CHEST",
+        "9": "OD6S.LOCATION_HEAD"
+      },
+      "manifestationName": "Force Power",
+      "starshipToughnessName": "Hull",
+      "interstellarDriveName": "Hypderdrive"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.zV3YZvnSgOQergO2"
+    },
+    "scene-packer": {
+      "hash": "78a581b487b46aef3ff17e8968ab8d30662fc7f2",
+      "sourceId": "Item.zV3YZvnSgOQergO2"
+    }
+  },
+  "_id": "KEB98tziuVNjxOLe",
+  "_key": "!items!KEB98tziuVNjxOLe"
+}

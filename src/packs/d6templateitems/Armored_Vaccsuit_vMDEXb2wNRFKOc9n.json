@@ -1,0 +1,41 @@
+{
+  "_id": "vMDEXb2wNRFKOc9n",
+  "name": "Armored Vaccsuit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/armoredspacesuit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This bulky coverall contains a sealed life support system that provides everything the wearer needs to survive for 25 hours in the vacuum of space or any other hostile environment.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Merr-Sonn Weapons Boarding Armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Armored space suit</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, X</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Armor provides +1D versus </span><span class=\"fontstyle6\">energy</span><span class=\"fontstyle5\">, +1D versus </span><span class=\"fontstyle6\">physical </span><span class=\"fontstyle5\">damage; </span><span class=\"fontstyle5\">Holds 25 hours of atmosphere.</span></p>\n<p><span class=\"fontstyle6\"><strong>Rocket Pack:</strong> </span><span class=\"fontstyle5\">Suit includes a rocket pack; Space Move: 1, uses </span><em><span class=\"fontstyle6\">rocket pack operation</span></em><span class=\"fontstyle5\">.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.g1n5mtGqscihUouf"
+    },
+    "scene-packer": {
+      "hash": "77b6582e9d7f7b8d6fa9529fbaba1b948dbfb9b9",
+      "sourceId": "Item.vMDEXb2wNRFKOc9n"
+    }
+  },
+  "_key": "!items!vMDEXb2wNRFKOc9n"
+}

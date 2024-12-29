@@ -1,0 +1,47 @@
+{
+  "_id": "DvLvatY6tQ5taTDz",
+  "name": "You May Select Nine Force Powers",
+  "type": "manifestation",
+  "img": "icons/magic/control/debuff-energy-hold-green.webp",
+  "data": {
+    "description": "<p>Alien Student of the Force</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "df86ef34857c5f52249c18635e279b53823f9155",
+      "sourceId": "Item.DvLvatY6tQ5taTDz"
+    }
+  },
+  "_key": "!items!DvLvatY6tQ5taTDz"
+}

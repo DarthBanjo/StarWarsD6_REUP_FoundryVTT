@@ -1,0 +1,37 @@
+{
+  "_id": "AS06iw2kQD4OyZsc",
+  "name": "Membership ID card for the Imperial Entertainers' Guild",
+  "type": "gear",
+  "img": "icons/sundries/gaming/playing-cards-grey.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a4bb4d506a285baf36234a10ff0336d492e3b91c",
+      "sourceId": "Item.AS06iw2kQD4OyZsc"
+    }
+  },
+  "_key": "!items!AS06iw2kQD4OyZsc"
+}

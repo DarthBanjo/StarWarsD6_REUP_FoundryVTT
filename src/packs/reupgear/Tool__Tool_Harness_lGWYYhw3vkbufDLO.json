@@ -1,0 +1,36 @@
+{
+  "_id": "lGWYYhw3vkbufDLO",
+  "name": "Tool, Tool Harness",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/tools.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">For holding all of your tools on your person.</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 10</p>\n<p><strong>Availability:</strong>&nbsp;1</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.lGWYYhw3vkbufDLO"
+    }
+  },
+  "_key": "!items!lGWYYhw3vkbufDLO"
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "GJxW8flOSSPI5jIj",
+  "name": "Sling",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBYSA/sling.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A primitive weapon, the sling hurls metal bullets or stones.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Sling</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Primitive missile weapon</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Thrown Weapons: Sling</span></em></p>\n<p><span class=\"fontstyle4\"><strong>Ammo:</strong> </span><span class=\"fontstyle5\">1 (stone)</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">Not available for sale</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">3, F</span></p>\n<p><strong><span class=\"fontstyle4\">Fire Rate: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Range:</strong> </span><span class=\"fontstyle5\">3-7/15/30</span></p>\n<p><span class=\"fontstyle4\"><strong>Damage:</strong> </span><span class=\"fontstyle5\">2D+1</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Thrown",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Thrown Weapons",
+      "specialization": "Sling"
+    },
+    "range": {
+      "short": "7",
+      "medium": "15",
+      "long": "30"
+    },
+    "damage": {
+      "type": "p",
+      "score": 7,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 1,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.GJxW8flOSSPI5jIj"
+    }
+  },
+  "_key": "!items!GJxW8flOSSPI5jIj"
+}

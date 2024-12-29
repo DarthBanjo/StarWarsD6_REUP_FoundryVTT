@@ -1,0 +1,31 @@
+{
+  "_id": "6YZ3qEUYZ2rlBnbo",
+  "name": "Value",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_value.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of goods or specific planet&rsquo;s markets &mdash; </span><span class=\"fontstyle0\">starships, droids, Kessel, Coruscant</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s ability to gauge the fair market value of goods based on the local economy, the availability of merchandise, quality and other market factors. The character can also gauge specific capabilities of and modifications made to goods with regard to performance.</span></p>\n<p><span class=\"fontstyle2\">Using </span><span class=\"fontstyle0\">value </span><span class=\"fontstyle2\">often answers the question, &ldquo;How much is it </span><span class=\"fontstyle0\">really </span><span class=\"fontstyle2\">worth?&rdquo; Results often depend on the source of information about the item, and how much the character already knows about that kind of merchandise. A starship dealer rattling on about a particular used-freighter might be exaggerating &mdash; although characters can make some estimations based on the starship model. If the item can be examined in person, its value is much easier to determine.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">When the character makes a </span><span class=\"fontstyle2\">value </span></strong><span class=\"fontstyle0\"><strong>roll, use these difficulty guidelines:</strong><br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Knowing that a new astromech droid should cost about 1,000 credits.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Knowing that a new freighter, equipped with heavy duty weapons, should cost well over 100,000 credits; knowing that it could probably stand up to a slower starfighter, but not a customs ship.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Figuring out how much a modified freighter is worth, and how much better (or worse) the modifications make it.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Determining how much it should cost to hire a pilot to make a smuggling run where there&rsquo;s a high level of risk involved.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Determining how expensive it should be to hire a crack pilot to fly an Imperial blockade... when he knows the risks.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Coming up with a market price for a product in a hurry &mdash; one that isn&rsquo;t normally &ldquo;on the market&rdquo; (Cloud City, a Star Destroyer, a Rebel Princess to be sold to the Empire). Knowing how much an Imperial prototype weapon is worth.</span> </p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!6YZ3qEUYZ2rlBnbo"
+}

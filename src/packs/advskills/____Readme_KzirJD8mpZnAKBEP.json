@@ -1,0 +1,27 @@
+{
+  "_id": "KzirJD8mpZnAKBEP",
+  "name": "(#) Readme",
+  "type": "skill",
+  "img": "systems/od6s/icons/blank.png",
+  "data": {
+    "description": "<p>Disclaimer: Advanced Skills in Foundry are treated like normal skills.&nbsp;</p>\n<p>If a character has one, they will need to manually edit the value on their character sheets, and remember to manually add their (A) skill dice to the prerequisite skills when rolling.</p>\n<p>In addition, the&nbsp;<strong>Advance&nbsp;</strong>mode drop-down list will not correctly take into account the character point cost of engineering skills (which costs double the number before the D).</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!KzirJD8mpZnAKBEP"
+}

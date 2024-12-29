@@ -1,0 +1,38 @@
+{
+  "_id": "iFNJGjrZtByXYsVj",
+  "name": "Battle Meditation",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_battlemeditation.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Varies based on the number of targeted individuals. See Chart.</p>\n<p><strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Sense difficulty</span></strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><strong>:&nbsp;</strong></span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Varies based on the number of targeted individuals. See Chart.</span></p>\n<p><strong>Alter Difficulty:&nbsp;</strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Varies based on the number of targeted individuals. See Chart.</span></p>\n<ul>\n<li><strong>Very Easy: </strong>1-2 targets</li>\n<li><strong>Easy: </strong>3-20 targets</li>\n<li><strong>Moderate:</strong> 21-100 targets</li>\n<li><strong>Difficult:</strong> 101-1,000 targets</li>\n<li><strong>Very Difficult: </strong>1,001-10,000 targets</li>\n<li><strong>Heroic:</strong> 10,001+ targets.</li>\n</ul>\n<p><em>This power can be kept \"up.\"</em></p>\n<p><strong>Time to Use:&nbsp;</strong>5 minutes.</p>\n<p><strong>Effect: </strong>Battle meditation has two possible effects. The Jedi can force her adversaries to abandon their assault and turn on each other, or she can alter the tide of the battle, strengthening her allies and at the same time weakening her enemies. Before initiating the power the Jedi must state which effect she wishes to use.</p>\n<p><strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Turn Attackers Against Each Other</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">: </span></strong>The targets of this power must have initiated combat for the effects to take hold. In game terms, a Jedi may only use this power effectively on or after the first round of combat, not before. Enemies are defined as those who seek to oppose the Jedi's immediate goal (rescuing a prisoner, defeating a group of dark siders, et cetera); allies are defined as those who seek to uphold and forward the Jedi's goal.</p>\n<p>When attempting to turn attackers against each other, the Jedi's highest skill roll (<em>control, sense, or alter</em>) to activate the skill becomes the difficulty the targets must beat to avoid the effect. Otherwise they immediately see their allies as the \"true\" enemy and attack. The Jedi must maintain the effect each round for the combatants to continue fighting. Once the power is dropped, its effects wear off instantly.</p>\n<p><strong>Alter The Tide of the Battle: </strong>On a successful roll to change the balance of the battle in the Jedi's allies' favor, the Jedi's enemies lose 1D for every 4D she has in her best Force skill, in an attribute determined by the Jedi (i.e., <em>Strength, Dexterity</em>, etc) to a minimum of 1D, while her allies receive a bonus of the same value to an attribute of her choosing.</p>\n<dl></dl>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "aAvnUKH9RhDMCmvE",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Battle Meditation",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_battlemeditation.svg",
+      "tint": null,
+      "_key": "!items.effects!iFNJGjrZtByXYsVj.aAvnUKH9RhDMCmvE"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!iFNJGjrZtByXYsVj"
+}

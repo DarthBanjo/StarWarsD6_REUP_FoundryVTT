@@ -1,0 +1,42 @@
+{
+  "_id": "YmlYvw7jnTjSC1CN",
+  "name": "Control Breathing",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_controlbreathing.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Moderate</p>\n<p><strong>Alter Difficulty: </strong>Very Difficult</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Concentration,&nbsp;Hibernation Trance,&nbsp;Telekinesis</em></p>\n<p><em>This power may be &ldquo;kept up&rdquo;.</em></p>\n<p><strong>Effect: </strong>This power allows a Jedi to control the amount of oxygen flowing into his or her body. The Jedi takes control of the surrounding atmosphere, pulling oxygen molecules through the skin into the lungs. With this power the Jedi can effectively breathe underwater, and conversely, a water breather could survive on land. In game terms, this power negates the need for a breath mask, mechgill, or any rebreather gear.</p>\n<p>In the cold of space or a hard vacuum, however, this power would be of little use. Even if the Jedi could somehow survive the drastic changes in pressure or the extreme temperatures, there is not enough oxygen in these environments for the Jedi to &ldquo;grab.&rdquo;</p>\n<p>The power will remain up until the character either takes incapacitating damage or willfully drops it.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "v89wM4FQk2kEWLmn",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Control Breathing",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_controlbreathing.svg",
+      "tint": null,
+      "_key": "!items.effects!YmlYvw7jnTjSC1CN.v89wM4FQk2kEWLmn"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.YmlYvw7jnTjSC1CN"
+    }
+  },
+  "_key": "!items!YmlYvw7jnTjSC1CN"
+}

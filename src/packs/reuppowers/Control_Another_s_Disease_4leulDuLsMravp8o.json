@@ -1,0 +1,25 @@
+{
+  "_id": "4leulDuLsMravp8o",
+  "name": "Control Another's Disease",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_controlanothersdisease.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Very Easy, as modified by relationship.</p>\n<p><strong>Alter Difficulty:&nbsp;</strong></p>\n<ul>\n<li><span class=\"fontstyle2\">Very Easy for a mild infection, such as a cold;</span></li>\n<li><span class=\"fontstyle2\">Easy for a modest infection or illness, such as a high fever or severe flu;</span></li>\n<li><span class=\"fontstyle2\">Moderate for a severe illness, such as gangrene or a hive virus;</span></li>\n<li><span class=\"fontstyle2\">Difficult for a life-threatening disease;</span></li>\n<li><span class=\"fontstyle2\">Very Difficult for a massive, long-standing disease;</span></li>\n<li><span class=\"fontstyle2\">Heroic for a rapid-acting life-threatening disease.</span></li>\n</ul>\n<p><strong>Required Powers:&nbsp;</strong><em>Accelerate Healing,&nbsp;Control Disease</em></p>\n<p><strong>Time to Use: </strong>30 minutes to several uses over the course of several weeks.</p>\n<p><strong>Effect: </strong>This power allows a Jedi to heal another character, using the same rules and conditions as outlined in <em>control disease</em>. The Jedi must be touching the character to be healed.</p>\n<p><span class=\"fontstyle3\">Control disease&nbsp;</span><span class=\"fontstyle2\">allows the Jedi to direct and control the anti-bodies and healing resources of her body to throw off an infection or to resist diseases within the body. Using the power requires the Jedi to meditate for half an hour.</span></p>\n<p><span class=\"fontstyle2\">If the disease is life-threatening or long-standing, the Jedi must make repeated skill attempts over the course of several weeks or months to cure the disease entirely. (gamemaster&rsquo;s discretion as to how many rolls are needed and how often.)</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.4leulDuLsMravp8o"
+    }
+  },
+  "_key": "!items!4leulDuLsMravp8o"
+}

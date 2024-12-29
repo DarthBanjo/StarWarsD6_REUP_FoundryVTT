@@ -1,0 +1,31 @@
+{
+  "_id": "56fipEI9k3Rwrqzb",
+  "name": "Space Transports",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_spacetransports.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model transport &mdash; </span><span class=\"fontstyle0\">YT-1300 transport, Gallofree medium transport, Corellian Action VI transport</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Space transports </span><span class=\"fontstyle2\">is used to pilot all space transports: any non-combat starship, ranging from small light freighters (the </span><span class=\"fontstyle0\">Millennium Falcon </span><span class=\"fontstyle2\">is a highly-modified YT-1300 light freighter) and scout ships to passenger liners, huge container ships and super transports. Transports may be starfighter- or capital-scale.</span></p>\n<p><span class=\"fontstyle0\">Space transports </span><span class=\"fontstyle2\">can be used for a starship dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!56fipEI9k3Rwrqzb"
+}

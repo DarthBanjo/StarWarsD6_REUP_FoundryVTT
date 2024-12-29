@@ -1,0 +1,37 @@
+{
+  "_id": "Cui3pSwZheQWloKj",
+  "name": "Identification",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-sealed-beige-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "19c98d70929f785885b4410a3ae77c9f9995d197",
+      "sourceId": "Item.Cui3pSwZheQWloKj"
+    }
+  },
+  "_key": "!items!Cui3pSwZheQWloKj"
+}

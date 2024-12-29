@@ -1,0 +1,50 @@
+{
+  "_id": "DTCwntUYqDon9hj2",
+  "name": "Intense Training: Clone Armor",
+  "type": "specialability",
+  "img": "icons/skills/movement/arrow-upward-blue.webp",
+  "data": {
+    "description": "<p><strong>Developer's note: </strong>this skill is added to overcome the clone armor -1D Dex penalty, and then grant a Dex 1D bonus to Clone Troopers, as represented on page 275 of REUP.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [
+    {
+      "_id": "d33NwhZLmLTUAHxg",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Clone Armor Training",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!DTCwntUYqDon9hj2.d33NwhZLmLTUAHxg"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.eIwvRH22JhZRZEdC"
+    },
+    "scene-packer": {
+      "hash": "82c41f7d69dfc74fc98528e4c698235c400065c7",
+      "sourceId": "Item.DTCwntUYqDon9hj2"
+    }
+  },
+  "_key": "!items!DTCwntUYqDon9hj2"
+}

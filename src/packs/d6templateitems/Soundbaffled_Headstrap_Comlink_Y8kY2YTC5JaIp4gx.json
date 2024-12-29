@@ -1,0 +1,37 @@
+{
+  "_id": "Y8kY2YTC5JaIp4gx",
+  "name": "Soundbaffled Headstrap Comlink",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_specforceinfiltrator.webp",
+  "data": {
+    "description": "<p>Covers face, allows communication with other team members, allows normal speech with no stealth&nbsp;penalties.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "41978bcba23b3a877d7b5d1bde95649f417cd1ec",
+      "sourceId": "Item.Y8kY2YTC5JaIp4gx"
+    }
+  },
+  "_key": "!items!Y8kY2YTC5JaIp4gx"
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "J58ZGOsqt0KXjkYq",
+  "name": "Life Web",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_lifeweb.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong>See below: modified by proximity.</p>\n<p><strong>Note: </strong>The Force-user must choose one specific species as a specialization (see below).</p>\n<p><strong>Required Powers:&nbsp;</strong>Life Detection,&nbsp;Life Sense,&nbsp;Sense Force</p>\n<p><strong>Time to Use: </strong>Two days (or more)</p>\n<p><strong>Effect: </strong>This power is used to detect large concentrations of members of a specific species such as humans, Rodians, or Chadra-Fan. When the power is used successfully, the users sense the general direction toward the population. If the Jedi beats the difficulty by 10 or more, she knows the approximate distance to the population (i.e., hundreds or thousands of kilometers, or single tens, hundreds, or thousands of light-years). The base difficulty to use this power depends upon the size of the nearest significant population:</p>\n<ul>\n<li>Very Easy &mdash; Population in tens of billions</li>\n<li>Easy &mdash; Population in billions</li>\n<li>Moderate &mdash; Population in hundreds of millions</li>\n<li>Difficult &mdash; Populations in tens of millions</li>\n<li>Very Difficult &mdash; Populations in millions</li>\n<li>Heroic &mdash; Population in hundreds of thousands</li>\n</ul>\n<p>This power may not be used to detect populations smaller than 100,000 individuals. When this power is selected, the Force-user must select a specific intelligent species to specialize in. A Force-user may select more life web species specializations at a cost of three Character Points per additional species. The Force-user must be familiar with the species - for example, Ulic Qel-Droma could specialize in <em>life web: Twi&rsquo;lek </em>since he is familiar with Tott Doneeta&rsquo;s unique &ldquo;Force presence,&rdquo; but he would not be able to select <em>life web: Rodian</em> until he spent time with a member of that species. This power may only be used to detect species that the Force-user has specialized in. This power requires at least two days of continuous concentration. For each additional two days of concentration, the Force-user may add +1D to his or her <em>sense </em>roll.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!J58ZGOsqt0KXjkYq"
+}

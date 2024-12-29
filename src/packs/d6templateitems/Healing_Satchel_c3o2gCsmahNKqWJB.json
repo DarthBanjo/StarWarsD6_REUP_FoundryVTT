@@ -1,0 +1,37 @@
+{
+  "_id": "c3o2gCsmahNKqWJB",
+  "name": "Healing Satchel",
+  "type": "gear",
+  "img": "icons/containers/bags/pouch-leather-leaf-green.webp",
+  "data": {
+    "description": "<p>The satchel carries the equivalent of 10 medpac applications.</p>\n<p><strong>Game Notes:&nbsp;</strong>Heals one wound level on a successful&nbsp;<em>first aid</em>&nbsp;roll, one use being expended after that.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 10,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5fcabfa76d37ea8927eb6aa607b68eeb72099ddb",
+      "sourceId": "Item.c3o2gCsmahNKqWJB"
+    }
+  },
+  "_key": "!items!c3o2gCsmahNKqWJB"
+}

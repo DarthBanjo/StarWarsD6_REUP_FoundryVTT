@@ -1,0 +1,85 @@
+{
+  "_id": "QOVHUivGtc4ZINrj",
+  "name": "Grenade Launcher",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/grenadelauncher2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Grenade launchers are military weapons that greatly improve the range of grenades. Grenades fired by grenade launchers always explode on impact, regardless of timers or other considerations. The type of grenade used determines the damage, type, and burst radius. Grenade launchers cannot be used to hurl thermal detonators because these devices are simply too big and heavy (although some larger grenade mortars can hurl thermal detonators as well).<br /></span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Grenade launcher</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Missile Weapons: Grenade Launcher</span></em></p>\n<p><strong><span class=\"fontstyle4\">Ammo: </span></strong><span class=\"fontstyle5\">4</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">2, X</span></p>\n<p><strong><span class=\"fontstyle4\">Fire Rate: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">0-250/350/500</span></p>\n<p><strong><span class=\"fontstyle4\">Blast Radius: </span></strong><span class=\"fontstyle5\">By grenade type</span></p>\n<p><span class=\"fontstyle4\"><strong>Damage:</strong> </span><span class=\"fontstyle5\">By grenade type</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Missile",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Missile Weapons",
+      "specialization": "Grenade Launcher"
+    },
+    "range": {
+      "short": "250",
+      "medium": "350",
+      "long": "500"
+    },
+    "damage": {
+      "type": "p",
+      "score": 0,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 2,
+        "damage": 6
+      },
+      "2": {
+        "range": 4,
+        "damage": 5
+      },
+      "3": {
+        "range": 6,
+        "damage": 3
+      },
+      "4": {
+        "range": 8,
+        "damage": 2
+      }
+    },
+    "ammo": 4,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2nYPQ7fUeg2qrCow"
+    }
+  },
+  "_key": "!items!QOVHUivGtc4ZINrj"
+}

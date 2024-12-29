@@ -1,0 +1,49 @@
+{
+  "_id": "Kx0NvIn2uA8mPiWJ",
+  "name": "Lesser Force Shield",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_lessershield.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong> Easy</p>\n<p><strong>Alter Difficulty: </strong>Moderate</p>\n<p>Required Powers:&nbsp;<em>Absorb/Dissipate Energy,&nbsp;Concentration,&nbsp;Magnify Senses,&nbsp;Telekinesis</em></p>\n<p><em>This power may be kept up.</em></p>\n<p><strong>Effect: </strong>This power allows the Jedi to surround his body with a Force-generated shield. The shield can be used to repel energy and physical matter away from the Jedi&rsquo;s body, down to the molecular level.</p>\n<p>The shield acts as STR+1D armor to all energy and physical attacks made against the Jedi including non-directional attacks such as gas clouds and grenade blasts. The shield is not particularly strong, but can sometimes be just enough to protect the Jedi from serious injury.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "YDfnWCGqGj1IYZt3",
+      "changes": [
+        {
+          "key": "data.er.mod",
+          "mode": 2,
+          "value": "3"
+        },
+        {
+          "key": "data.pr.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Lesser Force Shield",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_lessershield.svg",
+      "tint": null,
+      "_key": "!items.effects!Kx0NvIn2uA8mPiWJ.YDfnWCGqGj1IYZt3"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Kx0NvIn2uA8mPiWJ"
+}

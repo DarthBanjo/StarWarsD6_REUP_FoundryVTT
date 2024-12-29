@@ -1,0 +1,31 @@
+{
+  "_id": "LuX7SvBFuaKYbmQ3",
+  "name": "Security",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_security.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model security device &mdash; </span><span class=\"fontstyle0\">magna lock, blast door, retinal lock</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill represents a character&rsquo;s knowledge of physical security systems: locks, alarm systems and other detection devices. It does not govern computer security procedures.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The difficulty depends on the sophistication of the lock or alarm:</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Standard lock, no special protection.<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Regular security lock, civilian.<br /></span><span class=\"fontstyle2\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">High-quality lock, standard military.<br /></span><span class=\"fontstyle2\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Bank vault lock, upper military.<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Super-security lock, Imperial governor, Fleet captain, rare collectible dealer, Jabba the Hutt&rsquo;s locks.<br /></span><strong><span class=\"fontstyle2\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">If Darth Vader or Emperor Palpatine locked things up, this is what they&rsquo;d use.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several minutes.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!LuX7SvBFuaKYbmQ3"
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "lz3cF853ibq68bcE",
+  "name": "Sense",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/1_skill_sense.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Sense </span><span class=\"fontstyle2\">teaches a Jedi to sense the Force in other things beyond her own body. The Jedi learns to feel the bonds that connect all living things and gains the ability to understand how all things are interconnected. </span><span class=\"fontstyle0\">Sense </span><span class=\"fontstyle2\">governs powers such as detecting danger and learning information about the world around the Jedi.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "met",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.metaphysics-skills.Jk1tUa81NS4pTXva"
+    }
+  },
+  "_key": "!items!lz3cF853ibq68bcE"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "jnZwCzqnmrtifZBa",
+  "name": "Therma-canteen",
+  "type": "gear",
+  "img": "icons/sundries/survival/wetskin-leather-purple.webp",
+  "data": {
+    "description": "<p>Used to carry water and keep it chilled.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 7,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "370409d8ce21fda613c3fc4b48dc32cd12053106",
+      "sourceId": "Item.jnZwCzqnmrtifZBa"
+    }
+  },
+  "_key": "!items!jnZwCzqnmrtifZBa"
+}

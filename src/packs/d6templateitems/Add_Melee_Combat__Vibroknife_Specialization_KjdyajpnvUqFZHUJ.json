@@ -1,0 +1,26 @@
+{
+  "_id": "KjdyajpnvUqFZHUJ",
+  "name": "Add Melee Combat: Vibroknife Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_meleecombat.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "49ad275153e29e3f44ce22bf3fe0b4e6715750dd",
+      "sourceId": "Item.KjdyajpnvUqFZHUJ"
+    }
+  },
+  "_key": "!items!KjdyajpnvUqFZHUJ"
+}

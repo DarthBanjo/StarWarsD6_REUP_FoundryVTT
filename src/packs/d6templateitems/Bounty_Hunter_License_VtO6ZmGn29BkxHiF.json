@@ -1,0 +1,37 @@
+{
+  "_id": "VtO6ZmGn29BkxHiF",
+  "name": "Bounty Hunter License",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-symbol-skull-tan.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3a2c786436034c1461336f648ac572f5c8d0e2a5",
+      "sourceId": "Item.VtO6ZmGn29BkxHiF"
+    }
+  },
+  "_key": "!items!VtO6ZmGn29BkxHiF"
+}

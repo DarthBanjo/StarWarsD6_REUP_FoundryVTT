@@ -1,0 +1,36 @@
+{
+  "_id": "mewY3rjCRQPIgFUy",
+  "name": "Sensor Pack, Military",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/scanner.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Sensor packs are portable scanning devices that can detect life-forms, com signals, energy emissions, tectonic instability and any number of other phenomena. Most sensor packs are hand-held devices that are fairly bulky; more sensitive apparatus must often be handled by two or more people.</span></p>\n<p><span class=\"fontstyle0\">Smaller sensor packs are only capable of detecting a single phenomenon (such as a comm signal or life-form); the more functions the sensor pack is required to perform, the larger the unit tends to be. Most hand-held sensor packs are only capable of giving general information about what has been detected (such as the general direction and frequency of a comm signal, or the relative distance to a life-form) but cannot give precise data. Larger units tend to be more accurate &mdash; and more sensitive &mdash; but are also more expensive.</span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">NeuroSaav 4100/Mil Enhanced Sensor Pack</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Portable scanning device</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Sensors</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">1,500</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, R</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Able to scan to a range of 1,000 meters (though more than 1 meter of rock or metal blocks it). It can detect movement, find life forms, monitor comlink signals, </span><span class=\"fontstyle3\">and </span><span class=\"fontstyle2\">give the approximate bearings to the source of a comm transmission or a life form. Device gives a +1D bonus to </span><em><span class=\"fontstyle3\">sensors</span></em><span class=\"fontstyle2\">, or </span><em><span class=\"fontstyle3\">search </span></em><span class=\"fontstyle2\">rolls depending on the circumstances.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mewY3rjCRQPIgFUy"
+    }
+  },
+  "_key": "!items!mewY3rjCRQPIgFUy"
+}

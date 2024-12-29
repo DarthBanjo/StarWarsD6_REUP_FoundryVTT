@@ -1,0 +1,26 @@
+{
+  "_id": "xA2Iq1HnRRwqTAHb",
+  "name": "Anzati Stealth",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/s_anzati.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Because they must secretly hunt sentient beings, Anzati have grown adept at maintaining their stealth and secrecy. This is reflected in a +1D bonus to their </span><em><span class=\"fontstyle2\">hide </span></em><span class=\"fontstyle0\">and </span><em><span class=\"fontstyle2\">sneak </span></em><span class=\"fontstyle0\">skills.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2b471a49afbb9dc60b85b56ba328ec2c9f8fe455",
+      "sourceId": "Item.xA2Iq1HnRRwqTAHb"
+    }
+  },
+  "_key": "!items!xA2Iq1HnRRwqTAHb"
+}

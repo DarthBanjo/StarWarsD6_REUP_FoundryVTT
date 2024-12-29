@@ -1,0 +1,37 @@
+{
+  "_id": "NvTqECIgTL5TSRJk",
+  "name": "COMPNOR SAGroup uniform",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_compnorsagroupyouth.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c5bf64fe4f5cc053cda6219dc61b81cae35fa2cf",
+      "sourceId": "Item.NvTqECIgTL5TSRJk"
+    }
+  },
+  "_key": "!items!NvTqECIgTL5TSRJk"
+}

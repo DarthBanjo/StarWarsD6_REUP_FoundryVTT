@@ -1,0 +1,32 @@
+{
+  "_id": "cJhqECFI93e5bXGm",
+  "name": "Metal, common (1000kg)",
+  "type": "gear",
+  "img": "icons/commodities/metal/ingot-iron.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 2500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!cJhqECFI93e5bXGm"
+}

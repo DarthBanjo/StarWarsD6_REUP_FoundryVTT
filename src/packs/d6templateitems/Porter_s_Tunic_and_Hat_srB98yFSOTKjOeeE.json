@@ -1,0 +1,37 @@
+{
+  "_id": "srB98yFSOTKjOeeE",
+  "name": "Porter's Tunic and Hat",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_packtracker.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4b101435911398e333a87b35ee1aa5a6b2c34a33",
+      "sourceId": "Item.srB98yFSOTKjOeeE"
+    }
+  },
+  "_key": "!items!srB98yFSOTKjOeeE"
+}

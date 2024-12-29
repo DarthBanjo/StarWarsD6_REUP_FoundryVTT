@@ -1,0 +1,31 @@
+{
+  "_id": "aRsCL9XRKnk3EUgh",
+  "name": "Artillery",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_artillery.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">The particular type or model of projectile artillery &mdash; </span><span class=\"fontstyle0\">cannons, Golan Arms M102 Fire Arc.</span></em></p>\n<p><span class=\"fontstyle0\">Artillery </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to fire all non-energy projectile weapons, such as cannons and field guns (excluding self-propelled projectiles or launched grenades, which are covered under </span><span class=\"fontstyle0\">missile weapons</span><span class=\"fontstyle2\">).</span></p>\n<p><span class=\"fontstyle0\">The time taken to use this skill is often one round.<br />However, certain kinds of artillery have a &ldquo;fire rate,&rdquo; which indicates how many times a round that weapon can be used.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!aRsCL9XRKnk3EUgh"
+}

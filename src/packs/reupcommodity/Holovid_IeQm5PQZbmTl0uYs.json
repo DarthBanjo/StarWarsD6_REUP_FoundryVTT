@@ -1,0 +1,32 @@
+{
+  "_id": "IeQm5PQZbmTl0uYs",
+  "name": "Holovid",
+  "type": "gear",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!IeQm5PQZbmTl0uYs"
+}

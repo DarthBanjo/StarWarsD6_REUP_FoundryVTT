@@ -1,0 +1,31 @@
+{
+  "_id": "HHnCfwHh5BYeHgKU",
+  "name": "Investigation",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_investigation.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Locale or field of investigation &mdash; </span><span class=\"fontstyle0\">Mos Eisley, Imperial City, property estates, criminal records</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Investigation </span><span class=\"fontstyle2\">is a character&rsquo;s ability to find and gather information regarding someone else&rsquo;s activities, and then draw a conclusion about what the target has done or where she has gone. </span><span class=\"fontstyle0\">Investigation </span><span class=\"fontstyle2\">is useful for finding out about the target&rsquo;s ship reservations and following her to a specific planet, or figuring out what shady business dealings she has undertaken. Just as with other skills,&nbsp; i</span><span class=\"fontstyle0\">nvestigation </span><span class=\"fontstyle2\">is often more fun when you use roleplaying over skill rolls; when a player makes a good </span><span class=\"fontstyle0\">investigation </span><span class=\"fontstyle2\">roll, gamemasters can provide additional hints and clues rather than just giving the player the answer to a puzzle.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several days.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!HHnCfwHh5BYeHgKU"
+}

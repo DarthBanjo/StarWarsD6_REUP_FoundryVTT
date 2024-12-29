@@ -1,0 +1,31 @@
+{
+  "_id": "1xO2uybqMcduS1qU",
+  "name": "Submersible Vehicle Repair",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_subvehiclerepair.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular submersible type or class &mdash; </span></em><span class=\"fontstyle0\"><em>Bongo, electric submarine.</em><br /></span></p>\n<p><span class=\"fontstyle2\">This repair skill represents a character&rsquo;s ability to fix and modify submersible vehicles. Each roll may repair one damaged system aboard a particular submersible. The cost and difficulty to repair depends on how badly it is damaged, and what systems have been hit. See &ldquo;Using Repair Skills&rdquo; above for difficulties&nbsp; and costs associated with various systems which may be damaged.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized by circumstances.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!1xO2uybqMcduS1qU"
+}

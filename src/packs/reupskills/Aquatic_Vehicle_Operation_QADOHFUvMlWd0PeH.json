@@ -1,0 +1,31 @@
+{
+  "_id": "QADOHFUvMlWd0PeH",
+  "name": "Aquatic Vehicle Operation",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_aquatic.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular ship type or class &mdash; </span><span class=\"fontstyle0\">Oceanic transport, coastal runabout, skiff, sailboat.</span></p>\n<p><span class=\"fontstyle2\">This skill allows characters to pilot naval ships and boats. While these vehicles are seldom used in the highertech worlds, many low-tech cultures use them for&nbsp; transporting personnel and freight over bodies of water.</span></p>\n<p><span class=\"fontstyle2\">Note that aquatic vehicles which employ the use of repulsorlift or hover technology may also require the use of different skills (namely </span><span class=\"fontstyle0\">repulsorlift operation </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle0\">hover vehicle operation</span><span class=\"fontstyle2\">).</span></p>\n<p><span class=\"fontstyle0\">Aquatic vehicle operation </span><span class=\"fontstyle2\">can be used for a vehicle dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!QADOHFUvMlWd0PeH"
+}

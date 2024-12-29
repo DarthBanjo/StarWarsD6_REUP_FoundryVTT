@@ -1,0 +1,41 @@
+{
+  "_id": "hCi4iCGdUozlLBFw",
+  "name": "Hidden Programming",
+  "type": "cybernetic",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "data": {
+    "description": "<p>Due to the nature of your programming you have some skill or abilities that you are unaware of and unable to use... until the proper time.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.HEAD",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1e4087a8ed4e4bde706639c7e8c6f4beb8937ce7",
+      "sourceId": "Item.hCi4iCGdUozlLBFw"
+    }
+  },
+  "_key": "!items!hCi4iCGdUozlLBFw"
+}

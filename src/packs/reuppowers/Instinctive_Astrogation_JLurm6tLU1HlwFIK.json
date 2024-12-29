@@ -1,0 +1,21 @@
+{
+  "_id": "JLurm6tLU1HlwFIK",
+  "name": "Instinctive Astrogation",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_instinctiveastrogation.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:&nbsp;</strong>Moderate, modified by difficulty of journey</p>\n<p><strong>Required Powers:</strong>&nbsp;<em>Magnify Senses</em></p>\n<p><strong>Effect:&nbsp;</strong>This is better known of the abilities of a Jedi to calcualte a journey through hyperspace without the assistance of a Nav computer. The Jedi uses his&nbsp;sense&nbsp;skill to feel through the myriad possible routes through hyperspace to determine the safest path. The difficulty is modified by how dangerous the path is:</p>\n<table border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<td>Task is</td>\n<td>Modifier</td>\n</tr>\n<tr>\n<td>Very Easy</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Easy</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Moderate</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Difficult</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Very Difficult</td>\n<td>+10</td>\n</tr>\n<tr>\n<td>Heroic</td>\n<td>+15</td>\n</tr>\n</tbody>\n</table>\n<p>If the Jedi succeeds at charting the course, the Jedi needs only to make an Easy&nbsp;astrogation&nbsp;total to plot the safe route. If the Jedi fails the roll the <em>astrogation </em>difficulty is automatically&nbsp;very difficult; if the <em>sense </em>roll is missed by 5 or more points the difficulty of the astrogation roll increases to heroic.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!JLurm6tLU1HlwFIK"
+}

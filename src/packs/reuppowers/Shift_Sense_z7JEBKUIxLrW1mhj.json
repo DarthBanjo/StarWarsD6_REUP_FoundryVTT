@@ -1,0 +1,38 @@
+{
+  "_id": "z7JEBKUIxLrW1mhj",
+  "name": "Shift Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_senseshift.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Moderate for simple phenomena (such as heat or simple scents);</li>\n<li>Difficult for more uncommon phenomena (such as comm frequencies, infrared radiation);</li>\n<li>Very Difficult for specific, complex phenomena (such as setting olfactory nerves to detect the presence of Tibanna gas).</li>\n</ul>\n<p><em>This power may be kept up.</em></p>\n<p><strong>Required powers:&nbsp;</strong><em>Magnify Senses</em></p>\n<p><strong>Effect: </strong>The character may shift his or her senses as to detect phenomena of a different type than normal. Shifting eyesight to the infrared spectrum, hearing frequencies above or below normal range for his or her species, etc. This power counts as a &ldquo;skill use&rdquo; for determining die code penalties.</p>\n<p>Please note that this power is exceptionally useful in some aspects, but fairly limited in others. For example, a Jedi may detect comm frequencies, but that does not mean that the Jedi can listen in on the transmission. The Jedi will be able to detect that a transmission is present, but may not necessarily be able to locate the signal&rsquo;s source, and certainly will not be able to decode the information carried by the transmission.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "tY4WW3MsrlG6vINw",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Shift Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_senseshift.svg",
+      "tint": null,
+      "_key": "!items.effects!z7JEBKUIxLrW1mhj.tY4WW3MsrlG6vINw"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!z7JEBKUIxLrW1mhj"
+}

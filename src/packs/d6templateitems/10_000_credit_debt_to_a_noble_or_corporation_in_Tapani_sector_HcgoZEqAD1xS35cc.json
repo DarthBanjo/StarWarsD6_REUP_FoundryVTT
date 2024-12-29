@@ -1,0 +1,37 @@
+{
+  "_id": "HcgoZEqAD1xS35cc",
+  "name": "10,000 credit debt to a noble or corporation in Tapani sector",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b861f65d1e010af486ea5de620b83d984125709b",
+      "sourceId": "Item.HcgoZEqAD1xS35cc"
+    }
+  },
+  "_key": "!items!HcgoZEqAD1xS35cc"
+}

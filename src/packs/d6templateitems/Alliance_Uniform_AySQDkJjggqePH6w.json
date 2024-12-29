@@ -1,0 +1,37 @@
+{
+  "_id": "AySQDkJjggqePH6w",
+  "name": "Alliance Uniform",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_allianceshirt.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c643f64d1397b205d797166a1bd8d568d9556230",
+      "sourceId": "Item.AySQDkJjggqePH6w"
+    }
+  },
+  "_key": "!items!AySQDkJjggqePH6w"
+}

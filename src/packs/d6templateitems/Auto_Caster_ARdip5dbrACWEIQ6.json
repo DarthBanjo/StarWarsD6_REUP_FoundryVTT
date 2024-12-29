@@ -1,0 +1,86 @@
+{
+  "_id": "ARdip5dbrACWEIQ6",
+  "name": "Auto-Caster",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_autocaster.webp",
+  "data": {
+    "description": "<p><strong>Auto-Caster</strong><br /><strong>Model:</strong> Drolan Plasteel Repeating Crossbow<br /><strong>Type: </strong>Crossbow<br /><strong>Scale:</strong> Character<br /><strong>Skill: </strong>Missile weapons: crossbow<br /><strong>Ammo: </strong>20 quarrels<br /><strong>Cost:</strong> 700<br /><strong>Availability:</strong> 1, 2<br /><strong>Fire Rate:</strong> 2<br /><strong>Range:</strong> 3-8/20/35<br /><strong>Damage: </strong>3D<br /><strong>Game Notes: </strong>Upon releasing a quarrel, the next projectile automatically loads into the firing groove.<br /><strong>Source: </strong>Gundark&rsquo;s Fantastic Technology (page 17), Tales of the Jedi Companion (page 125)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 700,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Missile Weapons",
+      "specialization": "Crossbow"
+    },
+    "range": {
+      "short": "8",
+      "medium": "20",
+      "long": "35"
+    },
+    "damage": {
+      "type": "p",
+      "score": 9,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 20,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 2,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "750308c9b8381785bf72e66d28fa13f731bf0a22",
+      "sourceId": "Item.ARdip5dbrACWEIQ6"
+    }
+  },
+  "_key": "!items!ARdip5dbrACWEIQ6"
+}

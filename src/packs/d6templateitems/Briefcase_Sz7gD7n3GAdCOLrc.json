@@ -1,0 +1,37 @@
+{
+  "_id": "Sz7gD7n3GAdCOLrc",
+  "name": "Briefcase",
+  "type": "gear",
+  "img": "icons/containers/bags/pouch-leather-silver-grey.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "802fead63df7c96031e5cc1f3b1564f73563f475",
+      "sourceId": "Item.Sz7gD7n3GAdCOLrc"
+    }
+  },
+  "_key": "!items!Sz7gD7n3GAdCOLrc"
+}

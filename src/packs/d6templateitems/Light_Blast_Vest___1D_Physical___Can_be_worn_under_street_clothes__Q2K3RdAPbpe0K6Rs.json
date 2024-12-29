@@ -1,0 +1,41 @@
+{
+  "_id": "Q2K3RdAPbpe0K6Rs",
+  "name": "Light Blast Vest (+1D Physical) (Can be worn under street clothes)",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/blastvest.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">This armor consists of a lightweight helmet and a composite vest that, when worn together, offer limited protection against incoming attacks.</span><br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Typical blast vest</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Personal armor</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><span class=\"fontstyle0\"><strong>Cost:</strong> 3</span><span class=\"fontstyle2\">00</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">+1D </span><span class=\"fontstyle3\">physical</span><span class=\"fontstyle3\">&nbsp;</span><span class=\"fontstyle2\">(torso).</span></p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 325,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 0,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    },
+    "scene-packer": {
+      "hash": "4e63859ce406a2895d377a52d5225c88bf14ec6f",
+      "sourceId": "Item.Q2K3RdAPbpe0K6Rs"
+    }
+  },
+  "_key": "!items!Q2K3RdAPbpe0K6Rs"
+}

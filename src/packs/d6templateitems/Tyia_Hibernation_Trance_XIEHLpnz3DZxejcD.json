@@ -1,0 +1,67 @@
+{
+  "_id": "XIEHLpnz3DZxejcD",
+  "name": "Tyia Hibernation Trance",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_hibernationtrance.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Easy for the Tyia.</span></p>\n<p><em><span class=\"fontstyle3\">This power may be kept &ldquo;up&rdquo;.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\">This power allows a Jedi to place herself into a deep trance, remarkably slowing all body functions. The Jedi&rsquo;s heartbeat slows, her breathing drops to barely perceivable levels, and she falls unconscious. A Jedi can heal while in a </span><em><span class=\"fontstyle3\">hibernation trance</span></em><span class=\"fontstyle2\">, but can do nothing else.</span></p>\n<p><span class=\"fontstyle2\">Anyone who comes across a Jedi in </span><span class=\"fontstyle3\">hibernation trance </span><span class=\"fontstyle2\">assumes that the Jedi is dead unless she makes a point of testing him. Another Jedi with the </span><em><span class=\"fontstyle3\">sense </span></em><span class=\"fontstyle2\">skill or the </span><span class=\"fontstyle3\"><em>life detection</em> </span><span class=\"fontstyle2\">power will be able to detect the Force within the hibernating character and realize that she is alive.</span></p>\n<p><span class=\"fontstyle2\">When a Jedi enters a<em> </em></span><em><span class=\"fontstyle3\">hibernation trance</span></em><span class=\"fontstyle2\">, the player must declare under what circumstances the character will awaken: after a specific amount of time, or what stimuli need to be present (noise or someone touching them, for example). Another Jedi can use the power </span><span class=\"fontstyle3\"><em>place another in hibernation trance</em> </span><span class=\"fontstyle2\">to bring the user out of the trance.</span></p>\n<p><span class=\"fontstyle3\"><em>Hibernation trance</em> </span><span class=\"fontstyle2\">serves two purposes. It allows a Jedi to &ldquo;play dead&rdquo; and it can be used to survive when food or air supplies are low.</span></p>\n<p><span class=\"fontstyle2\">A character in hibernation uses only about a tenth as much air as someone who is sleeping &mdash; she can hibernate for a week in a dry climate or for up to a month in a wet climate before dying from lack of water. It is possible to hook the character up to an intravenous water drip to survive indefinitely.</span></p>\n<p><span class=\"fontstyle2\">A character can hibernate for up to three months before dying of starvation. An intravenous sugar solution can extend that to one year.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": true,
+    "active": false,
+    "roll": true,
+    "skills": {
+      "channel": {
+        "value": true,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [
+    {
+      "_id": "71wZvG7izg7nnsyH",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10,
+        "startRound": 1
+      },
+      "label": "Hibernation Trance",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_hibernationtrance.svg",
+      "tint": null,
+      "_key": "!items.effects!XIEHLpnz3DZxejcD.71wZvG7izg7nnsyH"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-forcepow.708O9qR1UTvrXrTe"
+    },
+    "scene-packer": {
+      "hash": "04536954e9bacac6549b3788d09a73cbc4e9c40e",
+      "sourceId": "Item.XIEHLpnz3DZxejcD"
+    }
+  },
+  "_key": "!items!XIEHLpnz3DZxejcD"
+}

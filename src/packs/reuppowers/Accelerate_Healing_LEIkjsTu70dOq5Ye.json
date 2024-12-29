@@ -1,0 +1,25 @@
+{
+  "_id": "LEIkjsTu70dOq5Ye",
+  "name": "Accelerate Healing",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_acceleratehealing.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span></p>\n<ul>\n<li><span class=\"fontstyle2\">Easy for </span><span class=\"fontstyle3\">wounded </span><span class=\"fontstyle2\">characters, </span></li>\n<li><span class=\"fontstyle2\">Moderate for </span><span class=\"fontstyle3\">incapacitated </span><span class=\"fontstyle2\">characters, </span></li>\n<li><span class=\"fontstyle2\">Difficult for </span><span class=\"fontstyle3\">mortally wounded </span><span class=\"fontstyle2\">characters.</span></li>\n</ul>\n<p><span class=\"fontstyle0\"><strong>Time To Use:</strong> </span><span class=\"fontstyle2\">One minute.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">A Jedi who uses this power successfully may make two natural healing rolls for the current day (12 hours apart) regardless of the severity of the injury. The Jedi gets a +2 modifier to both </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">rolls to heal. </span></p>\n<p><span class=\"fontstyle2\">See Chapter Five, &ldquo;Combat and Injuries&rdquo; for healing rules. </span><span class=\"fontstyle3\"><em>Accelerate healing</em> </span><span class=\"fontstyle2\">may only be attempted once per day.</span></p>\n<p><strong><span class=\"fontstyle2\">Note:</span></strong><span class=\"fontstyle2\"> The example on page 154 of REUP allows for this power to be cast while&nbsp;<em>incapacitated</em>.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.yCzmNqzHOG8PdezG"
+    }
+  },
+  "_key": "!items!LEIkjsTu70dOq5Ye"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "J8uFfIifzmywtdPE",
+  "name": "Stun Baton (4D Stun)",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_stunbaton.webp",
+  "data": {
+    "description": "<p><strong>Stun Baton</strong><br />Model: Merr-Sonn Stun Baton<br />Type: Stun baton<br />Scale: Character<br />Skill: Melee combat: stun baton<br />Cost: 300<br />Availability: R<br />Difficulty: Easy<br />Damage: STR+2D+2 (includes charge; STR+1D if stun charge is not on)<br />Game Notes: Power pack lasts for three hours.<br />Source: Gundark&rsquo;s Fantastic Technology (pages 11-12), Han Solo and the Corporate Sector Sourcebook (page 116), Pirates &amp; Privateers (page 43), Arms and Equipment Guide (page 31)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 300,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Melee Combat",
+      "specialization": "Stun Baton"
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "e",
+      "score": 12,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 0,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3a54c706ee07f1f4f338429f6a02667c8ff0cfde",
+      "sourceId": "Item.J8uFfIifzmywtdPE"
+    }
+  },
+  "_key": "!items!J8uFfIifzmywtdPE"
+}

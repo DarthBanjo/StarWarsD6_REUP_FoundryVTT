@@ -1,0 +1,47 @@
+{
+  "_id": "HHlNx8JkfppmC8vI",
+  "name": "Force Skills: Start with Sense 1D",
+  "type": "manifestation",
+  "img": "icons/magic/symbols/runes-triangle-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8a34d1eee73b6937d339960054bfd17d530473a0",
+      "sourceId": "Item.HHlNx8JkfppmC8vI"
+    }
+  },
+  "_key": "!items!HHlNx8JkfppmC8vI"
+}

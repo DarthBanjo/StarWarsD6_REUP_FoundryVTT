@@ -1,0 +1,36 @@
+{
+  "_id": "cFxFeL7JHsk7pAu1",
+  "name": "Binder Cuffs",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/binders.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Binder cuffs are durasteel restraints designed to lock two limbs of a prisoner together, normally the wrists of ankles, but it is possible to lock one arm to one leg or use the binder cuffs to hook a prisoner to a tree.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Loris Merr-Sonn Binder Cuffs</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Personal restraint device</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">50</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">Binder cuffs have a </span><em><span class=\"fontstyle6\">Strength </span></em><span class=\"fontstyle5\">of 5D to hold individuals.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.cFxFeL7JHsk7pAu1"
+    }
+  },
+  "_key": "!items!cFxFeL7JHsk7pAu1"
+}

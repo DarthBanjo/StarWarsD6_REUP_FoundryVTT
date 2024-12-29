@@ -1,0 +1,37 @@
+{
+  "_id": "VO73h9D0oSh7DYix",
+  "name": "Alliance letters of introduction",
+  "type": "gear",
+  "img": "icons/sundries/documents/envelope-sealed-red-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a513d3e29bb6c38b2524e705f1f0bc8515510418",
+      "sourceId": "Item.VO73h9D0oSh7DYix"
+    }
+  },
+  "_key": "!items!VO73h9D0oSh7DYix"
+}

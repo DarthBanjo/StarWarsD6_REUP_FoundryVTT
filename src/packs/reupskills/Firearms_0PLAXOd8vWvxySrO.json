@@ -1,0 +1,31 @@
+{
+  "_id": "0PLAXOd8vWvxySrO",
+  "name": "Firearms",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_firearms.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model firearm used &mdash; </span><span class=\"fontstyle0\">pistols</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">rifles</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">machineguns</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Firearms </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to for all guns which fire bullets, including pistols, rifles, machine guns, assault rifles and any other firearms. (Firearms doesn&rsquo;t include very primitive guns, which are covered under </span><span class=\"fontstyle0\">archaic guns</span><span class=\"fontstyle2\">.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!0PLAXOd8vWvxySrO"
+}

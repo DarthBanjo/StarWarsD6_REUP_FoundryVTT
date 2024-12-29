@@ -1,0 +1,36 @@
+{
+  "_id": "mXBFfPRVTqmJbfZs",
+  "name": "Field Kit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/feildkit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Essentially a backpack full of survival gear, the typical field kit contains various assortments of equipment. Additionally some kits will contain medpacks and other survival gear.<br /></span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Chedak Field Kit</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Standard survival knapsack</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">1,000</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">A field kit contains:</span></p>\n<ul>\n<li><span class=\"fontstyle5\">2 condensing canteens with water purification. A Very Easy </span><span class=\"fontstyle6\"><em>survival </em></span><span class=\"fontstyle5\">roll is required for use. Average filtration time is 5 minutes. The unit will notify user when cleansing process is completed.</span></li>\n<li><span class=\"fontstyle5\">a bed roll</span></li>\n<li><span class=\"fontstyle5\">a week&rsquo;s worth of food rations</span></li>\n<li><span class=\"fontstyle5\">two glow rods</span></li>\n<li><span class=\"fontstyle5\">two breath masks, 24 filters, 12 atmosphere canisters</span></li>\n<li><span class=\"fontstyle5\">and an all-temperature cloak.</span></li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "cost": 1000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mXBFfPRVTqmJbfZs"
+    }
+  },
+  "_key": "!items!mXBFfPRVTqmJbfZs"
+}

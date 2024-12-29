@@ -1,0 +1,36 @@
+{
+  "_id": "3OUSLXeLm9d1ub0w",
+  "name": "Breath Mask",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/breathmask.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Model:</strong> </span><span class=\"fontstyle2\">VargeCorp Easy Breathing Breath Mask</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Breath mask</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">200 (25 for atmosphere canister/filter)</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">1</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong> </span><span class=\"fontstyle2\">A breath mask provides 1 hour of breathable atmosphere before the filter and atmosphere canister must be replaced. </span><span class=\"fontstyle2\">A functional breath mask grants immunity to inhaled poisons, </span><span class=\"fontstyle2\">including poisonous atmospheres. A breath mask offers no protection from extreme temperatures or hard vacuum.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.3OUSLXeLm9d1ub0w"
+    }
+  },
+  "_key": "!items!3OUSLXeLm9d1ub0w"
+}

@@ -1,0 +1,1028 @@
+{
+  "_id": "jhLf5YgbUUl3IHLf",
+  "name": "Eta-2 Actis Interceptor",
+  "type": "starship",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/prequel_jedifighter.webp",
+  "items": [
+    {
+      "_id": "w5jeBoARdgts6nXb",
+      "name": "External Hyperdrive Booster Ring",
+      "type": "starship-gear",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [
+        {
+          "_id": "xGHawb1xKwe6bnGJ",
+          "changes": [
+            {
+              "key": "system.interstellar_drive.value",
+              "mode": 5,
+              "value": "1",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "label": "Hyperdrive Booster Ring",
+          "transfer": true,
+          "flags": {},
+          "icon": null,
+          "tint": null,
+          "origin": null,
+          "_key": "!actors.items.effects!jhLf5YgbUUl3IHLf.w5jeBoARdgts6nXb.xGHawb1xKwe6bnGJ"
+        }
+      ],
+      "folder": null,
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.ykQG7JsYKJodbQpO"
+        }
+      },
+      "system": {
+        "description": "<p>The Delta-7 requires a separate hyperdrive module in the form of a booster ring (the TransGalMeg Industries hyperdrive booster ring). Docking with the ring takes 3 rounds to accomplish, and requires a Difficult <em>starfighter piloting </em>skill check (the fighter&rsquo;s <em>maneuverability </em>counts for this roll). </p>\n<p><strong>Hyperdrive rating:</strong> x1</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": false,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.STARSHIP_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!jhLf5YgbUUl3IHLf.w5jeBoARdgts6nXb"
+    },
+    {
+      "_id": "BBNwLAECTpdYSIoo",
+      "name": "2 Laser Cannons (fire-linked)",
+      "type": "starship-weapon",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<p><span class=\"fontstyle0\"><strong>2 Laser Cannons (fire-linked)</strong><br /></span><span class=\"fontstyle2\">Fire Arc:</span><span class=\"fontstyle3\">Front<br /></span><span class=\"fontstyle2\">Skill: Starship gunnery<br />Fire Control:</span><span class=\"fontstyle3\">3D<br /></span><span class=\"fontstyle2\">Space Range:</span><span class=\"fontstyle3\">1-3/12/25<br /></span><span class=\"fontstyle2\">Atmosphere Range:</span><span class=\"fontstyle3\">100-300/1.2/2.5 km<br /></span><span class=\"fontstyle2\">Damage:</span><span class=\"fontstyle3\">5D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "scale": {
+          "type": "Number",
+          "score": 0
+        },
+        "ammo": {
+          "type": "Number",
+          "value": 0
+        },
+        "arc": {
+          "type": "String",
+          "value": "Front"
+        },
+        "crew": {
+          "type": "Number",
+          "value": 1
+        },
+        "attribute": {
+          "type": "String",
+          "value": "mec"
+        },
+        "skill": {
+          "type": "String",
+          "value": "Starship Gunnery"
+        },
+        "specialization": {
+          "type": "String",
+          "value": "Laser Cannon"
+        },
+        "fire_control": {
+          "type": "Number",
+          "score": 9
+        },
+        "range": {
+          "short": 3,
+          "medium": 12,
+          "long": 25
+        },
+        "damage": {
+          "type": "e",
+          "score": 15
+        },
+        "linked": {
+          "type": "Number",
+          "value": 0
+        },
+        "difficulty": 0,
+        "mods": {
+          "difficulty": 0,
+          "attack": 0,
+          "damage": 0
+        },
+        "area-units": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.AREA_UNITS"
+        },
+        "mass": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.MASS"
+        },
+        "energy": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.ENERGY"
+        },
+        "label": "OD6S.STARSHIP_WEAPON"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!jhLf5YgbUUl3IHLf.BBNwLAECTpdYSIoo"
+    },
+    {
+      "_id": "Vi8xe75WjahyTHNI",
+      "name": "2 Light Ion Cannons (fire-linked)",
+      "type": "starship-weapon",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "scene-packer": {
+          "hash": "71851ef2201a3a19a8bd7961e67bd8f0d65bcbdd"
+        },
+        "core": {
+          "sourceId": "Item.dZf9bmy5ZUzn3aXS"
+        }
+      },
+      "system": {
+        "description": "<p><span class=\"fontstyle0\"><strong>2 Light Ion Cannons (fire-linked)</strong><br /></span><span class=\"fontstyle2\">Fire Arc:</span><span class=\"fontstyle3\">Front<br /></span><span class=\"fontstyle2\">Skill: Starship gunnery<br />Fire Control:</span><span class=\"fontstyle3\">3D<br /></span><span class=\"fontstyle2\">Space Range:</span><span class=\"fontstyle3\">1-3/10/20<br /></span><span class=\"fontstyle2\">Atmosphere Range:</span><span class=\"fontstyle3\">100-300/1/2 km<br /></span><span class=\"fontstyle2\">Damage:</span><span class=\"fontstyle3\">4D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "scale": {
+          "type": "Number",
+          "score": 0
+        },
+        "ammo": {
+          "type": "Number",
+          "value": 0
+        },
+        "arc": {
+          "type": "String",
+          "value": "Front"
+        },
+        "crew": {
+          "type": "Number",
+          "value": 1
+        },
+        "attribute": {
+          "type": "String",
+          "value": "mec"
+        },
+        "skill": {
+          "type": "String",
+          "value": "Starship Gunnery"
+        },
+        "specialization": {
+          "type": "String",
+          "value": "Ion Cannons"
+        },
+        "fire_control": {
+          "type": "Number",
+          "score": 12
+        },
+        "range": {
+          "short": 3,
+          "medium": 10,
+          "long": 20
+        },
+        "damage": {
+          "type": "e",
+          "score": 12
+        },
+        "linked": {
+          "type": "Number",
+          "value": 0
+        },
+        "difficulty": 0,
+        "mods": {
+          "difficulty": 0,
+          "attack": 0,
+          "damage": 0
+        },
+        "area-units": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.AREA_UNITS"
+        },
+        "mass": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.MASS"
+        },
+        "energy": {
+          "type": "Number",
+          "value": 0,
+          "label": "OD6S.ENERGY"
+        },
+        "label": "OD6S.STARSHIP_WEAPON"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!jhLf5YgbUUl3IHLf.Vi8xe75WjahyTHNI"
+    }
+  ],
+  "effects": [
+    {
+      "_id": "P7SozuhqGipfWaIo",
+      "changes": [
+        {
+          "key": "system.interstellar_drive.value",
+          "mode": 5,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": 0,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": null,
+      "label": "Hyperdrive Booster Ring",
+      "origin": "Actor.jhLf5YgbUUl3IHLf.Item.w5jeBoARdgts6nXb",
+      "tint": null,
+      "transfer": false,
+      "flags": {},
+      "_key": "!actors.effects!jhLf5YgbUUl3IHLf.P7SozuhqGipfWaIo"
+    }
+  ],
+  "flags": {
+    "scene-packer": {
+      "hash": "ebed28896c18cdebf14ab772567da68398bb823b",
+      "sourceId": "Actor.jhLf5YgbUUl3IHLf"
+    },
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-starfs.jhLf5YgbUUl3IHLf"
+    }
+  },
+  "system": {
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 12,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number"
+      }
+    },
+    "vehicle_type": {
+      "value": "Eta-2 Actis Interceptor Jedi Interceptor",
+      "type": "String",
+      "label": "OD6S.VEHICLE_TYPE"
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "damage": {
+      "value": "OD6S.DAMAGE_NONE",
+      "type": "String",
+      "label": "OD6S.DAMAGE"
+    },
+    "scale": {
+      "score": 18,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "maneuverability": {
+      "score": 12,
+      "type": "Number",
+      "label": "OD6S.MANEUVERABILITY"
+    },
+    "toughness": {
+      "score": 7,
+      "type": "Number",
+      "label": "OD6S.TOUGHNESS"
+    },
+    "armor": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.ARMOR"
+    },
+    "move": {
+      "value": 12,
+      "type": "Number",
+      "label": "OD6S.MOVE"
+    },
+    "cargo_capacity": {
+      "value": 0.06,
+      "type": "Number",
+      "label": "OD6S.CARGO_CAPACITY"
+    },
+    "cost": {
+      "value": 290000,
+      "type": "Number",
+      "label": "OD6S.COST"
+    },
+    "price": {
+      "value": "",
+      "type": "String",
+      "label": "OD6S.PRICE"
+    },
+    "crew": {
+      "value": 1,
+      "type": "Number",
+      "label": "OD6S.CREW"
+    },
+    "crewmembers": [],
+    "passengers": {
+      "value": 0,
+      "type": "Number",
+      "label": "OD6S.PASSENGERS"
+    },
+    "skill": {
+      "value": "Starfighter Piloting",
+      "type": "String",
+      "label": "OD6S.SKILL"
+    },
+    "specialization": {
+      "value": "Eta-2",
+      "type": "String",
+      "label": "OD6S.SPECIALIZATION"
+    },
+    "attribute": {
+      "value": "mec",
+      "type": "String",
+      "label": "OD6S.ATTRIBUTE"
+    },
+    "dodge": {
+      "score": 0,
+      "mod": 0,
+      "type": "Number",
+      "label": "OD6S.DODGE"
+    },
+    "sensors": {
+      "value": true,
+      "type": "Boolean",
+      "label": "OD6S.SENSORS",
+      "skill": "Sensors",
+      "mod": 0,
+      "types": {
+        "passive": {
+          "score": 0,
+          "range": 10,
+          "label": "OD6S.SENSORS_PASSIVE",
+          "type": "Number"
+        },
+        "scan": {
+          "score": 3,
+          "range": 15,
+          "label": "OD6S.SENSORS_SCAN",
+          "type": "Number"
+        },
+        "search": {
+          "score": 6,
+          "range": 20,
+          "label": "OD6S.SENSORS_SEARCH",
+          "type": "Number"
+        },
+        "focus": {
+          "score": 7,
+          "range": 2,
+          "label": "OD6S.SENSORS_FOCUS",
+          "type": "Number"
+        }
+      }
+    },
+    "shields": {
+      "value": 0,
+      "allocated": 0,
+      "type": "Number",
+      "label": "OD6S.SHIELDS",
+      "skill": {
+        "value": "Starship Shields"
+      },
+      "arcs": {
+        "front": {
+          "label": "OD6S.FRONT",
+          "value": 0,
+          "type": "Number"
+        },
+        "rear": {
+          "label": "OD6S.REAR",
+          "value": 0,
+          "type": "Number"
+        },
+        "left": {
+          "label": "OD6S.LEFT",
+          "value": 0,
+          "type": "Number"
+        },
+        "right": {
+          "label": "OD6S.RIGHT",
+          "value": 0,
+          "type": "Number"
+        }
+      }
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "score": 0
+    },
+    "ranged_damage": {
+      "type": "Number",
+      "label": "OD6S.RANGED_DAMAGE_MOD",
+      "short_label": "OD6S.RANGED_DAMAGE_MOD_SHORT",
+      "score": 0
+    },
+    "ram": {
+      "type": "Number",
+      "label": "OD6S.RAM_ATTACK_MOD",
+      "short_label": "OD6S.RAM_ATTACK_MOD_SHORT",
+      "score": 0
+    },
+    "ram_damage": {
+      "type": "Number",
+      "label": "OD6S.RAM_DAMAGE_MOD",
+      "short_label": "OD6S.RAM_DAMAGE_MOD_SHORT",
+      "score": 0
+    },
+    "length": {
+      "value": 5.47,
+      "type": "Number",
+      "label": "OD6S.LENGTH"
+    },
+    "tonnage": {
+      "value": 0,
+      "type": "Number",
+      "label": "OD6S.TONNAGE"
+    },
+    "embedded_pilot": {
+      "value": true,
+      "type": "Boolean",
+      "label": "OD6S.EMBEDDED_PILOT",
+      "actor": {
+        "name": "Eta-2 Jedi Pilot (Typical)",
+        "type": "npc",
+        "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/jedi_1.webp",
+        "system": {
+          "attributes": {
+            "agi": {
+              "label": "OD6S.CHAR_AGILITY",
+              "short_label": "OD6S.CHAR_AGILITY_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "str": {
+              "label": "OD6S.CHAR_STRENGTH",
+              "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "mec": {
+              "label": "OD6S.CHAR_MECHANICAL",
+              "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "kno": {
+              "label": "OD6S.CHAR_KNOWLEDGE",
+              "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "per": {
+              "label": "OD6S.CHAR_PERCEPTION",
+              "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "tec": {
+              "label": "OD6S.CHAR_TECHNICAL",
+              "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+              "base": 12,
+              "mod": 0,
+              "score": 12,
+              "max": 15,
+              "min": 3,
+              "type": "Number"
+            },
+            "met": {
+              "label": "OD6S.CHAR_METAPHYSICS",
+              "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+              "base": 0,
+              "mod": 0,
+              "score": 0,
+              "type": "Number"
+            }
+          },
+          "move": {
+            "type": "Number",
+            "label": "OD6S.CHAR_MOVE",
+            "mod": 0,
+            "value": 10
+          },
+          "chartype": {
+            "type": "String",
+            "label": "OD6S.CHAR_TYPE",
+            "content": "Jedi"
+          },
+          "species": {
+            "type": "String",
+            "label": "OD6S.CHAR_SPECIES",
+            "content": "Various"
+          },
+          "wounds": {
+            "type": "String",
+            "label": "OD6S.CHAR_HEALTH",
+            "short_label": "OD6S.CHAR_HEALTH",
+            "value": "0",
+            "body_points": {
+              "max": 38,
+              "current": 38
+            }
+          },
+          "stuns": {
+            "type": "Number",
+            "label": "OD6S_CHAR_STUNS",
+            "value": 0
+          },
+          "strengthdamage": {
+            "type": "Number",
+            "label": "OD6S.STRENGTH_DAMAGE",
+            "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+            "mod": -12,
+            "score": -6
+          },
+          "ranged": {
+            "type": "Number",
+            "label": "OD6S.RANGED_ATTACK_MOD",
+            "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+            "mod": 0
+          },
+          "melee": {
+            "type": "Number",
+            "label": "OD6S.MELEE_ATTACK_MOD",
+            "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+            "mod": 0
+          },
+          "brawl": {
+            "type": "Number",
+            "label": "OD6S.BRAWL_ATTACK_MOD",
+            "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+            "mod": 0
+          },
+          "sheetmode": {
+            "type": "String",
+            "label": "OD6S.SHEET_MODE",
+            "short_label": "OD6S.SHEET_MODE_SHORT",
+            "value": "normal"
+          },
+          "dodge": {
+            "type": "Number",
+            "label": "OD6S.DODGE",
+            "short_label": "OD6S.DODGE_SHORT",
+            "mod": 0,
+            "score": 0
+          },
+          "parry": {
+            "type": "Number",
+            "label": "OD6S.PARRY",
+            "short_label": "OD6S.PARRY_SHORT",
+            "mod": 0,
+            "score": 0
+          },
+          "block": {
+            "type": "Number",
+            "label": "OD6S.BLOCK",
+            "short_label": "OD6S.BLOCK_SHORT",
+            "mod": 0,
+            "score": 0
+          },
+          "pr": {
+            "type": "Number",
+            "label": "OD6S.PHYSICAL_RESISTANCE",
+            "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+            "mod": 0,
+            "score": 12
+          },
+          "er": {
+            "type": "Number",
+            "label": "OD6S.ENERGY_RESISTANCE",
+            "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+            "mod": 0,
+            "score": 12
+          },
+          "credits": {
+            "type": "Number",
+            "label": "OD6S.CHAR_CREDITS",
+            "value": 0
+          },
+          "funds": {
+            "type": "Number",
+            "label": "OD6S.CHAR_FUNDS",
+            "score": 0
+          },
+          "initiative": {
+            "type": "String",
+            "label": "OD6S.INITIATIVE",
+            "formula": "3d6[Base]+0+1d6x6[Wild]+0.24",
+            "mod": 0,
+            "score": 12
+          },
+          "scale": {
+            "type": "Number",
+            "label": "OD6S.SCALE",
+            "score": 0
+          },
+          "customeffects": {
+            "skills": {},
+            "specializations": {}
+          },
+          "custom1": "",
+          "custom2": "",
+          "custom3": "",
+          "custom4": "",
+          "labels": {},
+          "tags": [],
+          "description": {
+            "type": "String",
+            "label": "OD6S.DESCRIPTION",
+            "content": ""
+          },
+          "fatepoints": {
+            "type": "Number",
+            "label": "OD6S.CHAR_FATE_POINTS",
+            "short_label": "OD6S.CHAR_FATE_POINTS_SHORT",
+            "value": 0
+          },
+          "characterpoints": {
+            "type": "Number",
+            "label": "OD6S.CHAR_CHAR_POINTS",
+            "short_label": "OD6S.CHAR_CHAR_POINTS_SHORT",
+            "value": 0
+          },
+          "vehicle": {}
+        },
+        "prototypeToken": {
+          "name": "Jedi",
+          "displayName": 0,
+          "actorLink": false,
+          "texture": {
+            "src": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/jedi_*.webp",
+            "scaleX": 1,
+            "scaleY": 1,
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "tint": null
+          },
+          "width": 1,
+          "height": 1,
+          "lockRotation": false,
+          "rotation": 0,
+          "alpha": 1,
+          "disposition": -1,
+          "displayBars": 0,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": "power"
+          },
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "dim": 0,
+            "attenuation": 0.5,
+            "luminosity": 0.5,
+            "saturation": 0,
+            "contrast": 0,
+            "shadows": 0,
+            "animation": {
+              "type": null,
+              "speed": 5,
+              "intensity": 5,
+              "reverse": false
+            },
+            "darkness": {
+              "min": 0,
+              "max": 1
+            }
+          },
+          "sight": {
+            "enabled": false,
+            "range": 0,
+            "angle": 360,
+            "visionMode": "basic",
+            "color": null,
+            "attenuation": 0.1,
+            "brightness": 1,
+            "saturation": 0,
+            "contrast": 0
+          },
+          "detectionModes": [],
+          "flags": {},
+          "randomImg": true
+        },
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "u4OWNRnVPfdZdAIU": 3
+        },
+        "flags": {
+          "scene-packer": {
+            "hash": "bb9c4391453eb069b30799e804c329ab4c6a8bd5",
+            "sourceId": "Actor.qq7AyKJ0AAhEr4DD"
+          },
+          "od6s": {
+            "fatepointeffect": false,
+            "crew": "",
+            "hasTakenTurn": false
+          },
+          "core": {
+            "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-starfs.qq7AyKJ0AAhEr4DD"
+          }
+        },
+        "_stats": {
+          "systemId": "od6s",
+          "systemVersion": "0.7.11",
+          "coreVersion": "10.291",
+          "createdTime": 1681929126011,
+          "modifiedTime": 1681929126011,
+          "lastModifiedBy": "u4OWNRnVPfdZdAIU"
+        },
+        "overrides": {},
+        "_tokenImages": null,
+        "_lastWildcard": null
+      }
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "normal"
+    },
+    "interstellar_drive": {
+      "type": "Number",
+      "value": 0,
+      "label": "OD6S.INTERSTELLAR_DRIVE"
+    },
+    "atmospheric": {
+      "value": true,
+      "type": "Boolean",
+      "label": "OD6S.ATMOSPHERIC",
+      "move": {
+        "label": "OD6S.ATMOSPHERIC_MOVE",
+        "value": 450,
+        "type": "Number"
+      },
+      "kph": {
+        "label": "OD6S.ATMOSPHERIC_KPH",
+        "value": 1300,
+        "type": "Number"
+      }
+    },
+    "equipped": {
+      "value": false
+    },
+    "quantity": 1
+  },
+  "prototypeToken": {
+    "name": "Jedi Interceptor",
+    "displayName": 0,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "power"
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/prequel_jedifighter.webp",
+      "tint": null,
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": []
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.7.11",
+    "coreVersion": "10.291",
+    "createdTime": 1681929125993,
+    "modifiedTime": 1681929983222,
+    "lastModifiedBy": "u4OWNRnVPfdZdAIU"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "u4OWNRnVPfdZdAIU": 3
+  },
+  "_key": "!actors!jhLf5YgbUUl3IHLf"
+}

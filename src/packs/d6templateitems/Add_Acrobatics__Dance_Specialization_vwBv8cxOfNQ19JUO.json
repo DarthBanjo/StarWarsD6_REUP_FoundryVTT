@@ -1,0 +1,26 @@
+{
+  "_id": "vwBv8cxOfNQ19JUO",
+  "name": "Add Acrobatics: Dance Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_acrobatics.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4bffd05be9cd788eb251371e3fc1318a92ac92c6",
+      "sourceId": "Item.vwBv8cxOfNQ19JUO"
+    }
+  },
+  "_key": "!items!vwBv8cxOfNQ19JUO"
+}

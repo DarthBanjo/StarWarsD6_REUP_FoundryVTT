@@ -1,0 +1,37 @@
+{
+  "_id": "AI6gPV44gbt3D3vl",
+  "name": "Stock Light Freighter (Issued by the Mining Guild)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/yt1300_2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ee3c5d4ded6ba3a0fae4989758766fc1cac0e6fc",
+      "sourceId": "Item.AI6gPV44gbt3D3vl"
+    }
+  },
+  "_key": "!items!AI6gPV44gbt3D3vl"
+}

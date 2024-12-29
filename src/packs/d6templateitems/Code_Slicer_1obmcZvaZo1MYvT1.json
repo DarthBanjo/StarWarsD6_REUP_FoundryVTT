@@ -1,0 +1,37 @@
+{
+  "_id": "1obmcZvaZo1MYvT1",
+  "name": "Code Slicer",
+  "type": "gear",
+  "img": "art/items/codeslicer.webp",
+  "data": {
+    "description": "<p><strong>UniSlice Code Slicer</strong></p>\n<p>+1D security to bypass code or combination-based devices.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0e136ddf3652e05e9f046e2514bc0e7e3b17fec3",
+      "sourceId": "Item.1obmcZvaZo1MYvT1"
+    }
+  },
+  "_key": "!items!1obmcZvaZo1MYvT1"
+}

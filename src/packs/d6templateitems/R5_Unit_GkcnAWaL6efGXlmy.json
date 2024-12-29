@@ -1,0 +1,37 @@
+{
+  "_id": "GkcnAWaL6efGXlmy",
+  "name": "R5 Unit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/droid_r5_1.webp",
+  "data": {
+    "description": "<p>All stats 1D except: computer programming/repair 4D, space transports repair 4D. Same equipment as standard R2 unit. Move: 5</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "16592d98e70de1b908a36c7eebfb3de286e460c7",
+      "sourceId": "Item.GkcnAWaL6efGXlmy"
+    }
+  },
+  "_key": "!items!GkcnAWaL6efGXlmy"
+}

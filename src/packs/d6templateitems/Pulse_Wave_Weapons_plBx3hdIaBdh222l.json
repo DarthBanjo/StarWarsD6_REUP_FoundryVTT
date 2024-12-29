@@ -1,0 +1,36 @@
+{
+  "_id": "plBx3hdIaBdh222l",
+  "name": "Pulse-Wave Weapons",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_archaicguns.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Indicates a specific kind or model of Pulse-Wave &mdash; pulse-wave </span><span class=\"fontstyle0\">pistol, pulse-wave rifle</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\"><br />Archaic guns is a &ldquo;ranged combat&rdquo; skill used to fire any pulse-wave weapon.&nbsp; Normally, only characters from early Republic time will know this skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    },
+    "scene-packer": {
+      "hash": "9e16b5f01286033e6dc1667c601c5e3a1f13d026",
+      "sourceId": "Item.plBx3hdIaBdh222l",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!plBx3hdIaBdh222l"
+}

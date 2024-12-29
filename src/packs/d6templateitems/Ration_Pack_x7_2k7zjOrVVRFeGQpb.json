@@ -1,0 +1,40 @@
+{
+  "_id": "2k7zjOrVVRFeGQpb",
+  "name": "Ration Pack x7",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/rations.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Ration packs are compact meals that take up little room (you can fit six in a pouch designed to carry a data pad) but have all the requirements to nourish a person for one day. Each ration pack is geared for a range of species. The food isn&rsquo;t appetizing, and it doesn&rsquo;t include water, but it does prevent malnutrition.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Standard dehydrated food pack</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">2</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">5</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Each dehydrated food pack contains enough nourishment for a human for one meal (does not include liquids).</span></p>\n<p><span class=\"fontstyle5\"><strong>Developer Note: </strong>The quantity is three to make it easier to purchase rations for a player for an entire day.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 35,
+    "price": "",
+    "availability": "",
+    "quantity": 7,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.bu7o48ZK0MlTw7Ga"
+    },
+    "scene-packer": {
+      "hash": "5697032c65bc26214e3f43f1ce48071fc3a361d3",
+      "sourceId": "Item.2k7zjOrVVRFeGQpb"
+    }
+  },
+  "_key": "!items!2k7zjOrVVRFeGQpb"
+}

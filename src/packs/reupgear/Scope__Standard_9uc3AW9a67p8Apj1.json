@@ -1,0 +1,36 @@
+{
+  "_id": "9uc3AW9a67p8Apj1",
+  "name": "Scope, Standard",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/scope.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A targeting scope is a sighting device that makes it easier to hit distant targets. However, it affords a very limited field of view, making it difficult to use unless in a steady aiming position. Installing a targeting scope on a rifle or pistol requires 10 minutes and an Easy </span><em><span class=\"fontstyle2\">equipment </span></em><span class=\"fontstyle0\">or </span><em><span class=\"fontstyle2\">blaster repair </span></em><span class=\"fontstyle0\">skill roll.</span></p>\n<p><span class=\"fontstyle0\">A standard targeting scope adds a bonus to medium- and long-range shots from blaster and slugthrowing rifles and carbines. However, you must aim at your target to gain this benefit, and you lose the benefit if you change targets or lose line of sight to your target.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">A low-light targeting scope functions the same as a standard targeting scope in normal light. However, after aiming at a target, it allows the wielder to ignore cover (but not complete darkness) from darkness when attacking that target.</span> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">SoroSuub True-Site System</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Electronic blaster sighting system</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Skill: </span></strong><span class=\"fontstyle2\">varies</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100 (1,000 low-light)</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Projected hologram crosshairs add 1D to </span><em><span class=\"fontstyle3\">blaster </span></em><span class=\"fontstyle2\">(or other ranged weapon skill) for up to long-range.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.9uc3AW9a67p8Apj1"
+    }
+  },
+  "_key": "!items!9uc3AW9a67p8Apj1"
+}

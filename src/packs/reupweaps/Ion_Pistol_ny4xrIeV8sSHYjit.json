@@ -1,0 +1,85 @@
+{
+  "_id": "ny4xrIeV8sSHYjit",
+  "name": "Ion Pistol",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/ionpistol.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Ion pistols fire streams of energy that wreak havoc on electrical systems, and they are usually employed against droids, light vehicles, and some types of equipment. When used normally, an ion pistol fries a droid&rsquo;s circuits and internal components, inflicting lethal damage. If set to &ldquo;stun,&rdquo; it works much the same as a blaster set on stun works against organic opponents. A droid stunned in such a way is out of commission for </span><span class=\"fontstyle0\">2D minutes. An ion pistol&rsquo;s blast has no effect on organic targets, unless such targets have cybernetic replacements.<br /></span></p>\n<p><span class=\"fontstyle4\"><strong>Model:</strong> </span><span class=\"fontstyle5\">Generic Ion Pistol</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Ion gun</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Blaster: Ion Pistol</span></em></p>\n<p><strong><span class=\"fontstyle4\">Ammo: </span></strong><span class=\"fontstyle5\">30 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">250</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R</span></p>\n<p><strong><span class=\"fontstyle4\">Fire Rate: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">3-8/16/24</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">4D ionization damage</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 250,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Blaster",
+      "specialization": "Ion Pistol"
+    },
+    "range": {
+      "short": "8",
+      "medium": "16",
+      "long": "24"
+    },
+    "damage": {
+      "type": "e",
+      "score": 12,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 30,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.ny4xrIeV8sSHYjit"
+    }
+  },
+  "_key": "!items!ny4xrIeV8sSHYjit"
+}

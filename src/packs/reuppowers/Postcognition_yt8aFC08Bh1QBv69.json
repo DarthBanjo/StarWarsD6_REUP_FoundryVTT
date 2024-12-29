@@ -1,0 +1,21 @@
+{
+  "_id": "yt8aFC08Bh1QBv69",
+  "name": "Postcognition",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_postcognition.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:&nbsp;</strong></p>\n<ul>\n<li>Easy if seeing less than two hours into the past;</li>\n<li>Moderate if seeing two hours to a week;</li>\n<li>Difficult if seeing a week to six months;</li>\n<li>Very Difficult if seeing six months to a year;</li>\n<li>Heroic if seeing a year to two years;</li>\n<li>+10 for each additional year into the past.</li>\n</ul>\n<p><strong>Required Powers:</strong>&nbsp;<em>Hibernation Trance,&nbsp;Life Detection,&nbsp;Sense Force</em></p>\n<p><strong>Time to use:&nbsp;</strong>Five minutes, +10 to difficulty for each minute cut. Minimum one minute.</p>\n<p><strong>Effect:&nbsp;</strong><em>Postcognition </em>allows a Jedi to investigate the tenuous imprints of the Force left on objects when they are handled by living beings. The character must be able to handle the target object. The Jedi must declare how far in the past is being reviewed prior to rolling <em>postcognition</em>. If the roll is successful, the Jedi can determine who has handled or touched the object and what events have transpired around it. The Jedi may &ldquo;search&rdquo; for specific incidents or simply review past events, somewhat like viewing a hologram.</p>\n<p>If the <em>postcognition </em>roll is equal to or higher than three times the difficulty number, the character can witness events when the object was present as if she were there herself. If the <em>postcognition </em>roll is greater than or equal to twice the difficulty number, the Jedi gains a good sensory impression of the event, but is limited in that the primary sense (the sense which gives the most information, usually sight) is wavery or obscured; the other sensory impressions come through clearly. If the <em>postcognition </em>roll is simply greater than the difficulty number, then all sensory impressions are muffled, tactile sense is dulled, smells or tastes are indistinct or mixed. The Jedi receives a vague sense of who handled the object and what events transpired around it.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!yt8aFC08Bh1QBv69"
+}

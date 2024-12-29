@@ -1,0 +1,37 @@
+{
+  "_id": "RaYOPSg9KrWCmej7",
+  "name": "Scout ship",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/prequel_ambassadorship.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8821301be7acbfcb6084e09990e08b3d6c993c36",
+      "sourceId": "Item.RaYOPSg9KrWCmej7"
+    }
+  },
+  "_key": "!items!RaYOPSg9KrWCmej7"
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "VVr8OJNU4Ej2i1x7",
+  "name": "Life Preservation Programming",
+  "type": "cybernetic",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "data": {
+    "description": "<p>Your programming prevents you from injuring a sentient being, even in self defense.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.HEAD",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6de722642c75b3695fab4b12819014654442d8f8",
+      "sourceId": "Item.VVr8OJNU4Ej2i1x7"
+    }
+  },
+  "_key": "!items!VVr8OJNU4Ej2i1x7"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "g8kbTMhFJLA21TyK",
+  "name": "EAR eavesdropping bugs",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad3.webp",
+  "data": {
+    "description": "<p>Bugs can transmit up to 200 meters, within line of sight. Audio is captured and recorded in a paired eavesdropping unit.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 5,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "fd6e388744f97a9f69cc93483a26e1eb863793d0",
+      "sourceId": "Item.g8kbTMhFJLA21TyK"
+    }
+  },
+  "_key": "!items!g8kbTMhFJLA21TyK"
+}

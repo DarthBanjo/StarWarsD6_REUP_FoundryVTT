@@ -1,0 +1,31 @@
+{
+  "_id": "iFOVT0czKLKbCt9d",
+  "name": "Tactics",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_tactics.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of military unit &mdash; s</span><span class=\"fontstyle0\">quads, fleets, capital ships, ground assault</span><span class=\"fontstyle2\">. </span></em></p>\n<p><span class=\"fontstyle0\">Tactics </span><span class=\"fontstyle2\">represents a character&rsquo;s skill in deploying military forces and maneuvering them to his best advantage.</span></p>\n<p><span class=\"fontstyle2\">It may be rolled to gain general knowledge of how best to stage certain military operations: blockading a planet with a fleet, invading an enemy installation, assaulting a fixed turbolaser bunker.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">This skill may also be used to determine the best response to an opponent&rsquo;s move in battle: for instance, what to do if the enemy entraps your ships in a pincer movement, how to proceed in the assault should reinforcements arrive, what to do if a unit becomes trapped behind enemy lines.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">Although </span><span class=\"fontstyle2\">tactics </span><span class=\"fontstyle0\">rolls might reveal how best to handle military situations, the final outcome of how well the character&rsquo;s side does in a battle hinges on other skill rolls &mdash; </span><span class=\"fontstyle2\">command </span><span class=\"fontstyle0\">for the leader, and the combat rolls of both forces.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle2\">Tactics </span><span class=\"fontstyle0\">difficulties should be based on various factors of complexity within a battle: how many units are involved, the setting (open space or asteroid field, plains or jungle terrain), and the difference in training and equipment between units (Star Destroyers against starfighters, stormtroopers against Ewoks, Imperial Army troopers against crack Rebel commandos).</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">When rolling this skill, characters are often seeking ways to deal with military situations. The better the result, the more hints a gamemaster should give to help the character win the battle. Hints can take the form of reminders about different moves the enemy can make, suggestions on how to maneuver the character&rsquo;s forces, or (for especially good rolls) risky and unanticipated moves which could throw the enemy off guard.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several minutes.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!iFOVT0czKLKbCt9d"
+}

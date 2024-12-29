@@ -1,0 +1,37 @@
+{
+  "_id": "TkPvPKUAZongde1B",
+  "name": "Government-issue Protocol Droid",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_protocoldroid.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "084f502d1f441c49fe1974973054834011125e67",
+      "sourceId": "Item.TkPvPKUAZongde1B"
+    }
+  },
+  "_key": "!items!TkPvPKUAZongde1B"
+}

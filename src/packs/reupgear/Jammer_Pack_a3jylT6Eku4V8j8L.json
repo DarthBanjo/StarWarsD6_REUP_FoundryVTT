@@ -1,0 +1,36 @@
+{
+  "_id": "a3jylT6Eku4V8j8L",
+  "name": "Jammer Pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/jammerpack.webp",
+  "data": {
+    "description": "<p>A jammer pack produces communications-fouling noise that is broadcast in a 150-meter radius from the unit, completely shutting down comlink and holo communication.</p>\n<p><strong>Model: </strong>Modified M39 MicroThrust ComTech</p>\n<p><strong>Type: </strong>Communications disruption unit</p>\n<p><strong>Skill: </strong>Communications</p>\n<p><strong>Cost:</strong> 1,000</p>\n<p><strong>Availability: </strong>X</p>\n<p><strong>Game Notes:</strong> To successfully activate the jammer pack requires a Moderate communications roll. If successful, it produces high-gain white noise on all communications bandwidths, preventing any comlink transmission within a 150-meter radius. The communications roll may also set the difficult for another opposed communication roll by a person attempting to transmit <br /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.a3jylT6Eku4V8j8L"
+    }
+  },
+  "_key": "!items!a3jylT6Eku4V8j8L"
+}

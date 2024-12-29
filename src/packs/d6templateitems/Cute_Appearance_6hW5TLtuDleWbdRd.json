@@ -1,0 +1,26 @@
+{
+  "_id": "6hW5TLtuDleWbdRd",
+  "name": "Cute Appearance",
+  "type": "specialability",
+  "img": "icons/commodities/flowers/clover-red.webp",
+  "data": {
+    "description": "<p>Kushiban are perceived by many species to be cute and cuddly. This leads many to think of them as helpless, or mistake them for pets or vermin.</p>\n<p><strong>Source:</strong> Kushiban</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "67c4c609af7d0f7bc78f317808040a791b35373e",
+      "sourceId": "Item.6hW5TLtuDleWbdRd"
+    }
+  },
+  "_key": "!items!6hW5TLtuDleWbdRd"
+}

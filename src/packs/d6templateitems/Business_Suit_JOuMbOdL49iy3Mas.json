@@ -1,0 +1,37 @@
+{
+  "_id": "JOuMbOdL49iy3Mas",
+  "name": "Business Suit",
+  "type": "gear",
+  "img": "icons/equipment/chest/robe-collared-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "edc8e9487d9603968f9c6b794c68472bede837d2",
+      "sourceId": "Item.JOuMbOdL49iy3Mas"
+    }
+  },
+  "_key": "!items!JOuMbOdL49iy3Mas"
+}

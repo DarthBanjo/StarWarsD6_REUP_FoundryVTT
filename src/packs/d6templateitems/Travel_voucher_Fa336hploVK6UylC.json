@@ -1,0 +1,37 @@
+{
+  "_id": "Fa336hploVK6UylC",
+  "name": "Travel voucher",
+  "type": "gear",
+  "img": "icons/commodities/materials/parchment-secrets.webp",
+  "data": {
+    "description": "<p>Allows for free passage on non-military Imperial spaceships.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5bb27d0c1a462f66c7341fc37241f84cb952305c",
+      "sourceId": "Item.Fa336hploVK6UylC"
+    }
+  },
+  "_key": "!items!Fa336hploVK6UylC"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "2eGBCDuTkf7NkvCp",
+  "name": "2000 Credits in snappy wardrobe and scout equipment",
+  "type": "gear",
+  "img": "icons/sundries/misc/piggybank.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "54e8f5955d24ee52903a82022a820f98455c7d6f",
+      "sourceId": "Item.2eGBCDuTkf7NkvCp"
+    }
+  },
+  "_key": "!items!2eGBCDuTkf7NkvCp"
+}

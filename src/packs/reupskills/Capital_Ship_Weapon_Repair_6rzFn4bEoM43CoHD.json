@@ -1,0 +1,31 @@
+{
+  "_id": "6rzFn4bEoM43CoHD",
+  "name": "Capital Ship Weapon Repair",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_capitalshipweaponrepair.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Weapon type or model &mdash; </span><span class=\"fontstyle0\">concussion missiles, gravity well&nbsp; projectors, ion cannons, laser cannon, proton torpedoes, tractor beams, turbolaser.</span></em></p>\n<p><span class=\"fontstyle0\">Capital ship weapon repair </span><span class=\"fontstyle2\">is used to repair capital-scale ship weapons. The cost and difficulty to repair a weapon depends upon how badly it is damaged &mdash; see &ldquo;Weapons&rdquo; in &ldquo;Using Repair Skills&rdquo; above for exact difficulties and costs associated with fixing capital ship weapons.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!6rzFn4bEoM43CoHD"
+}

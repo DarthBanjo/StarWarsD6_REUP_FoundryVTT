@@ -1,0 +1,21 @@
+{
+  "_id": "CTC6QTceVsBCMzZ7",
+  "name": "Merge Senses",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_mergesenses.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong>Moderate. Modified by proximity.</p>\n<p><strong>Time to use: </strong>Three rounds.</p>\n<p><strong>Required powers:</strong>&nbsp;Magnify Senses</p>\n<p><strong>Effect: </strong>This power allows a Force user to perceive things through the senses of another creature, one with animal intelligence or less. He can see through the eyes of the selected creature, enjoying the benefits of being bound by the restrictions of the creature&rsquo;s vision. He can hear through the creature&rsquo;s ears; smell was that creature smells; and physically feel whatever the creature is feeling. The Force user does not control the creature, but can make suggestions. The simpler or less threatening the request, the more likely it will be agreed to. If a suggestion goes against the nature of the creature or would put it in an obviously hazardous situation, the Force user must make a sense roll against the subject&rsquo;s willpower. Failure means the suggestion is ignored. While the Force user&rsquo;s senses are merged with a creature&rsquo;s, the Force user&rsquo;s body is motionless, its senses unable to function until, of course, the meld is broken. Releasing the target creature requires a Moderate roll. The link with the creature is also broken by the death of either the creature of the Force user. If the creature suffers damage or dies during a meld, the Force user suffers one-half the amount of damage.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!CTC6QTceVsBCMzZ7"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "q7LNQYC0w1DfYV5n",
+  "name": "Small pack (with snacks, odd bits of junk and crumbs)",
+  "type": "gear",
+  "img": "icons/containers/bags/pack-simple-leather.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f5c4182e0ab9d87b04847e18695d80a2b5f29bc8",
+      "sourceId": "Item.q7LNQYC0w1DfYV5n"
+    }
+  },
+  "_key": "!items!q7LNQYC0w1DfYV5n"
+}

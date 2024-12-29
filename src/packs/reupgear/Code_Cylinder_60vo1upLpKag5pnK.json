@@ -1,0 +1,36 @@
+{
+  "_id": "60vo1upLpKag5pnK",
+  "name": "Code Cylinder",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/codecyl.webp",
+  "data": {
+    "description": "<p>A compact encoded security device issued to many military, political, or corporate officials, a code cylinder accesses computer data via a droid&rsquo;s scomp link or provides entry into restricted facilities. Each cylinder features the user&rsquo;s personal security clearance data. High-ranking personnel may carry more than one cylinder, each with different access codes encrypted within them. Republic citizens, Imperial officers, and New Republic personnel use them to facilitate security measures.</p>\n<p><strong>Model:</strong> Standard Code Cylinder</p>\n<p><strong>Type:</strong> Compact encoded security device</p>\n<p><strong>Skill: </strong><em>Computer programming/repair</em></p>\n<p><strong>Cost: </strong>500</p>\n<p><strong>Availability:</strong> 2</p>\n<p><strong>Game Notes: </strong>Code cylinders can be programmed at properly equipped computers by making an Easy <em>computer programming/repair </em>roll. Without such systems the difficulty is Very Difficult. If your <em>computer programming/repair</em> roll fails by 5 or more, the code cylinder&rsquo;s self-destruct programming activates and ruins the cylinder. </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.60vo1upLpKag5pnK"
+    }
+  },
+  "_key": "!items!60vo1upLpKag5pnK"
+}

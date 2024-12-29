@@ -1,0 +1,37 @@
+{
+  "_id": "48D4WjQJ0UmsBvSy",
+  "name": "X-Wing Starfighter",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/xwing_1.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1b40483e362f7d16d14c8019e7fbfbabdc9cdc9d",
+      "sourceId": "Item.48D4WjQJ0UmsBvSy"
+    }
+  },
+  "_key": "!items!48D4WjQJ0UmsBvSy"
+}

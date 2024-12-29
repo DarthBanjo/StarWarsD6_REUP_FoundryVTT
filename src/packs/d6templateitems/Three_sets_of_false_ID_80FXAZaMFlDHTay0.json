@@ -1,0 +1,37 @@
+{
+  "_id": "80FXAZaMFlDHTay0",
+  "name": "Three sets of false ID",
+  "type": "gear",
+  "img": "icons/commodities/tech/blueprint.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c6086cdf7a74ac40100e7f3540f325c5dff2b658",
+      "sourceId": "Item.80FXAZaMFlDHTay0"
+    }
+  },
+  "_key": "!items!80FXAZaMFlDHTay0"
+}

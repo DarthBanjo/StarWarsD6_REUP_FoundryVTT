@@ -1,0 +1,37 @@
+{
+  "_id": "qBEuBW2AnXCNj6Nx",
+  "name": "Expensive Clothes",
+  "type": "gear",
+  "img": "icons/equipment/waist/belt-buckle-gold-green.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ebf3144dcab5d203ba65efddbd465bcf7e86c16b",
+      "sourceId": "Item.qBEuBW2AnXCNj6Nx"
+    }
+  },
+  "_key": "!items!qBEuBW2AnXCNj6Nx"
+}

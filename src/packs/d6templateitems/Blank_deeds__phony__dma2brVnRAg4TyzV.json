@@ -1,0 +1,37 @@
+{
+  "_id": "dma2brVnRAg4TyzV",
+  "name": "Blank deeds (phony)",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-sealed-white-orange.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2a922ff14a1e732f3d397d597370145b72c2637c",
+      "sourceId": "Item.dma2brVnRAg4TyzV"
+    }
+  },
+  "_key": "!items!dma2brVnRAg4TyzV"
+}

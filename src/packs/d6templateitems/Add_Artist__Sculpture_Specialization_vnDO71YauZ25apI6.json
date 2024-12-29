@@ -1,0 +1,26 @@
+{
+  "_id": "vnDO71YauZ25apI6",
+  "name": "Add Artist: Sculpture Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_artist.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a408c4efafaaef78226143624fcba0f145119f3d",
+      "sourceId": "Item.vnDO71YauZ25apI6"
+    }
+  },
+  "_key": "!items!vnDO71YauZ25apI6"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "rYnekzkFjpA9syKb",
+  "name": "(A) Capital Ship Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_capital.svg",
+  "data": {
+    "description": "<p><strong>Advanced skill -- requires 5D in <em>capital ship repair</em>. </strong><br /><strong>Optionally*: 4D in <em>capital ship weapon repair</em>, and/or 2D in <em>computer programming/repair</em>. </strong></p>\n<p><span class=\"fontstyle0\">This skill allows the design of various capital ships, and capital ship systems.</span></p>\n<p><span class=\"fontstyle0\">*</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">It is possible to take this skill without the required die codes in&nbsp;</span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">capital ship weapon repair&nbsp;</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and&nbsp;</span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">computer programming/repair,&nbsp;</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">but the bonus effects from&nbsp;</span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">engineering&nbsp;</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">would not apply to those areas.&nbsp;</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!rYnekzkFjpA9syKb"
+}

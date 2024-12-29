@@ -1,0 +1,38 @@
+{
+  "_id": "2WEZ73Gxl5DwUKSt",
+  "name": "Force of Will",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_forceofwill.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">E</span><span class=\"fontstyle2\" style=\"color: #000000;\">asy.</span></p>\n<p><em><span class=\"fontstyle3\">This power may be kept &ldquo;up&rdquo;.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\" style=\"color: #000000;\">By using<em> </em></span><em><span class=\"fontstyle3\">force of will</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">, the character uses his or her own </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">skill to fight the effects of hostile Force powers. If faced with a mind-based power, the Jedi&rsquo;s </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">skill roll may be added to either the </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">or </span><em><span class=\"fontstyle3\">Perception </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">code.</span></p>\n<p><span class=\"fontstyle2\" style=\"color: #000000;\">The </span><span class=\"fontstyle3\"><em>control</em> </span><span class=\"fontstyle2\" style=\"color: #000000;\">(or </span><em><span class=\"fontstyle3\">Perception</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">) plus </span><span class=\"fontstyle3\"><em>willpower</em> </span><span class=\"fontstyle2\" style=\"color: #000000;\">total is referred to as the &ldquo;protection number.&rdquo; If the attack roll is less than the target&rsquo;s </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\" style=\"color: #000000;\">(or </span><em><span class=\"fontstyle3\">Perception</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">) roll, the character suffers no ill effects. If the attack roll is greater than the protection number, the Jedi suffers the full effects of the attacking power. If the attack roll is greater then the </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">roll, but less than the protection number, the Jedi is protected from the power, but his </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">is considered &ldquo;battered.&rdquo; Subtract -1D from the character&rsquo;s </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">skill. The Jedi can still continue to defend, but with the decreased </span><em><span class=\"fontstyle3\">willpower</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">. Reroll for a new protection number in this case. If a Jedi&rsquo;s </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">skill ever reaches 0D, the </span><span class=\"fontstyle3\"><em>Force of will</em> </span><span class=\"fontstyle2\" style=\"color: #000000;\">power is automatically dropped, and the Jedi can only resist with </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">or </span><em><span class=\"fontstyle3\">Perception</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">.</span></p>\n<p><span class=\"fontstyle2\" style=\"color: #000000;\">It takes one day to recover 1D of damage from a &ldquo;battered will,&rdquo; or one hour in </span><em><span class=\"fontstyle3\">emptiness </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">(or </span><em><span class=\"fontstyle3\">rage</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">) for each 1D to recover.</span></p>\n<p><span class=\"fontstyle0\"><strong>Note:</strong> </span><span class=\"fontstyle3\">Force of will </span><span class=\"fontstyle2\" style=\"color: #000000;\">does not protect against<em> </em></span><em><span class=\"fontstyle3\">Force lightning </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">or </span><span class=\"fontstyle3\"><em>Force storms</em> </span><span class=\"fontstyle2\" style=\"color: #000000;\">or objects hurled by </span><em><span class=\"fontstyle3\">telekinesis </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">since in each case the power creates a distinct physical manifestation. These are external rather than internal powers, in which case </span><em><span class=\"fontstyle3\">willpower </span></em><span class=\"fontstyle2\" style=\"color: #000000;\">would have no bearing on resistance. </span><span class=\"fontstyle3\"><em>Force of will</em> </span><span class=\"fontstyle2\" style=\"color: #000000;\">works on </span><em><span class=\"fontstyle3\">injure/kill</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">, </span><em><span class=\"fontstyle3\">telekinetic kill</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">, </span><em><span class=\"fontstyle3\">inflict pain</span></em><span class=\"fontstyle2\" style=\"color: #000000;\">, and other powers which directly use the Force to affect the target.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "1gFPOlCIY8HyReqB",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10,
+        "startRound": 1
+      },
+      "label": "Force of Will",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_forceofwill.svg",
+      "tint": null,
+      "_key": "!items.effects!2WEZ73Gxl5DwUKSt.1gFPOlCIY8HyReqB"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!2WEZ73Gxl5DwUKSt"
+}

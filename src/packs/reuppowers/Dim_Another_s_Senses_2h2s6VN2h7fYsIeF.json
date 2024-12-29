@@ -1,0 +1,38 @@
+{
+  "_id": "2h2s6VN2h7fYsIeF",
+  "name": "Dim Another's Senses",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_dimanothersenses.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Easy, modified by proximity;</li>\n<li>&nbsp;+3 to the&nbsp;<em>sense&nbsp;</em>difficulty for each additional target.</li>\n</ul>\n<p><strong>Alter Difficulty:</strong></p>\n<ul>\n<li>Target&rsquo;s control or Perception.</li>\n<li>When targeting multiple, the target with the highest <em>control&nbsp;</em>or&nbsp;<em>Perception&nbsp;</em>rolls for the entire group.</li>\n</ul>\n<p><em>The attribute and skills are reduced as long as the power is kept \"up.\"</em></p>\n<p><strong>Effect: </strong>This power greatly reduces the Perception of the target character. If successful, reduce the character&rsquo;s Perception and all Perception skills, depending upon the result.</p>\n<table>\n<tbody>\n<tr>\n<td align=\"center\">Alter greater than or equal to Control<br />or Perception roll by</td>\n<td align=\"center\">Reduce Perception by</td>\n</tr>\n<tr>\n<td align=\"center\">0-5</td>\n<td align=\"center\">-1 pip</td>\n</tr>\n<tr>\n<td align=\"center\">6-10</td>\n<td align=\"center\">-2 pips</td>\n</tr>\n<tr>\n<td align=\"center\">11-15</td>\n<td align=\"center\">-1D</td>\n</tr>\n<tr>\n<td align=\"center\">16-20</td>\n<td align=\"center\">-2D</td>\n</tr>\n<tr>\n<td align=\"center\">21+</td>\n<td align=\"center\">-3D</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "SMhpr77rHsiqYyKK",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Dim Another's Senses",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_dimanothersenses.svg",
+      "tint": null,
+      "_key": "!items.effects!2h2s6VN2h7fYsIeF.SMhpr77rHsiqYyKK"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!2h2s6VN2h7fYsIeF"
+}

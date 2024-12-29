@@ -1,0 +1,36 @@
+{
+  "_id": "Xk5JUhXCyALxwNSE",
+  "name": "Utility Belt",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/utilitybelt.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A utility belt has several pouches containing a three-day supply of food capsules, a medpac, a small tool kit, a spare power pack, a spare energy cell, a glow rod, a comlink, a liquid cable dispenser with a small grappling hook, and a couple of empty pouches for whatever else the wearer wants to add (up to 0.5 kg per pouch).<br /></span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Utility Belt</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Utility belt</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Xk5JUhXCyALxwNSE"
+    }
+  },
+  "_key": "!items!Xk5JUhXCyALxwNSE"
+}

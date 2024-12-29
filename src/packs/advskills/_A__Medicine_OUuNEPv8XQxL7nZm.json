@@ -1,0 +1,31 @@
+{
+  "_id": "OUuNEPv8XQxL7nZm",
+  "name": "(A) Medicine",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_medicine.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Specializations: </span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Specific field known &mdash; </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">medicines, </span><span class=\"fontstyle0\">cyborging, surgery.</span></em></p>\n<p><strong><span class=\"fontstyle0\">Advanced skill -- requires <em>first aid </em>of at least 5D</span><span class=\"fontstyle2\">. </span></strong></p>\n<p><span class=\"fontstyle0\">Characters with this skill can perform complex medical procedures such as surgery, operation of bacta tanks, and the installation of cybernetic replacements and enhancements. They are also familiar with all types of medicines and are capable of using them to best effect.</span> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "Minutes or hours",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!OUuNEPv8XQxL7nZm"
+}

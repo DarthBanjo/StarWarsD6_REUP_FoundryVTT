@@ -1,0 +1,37 @@
+{
+  "_id": "Im3NUXk3780alik5",
+  "name": "One week's worth of expensive clothes",
+  "type": "gear",
+  "img": "icons/containers/chest/chest-simple-box-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b9c07fdc3c47c7f7160ee04010b3060ca39dba05",
+      "sourceId": "Item.Im3NUXk3780alik5"
+    }
+  },
+  "_key": "!items!Im3NUXk3780alik5"
+}

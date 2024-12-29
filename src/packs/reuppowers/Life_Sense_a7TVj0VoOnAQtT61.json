@@ -1,0 +1,38 @@
+{
+  "_id": "a7TVj0VoOnAQtT61",
+  "name": "Life Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_lifesense.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong>Very Easy. Modified by proximity and relationship.</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Life Detection</em></p>\n<p><em>This power may be kept \"up\" to track a target.</em></p>\n<p><strong>Effect:</strong> The user can sense the presence and identity of a specific person for whom she searches. The user can sense how badly wounded, diseased or otherwise physically disturbed the target is. A target may hide his identity from the Jedi using<em> life sense</em> by rolling his <em>control </em>skill and adding it to the difficulty.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "jYZOP0kdDAOfnB5P",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Life Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_lifesense.svg",
+      "tint": null,
+      "_key": "!items.effects!a7TVj0VoOnAQtT61.jYZOP0kdDAOfnB5P"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!a7TVj0VoOnAQtT61"
+}

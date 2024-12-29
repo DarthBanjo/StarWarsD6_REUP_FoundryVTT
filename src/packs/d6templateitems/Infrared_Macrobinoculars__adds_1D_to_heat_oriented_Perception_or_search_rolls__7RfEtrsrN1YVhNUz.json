@@ -1,0 +1,40 @@
+{
+  "_id": "7RfEtrsrN1YVhNUz",
+  "name": "Infrared Macrobinoculars (adds 1D to heat-oriented Perception or search rolls)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/macrobinocs.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Macrobinoculars are personal image-magnification devices, often capable of enhancing vision up to one kilometer away (this is an &ldquo;average&rdquo; set of macrobinoculars; other models may have much longer or shorter ranges). These devices provide computer-enhanced images as well as information on range and targeting. </span></span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 75,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.OmYLMQ7e6IeJzLzg"
+    },
+    "scene-packer": {
+      "hash": "6b1db0c0f0cf312c085492c2aefd14d3fdb09ac5",
+      "sourceId": "Item.7RfEtrsrN1YVhNUz"
+    }
+  },
+  "_key": "!items!7RfEtrsrN1YVhNUz"
+}

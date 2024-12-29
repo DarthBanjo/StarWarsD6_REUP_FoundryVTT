@@ -1,0 +1,41 @@
+{
+  "_id": "PgDq7rdVsDAIFkJy",
+  "name": "Absorb/Dissipate Energy",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_absorbdissipateenergy.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong></p>\n<ul>\n<li><strong>Very Easy</strong>&nbsp;for sunburn and other very minor energy sources;</li>\n<li><strong>Easy</strong>&nbsp;for intense sun;</li>\n<li><strong>Moderate</strong>&nbsp;for solar wind and other modest energy sources;</li>\n<li><strong>Moderate plus an attack's damage roll</strong> for energy attacks such as blaster bolts and force lightning;</li>\n<li><strong>Difficult</strong> for radiation storms and other intense energy sources.</li>\n<li><strong>Scale Modifiers:</strong> <span class=\"fontstyle2\">Walker-scale (+30 to difficulty); starfighter-scale (+40 to difficulty).</span></li>\n<li><strong><span class=\"fontstyle2\">Area Effect Modifier: </span></strong><span class=\"fontstyle3\">(add +20 to difficulty):&nbsp;</span>\n<ul>\n<li><span class=\"fontstyle2\">Point blank to 1meter(-4D energy damage);</span></li>\n<li><span class=\"fontstyle2\"> 2meters (-3D energy damage);</span></li>\n<li><span class=\"fontstyle2\">3 meters (-2D energydamage); </span></li>\n<li><span class=\"fontstyle2\">4 meters (-1D energy damage).</span></li>\n</ul>\n</li>\n</ul>\n<p><em><span class=\"fontstyle3\">The power may be kept &ldquo;up&rdquo; as long as the source of energy is constant &mdash; for blaster bolts or Force lightning, it is used as a reaction skill, multiple action penalties apply for use to block fire (as though it were a </span><span class=\"fontstyle2\">dodge </span><span class=\"fontstyle3\">skill).</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\">This power allows the Jedi to absorb or dissipate energy, including light, heat, radiation and blaster bolts. A successful </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">roll means that the energy is dissipated. If the user fails the roll, she takes full damage from the energy.</span></p>\n<p><span class=\"fontstyle2\">This power may be used to ward off sunburn, heat-stroke and radiation exposure, as well as withstand intense heat. </span></p>\n<p><span class=\"fontstyle2\">The character may activate the power as a &ldquo;reaction skill&rdquo; to absorb the blaster bolt or </span><span class=\"fontstyle3\">Force lightning </span><span class=\"fontstyle2\">&mdash; the roll replaces the ranged target number the shooter who must roll equal or higher in order to hit.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "qNk8p3ieZdN304Qd",
+      "changes": [],
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "rounds": 10
+      },
+      "label": "Absorb/Dissipate Energy",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_absorbdissipateenergy.svg",
+      "tint": null,
+      "_key": "!items.effects!PgDq7rdVsDAIFkJy.qNk8p3ieZdN304Qd"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.yCzmNqzHOG8PdezG"
+    }
+  },
+  "_key": "!items!PgDq7rdVsDAIFkJy"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "oLfoXrOxzMi6HqIk",
+  "name": "Add Equipment Repair: Bowcaster Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_equiprepair.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "09d80a68d7cbcf7079170ff16cbb081b63b7a920",
+      "sourceId": "Item.oLfoXrOxzMi6HqIk"
+    }
+  },
+  "_key": "!items!oLfoXrOxzMi6HqIk"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lDJXdvocADxI8u6G",
+  "name": "Extravagant Clothing",
+  "type": "gear",
+  "img": "icons/equipment/leg/skirt-cloth-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f7a1992ee07b0ead5d71e8d6936fbcbe8728c84d",
+      "sourceId": "Item.lDJXdvocADxI8u6G"
+    }
+  },
+  "_key": "!items!lDJXdvocADxI8u6G"
+}

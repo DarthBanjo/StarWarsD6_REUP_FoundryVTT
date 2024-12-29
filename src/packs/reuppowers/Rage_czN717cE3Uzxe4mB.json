@@ -1,0 +1,48 @@
+{
+  "_id": "czN717cE3Uzxe4mB",
+  "name": "Rage",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_rage.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Difficult.</span></p>\n<p><span class=\"fontstyle0\"><strong>Required Powers:</strong> </span><em><span class=\"fontstyle3\">Hibernation trance.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Warning:</strong> </span><span class=\"fontstyle2\">A character who uses this gains one Dark Side Point.</span></p>\n<p><strong><span class=\"fontstyle0\">Note: </span></strong><span class=\"fontstyle2\">This power can only be used by characters who have been consumed by the dark side of the Force.</span></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle3\"><em>Rage</em> </span><span class=\"fontstyle2\">allows a character to feel the influence of the dark side. It is a counterpart to </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle2\">The character must tense themselves completely, and allow the mindless rage of the dark side to posses them. Any character in </span><span class=\"fontstyle3\">rage </span><span class=\"fontstyle2\">will appear lifeless. The Force-user is amplifying the negative aspects of his personality, leaving his face clenched in a rictus of horror and fear.</span></p>\n<p><span class=\"fontstyle2\">A character must determine how long he wishes to stay in </span><em><span class=\"fontstyle3\">rage </span></em><span class=\"fontstyle2\">when he enters it. Barring an attack or arrival of a specific person (as explained below) the Dark Jedi remains in the trance for the duration. Every four hours, the character must make a Difficult </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">roll or he will come out of the trance.</span></p>\n<p><span class=\"fontstyle2\">When the Jedi leaves this state, he receives a +10 modifier to all Force skill rolls for a period equal to that spent in <em>rage</em>. After the bonus has subsided, the character takes one die of damage for every two hours he was in the trance.</span></p>\n<p><span class=\"fontstyle2\">Like </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">, </span><em><span class=\"fontstyle3\">rage </span></em><span class=\"fontstyle2\">makes characters oblivious to their surroundings; they are rendered immobile. Unlike </span><span class=\"fontstyle3\">emptiness </span><span class=\"fontstyle2\">the character will strongly exude the dark side. This internal focusing even provides some protection against others using the </span><span class=\"fontstyle2\">Force to manipulate them in some way. Add the </span><span class=\"fontstyle3\"><em>rage control </em></span><span class=\"fontstyle2\">roll to the difficulty of the Force power employed by the &ldquo;attacking&rdquo; character.</span></p>\n<p><span class=\"fontstyle2\">Characters also dehydrate and hunger twice as fast as normal in </span><span class=\"fontstyle3\">rage </span><span class=\"fontstyle2\">and are more susceptible to damage (-1D to </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">when resisting damage from physical and energy attacks while in this state). Characters who plan an extended trance require intravenous nourishment.</span></p>\n<p><span class=\"fontstyle2\">In </span><em><span class=\"fontstyle3\">rage</span></em><span class=\"fontstyle2\">, the character is less oblivious to his surroundings than a Jedi in </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">. For example, any physical contact by a living being is made may revive the character in </span><em><span class=\"fontstyle3\">rage </span></em><span class=\"fontstyle2\">(for which the Dark Jedi will need to make a Moderate </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">roll) and it will provoke an instant berserker-like attack, regardless of who the other character is. The character then must make a Difficult </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">to cease the attack before the &ldquo;offending&rdquo; character is killed.</span></p>\n<p><span class=\"fontstyle2\">A character using </span><em><span class=\"fontstyle3\">rage </span></em><span class=\"fontstyle2\">can choose to anticipate the arrival of a foe, using a Difficult </span><em><span class=\"fontstyle3\">sense </span></em><span class=\"fontstyle2\">roll (modified by relationship) with the </span><span class=\"fontstyle3\"><em>life sense</em> </span><span class=\"fontstyle2\">power at the time they enter </span><em><span class=\"fontstyle3\">rage</span></em><span class=\"fontstyle2\">. This will allow them to instantly awaken (an Easy </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">roll) if the expected person comes within five meters of the person in </span><span class=\"fontstyle3\">rage</span><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle2\">This power may be used in a preparation ritual for the </span><span class=\"fontstyle3\"><em>transfer life</em> </span><span class=\"fontstyle2\">power. When a raged person uses<em> </em></span><em><span class=\"fontstyle3\">transfer life</span></em><span class=\"fontstyle2\">, their original body is completely consumed by the dark side, often bursting into blue flames. For every three points by which the </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">roll exceeded the <em>rage </em>difficulty, the body does 1D damage upon the explosion (three-meter blast radius).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "UWDTrZtuEL6LXYrF",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "10"
+        },
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2400
+      },
+      "label": "Rage",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_rage.svg",
+      "tint": "#000000",
+      "_key": "!items.effects!czN717cE3Uzxe4mB.UWDTrZtuEL6LXYrF"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!czN717cE3Uzxe4mB"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "UQqtE26VrTFA1zKp",
+  "name": "Circuitry replacement parts",
+  "type": "gear",
+  "img": "icons/commodities/tech/electrode-copper.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "61c4762d89ebc0f840d597163125ee549a475bdb",
+      "sourceId": "Item.UQqtE26VrTFA1zKp"
+    }
+  },
+  "_key": "!items!UQqtE26VrTFA1zKp"
+}

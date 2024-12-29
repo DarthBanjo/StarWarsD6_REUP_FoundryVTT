@@ -1,0 +1,37 @@
+{
+  "_id": "JeNIKPbDZssjwJwB",
+  "name": "Datachip with verified credit line",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "392871c3693e40ef1ec26ac580f22211287f5373",
+      "sourceId": "Item.JeNIKPbDZssjwJwB"
+    }
+  },
+  "_key": "!items!JeNIKPbDZssjwJwB"
+}

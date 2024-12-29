@@ -1,0 +1,37 @@
+{
+  "_id": "C0XM3u1jXY3P7eqf",
+  "name": "Bottle of Liquor",
+  "type": "gear",
+  "img": "icons/consumables/drinks/alcohol-jug-spirits-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6df770d9f16ceff0710005d5e8c99fbfcdd2d550",
+      "sourceId": "Item.C0XM3u1jXY3P7eqf"
+    }
+  },
+  "_key": "!items!C0XM3u1jXY3P7eqf"
+}

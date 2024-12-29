@@ -1,0 +1,32 @@
+{
+  "_id": "52hhZRudw4PO19Uu",
+  "name": "Artist",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_artist.svg",
+  "data": {
+    "description": "<p>This skill governs the making of works of art, like paintings, photographs, and music or literary compositions.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cb03d3835fdc18b7fb3937a859dfdc0b2809409b",
+      "sourceId": "Item.52hhZRudw4PO19Uu"
+    }
+  },
+  "_key": "!items!52hhZRudw4PO19Uu"
+}

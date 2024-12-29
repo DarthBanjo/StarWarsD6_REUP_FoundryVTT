@@ -1,0 +1,89 @@
+{
+  "_id": "Ag9sMkbNHLwU8T25",
+  "name": "Grenade, Smoke",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_gren_smoke.webp",
+  "data": {
+    "description": "<p>A popular form of non-lethal riot control, these grenades are often used to disoreient targets or can be a target point for incoming long range blaster artillery or other attacks. Some military groups have modified smoke grenades to release different color smoke: red, green, and blue. These are often used as low-tech, long-distance signalling devices.</p>\n<p><strong>Smoke Grenade</strong><br /><strong>Model:&nbsp;</strong>BlasTech Nacht-5 Smoke Grenade<br /><strong>Type:&nbsp;</strong>Smoke grenade<br /><strong>Scale:&nbsp;</strong>Character<br /><strong>Skill:&nbsp;</strong>Grenade<br /><strong>Cost:&nbsp;</strong>25<br /><strong>Availability:&nbsp;</strong>2, R<br /><strong>Range:&nbsp;</strong>3-7/20/40<br /><strong>Smoke Radius:&nbsp;</strong>0-3<br /><strong>Game Notes:&nbsp;</strong>Releases thick, obscuring smoke, which adds +2D to blaster shooter&rsquo;s difficulty.<br /><strong>Source:&nbsp;</strong>Han Solo and the Corporate Sector Sourcebook (page 119), Rules of Engagement &ndash; The Rebel SpecForce Handbook (page 69)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Explosive",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Grenade",
+      "specialization": ""
+    },
+    "range": {
+      "short": "7",
+      "medium": "20",
+      "long": "40"
+    },
+    "damage": {
+      "type": "p",
+      "score": 0,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 3,
+        "damage": 0
+      },
+      "2": {
+        "range": null,
+        "damage": null
+      },
+      "3": {
+        "range": null,
+        "damage": null
+      },
+      "4": {
+        "range": null,
+        "damage": null
+      }
+    },
+    "ammo": 1,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2nYPQ7fUeg2qrCow"
+    },
+    "scene-packer": {
+      "hash": "3e7c5e7d19289a0d9d7f18da0ef459b9ebf6cadd",
+      "sourceId": "Item.Ag9sMkbNHLwU8T25"
+    }
+  },
+  "_key": "!items!Ag9sMkbNHLwU8T25"
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "spyHtjn5wh93CtlI",
+  "name": "Space Suit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/spacesuit.webp",
+  "data": {
+    "description": "<p>Space suits and vacuum suits are required equipment for starfighter pilots. Space suits allow an individual to enter the vacuum of space for limited periods of time without harm. Vacuum suits &mdash; which are favored by most &ldquo;fighter jocks&rdquo; &mdash; perform a similar function.</p>\n<p>Space suits are bulky, sealed uniforms that possess an independent atmosphere supply, as well as temperature regulators and waste recyclers, allowing survival in space for periods of up to one week. Higher-priced space suits often contain interior food supplies (dispensed through a tube in the helmet) that can extend the survival period.</p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">LifeLine Technologies Model 11 Space Suit</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Personal space suit</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">2,000</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, F</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">The LifeLine Model 11 contains a heating unit, waste recycling and onboard food supply. The suit&rsquo;s power supply, atmosphere and food supply will support a character for 24 standard days. The wearer suffers a -2D to all </span><em><span class=\"fontstyle3\">Dexterity </span></em><span class=\"fontstyle2\">attribute and skill checks.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 0,
+    "er": 0,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "lTAL0mm8uBu9olnY",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Space Suit DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/spacesuit.webp",
+      "tint": null,
+      "_key": "!items.effects!spyHtjn5wh93CtlI.lTAL0mm8uBu9olnY"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.spyHtjn5wh93CtlI"
+    }
+  },
+  "_key": "!items!spyHtjn5wh93CtlI"
+}

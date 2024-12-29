@@ -1,0 +1,21 @@
+{
+  "_id": "POPFZCQEHm1bdMot",
+  "name": "Affect Mind",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_affectmind.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong></p>\n<ul>\n<li>Very Easy for perceptions;</li>\n<li>Easy for memories;</li>\n<li>Moderate for conclusions.</li>\n<li>Modified by proximity.</li>\n</ul>\n<p><strong>Sense Difficulty: </strong>The target's control or Perception roll.</p>\n<p><strong>Alter Difficulty: </strong></p>\n<ul>\n<li>Very Easy for slight, momentary misperceptions, minor changes to distant memories, or if the character doesn't care one way or another.</li>\n<li>Easy for brief, visible phenomena, for memories less than a year old, or if the character feels only minor emotion regarding the conclusion he is reaching.</li>\n<li>Moderate for short hallucinations, for memories less than a day old, or if the target has strict orders about the conclusion.</li>\n<li>Difficult for slight disguises to facial features, hallucinations which can be sensed with two senses (sight and sound, for example), for memories less than a minute old, or if the matter involving the conclusion is very important to the target.</li>\n<li>Very Difficult for hallucinations which can be sensed by all five senses, if the memory change is a major one, or if the logic is absolutely clear and coming to the wrong conclusion is virtually impossible.</li>\n</ul>\n<p><strong>Effect: </strong>The target character's perceptions are altered so that he senses an illusion or fails to see what the user of the power doesn't want him to see. This power is used to permanently alter a target character's memories so that he remembers things incorrectly or fails to remember something. This power can also be used to alter a character's conclusions so that he comes to an incorrect conclusion.</p>\n<p>Before making skill rolls, the Jedi must describe exactly what effect she is trying to achieve. The power is normally used on only one target; two or more targets can only be affected if the power is used two or more times.</p>\n<p>The target character believes he is affected by any successful illusions &mdash; a character who thinks he is struck by an illusory object would feel the blow. If he thought he was injured, he would feel pain, or if he thought he had been killed, he would go unconscious. However, the character suffers no true injury.</p>\n<p>This power cannot affect droids or recording devices.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!POPFZCQEHm1bdMot"
+}

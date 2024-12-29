@@ -1,0 +1,534 @@
+{
+  "_id": "V8Wo49Y1ZTBmv5bz",
+  "name": "Typical Gambler",
+  "type": "npc",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/gambler.webp",
+  "data": {
+    "move": {
+      "type": "Number",
+      "label": "OD6S.CHAR_MOVE",
+      "mod": 0,
+      "value": 10
+    },
+    "chartype": {
+      "type": "String",
+      "label": "OD6S.CHAR_TYPE",
+      "content": "Slick Gambler"
+    },
+    "species": {
+      "type": "String",
+      "label": "OD6S.CHAR_SPECIES",
+      "content": "Various"
+    },
+    "wounds": {
+      "type": "String",
+      "label": "OD6S.CHAR_HEALTH",
+      "short_label": "OD6S.CHAR_HEALTH",
+      "value": "0",
+      "body_points": {
+        "max": 0,
+        "current": 0
+      }
+    },
+    "stuns": {
+      "type": "Number",
+      "label": "OD6S_CHAR_STUNS",
+      "value": 0
+    },
+    "strengthdamage": {
+      "type": "Number",
+      "label": "OD6S.STRENGTH_DAMAGE",
+      "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "melee": {
+      "type": "Number",
+      "label": "OD6S.MELEE_ATTACK_MOD",
+      "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "brawl": {
+      "type": "Number",
+      "label": "OD6S.BRAWL_ATTACK_MOD",
+      "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "normal"
+    },
+    "dodge": {
+      "type": "Number",
+      "label": "OD6S.DODGE",
+      "short_label": "OD6S.DODGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "parry": {
+      "type": "Number",
+      "label": "OD6S.PARRY",
+      "short_label": "OD6S.PARRY_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "block": {
+      "type": "Number",
+      "label": "OD6S.BLOCK",
+      "short_label": "OD6S.BLOCK_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "pr": {
+      "type": "Number",
+      "label": "OD6S.PHYSICAL_RESISTANCE",
+      "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "er": {
+      "type": "Number",
+      "label": "OD6S.ENERGY_RESISTANCE",
+      "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "credits": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CREDITS",
+      "value": 0
+    },
+    "funds": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FUNDS",
+      "score": 0
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "scale": {
+      "type": "Number",
+      "label": "OD6S.SCALE",
+      "score": 0
+    },
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 8,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 5,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 4,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 4,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number"
+      }
+    },
+    "customeffects": {
+      "skills": {},
+      "specializations": {}
+    },
+    "custom1": "",
+    "custom2": "",
+    "custom3": "",
+    "custom4": "",
+    "labels": {},
+    "tags": [],
+    "description": {
+      "type": "String",
+      "label": "OD6S.DESCRIPTION",
+      "content": ""
+    },
+    "vehicle": {}
+  },
+  "token": {
+    "name": "Typical Gambler",
+    "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/gambler.webp",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "power"
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "2yTqL5rci0jyD7Kr",
+      "name": "Languages",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_languages.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific language known &mdash; </span><span class=\"fontstyle0\">Wookiee, Huttese, Bocce, Ewok.</span></em></p>\n<p><span class=\"fontstyle2\">The common language of the Known Galaxy is Basic. Most people speak it &mdash; if not as their main language, they are at least fluent in it &mdash; and virtually everyone can understand it. However, some areas of the galaxy are so isolated that Basic is rarely spoken. Some aliens can&rsquo;t or refuse to speak Basic. For example, Wookiees can under</span><span class=\"fontstyle2\">stand Basic, but, because of the structure of their mouths, usually cannot speak it. Ewoks do not normally understand Basic, but can learn it fairly easily. </span></p>\n<p><span class=\"fontstyle2\">The </span><span class=\"fontstyle0\">languages </span><span class=\"fontstyle2\">skill is used to determine whether or not a character understands something in another language. If the character wants to say something in a language in which he isn&rsquo;t fluent (see &ldquo;specialization&rdquo; below) increase the difficulty by two levels.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Specialization: </strong>Characters may specialize in a specific language, such as Wookiee, Huttese, or astromech droid. Once the character has 5D in the specialized language, the character is considered fluent in the language and no longer has to make rolls to understand anything in that language.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "kno",
+        "min": false,
+        "base": 2,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 5100000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+        }
+      },
+      "id": "2yTqL5rci0jyD7Kr",
+      "dice": 0,
+      "pips": 2,
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.2yTqL5rci0jyD7Kr"
+    },
+    {
+      "_id": "CskN7xLcZcaJTPWj",
+      "name": "Bargain",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_bargain.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of merchandise to be purchased or sold &mdash; spice, weapons, droids, datapads. </span></em></p>\n<p><span class=\"fontstyle2\">Characters use this skill to haggle over prices for goods they want to purchase or sell. The difficulty is often an opposed roll against the gamemaster character&rsquo;s </span><span class=\"fontstyle0\">bargain </span><span class=\"fontstyle2\">skill.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Bribery:</strong> </span><span class=\"fontstyle2\">Bargain </span><span class=\"fontstyle3\">can also be used to bribe others.</span></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One minute to an hour.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 1000000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "CskN7xLcZcaJTPWj",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.CskN7xLcZcaJTPWj"
+    },
+    {
+      "_id": "wGSfBDZSU1WdVQLp",
+      "name": "Con",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_con.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular method of conning &mdash; </span><span class=\"fontstyle0\">disguise, fast-talk</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is used to trick and deceive characters, or otherwise convince them to do something that isn&rsquo;t in their best interest. (</span><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is another interaction skill, so you&rsquo;ll often want to use roleplaying to resolve these situations.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">The difficulty of the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">depends upon who is being conned.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">A close friend or relative who has no reason to suspect a </span><span class=\"fontstyle2\">con</span><span class=\"fontstyle0\">.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Naive teenager, gullible person.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">A stormtrooper when the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">doesn&rsquo;t personally involve him.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">A customs or law enforcement officer; stormtrooper when </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">will involve possible danger.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Someone who should know better. Jabba the Hutt, an Imperial general.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Someone who </span><span class=\"fontstyle2\">really </span><span class=\"fontstyle0\">knows better. A Jedi Knight, Emperor Palpatine.<br /></span></span></p>\n<p>&nbsp;</p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle3\"><strong>Modifiers:</strong><br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to victim&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will cause victim to do something illegal or highly dangerous.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+5 or more to victim&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Person knows the character is prone to pulling cons and has their guard up.<br /></span><span class=\"fontstyle3\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will convince victim to do something they might normally do anyway.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+5 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim generally likes character, but suspects something because of character&rsquo;s unusual behavior.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim has no reason to suspect dishonesty, and trusts and likes that character.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">Characters can </span><span class=\"fontstyle2\">actively resist </span><span class=\"fontstyle0\">a </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">attempt by rolling their </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">dice against the opponent&rsquo;s </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">total. In that case, the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">difficulty number is </span><span class=\"fontstyle2\">ignored</span><span class=\"fontstyle0\">, but the modifiers are not.</span></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 5,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One combat round to several minutes, depending upon how long it takes the character to say what is needed to pull off the con.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 3000000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "wGSfBDZSU1WdVQLp",
+      "dice": 1,
+      "pips": 2,
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.wGSfBDZSU1WdVQLp"
+    },
+    {
+      "_id": "mwyd4MbdDLGDOsot",
+      "name": "Gambling",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_gambling.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular game of chance &mdash; </span><span class=\"fontstyle0\">sabacc, Trin sticks, warp-top</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Gambling </span><span class=\"fontstyle2\">reflects a character&rsquo;s skill at various games of chance &mdash; it is used to increase his odds of winning. This skill doesn&rsquo;t affect games that are purely random, but does influence games with an element of strategy, like sabacc or a similar game. When playing a skill game honestly, all characters make opposed </span><span class=\"fontstyle0\">gambling </span><span class=\"fontstyle2\">rolls, and the highest roll wins.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round to several minutes.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 4100000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "mwyd4MbdDLGDOsot",
+      "dice": 2,
+      "pips": 0,
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.mwyd4MbdDLGDOsot"
+    },
+    {
+      "_id": "3WqQIMvGZSab0nSy",
+      "name": "Hide",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_hide.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle1\">Specializations: Camouflage</span><span class=\"fontstyle3\">.</span></em></p>\n<p><span class=\"fontstyle1\">Hide </span><span class=\"fontstyle3\">represents a character&rsquo;s ability to conceal objects from view. The skill is used when trying to hide weapons on one&rsquo;s person, conceal goods within luggage, plant objects to be left in a room and other similar tasks. </span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle0\">When characters are attempting to spot hidden objects, they must make an opposed </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">check. Modifiers include how well the gamemaster thinks the character hid the object. Just rolling high to </span><span class=\"fontstyle2\">hide </span><span class=\"fontstyle0\">a lightsaber on a character&rsquo;s belt won&rsquo;t do any good in a pat-down search, but dumping one into a ventilator shaft will be much more effective (usually).</span></span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle2\">Hide </span><span class=\"fontstyle0\">can also be used to conceal large objects: camouflaging a grounded starfighter or covering up the cave entrance of a secret base.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 4500000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "3WqQIMvGZSab0nSy",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.3WqQIMvGZSab0nSy"
+    },
+    {
+      "_id": "yEb2KQR8Y8T8WT79",
+      "name": "Hold-Out Blaster",
+      "type": "weapon",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/blaster_1.webp",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">Small enough to be hidden in the hand of a human, hold-out blasters are common in urban areas with strict weapon controls and among undercover agents.</span></p>\n<p><span class=\"fontstyle0\">Hold-out blasters require custom designed power packs and only hold enough blaster gas for a few shots. They are illegal or closely regulated in most systems. Many systems, however, look on them as a &ldquo;self-defense&rdquo; alternative to the more powerful types of personal weapons available.</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Concealable blaster</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Blaster: Hold-Out Blaster</span></em></p>\n<p><span class=\"fontstyle4\"><strong>Ammo:</strong> </span><span class=\"fontstyle5\">6</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">275 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R or X</span></p>\n<p><span class=\"fontstyle4\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">3-4/8/12</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">3D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 275,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "scale": {
+          "score": 0,
+          "type": "Number",
+          "label": "OD6S.SCALE"
+        },
+        "subtype": "Ranged",
+        "stats": {
+          "attribute": "AGI",
+          "skill": "Blaster",
+          "specialization": "Hold-Out Blaster"
+        },
+        "range": {
+          "short": "4",
+          "medium": "8",
+          "long": "12"
+        },
+        "damage": {
+          "type": "e",
+          "score": 9,
+          "muscle": false
+        },
+        "blast_radius": {
+          "1": {
+            "range": 0,
+            "damage": 0
+          },
+          "2": {
+            "range": 0,
+            "damage": 0
+          },
+          "3": {
+            "range": 0,
+            "damage": 0
+          },
+          "4": {
+            "range": 0,
+            "damage": 0
+          }
+        },
+        "ammo": 6,
+        "ammo_price": "",
+        "ammo_cost": 0,
+        "rof": 1,
+        "stun": 0,
+        "difficulty": "OD6S.DIFFICULTY_EASY",
+        "mods": {
+          "difficulty": 0,
+          "attack": 0,
+          "damage": 0
+        },
+        "label": "OD6S.CHAR_WEAPONS",
+        "credits": null
+      },
+      "effects": [],
+      "folder": "ER3owB6MKb9xhOjH",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.weapons.l0ZTW2CZqGHpNa6L"
+        }
+      },
+      "_key": "!actors.items!V8Wo49Y1ZTBmv5bz.yEb2KQR8Y8T8WT79"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "od6s": {
+      "fatepointeffect": false,
+      "crew": "",
+      "hasTakenTurn": false
+    }
+  },
+  "_key": "!actors!V8Wo49Y1ZTBmv5bz"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "skomREecFMKJIHyn",
+  "name": "Headset comlink",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_sullustianengineer.webp",
+  "data": {
+    "description": "<p>Headset Comlink<br />Model: Varge Copr. Hands-Free Comlink<br />Type: Headset comlink<br />Skill: Communication<br />Cost: 100<br />Availability: 1<br />Game Notes: Since the microphone transmitter is voiceactivated, a headset comlink left on will broadcast any sound above background level.<br />Source: Platt&rsquo;s Smugglers Guide (pages 47-48)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3f670840809cbf8dfe7ed5294293652d324eb594",
+      "sourceId": "Item.skomREecFMKJIHyn"
+    }
+  },
+  "_key": "!items!skomREecFMKJIHyn"
+}

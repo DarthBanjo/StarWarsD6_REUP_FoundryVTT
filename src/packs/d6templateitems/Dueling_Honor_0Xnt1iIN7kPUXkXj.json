@@ -1,0 +1,26 @@
+{
+  "_id": "0Xnt1iIN7kPUXkXj",
+  "name": "Dueling Honor",
+  "type": "specialability",
+  "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+  "data": {
+    "description": "<p>A saber rake who is insulted or challenged must make a Moderate <em>willpower </em>check to resist the powerful urge to challenge the offending party to a duel (if a noble; he'll just attack a commoner with whatever non-lethal weapon is handy and seems appropriate).</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0a41dbed113eb74e353e6c104a849e99e8bd1a46",
+      "sourceId": "Item.0Xnt1iIN7kPUXkXj"
+    }
+  },
+  "_key": "!items!0Xnt1iIN7kPUXkXj"
+}

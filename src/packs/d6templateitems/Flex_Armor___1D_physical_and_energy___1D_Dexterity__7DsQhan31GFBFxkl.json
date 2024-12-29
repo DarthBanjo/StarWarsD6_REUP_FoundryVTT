@@ -1,0 +1,59 @@
+{
+  "_id": "7DsQhan31GFBFxkl",
+  "name": "Flex Armor (+1D physical and energy, -1D Dexterity)",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_freedomwarrior.webp",
+  "data": {
+    "description": "<p><strong>Flex-Armor</strong><br /><strong>Model:</strong> Drolan Plasteel TYI Flex-Armor<br /><strong>Type: </strong>Personal armor<br /><strong>Scale: </strong>Character<br /><strong>Cost: </strong>2,000<br /><strong>Availability: </strong>3<br /><strong>Game Notes: </strong>Head, torso, arms, legs: +1D to all physical and energy attacks; -1D penalty to all Dexterity attribute and skill checks.<br /><strong>Possible Modifications: </strong>Flex-armor can be reinforced with steel wire mesh, thereby increasing its protection to +2D against physical strikes. Defense against energy attacks, however, is forfeited in the process. This alteration requires a Moderate armor repair roll and one day of time.<br /><strong>Source:</strong> Gundark&rsquo;s Fantastic Technology (page 54), Tales of the Jedi Companion (page 124)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "HKnPSKMaSfkfp7X6",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Flex Armor DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_linkarmor.webp",
+      "tint": null,
+      "_key": "!items.effects!7DsQhan31GFBFxkl.HKnPSKMaSfkfp7X6"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c7d8bc1c344c3043c42eb1712adf83861395f9d2",
+      "sourceId": "Item.7DsQhan31GFBFxkl"
+    }
+  },
+  "_key": "!items!7DsQhan31GFBFxkl"
+}

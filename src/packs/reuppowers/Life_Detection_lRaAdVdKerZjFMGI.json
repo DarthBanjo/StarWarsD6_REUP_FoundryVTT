@@ -1,0 +1,38 @@
+{
+  "_id": "lRaAdVdKerZjFMGI",
+  "name": "Life Detection",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_lifedetection.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong></p>\n<ul>\n<li>Very Easy if the subject has Force skills or is Force-sensitive;</li>\n<li>Moderate if not. Modified by relationship.</li>\n</ul>\n<p><em>This power may be kept \"up.\"</em></p>\n<p><strong>Effect: </strong>This power allows Jedi to detect live sentient beings who might otherwise remain hidden. When the power is activated, the Jedi knows the location of all sentients within 10 meters &mdash; if the power is kept \"up,\" the Jedi may know whenever a sentient approaches within 10 meters of them or vice versa. When approached by or approaching sentient creatures, the Jedi should make a <em>sense </em>roll; each creature makes an opposed <em>control </em>or <em>Perception </em>roll to avoid detection. (These rolls don't count as actions, so there are no die code penalties except those caused by injury.) The Jedi detects each being that she ties or beats. If the Jedi beats the target's roll by 10 or more points, she is aware if this person has Force skills (yes or no), is Force-sensitive (yes or no), if she has met the person before (yes or no), and if yes, their identity.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "i8aYC33xhs040Pup",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Life Detection",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_lifedetection.svg",
+      "tint": null,
+      "_key": "!items.effects!lRaAdVdKerZjFMGI.i8aYC33xhs040Pup"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!lRaAdVdKerZjFMGI"
+}

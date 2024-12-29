@@ -1,0 +1,1186 @@
+{
+  "_id": "MUSppI4fUHRm3bYo",
+  "name": "Tool Kit: Enhanced",
+  "type": "item-group",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/toolkit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">You may use the various tools in a standard tool kit to reprogram a droid or to repair a damaged starship or vehicle. A standard toolkit is generally required for any use of the &ldquo;<em>repair</em>&rdquo; skills. The standard tool kit below, represents a broad collection of tools designed to take apart, analyze, modify, and rebuild almost any technological device. Note that each individual tool has its own cost and may be purchased piecemeal.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Enhanced tool kits are designed for use with a specific <em>repair </em>skill (e.g. </span><span class=\"fontstyle2\"><em>repulsorlift repair</em>). </span><span class=\"fontstyle0\">Enhanced tool kits contain special, unique tools and small parts for repairing various systems and components unique to their specialization. At gamemaster discretion, small components should be included, however, larger replacement parts will have to be purchased additionally ( e.g. hyperdrives, power couplings etc.). Use of any enhanced tool kit requires </span><span class=\"fontstyle2\">all </span><span class=\"fontstyle0\">of the tools listed in the standard tool kit below.</span> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Enhanced tool kit</span></p>\n<p><span class=\"fontstyle0\"><strong>Skill:</strong> </span><span class=\"fontstyle2\">specific <em>repair </em>skill</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle0\">11</span><span class=\"fontstyle0\">5</span><span class=\"fontstyle2\">0 (+1 pip), 1400 (+2 pip), 1,650 (+1D) (includes the cost of the tools, otherwise the kits are: </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">500 (+1 pip), 750 (+2 pip), 1,000 (+1D))</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">This toolkit gives the user a bonus for repair work on one specific <em>repair </em>skill (</span><span class=\"fontstyle3\"><em>starfighter repair, aquatic vehicle repair, blaster repair, droid repair, equipment repair, walker repair, repulsorlift repair</em> </span><span class=\"fontstyle2\">etc.) ranging from +1 to +1D based on the price (Requires all of the tools from the &ldquo;custom tool kit&rdquo; above).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "actor_types": [
+      "character",
+      "npc"
+    ],
+    "items": [
+      {
+        "name": "Tool, Beam Drill",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">For punching precise holes through durasteel and similar materials.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Hydrospanner",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Tightens and loosen all forms of fasteners.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Fusion Cutter",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Designed for cutting apart durasteel and similar materials. Accidental exposure causes 5D damage.</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost: </strong>75</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Parts",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Various circuits, wires and small components.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Plasma Welder",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Joins two surfaces together. Allows for welds from 0.2-20 centimeters in diameter.</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Power Prybar",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">For forcing things open. When used to pry things up, open or apart, this tool adds +1D to +3D to the user's </span><em><span class=\"fontstyle2\">Strength </span></em><span class=\"fontstyle0\">depending on the model.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 30</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Power Scanner",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">For analyzing ciruitry</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 150</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Tool Harness",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">For holding all of your tools on your person.</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 10</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Vibropick",
+        "type": "gear",
+        "description": "<p>For shorting out electronic components or soldering wires. Accidental exposure causes 1D damage.</p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost: </strong>50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Vibrosaw",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Designed for things that don&rsquo;t call for a fusion cutter. STR+1D damage.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 75</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Welding Goggles",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">So you don't burn out your eyes.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 35</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      },
+      {
+        "name": "Tool, Worklight",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Illuminates hard-to-see workspaces. Runs off power cell (12 hours).</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 25</p>\n<p><strong>Availability:</strong>&nbsp;1</p>"
+      }
+    ],
+    "label": "OD6S.ITEM_GROUP",
+    "config": {
+      "startCombat": false,
+      "socket": {
+        "functions": {},
+        "socketName": "system.od6s",
+        "pendingRequests": {}
+      },
+      "baseHitDifficulty": 10,
+      "default_sensor_skill": "OD6S.SENSORS",
+      "fatePointsName": "Force Points",
+      "fatePointsShortName": "Force Points",
+      "useAFatePointName": "Use a force point?",
+      "metaphysicsName": "",
+      "manifestationsName": "Force Powers",
+      "metaphysicsExtranormalName": "Force Sensitive",
+      "vehicleToughnessName": "Body Strength",
+      "passengerDamageDice": true,
+      "starshipToughessName": "",
+      "vehicleDifficulty": true,
+      "brawlAttribute": "",
+      "opposed": [],
+      "chatPath": "systems/od6s/templates/chat/",
+      "wildDieOneDefault": 0,
+      "wildDieOneAuto": 0,
+      "grenadeDamageDice": true,
+      "highlightEffects": true,
+      "randomHitLocations": true,
+      "mapRange": true,
+      "meleeDifficulty": true,
+      "baseAttackDifficulty": 10,
+      "defenseLock": false,
+      "currencyName": "Credits",
+      "fatePointRound": true,
+      "fatePointClimactic": true,
+      "woundConfig": 0,
+      "bodyPointsName": "Body Points",
+      "highHitDamage": false,
+      "autoOpposed": true,
+      "pipsPerDice": 3,
+      "speciesMaxDice": 1,
+      "speciesMinDice": 5,
+      "flatSkills": false,
+      "deadlinessLevel": {
+        "character": 3,
+        "creature": 4,
+        "npc": 4
+      },
+      "wildDieResult": {
+        "0": "OD6S.WILD_RESULT_ONE",
+        "1": "OD6S.WILD_DIE_NONE",
+        "2": "OD6S.REMOVE_HIGHEST_DIE",
+        "3": "OD6S.COMPLICATION"
+      },
+      "actorMasks": {
+        "character": 0,
+        "npc": 1,
+        "creature": 2,
+        "vehicle": 3,
+        "starship": 4
+      },
+      "equippable": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "cargo_hold": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "deadliness": {
+        "0": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_WOUNDED_3",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "8": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "2": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "3": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "4": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "5": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        }
+      },
+      "damage": {
+        "OD6S": {
+          "WOUNDS_STUNNED": 1,
+          "WOUNDS_WOUNDED": 4,
+          "WOUNDS_INCAPACITATED": 9,
+          "WOUNDS_MORTALLY_WOUNDED": 13,
+          "WOUNDS_DEAD": 16
+        }
+      },
+      "bodyPointLevels": {
+        "OD6S": {
+          "WOUNDS_HEALTHY": 9999,
+          "WOUNDS_STUNNED": 81,
+          "WOUNDS_WOUNDED": 60,
+          "WOUNDS_SEVERELY_WOUNDED": 40,
+          "WOUNDS_INCAPACITATED": 20,
+          "WOUNDS_MORTALLY_WOUNDED": 10,
+          "WOUNDS_DEAD": 1
+        }
+      },
+      "vehicle_damage": {
+        "OD6S": {
+          "DAMAGE_NONE": {
+            "damage": 0,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_VERY_LIGHT": {
+            "damage": 1,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_LIGHT": {
+            "damage": 4,
+            "passenger_damage": "OD6S.PASSENGER_QUARTER_DAMAGE",
+            "passenger_damage_dice": 1
+          },
+          "DAMAGE_HEAVY": {
+            "damage": 9,
+            "passenger_damage": "OD6S.PASSENGER_HALF_DAMAGE",
+            "passenger_damage_dice": 3
+          },
+          "DAMAGE_SEVERE": {
+            "damage": 13,
+            "passenger_damage": "OD6S.PASSENGER_THREE_QUARTERS_DAMAGE",
+            "passenger_damage_dice": 6
+          },
+          "DAMAGE_DESTROYED": {
+            "damage": 16,
+            "passenger_damage": "OD6S.PASSENGER_FULL_DAMAGE",
+            "passenger_damage_dice": 12
+          }
+        }
+      },
+      "vehicle_speeds": {
+        "stopped": {
+          "name": "OD6S.VEHICLE_SPEED_STOPPED",
+          "damage": 6,
+          "mod": 0
+        },
+        "cautious": {
+          "name": "OD6S.VEHICLE_SPEED_CAUTIOUS",
+          "damage": 12,
+          "mod": 0
+        },
+        "cruise": {
+          "name": "OD6S.VEHICLE_SPEED_CRUISE",
+          "damage": 18,
+          "mod": 0
+        },
+        "high": {
+          "name": "OD6S.VEHICLE_SPEED_HIGH",
+          "damage": 24,
+          "mod": 5
+        },
+        "all_out": {
+          "name": "OD6S.VEHICLE_SPEED_ALL_OUT",
+          "damage": 30,
+          "mod": 10
+        }
+      },
+      "collision_types": {
+        "head_on": {
+          "name": "OD6S.VEHICLE_HEAD_ON",
+          "score": 9
+        },
+        "sidewipe": {
+          "name": "OD6S.VEHICLE_SIDESWIPE",
+          "score": -9
+        },
+        "rear_end": {
+          "name": "OD6S.VEHICLE_REAR_END",
+          "score": -9
+        },
+        "t_bone": {
+          "name": "OD6S.VEHICLE_T_BONE",
+          "score": 0
+        }
+      },
+      "weaponTypes": [
+        "OD6S.RANGED",
+        "OD6S.MELEE",
+        "OD6S.MISSILE",
+        "OD6S.THROWN",
+        "OD6S.EXPLOSIVE"
+      ],
+      "meleeDifficulties": [
+        "OD6S.DIFFICULTY_VERY_EASY",
+        "OD6S.DIFFICULTY_EASY",
+        "OD6S.DIFFICULTY_MODERATE",
+        "OD6S.DIFFICULTY_DIFFICULT",
+        "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "OD6S.DIFFICULTY_HEROIC"
+      ],
+      "actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_RANGED_ATTACK",
+          "type": "rangedattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "",
+          "subtype": "rangedattack"
+        },
+        "melee_attack": {
+          "name": "OD6S.ACTION_MELEE_ATTACK",
+          "type": "meleeattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Melee Combat",
+          "subtype": "meleeattack"
+        },
+        "brawl_attack": {
+          "name": "OD6S.ACTION_BRAWL_ATTACK",
+          "type": "brawlattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Brawling",
+          "subtype": "brawlattack"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_DODGE",
+          "type": "dodge",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Dodge",
+          "subtype": "dodge"
+        },
+        "parry": {
+          "name": "OD6S.ACTION_PARRY",
+          "type": "parry",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.MELEE_PARRY",
+          "subtype": "parry"
+        },
+        "block": {
+          "name": "OD6S.BRAWLING_PARRY",
+          "type": "block",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.BRAWLING_PARRY",
+          "subtype": "block"
+        },
+        "other": {
+          "name": "OD6S.ACTION_OTHER",
+          "type": "action",
+          "rollable": false,
+          "subtype": "misc"
+        }
+      },
+      "vehicle_actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_VEHICLE_RANGED_ATTACK",
+          "type": "vehiclerangedattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "ram": {
+          "name": "OD6S.ACTION_VEHICLE_RAM",
+          "type": "vehicleramattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_VEHICLE_DODGE",
+          "type": "vehicledodge",
+          "rollable": true,
+          "base": "mec"
+        },
+        "maneuver": {
+          "name": "OD6S.ACTION_VEHICLE_MANEUVER",
+          "type": "vehiclemaneuver",
+          "rollable": true,
+          "base": "mec"
+        },
+        "sensors": {
+          "name": "OD6S.ACTION_VEHICLE_SENSORS",
+          "type": "vehiclesensors",
+          "base": "mec",
+          "skill": "OD6S.SENSORS",
+          "rollable": true
+        },
+        "other": {
+          "name": "OD6S.ACTION_VEHICLE_OTHER",
+          "type": "action",
+          "rollable": false
+        }
+      },
+      "difficulty": {
+        "OD6S": {
+          "DIFFICULTY_UNKNOWN": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_CUSTOM": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_AUTOMATIC": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_VERY_EASY": {
+            "min": 1,
+            "max": 5
+          },
+          "DIFFICULTY_EASY": {
+            "min": 6,
+            "max": 10
+          },
+          "DIFFICULTY_MODERATE": {
+            "min": 11,
+            "max": 15
+          },
+          "DIFFICULTY_DIFFICULT": {
+            "min": 16,
+            "max": 20
+          },
+          "DIFFICULTY_VERY_DIFFICULT": {
+            "min": 21,
+            "max": 25
+          },
+          "DIFFICULTY_HEROIC": {
+            "min": 26,
+            "max": 30
+          },
+          "DIFFICULTY_LEGENDARY": {
+            "min": 31,
+            "max": 40
+          }
+        }
+      },
+      "terrain_difficulty": {
+        "OD6S": {
+          "TERRAIN_EASY": {
+            "mod": 0
+          },
+          "TERRAIN_MODERATE": {
+            "mod": 5
+          },
+          "TERRAIN_ROUGH": {
+            "mod": 10
+          },
+          "TERRAIN_VERY_ROUGH": {
+            "mod": 15
+          },
+          "TERRAIN_HAZARDOUS": {
+            "mod": 20
+          },
+          "TERRAIN_VERY_HAZARDOUS": {
+            "mod": 25
+          }
+        }
+      },
+      "result": {
+        "OD6S": {
+          "FAILURE": {
+            "description": "OD6S.FAILURE",
+            "difference": -1
+          },
+          "RESULT_MINIMAL": {
+            "description": "OD6S.RESULT_MINIMAL_DESCRIPTION",
+            "difference": 0
+          },
+          "RESULT_SOLID": {
+            "description": "OD6S.RESULT_SOLID_DESCRIPTION",
+            "difference": 1
+          },
+          "RESULT_GOOD": {
+            "description": "OD6S.RESULT_GOOD_DESCRIPTION",
+            "difference": 5
+          },
+          "RESULT_SUPERIOR": {
+            "description": "OD6S.RESULT_SUPERIOR_DESCRIPTION",
+            "difference": 9
+          },
+          "RESULT_SPECTACULAR": {
+            "description": "OD6S.RESULT_SPECTACULAR_DESCRIPTION",
+            "difference": 13
+          },
+          "RESULT_INCREDIBLE": {
+            "description": "OD6S.RESULT_INCREDIBLE_DESCRIPTION",
+            "difference": 16
+          }
+        }
+      },
+      "cover": {
+        "OD6S": {
+          "COVER_SMOKE": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_LIGHT_SMOKE": {
+                "modifier": 3
+              },
+              "COVER_THICK_SMOKE": {
+                "modifier": 6
+              },
+              "COVER_VERY_THICK_SMOKE": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER_LIGHT": {
+            "OD6S": {
+              "COVER_LIGHT_NONE": {
+                "modifier": 0
+              },
+              "COVER_POOR_LIGHT": {
+                "modifier": 3
+              },
+              "COVER_MOONLIGHT_NIGHT": {
+                "modifier": 6
+              },
+              "COVER_COMPLETE_DARKNESS": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_QUARTER": {
+                "modifier": 3
+              },
+              "COVER_HALF": {
+                "modifier": 6
+              },
+              "COVER_THREE_QUARTERS": {
+                "modifier": 12
+              },
+              "COVER_FULL": {
+                "modifier": 0
+              }
+            }
+          }
+        }
+      },
+      "calledShot": {
+        "OD6S": {
+          "CALLED_SHOT_NONE": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_LARGE": {
+            "modifier": 3,
+            "damage": 0
+          },
+          "CALLED_SHOT_MEDIUM": {
+            "modifier": 12,
+            "damage": 0
+          },
+          "CALLED_SHOT_SMALL": {
+            "modifier": 24,
+            "damage": 0
+          },
+          "CALLED_SHOT_HEAD": {
+            "modifier": 5,
+            "damage": 12
+          },
+          "CALLED_SHOT_HEART": {
+            "modifier": 15,
+            "damage": 12
+          },
+          "CALLED_SHOT_TORSO": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_ARM": {
+            "modifier": 5,
+            "damage": -2
+          },
+          "CALLED_SHOT_LEG": {
+            "modifier": 5,
+            "damage": -1
+          },
+          "CALLED_SHOT_HAND": {
+            "modifier": 15,
+            "damage": -2
+          }
+        }
+      },
+      "gravity": {
+        "OD6S": {
+          "GRAVITY_STANDARD": {
+            "modifier": 0
+          },
+          "GRAVITY_LOW": {
+            "modifier": -3
+          },
+          "GRAVITY_NONE": {
+            "modifier": -6
+          },
+          "GRAVITY_HEAVY": {
+            "modifier": 9
+          }
+        }
+      },
+      "misc": {
+        "OD6S": {
+          "MISC": {
+            "modifier": 0
+          }
+        }
+      },
+      "rangedAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_RANGED_SINGLE_FIRE_AS_MULTI": {
+            "attack": -3,
+            "damage": 3,
+            "multi": true
+          },
+          "ATTACK_RANGED_FULL_AUTO": {
+            "attack": -6,
+            "damage": 6,
+            "multi": false
+          },
+          "ATTACK_RANGED_SWEEP": {
+            "attack": -6,
+            "damage": -9,
+            "multu": false
+          },
+          "ATTACK_RANGED_BURST_FIRE_AS_SINGLE": {
+            "attack": 0,
+            "damage": -6,
+            "multi": false
+          }
+        }
+      },
+      "meleeAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "brawlAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_GRAB": {
+            "attack": 9,
+            "damage": 0
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          },
+          "ATTACK_SWEEP": {
+            "attack": -6,
+            "damage": -9
+          },
+          "ATTACK_TACKLE": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "attributes": {
+        "agi": {
+          "name": "Dexterity",
+          "shortName": "DEX"
+        },
+        "str": {
+          "name": "Strength",
+          "shortName": "STR"
+        },
+        "mec": {
+          "name": "Mechanical",
+          "shortName": "MEC"
+        },
+        "kno": {
+          "name": "Knowledge",
+          "shortName": "KNO"
+        },
+        "per": {
+          "name": "Perception",
+          "shortName": "PER"
+        },
+        "tec": {
+          "name": "Technical",
+          "shortName": "TEC"
+        },
+        "met": {
+          "name": "The Force",
+          "shortName": "The Force"
+        }
+      },
+      "ranges": {
+        "OD6S": {
+          "RANGE_POINT_BLANK_SHORT": {
+            "name": "OD6S.RANGE_POINT_BLANK",
+            "difficulty": -5,
+            "map": "OD6S.DIFFICULTY_VERY_EASY"
+          },
+          "RANGE_SHORT_SHORT": {
+            "name": "OD6S.RANGE_SHORT",
+            "difficulty": 0,
+            "map": "OD6S.DIFFICULTY_EASY"
+          },
+          "RANGE_MEDIUM_SHORT": {
+            "name": "OD6S.RANGE_MEDIUM",
+            "difficulty": 5,
+            "map": "OD6S.DIFFICULTY_MODERATE"
+          },
+          "RANGE_LONG_SHORT": {
+            "name": "OD6S.RANGE_LONG",
+            "difficulty": 10,
+            "map": "OD6S.DIFFICULTY_DIFFICULT"
+          }
+        }
+      },
+      "damageTypes": {
+        "p": "OD6S.PHYSICAL",
+        "e": "OD6S.ENERGY"
+      },
+      "cyberneticsLocations": [
+        "OD6S.HEAD",
+        "OD6S.RIGHT_ARM",
+        "OD6S.LEFT_ARM",
+        "OD6S.BODY",
+        "OD6S.RIGHT_LEG",
+        "OD6S.LEFT_LEG"
+      ],
+      "allowedItemTypes": {
+        "character": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "character-template",
+          "species-template"
+        ],
+        "npc": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "species-template"
+        ],
+        "creature": [
+          "skill",
+          "specialization",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic"
+        ],
+        "vehicle": [
+          "vehicle-weapon",
+          "vehicle-gear"
+        ],
+        "starship": [
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "actorTypeLabels": {
+        "character": "ACTOR.TypeCharacter",
+        "creature": "ACTOR.TypeCreature",
+        "npc": "ACTOR.TypeNpc",
+        "starship": "ACTOR.TypeStarship",
+        "vehicle": "ACTOR.TypeVehicle"
+      },
+      "templateItemTypes": {
+        "character-template": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation"
+        ],
+        "species-template": [
+          "specialability"
+        ],
+        "item-group": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "itemLabels": {
+        "skill": "OD6S.SKILL",
+        "specialization": "OD6S.SPECIALIZATION",
+        "advantage": "OD6S.ADVANTAGE",
+        "disadvantage": "OD6S.DISADVANTAGE",
+        "specialability": "OD6S.SPECIAL_ABILITY",
+        "armor": "OD6S.ARMOR",
+        "weapon": "OD6S.WEAPON",
+        "gear": "OD6S.GEAR",
+        "cybernetic": "OD6S.CYBERNETIC",
+        "vehicle": "OD6S.VEHICLE",
+        "manifestation": "OD6S.MANIFESTATION",
+        "character-template": "OD6S.CHARACTER_TEMPLATE",
+        "action": "OD6S.ACTION",
+        "species-template": "ITEM.TypeSpecies-template",
+        "starship-gear": "ITEM.TypeStarship-gear",
+        "starship-weapon": "ITEM.TypeStarship-weapon",
+        "vehicle-gear": "ITEM.TypeVehicle-gear",
+        "vehicle-weapon": "ITEM.TypeVehicle-weapon"
+      },
+      "chatTemplates": {
+        "generic": "systems/od6s/templates/chat/generic.html",
+        "roll": "systems/od6s/templates/chat/roll.html",
+        "opposed": "systems/od6s/templates/chat/opposed.html",
+        "damageresult": "systems/od6s/templates/chat/damageresult.html"
+      },
+      "data_tab": {
+        "defense": {
+          "dodge": "OD6S.DODGE",
+          "parry": "OD6S.PARRY",
+          "block": "OD6S.BLOCK"
+        },
+        "offense": {
+          "ranged": "OD6S.RANGED",
+          "melee": "OD6S.MELEE",
+          "brawl": "OD6S.BRAWL"
+        }
+      },
+      "statusEffects": [
+        {
+          "id": "dead",
+          "label": "EFFECT.StatusDead",
+          "icon": "icons/svg/skull.svg"
+        },
+        {
+          "id": "unconscious",
+          "label": "EFFECT.StatusUnconscious",
+          "icon": "icons/svg/unconscious.svg"
+        },
+        {
+          "id": "sleep",
+          "label": "EFFECT.StatusAsleep",
+          "icon": "icons/svg/sleep.svg"
+        },
+        {
+          "id": "stun",
+          "label": "EFFECT.StatusStunned",
+          "icon": "icons/svg/daze.svg"
+        },
+        {
+          "id": "prone",
+          "label": "EFFECT.StatusProne",
+          "icon": "icons/svg/falling.svg"
+        },
+        {
+          "id": "restrain",
+          "label": "EFFECT.StatusRestrained",
+          "icon": "icons/svg/net.svg"
+        },
+        {
+          "id": "paralysis",
+          "label": "EFFECT.StatusParalysis",
+          "icon": "icons/svg/paralysis.svg"
+        },
+        {
+          "id": "fly",
+          "label": "EFFECT.StatusFlying",
+          "icon": "icons/svg/wing.svg"
+        },
+        {
+          "id": "blind",
+          "label": "EFFECT.StatusBlind",
+          "icon": "icons/svg/blind.svg"
+        },
+        {
+          "id": "deaf",
+          "label": "EFFECT.StatusDeaf",
+          "icon": "icons/svg/deaf.svg"
+        },
+        {
+          "id": "silence",
+          "label": "EFFECT.StatusSilenced",
+          "icon": "icons/svg/silenced.svg"
+        },
+        {
+          "id": "fear",
+          "label": "EFFECT.StatusFear",
+          "icon": "icons/svg/terror.svg"
+        },
+        {
+          "id": "burning",
+          "label": "EFFECT.StatusBurning",
+          "icon": "icons/svg/fire.svg"
+        },
+        {
+          "id": "frozen",
+          "label": "EFFECT.StatusFrozen",
+          "icon": "icons/svg/frozen.svg"
+        },
+        {
+          "id": "shock",
+          "label": "EFFECT.StatusShocked",
+          "icon": "icons/svg/lightning.svg"
+        },
+        {
+          "id": "bleeding",
+          "label": "EFFECT.StatusBleeding",
+          "icon": "icons/svg/blood.svg"
+        },
+        {
+          "id": "disease",
+          "label": "EFFECT.StatusDisease",
+          "icon": "icons/svg/biohazard.svg"
+        },
+        {
+          "id": "poison",
+          "label": "EFFECT.StatusPoison",
+          "icon": "icons/svg/poison.svg"
+        },
+        {
+          "id": "radiation",
+          "label": "EFFECT.StatusRadiation",
+          "icon": "icons/svg/radiation.svg"
+        },
+        {
+          "id": "upgrade",
+          "label": "EFFECT.StatusUpgrade",
+          "icon": "icons/svg/upgrade.svg"
+        },
+        {
+          "id": "downgrade",
+          "label": "EFFECT.StatusDowngrade",
+          "icon": "icons/svg/downgrade.svg"
+        },
+        {
+          "id": "target",
+          "label": "EFFECT.StatusTarget",
+          "icon": "icons/svg/target.svg"
+        }
+      ],
+      "hitLocations": {
+        "0": "OD6S.LOCATION_RIGHT_HAND",
+        "1": "OD6S.LOCATION_LEFT_HAND",
+        "2": "OD6S.LOCATION_RIGHT_LEG",
+        "3": "OD6S.LOCATION_RIGHT_FOOT",
+        "4": "OD6S.LOCATION_LEFT_LEG",
+        "5": "OD6S.LOCATION_LEFT_FOOT",
+        "6": "OD6S.LOCATION_ABDOMEN",
+        "7": "OD6S.LOCATION_CHEST",
+        "8": "OD6S.LOCATION_CHEST",
+        "9": "OD6S.LOCATION_HEAD"
+      },
+      "manifestationName": "Force Power",
+      "starshipToughnessName": "Hull Strength",
+      "interstellarDriveName": "Interstellar Drive"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.MUSppI4fUHRm3bYo"
+    }
+  },
+  "_key": "!items!MUSppI4fUHRm3bYo"
+}

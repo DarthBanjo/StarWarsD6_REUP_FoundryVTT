@@ -1,0 +1,42 @@
+{
+  "_id": "vTpjISW0KoMDbfj9",
+  "name": "Detoxify Poison",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_detoxifypoison.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span></p>\n<ul>\n<li><span class=\"fontstyle2\">Very Easy for a very mild poison, such as alcohol; </span></li>\n<li><span class=\"fontstyle2\">Easy for a mild poison; </span></li>\n<li><span class=\"fontstyle2\">Moderate for an average poison; </span></li>\n<li><span class=\"fontstyle2\">Difficult for a virulent poison; </span></li>\n<li><span class=\"fontstyle2\">Very Difficult to Heroic for a neurotoxin.</span></li>\n</ul>\n<p><span class=\"fontstyle0\"><strong>Time To Use:</strong> </span><span class=\"fontstyle2\">Five minutes.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">This power allows a Jedi to detoxify or eject poisons that have entered her body. If the Jedi makes the control roll, the poison doesn&rsquo;t affect her.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "u9msSIwcd2Lt6lmI",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!vTpjISW0KoMDbfj9.u9msSIwcd2Lt6lmI"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!vTpjISW0KoMDbfj9"
+}

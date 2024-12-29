@@ -1,0 +1,36 @@
+{
+  "_id": "ZyCfGDbacXvvT63H",
+  "name": "Translator, Transliterator",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/transliterator.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Communication with aliens who don&rsquo;t know Basic (or can&rsquo;t speak Basic, such as Wookiees), will likely use a translation device. There are myriad available on the market, some with very basic pre-programmed phrases, such as a vox-box and others which are able to translate languages in real-time. Two of the more common devices are listed below. Altering one or more of a vox-box&rsquo;s pre-programmed phrases requires a Moderate </span><span class=\"fontstyle2\"><em>computer programming/repair</em> roll</span><span class=\"fontstyle0\">.</span></p>\n<p><span class=\"fontstyle0\"><strong>Model:</strong> </span><span class=\"fontstyle2\">Standard Transliterator</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Language interpretation unit</span></p>\n<p><span class=\"fontstyle0\"><strong>Skill:</strong> </span><em><span class=\"fontstyle3\">Communications</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">1,200 (includes 500 of the most common languages), 500 (module with 500 additional languages)</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">3</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">An Easy </span><span class=\"fontstyle3\">communications </span><span class=\"fontstyle2\">roll is required to properly select up to 20 different languages to be tracked. Device is effective to a range of 10 meters, but aural receptors focus on nearest sounds first. Individual displays of phrase or word translations can either remain in place until manually cleared by user or clear after a pre-set delay period of 15 seconds. This unit&rsquo;s database contains 500 specific &ldquo;common&rdquo; languages and dialects.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.ZyCfGDbacXvvT63H"
+    }
+  },
+  "_key": "!items!ZyCfGDbacXvvT63H"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "jy3vESg5UvBqVQln",
+  "name": "Blaster Power Pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/powercell.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A power pack is a compact rectangular battery that fits into the grip or barrel of an energy weapon, such as a blaster, to provide the power needed to fire it. A power pack can be recharged with a power recharger.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Blaster Power Pack</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">25</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">May be used for any blaster in its class: blaster pistol packs fit most blaster pistols, blaster rifle packs fit most blaster rifles, etc.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.jy3vESg5UvBqVQln"
+    }
+  },
+  "_key": "!items!jy3vESg5UvBqVQln"
+}

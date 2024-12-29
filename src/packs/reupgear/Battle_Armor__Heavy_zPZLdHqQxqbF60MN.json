@@ -1,0 +1,63 @@
+{
+  "_id": "zPZLdHqQxqbF60MN",
+  "name": "Battle Armor, Heavy",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/battlearmor2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Similar to regular battle armor, heavy battle armor features more plating than padding, including various pieces molded to fit the user, such as breastplates and armor covering the arms and legs.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Core World Arms Dura-Armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Impact-resistant molded armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Scale:</strong> </span><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">8,000</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">3</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Head, torso, arms, legs: +2D to all </span><span class=\"fontstyle6\">physical </span><span class=\"fontstyle5\">(non-energy) attacks; +2D to all </span><span class=\"fontstyle6\">energy </span><span class=\"fontstyle5\">attacks; -2D penalty to all </span><em><span class=\"fontstyle6\">Dexterity </span></em><span class=\"fontstyle5\">and </span><em><span class=\"fontstyle6\">Perception </span></em><span class=\"fontstyle5\">attribute and skill checks.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 8000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 6,
+    "er": 6,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "4utMTp8z0ERxRaHj",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.per.mod",
+          "mode": 2,
+          "value": "-6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Battle Armor Attribute Penalties",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/battlearmor2.webp",
+      "tint": null,
+      "_key": "!items.effects!zPZLdHqQxqbF60MN.4utMTp8z0ERxRaHj"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    }
+  },
+  "_key": "!items!zPZLdHqQxqbF60MN"
+}

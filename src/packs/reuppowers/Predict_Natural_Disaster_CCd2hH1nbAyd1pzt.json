@@ -1,0 +1,21 @@
+{
+  "_id": "CCd2hH1nbAyd1pzt",
+  "name": "Predict Natural Disaster",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_predictnaturaldisaster.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Easy if the Jedi has lived in the area for more than a year.</li>\n<li>Moderate if the Jedi has been living within the area between six and 12 months.</li>\n<li>Difficult if the Jedi has been living within the area between one and six months.</li>\n<li>Very Difficult if the Jedi has been living within the area less than one month.</li>\n<li>Modified by severity of disaster (larger disasters are easier to predict) and degree to which the disaster could reasonably be predicted (gamemasters may decide that disasters are easier or harder to predict based on a multitude of factors).</li>\n</ul>\n<p><strong>Required Powers:</strong>&nbsp;<em>Danger Sense,&nbsp;Life Detection,&nbsp;Weather Sense,&nbsp;Magnify Senses</em></p>\n<p><strong>Time to Use:</strong> 15 minutes. May be reduced in five-minute increments by increasing difficulty one level per five-minute increment (minimum time to use is one minute).</p>\n<p><strong>Effect: </strong>The Jedi can sense local meteorological and geological conditions and predict imminent disasters, such as earthquakes, volcanic eruptions, floods, landslides, avalanches, caveins, tornadoes, hurricanes (hurricanes can also can be predicted with weather sense), etc. By opening his or her senses to the environment, the Jedi can predict these disturbances, much as animals can seemingly sense an earthquake hours or even days before it happens. Like weather sense, this power does not lend itself to quick predictions. It customarily takes weeks for a Jedi to get to know local weather patterns and topography. The prediction is effective for 12 hours. The difficulty increases by one level for each additional 12-hour period by which the Jedi wishes to extend the prediction.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!CCd2hH1nbAyd1pzt"
+}

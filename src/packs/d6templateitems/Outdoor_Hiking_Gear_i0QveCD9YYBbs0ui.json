@@ -1,0 +1,37 @@
+{
+  "_id": "i0QveCD9YYBbs0ui",
+  "name": "Outdoor Hiking Gear",
+  "type": "gear",
+  "img": "icons/equipment/head/hat-belted-simple.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cf7e52fe151743da49d4b7b29231aaf15c867762",
+      "sourceId": "Item.i0QveCD9YYBbs0ui"
+    }
+  },
+  "_key": "!items!i0QveCD9YYBbs0ui"
+}

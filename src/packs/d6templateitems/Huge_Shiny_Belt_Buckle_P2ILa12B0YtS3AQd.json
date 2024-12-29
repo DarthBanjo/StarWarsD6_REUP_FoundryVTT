@@ -1,0 +1,37 @@
+{
+  "_id": "P2ILa12B0YtS3AQd",
+  "name": "Huge Shiny Belt Buckle",
+  "type": "gear",
+  "img": "icons/equipment/waist/belt-buckle-gold.webp",
+  "data": {
+    "description": "<p>Annoying Squib</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5c01e725b9c1dbcdd5d6ea8110d948891da1134f",
+      "sourceId": "Item.P2ILa12B0YtS3AQd"
+    }
+  },
+  "_key": "!items!P2ILa12B0YtS3AQd"
+}

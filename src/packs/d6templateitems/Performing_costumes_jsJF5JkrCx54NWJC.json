@@ -1,0 +1,37 @@
+{
+  "_id": "jsJF5JkrCx54NWJC",
+  "name": "Performing costumes",
+  "type": "gear",
+  "img": "icons/equipment/head/mask-carved-scream-tan.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5dbc9cf32d20e893918bbf6e5902960851b29d9f",
+      "sourceId": "Item.jsJF5JkrCx54NWJC"
+    }
+  },
+  "_key": "!items!jsJF5JkrCx54NWJC"
+}

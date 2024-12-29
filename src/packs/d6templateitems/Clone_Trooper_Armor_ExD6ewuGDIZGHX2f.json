@@ -1,0 +1,62 @@
+{
+  "_id": "ExD6ewuGDIZGHX2f",
+  "name": "Clone Trooper Armor",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/clonearmor.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Stormtroopers are the elite shock troops of the Empire, and their stark white protective armor is unmistakable. The armor is an 18-piece cocoon which surrounds the soldier. Ownership of Stormtrooper armor by non-stormtroopers is a serious offense in all Empire systems &mdash; and inherently dangerous in non-Empire systems.</span></p>\n<p><span class=\"fontstyle0\">Variants of this armor also exist, including scout snowtrooper armor, sandtrooper armor, and clone trooper armor. Each has slightly different details, but all include the basic characteristics common to all stormtrooper armor. Though unavailable on the open market, these suits can occasionally be found on the black market (or sometimes much higher).</span></p>\n<p><span class=\"fontstyle0\">The Clone Troopers wore a very similar armor, although not quite as technologically advanced as the stormtrooper variant.</span></p>\n<p><span class=\"fontstyle0\"><strong>Model:</strong> </span><span class=\"fontstyle2\">Republic Clone Trooper Armor, Mark I</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Military armor</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">Not available for sale</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">3, X</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes:</span></strong></p>\n<ul>\n<li><span class=\"fontstyle3\"><em>Armor Protection:</em> </span><span class=\"fontstyle2\">+2D </span><span class=\"fontstyle3\">physical</span><span class=\"fontstyle2\">, +1D </span><span class=\"fontstyle3\">energy</span><span class=\"fontstyle2\">, -1D penalty </span><span class=\"fontstyle3\">Dexterity<br /></span><span class=\"fontstyle2\">and related skills.</span></li>\n<li><span class=\"fontstyle3\"><em>Comlink:</em> </span><span class=\"fontstyle2\">Tongue-activated helmet comlink.</span></li>\n<li><em><span class=\"fontstyle3\">Body Glove:</span></em><strong> </strong><span class=\"fontstyle2\">Climate controlled body glove allows operation in<br />uncomfortably cold or warm climates.</span></li>\n<li><em><span class=\"fontstyle3\">MFTAS: </span></em><span class=\"fontstyle2\">Multi-Frequency Targeting Acquisition System; adds +1 to </span><span class=\"fontstyle3\">Perception </span><span class=\"fontstyle2\">checks in low-visibility situations, +1 to ranged weapon skill uses against targets moving more than 10 meters per round.</span></li>\n<li><span class=\"fontstyle3\"><em>Utility Belt:</em> </span><span class=\"fontstyle2\">High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water packs, 2 medpacs.</span> </li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "cost": null,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": true,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 6,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "4utMTp8z0ERxRaHj",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Stormtrooper Armor DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!ExD6ewuGDIZGHX2f.4utMTp8z0ERxRaHj"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    },
+    "scene-packer": {
+      "hash": "a8642bbdbc852e7e87a377ad0522e0d96561e410",
+      "sourceId": "Item.ExD6ewuGDIZGHX2f"
+    }
+  },
+  "_key": "!items!ExD6ewuGDIZGHX2f"
+}

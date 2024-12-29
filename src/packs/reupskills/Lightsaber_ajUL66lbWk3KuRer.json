@@ -1,0 +1,31 @@
+{
+  "_id": "ajUL66lbWk3KuRer",
+  "name": "Lightsaber",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_lightsaber.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type or model lightsaber &mdash; </span><span class=\"fontstyle0\">double-bladed lightsaber, light-whip.</span></em></p>\n<p><span class=\"fontstyle0\">Lightsaber </span><span class=\"fontstyle2\">is the &ldquo;melee combat&rdquo; skill used for the lightsaber, the weapon of the famed Jedi Knights.</span></p>\n<p><span class=\"fontstyle2\">While a very powerful weapon, a lightsaber is dangerous to an unskilled user &mdash; if an attacking character misses the attack difficulty number by 10 or more points, then the character has injured himself with the weapon and rolls damage against his own </span><span class=\"fontstyle0\">Strength.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Lightsaber </span><span class=\"fontstyle2\">can also be used as a &ldquo;reaction skill&rdquo; to parry </span><span class=\"fontstyle0\">brawling</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">lightsaber </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle0\">melee combat </span><span class=\"fontstyle2\">attacks. Jedi Knights can parry blaster bolts with a lightsaber, but that&rsquo;s only because they have the </span><span class=\"fontstyle0\">lightsaber combat </span><span class=\"fontstyle2\">Force power; it&rsquo;s </span><span class=\"fontstyle0\">very, very difficult </span><span class=\"fontstyle2\">for a character without the power to parry blaster shots.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!ajUL66lbWk3KuRer"
+}

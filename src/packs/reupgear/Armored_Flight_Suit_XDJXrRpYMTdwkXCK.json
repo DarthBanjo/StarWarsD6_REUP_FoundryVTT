@@ -1,0 +1,37 @@
+{
+  "_id": "XDJXrRpYMTdwkXCK",
+  "name": "Armored Flight Suit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/armoredflightsuit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A combat-ready flight suit that provides additional protection against vacuum for limited periods, this armor comes in various models, including the Corellian TX-3 (favored by various pirate gangs) and the Imperial TIE flight suit (worn by TIE fighter pilots throughout the Empire).</span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Corellian TX-3</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Armored flight suit</span></p>\n<p><span class=\"fontstyle0\"><strong>Scale:</strong> </span><span class=\"fontstyle2\">Character</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">4,000</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">2</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Provides +1D to </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">to resist </span><span class=\"fontstyle3\">physical </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle3\">energy </span><span class=\"fontstyle2\">damage and additional protection against vacuum for limited periods. It grants a +1D+1 bonus to </span><span class=\"fontstyle3\">stamina </span><span class=\"fontstyle2\">to resist cold temperatures. An armored flight suit provides up to 10 hours of life support, allowing its wearer to survive in the vacuum of space or any other hostile environment.</span></p>\n<p><span class=\"fontstyle3\"><em>Utility Belt:</em> </span><span class=\"fontstyle2\">Ion flares, one week concentrated rations, spare comlink, water packs, 1 medpac.</span> </p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 4000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": true,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    }
+  },
+  "_key": "!items!XDJXrRpYMTdwkXCK"
+}

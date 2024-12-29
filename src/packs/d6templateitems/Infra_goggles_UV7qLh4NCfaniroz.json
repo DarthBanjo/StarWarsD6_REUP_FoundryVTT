@@ -1,0 +1,40 @@
+{
+  "_id": "UV7qLh4NCfaniroz",
+  "name": "Infra-goggles",
+  "type": "gear",
+  "img": "art/items/irgoggles.webp",
+  "data": {
+    "description": "<p><strong>Game Notes: </strong>If shooting at a target, and that target benefits from some form of Cover bonus because of Darkness, add +2D to ranged attack modifier.&nbsp;</p>\n<p>Sudden flashes can stun the wearer for 1D rounds. Resisted by <em>Willpower</em>:</p>\n<table style=\"width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Stun Duration</strong></td>\n<td><strong>Difficulty to Ignore Penalty</strong></td>\n</tr>\n<tr>\n<td>One Round</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Two Rounds</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Three Rounds</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Four Rounds</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Five Rounds</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Six Rounds</td>\n<td>30</td>\n</tr>\n</tbody>\n</table>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.lK5Mh6MycZf2R8AF"
+    },
+    "scene-packer": {
+      "hash": "a6b4057fc6ecb1cdbde78231fc8f4f0619dc1b86",
+      "sourceId": "Item.UV7qLh4NCfaniroz"
+    }
+  },
+  "_key": "!items!UV7qLh4NCfaniroz"
+}

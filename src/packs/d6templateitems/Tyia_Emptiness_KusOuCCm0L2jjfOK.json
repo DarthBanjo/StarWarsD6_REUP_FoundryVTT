@@ -1,0 +1,72 @@
+{
+  "_id": "KusOuCCm0L2jjfOK",
+  "name": "Tyia Emptiness",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_emptiness.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Easy for the Tyia.</span></p>\n<p><strong><span class=\"fontstyle0\">Note: </span></strong><span class=\"fontstyle2\">Characters who are consumed by the dark side of the Force may not use this power.</span></p>\n<p><span class=\"fontstyle0\"><strong>Required Powers:</strong> </span><span class=\"fontstyle3\"><em>Hibernation trance</em>.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">The user empties her mind and allows the Force to flow through her. The character seems to be in deep meditation and is oblivious to her surroundings. A character in </span><em><span class=\"fontstyle3\">emptiness </span></em><span class=\"fontstyle2\">may not move or take any action except to try to disengage from the </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle2\">While in </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">, a character is difficult to sense or affect with the Force. When another character attempts to use a Force power on the user in </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">, add the user&rsquo;s </span><span class=\"fontstyle3\"><em>emptiness</em> </span><span class=\"fontstyle2\">roll to the difficulty for the other character&rsquo;s </span><em><span class=\"fontstyle3\">sense </span></em><span class=\"fontstyle2\">roll (if the power doesn&rsquo;t use the </span><em><span class=\"fontstyle3\">sense </span></em><span class=\"fontstyle2\">skill, add the difficulty to the </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">roll). This difficulty is added regardless of whether or not the </span><em><span class=\"fontstyle3\">empty </span></em><span class=\"fontstyle2\">character would willingly receive the power&rsquo;s effect.</span></p>\n<p><span class=\"fontstyle2\">Once the character comes out of </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">, the character gets a +6 bonus modifier to all Force skill rolls for a period of time equal to the amount of time spent in </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">. This bonus is reduced by -1 for each Dark Side Point that the character has.</span></p>\n<p><span class=\"fontstyle2\">When in </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">, characters dehydrate and hunger normally &mdash; some initiates have died because they lacked enough </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">to bring themselves out of </span><span class=\"fontstyle3\">emptiness</span><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle2\">A character must make a difficult </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">skill roll to bring herself out of </span><em><span class=\"fontstyle3\">emptiness</span></em><span class=\"fontstyle2\">. When the character enters into </span><span class=\"fontstyle3\">emptiness</span><span class=\"fontstyle2\">, the player must state for how long the character will be in meditation. The character may attempt to come out of meditation under the following circumstances:</span></p>\n<ul>\n<li><span class=\"fontstyle2\">When the stated time has passed.</span></li>\n<li><span class=\"fontstyle2\">Once each hour beyond the original time limit.</span></li>\n<li><span class=\"fontstyle2\">The character&rsquo;s body takes any damage more serious than </span><span class=\"fontstyle3\">stun </span><span class=\"fontstyle2\">damage.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": true,
+    "active": false,
+    "roll": true,
+    "skills": {
+      "channel": {
+        "value": true,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [
+    {
+      "_id": "u9msSIwcd2Lt6lmI",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10
+      },
+      "label": "Emptiness",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_emptiness.svg",
+      "tint": null,
+      "_key": "!items.effects!KusOuCCm0L2jjfOK.u9msSIwcd2Lt6lmI"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-forcepow.Sml57M14YtNCpM7J"
+    },
+    "scene-packer": {
+      "hash": "922c224b2977ae3e8b11e83a75882e58e3bb0dfb",
+      "sourceId": "Item.KusOuCCm0L2jjfOK"
+    }
+  },
+  "_key": "!items!KusOuCCm0L2jjfOK"
+}

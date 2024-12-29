@@ -1,0 +1,37 @@
+{
+  "_id": "M8sZrISfgOFGnqWv",
+  "name": "Vacuum Suit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/vacc.webp",
+  "data": {
+    "description": "<p>Space suits and vacuum suits are required equipment for starfighter pilots. Space suits allow an individual to enter the vacuum of space for limited periods of time without harm. Vacuum suits &mdash; which are favored by most &ldquo;fighter jocks&rdquo; &mdash; perform a similar function.</p>\n<p>Vacuum suits are also self-contained environments, though they dispense with most of the &ldquo;amenities&rdquo; provided by space suits. Most vacuum suits do not contain suit heaters, and generally hold enough atmosphere to last a few hours. However, most starfighter pilots &mdash; particularly in the Rebel Alliance &mdash; view space suits as bulky and obstructive when worn in battle. The heavy padding and insulation in a space suit makes manipulating controls in a cramped fighter cockpit very difficult. Most military pilots are willing to trade the extra atmosphere a space suit provides for the reaction time a vacuum suit allows.<span class=\"fontstyle0\"> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p>&nbsp;</p>\n<p><strong>Model:&nbsp;</strong><span class=\"fontstyle2\">Incom Military Vacuum Suit</span></p>\n<p><strong>Type:&nbsp;</strong><span class=\"fontstyle2\">Personal vacuum suit</span></p>\n<p><strong>Cost:&nbsp;</strong><span class=\"fontstyle2\">1,000</span></p>\n<p><strong>Availability:&nbsp;</strong><span class=\"fontstyle2\">1</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong>&nbsp;</span><span class=\"fontstyle2\">Incom developed this version of the military flight suit decades ago; it is in common usage throughout the galaxy. The Incom vacuum suit contains 10 hours worth of atmosphere. A player character in space must make a Moderate&nbsp;</span><em><span class=\"fontstyle3\">stamina&nbsp;</span></em><span class=\"fontstyle2\">or&nbsp;</span><em><span class=\"fontstyle3\">Strength&nbsp;</span></em><span class=\"fontstyle2\">check every hour he or she is exposed to vacuum or suffer a wound caused by the freezing cold of space.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 0,
+    "er": 0,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.M8sZrISfgOFGnqWv"
+    }
+  },
+  "_key": "!items!M8sZrISfgOFGnqWv"
+}

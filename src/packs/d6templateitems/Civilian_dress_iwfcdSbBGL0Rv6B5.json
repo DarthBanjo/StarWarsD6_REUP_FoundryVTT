@@ -1,0 +1,37 @@
+{
+  "_id": "iwfcdSbBGL0Rv6B5",
+  "name": "Civilian dress",
+  "type": "gear",
+  "img": "icons/equipment/chest/shirt-simple-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5a4074e9ef653ab57e05ed990d5f35a79b18d5cb",
+      "sourceId": "Item.iwfcdSbBGL0Rv6B5"
+    }
+  },
+  "_key": "!items!iwfcdSbBGL0Rv6B5"
+}

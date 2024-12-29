@@ -1,0 +1,38 @@
+{
+  "_id": "WY5HzDVmeGlrUiKe",
+  "name": "Sense Path",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_sensepath.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong> Moderate</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Emptiness,&nbsp;Hibernation Trance</em></p>\n<p><em>This power can be kept up.</em></p>\n<p><strong>Effect: </strong>This power informs a character of the &ldquo;path&rdquo; he travels: whether his current actions are likely to lead him to the dark side, and whether any specified future actions are likely to do so (this power may be thought of as farseeing without control). Bear in mind that without control, the Jedi does not have the ability to decide whether he sees the past, present, or a possible future. The visions he receives are more likely to be allegorical in nature to receive specific details, the farseeing power must be used.</p>\n<p>When giving the results of this power, be honest but obscure if the character has gained any Dark Side Points and is attempting to atone, this power will tell him how successful he has been within a game context.</p>\n<p>The Jedi can choose to consciously use this power, or it can be a plot device. If the latter, at an appropriate point in the scenario, you may call for a roll on this power, and give the Jedi a vision if he succeeds. You may use this to tell the players how well they are doing, or to give them a premonition of doom just before a critical encounter to heighten the tension. You may use it to warn them (by showing the future of their current course), to encourage them (particularly when they have done the right thing but have no way of knowing), to provide hints, or to foreshadow upcoming events.</p>\n<p>A vision from the Force should never be taken lightly by the players. It should give them something to think about, along with the attendant chances for good roleplaying. Bear in mind that different Jedi will tend to receive different renditions of the same scene, and consequently you should tailor the details you give to the fit character concerned. Instead, you might consider altering the way you describe the scenery; for the dark side, you might always describe rocky and barren terrain, or with a cold wind blowing, or it might always be night for the dark side and daytime or dawn for the light side. You can present these images in as contrary manner as you wish, provided you are consistent with the descriptions.</p>\n<p>Another thing to bear in mind is that it is never easy to tell which is the right course to take (although the path of darkness may be clear enough, the path of the light may be far more elusive). The Jedi must still be sure to follow the Jedi Code regardless of what his visions seem to be telling him, otherwise his own desires will encourage a less truthful vision and cause his downfall. And it is quite possible for a skilled Dark Jedi to twist the readings of this power to suit his own ends.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "LNYArYYKlMct5Moe",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Sense Path",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_sensepath.svg",
+      "tint": null,
+      "_key": "!items.effects!WY5HzDVmeGlrUiKe.LNYArYYKlMct5Moe"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!WY5HzDVmeGlrUiKe"
+}

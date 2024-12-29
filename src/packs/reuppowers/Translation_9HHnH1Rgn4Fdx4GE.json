@@ -1,0 +1,38 @@
+{
+  "_id": "9HHnH1Rgn4Fdx4GE",
+  "name": "Translation",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_translation.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Moderate for humans or aliens.</li>\n<li>Difficult for droids.</li>\n<li>If the target is being purposely cryptic add +5 to the difficulty,</li>\n<li>+20 if the language is written down.</li>\n</ul>\n<p><em>This power may be kept up.</em></p>\n<p><strong>Required Powers:&nbsp;</strong><em>Receptive Telepathy,&nbsp;Projective Telepathy,&nbsp;Life Sense</em></p>\n<p><strong>Effect: </strong>The character may translate a language and speak it. The Jedi may decipher body language, explore the spoken word, or translate ancient Sith texts, etc. In order for this to work, the character must first hear the target speak, or see the works in written form (such as an ancient text or document). It takes only one application of this power to &ldquo;understand&rdquo; a language. As long as they all speak the same language and the power is kept up, the character need not roll for each individual talking. Also because they also &ldquo;speak&rdquo; using beeps and whistles, droids may be communicated with using this power.</p>\n<p>Note that the character does not really know the language. Once this power is no longer in use, the Jedi is once again unable to understand or speak the language.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "kEF2dsBkcdLewVXL",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Translation",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_translation.svg",
+      "tint": null,
+      "_key": "!items.effects!9HHnH1Rgn4Fdx4GE.kEF2dsBkcdLewVXL"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!9HHnH1Rgn4Fdx4GE"
+}

@@ -1,0 +1,1232 @@
+{
+  "_id": "oeNtRrNcZNqoLoOr",
+  "name": "Crewmember",
+  "type": "character-template",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_moncalcrewman.webp",
+  "data": {
+    "description": "<p><strong>A Quote: </strong>\"Take evasive manoeuvers. Yes, Sir!\" </p>\n<p><strong>Background: </strong>It was the Empire that taught your people, the Mon Calamari, the meaning of war. Your people are peaceful and gentle; you shared your homeworld of Calamari with the Quarren for millennia. Over the centuries, you gradually built a technological civilization and a high culture. Exploration of nearby stars was well underway &mdash; and then the Empire came. The Imperials saw only an undefended prize &mdash; an advanced world that could be forced to feed the Imperial war machine. They invaded and enslaved your people. At first, you did not understand what had been done. The idea of slavery was incomprehensible. You tried to appease the invaders, but nothing worked. Eventually, the Mon Calamari began to fight back&mdash;and when they did, the Empire reacted with incredible ferocity. Whole cities were obliterated. Then, virtually the whole Mon Calamari people rose as one and destroyed the occupiers. The war industries the Empire had forced its slave laborers to build are now used for another purpose &mdash; to fuel the Rebellion. You were on Calamari when the Empire came; you helped when the uprising succeeded. Now, you are part of the Calamarian armed forces, a part of the Rebel Alliance against the Empire. </p>\n<p><strong>Personality: </strong>You excel with high-pressure, maximum concentration jobs because of your discipline and have a notoriously even temper. You have complete focus upon the task at hand, rarely becoming affected by pressure or distracted by emotion. </p>\n<p><strong>Objectives:</strong> To ensure the security and safety of your fellow crewmembers and to make the Empire pay for what they have done.</p>\n<p><strong>Source: </strong>Star Wars: The Movie Trilogy Sourcebook (2nd Edition)&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "species": "",
+    "attributes": {
+      "agi": 7,
+      "str": 7,
+      "kno": 6,
+      "mec": 10,
+      "per": 8,
+      "tec": 11,
+      "met": 0
+    },
+    "fp": 1,
+    "cp": 5,
+    "funds": 0,
+    "credits": 0,
+    "move": 10,
+    "me": false,
+    "items": [
+      {
+        "name": "Comlink, Military",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">A personal communications transceiver, the comlink consists of a receiver, a transmitter, and a power source. Comlinks come in a variety of shapes and styles. Comlinks can be adjusted to broadcast on countless different frequencies, and there are literally thousands of encryption modules available to ensure secure communications.&nbsp;</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\"><em>Short-range comlinks</em> </span><span class=\"fontstyle2\">have a range of about 50 kilometers (often up to low orbit in clear weather), and they can be built into helmets and armor; for example, stormtrooper armor includes a helmet equipped with a short-range comlink.&nbsp;</span></span>For double the cost, a long-range comlink can be miniaturized to a wrist-sized unit.<span class=\"fontstyle0\"><br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><strong>Type:</strong> Military hand-held comlink</p>\n<p><strong>Skill: </strong><em>Communications</em></p>\n<p><strong>Cost: </strong>100</p>\n<p><strong>Availability: </strong>2,R</p>\n<p><strong>Range: </strong>50 kilometers over land and up to low orbit in poor weather.</p>\n<p><strong>Game Notes:</strong> This comset has access to restricted and encrypted military frequencies.</p>\n<p><strong>Additional Notes:</strong></p>\n<ul>\n<li><strong><span class=\"fontstyle0\">Encryption: </span></strong><span class=\"fontstyle2\">A comlink can have hardwired encryption routines for<em> </em></span><em><span class=\"fontstyle3\">ten times </span></em><span class=\"fontstyle2\">the base cost. Encryption technology requires a Heroic </span><em><span class=\"fontstyle3\">communications </span></em><span class=\"fontstyle2\">roll to decrypt if intercepted. Encrypted comlinks also create a tiny field of white noise around the device and whoever holds it, making it difficult to overhear what is said into the unit (-2D </span><em><span class=\"fontstyle3\">search </span></em><span class=\"fontstyle2\">penalty to overhear) or sounds coming out of it (-3D </span><span class=\"fontstyle3\">search </span><span class=\"fontstyle2\">penalty).</span></li>\n<li><strong><span class=\"fontstyle0\">Video Capability: </span></strong><span class=\"fontstyle2\">A comlink can have video capability (two dimensional images with audio) for </span><span class=\"fontstyle3\"><em>twice</em> </span><span class=\"fontstyle2\">the base cost.</span></li>\n<li><strong><span class=\"fontstyle0\">Holo Capability: </span></strong><span class=\"fontstyle2\">A comlink can have holo capability for<em> </em></span><em><span class=\"fontstyle3\">five times </span></em><span class=\"fontstyle2\">the base cost. This comlink is able to receive and send holographic images (three-dimensional images in addition to<br />audio), it can even receive (though not send) HoloNet transmissions. Another feature is the ability to match a recorded holographic image with the sender&rsquo;s live audio. When this feature is used, the sender&rsquo;s visual image is replaced by a recorded hologram (of him or another person), which moves to match the sender&rsquo;s speech. Detecting that the image does not exactly<br />match the spoken message is a Difficult </span><em><span class=\"fontstyle3\">search </span></em><span class=\"fontstyle2\">task.</span></li>\n</ul>"
+      },
+      {
+        "name": "Datapad",
+        "type": "gear",
+        "description": "<p><span class=\"fontstyle0\">Datapads are electronic information storage devices noted for their small size and portability. Datapads can store relevant personal data, encyclopedic entries and other basic information, though the microprocessors in such units generally cannot perform higher level computing.</span></p>\n<p><span class=\"fontstyle0\">Datapads are available in a wide range of configurations &mdash; less expensive models are often dedicated to the storage and collation of a single type of data. Smaller, more expensive units can be customized to handle a variety of information types. Some high-priced datapads contain a small holo-projector which gives the user a &ldquo;heads-up&rdquo; display rather than the standard flat screen common on lower-end units.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Datapad</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Portable computer workstation</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Computer programming/repair</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">100; (1,000 with holo-projector unit and built-in comlink.)</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">Datapads may be used to access public information networks or the HoloNet if combined with a comlink or other connection device. It can be loaded with as many as 5 datacards simultaneously.</span> </p>"
+      },
+      {
+        "name": "Uniform",
+        "type": "gear",
+        "description": ""
+      },
+      {
+        "name": "Planetary Systems",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific system or planet &mdash; </span><span class=\"fontstyle0\">Tatooine, Endor, Hoth, Kessel.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets. Much of this information is gained from personal experience, computer records and hearsay from others who&rsquo;ve visited various systems.</span></p>\n<p><span class=\"fontstyle0\">Characters specializing in particular planets have a deeper knowledge of more subtle details &mdash; more than the average general database would contain. Although someone with an improved </span><span class=\"fontstyle2\">planetary systems </span><span class=\"fontstyle0\">skill would know that Tatooine&rsquo;s deserts are home to Jawas and Tusken Raiders, those with </span><span class=\"fontstyle2\">planetary systems: Tatooine </span><span class=\"fontstyle0\">would know the role the Jawa scavengers play in supplying the moisture farmers with spare parts and droids.</span></p>"
+      },
+      {
+        "name": "Value",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of goods or specific planet&rsquo;s markets &mdash; </span><span class=\"fontstyle0\">starships, droids, Kessel, Coruscant</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s ability to gauge the fair market value of goods based on the local economy, the availability of merchandise, quality and other market factors. The character can also gauge specific capabilities of and modifications made to goods with regard to performance.</span></p>\n<p><span class=\"fontstyle2\">Using </span><span class=\"fontstyle0\">value </span><span class=\"fontstyle2\">often answers the question, &ldquo;How much is it </span><span class=\"fontstyle0\">really </span><span class=\"fontstyle2\">worth?&rdquo; Results often depend on the source of information about the item, and how much the character already knows about that kind of merchandise. A starship dealer rattling on about a particular used-freighter might be exaggerating &mdash; although characters can make some estimations based on the starship model. If the item can be examined in person, its value is much easier to determine.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">When the character makes a </span><span class=\"fontstyle2\">value </span></strong><span class=\"fontstyle0\"><strong>roll, use these difficulty guidelines:</strong><br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Knowing that a new astromech droid should cost about 1,000 credits.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Knowing that a new freighter, equipped with heavy duty weapons, should cost well over 100,000 credits; knowing that it could probably stand up to a slower starfighter, but not a customs ship.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Figuring out how much a modified freighter is worth, and how much better (or worse) the modifications make it.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Determining how much it should cost to hire a pilot to make a smuggling run where there&rsquo;s a high level of risk involved.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Determining how expensive it should be to hire a crack pilot to fly an Imperial blockade... when he knows the risks.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Coming up with a market price for a product in a hurry &mdash; one that isn&rsquo;t normally &ldquo;on the market&rdquo; (Cloud City, a Star Destroyer, a Rebel Princess to be sold to the Empire). Knowing how much an Imperial prototype weapon is worth.</span> </p>\n<p>&nbsp;</p>"
+      },
+      {
+        "name": "Astrogation",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Time Taken: </span><span class=\"fontstyle2\">One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship&rsquo;s current position and then compute jump coordinates.</span></em></p>\n<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific trade route &mdash; </span><span class=\"fontstyle0\">Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Starship pilots use </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">to plot a course from one star system to another. For more details on </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">difficulties, see the chapter on &ldquo;Space Travel and Combat.&rdquo;</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Capital Ship Gunnery",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Weapon type or model &mdash; </span><span class=\"fontstyle0\">concussion missiles, gravity well projectors, ion cannons, laser cannons, proton torpedoes, tractor beams, turbolasers</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Capital ship gunnery </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill that covers the operation of capital-scale starship weapons, including turbolasers, ion cannons and tractor beams.</span></p>\n<p><span class=\"fontstyle2\">See the chapter on &ldquo;Space Travel and Combat,&rdquo; for more information on using this skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Capital Ship Piloting",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or class of capital ship &mdash; </span><span class=\"fontstyle0\">Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate, Trade Federation Battleship.</span></em></p>\n<p><span class=\"fontstyle0\">Capital ship piloting </span><span class=\"fontstyle2\">covers the operation of large combat starships such as Imperial Star Destroyers, </span><span class=\"fontstyle0\">Carrack-class </span><span class=\"fontstyle2\">cruisers, Corellian Corvettes and Mon Cal cruisers. Capital ships normally require huge crews for efficient operation, and thus the skill emphasizes both quick reflexes and disciplined teamwork. The chapter on &ldquo;Space Travel and Combat&rdquo; has more details about using </span><span class=\"fontstyle0\">capital ship<br />piloting</span><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle0\">Capital ship piloting </span><span class=\"fontstyle2\">can be used for a starship dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Capital Ship Shields",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Characters use this skill when operating shields on capital-scale starships, both military and civilian. These shields normally require large, coordinated crews for<br />efficient operation. You can find more information about </span><span class=\"fontstyle2\">capital ship shields </span><span class=\"fontstyle0\">in the chapter &ldquo;Space Travel and Combat.&rdquo;</span></p>\n<p><span class=\"fontstyle2\">Capital ship shields </span><span class=\"fontstyle0\">can be used to bring up shields &mdash; a &ldquo;reaction skill&rdquo; &mdash; to block enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Command",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Leader&rsquo;s unit &mdash; </span><span class=\"fontstyle0\">Rogue Squadron, Imperial stormtroopers</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">is a measure of a character&rsquo;s ability to convince gamemaster characters and subordinates to do what they&rsquo;re told. </span><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">generally shouldn&rsquo;t be used against other player characters to force them to do something against their will &mdash; these situations should be handled through roleplaying interaction.</span></p>\n<p><span class=\"fontstyle2\">A high </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can complement individual participants&rsquo; rolls in a group activity, while a low </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.</span></p>\n<p><span class=\"fontstyle2\">The skill is often used in combat situations, such as a squad leader commanding his troops or a Star Destroyer captain telling his gunners which enemy ship to target.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\">When a character uses </span><span class=\"fontstyle2\">command</span><span class=\"fontstyle0\">, determine a difficulty number.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Characters have every reason to obey. (Stormtroopers taking orders from an Imperial admiral.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Characters have some reason to obey. (A bunch of Rebels from different units working together to fight off Imperial troops.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Characters have no reason to disobey. (A crowd of civilians being commanded to &ldquo;Move along&rdquo; at an accident scene.)<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Characters are skeptical or suspicious. (A bunch of Ewoks who are carrying you lashed to stakes.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Characters have every reason to be suspicious. (Imperial troops who think you&rsquo;re a Rebel agent.)<br /></span><strong><span class=\"fontstyle3\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Characters have no reason at all to listen to you. (Imperial troops when you&rsquo;re dressed like a Rebel.)<br /></span></p>\n<p><span class=\"fontstyle2\">Command </span><span class=\"fontstyle0\">is also used when coordinating projects with many workers, such as manufacturing ships in space dock and other complex operations. See the&nbsp; sections on &ldquo;Combined Actions&rdquo; in the chapter on &ldquo;The Rules.&rdquo;</span></p>"
+      },
+      {
+        "name": "Capital Ship Repair",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or class of capital ship &mdash; </span><span class=\"fontstyle0\">Imperial Star Destroyer, Victory Star Destroyer, Nebulon-B frigate</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill represents a character&rsquo;s familiarity with the workings of capital ships, and his ability to repair them. Each roll may repair one damaged component aboard a particular vessel. The cost and difficulty to repair a system depends on how badly it is damaged, and what systems have been damaged. See &ldquo;Using Repair Skills&rdquo; above for difficulties and costs associated with various systems<br />which may be damaged.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Computer Programming/Repair",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model computer &mdash; </span><span class=\"fontstyle0\">portable computer, mainframe, datapad, YT1300- computer.</span></p>\n<p><span class=\"fontstyle2\">Characters use this skill to repair, modify, and program computers &mdash; it also covers a character&rsquo;s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The time required and the Difficulty of are determined by the type of information sought.</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Public data. Your character&rsquo;s credit balance. (1 minute)<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)<br /></span><strong><span class=\"fontstyle2\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Private data. A person&rsquo;s diary, or their credit balance. (1 hour)<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Secret data. A corporation&rsquo;s records, military plans. (8 hours)<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Top-secret data. The Navy&rsquo;s cloaking device plans, a Grand Moff&rsquo;s itinerary (gamemaster discretion).</span><br /><span class=\"fontstyle2\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Information that only a select few individuals would know. The location of all of Emperor Palpatine&rsquo;s secret weapons vaults (gamemaster discretion).</span> </p>"
+      }
+    ],
+    "label": "OD6S.CHARACTER_TEMPLATES",
+    "effects": [],
+    "folder": "null",
+    "sort": 0,
+    "config": {
+      "startCombat": false,
+      "socket": {
+        "functions": {},
+        "socketName": "system.od6s",
+        "pendingRequests": {}
+      },
+      "baseHitDifficulty": 10,
+      "default_sensor_skill": "OD6S.SENSORS",
+      "fatePointsName": "Force Points",
+      "fatePointsShortName": "Force Points",
+      "useAFatePointName": "Use a force point?",
+      "metaphysicsName": "",
+      "manifestationsName": "Force Powers",
+      "metaphysicsExtranormalName": "Force Sensitive",
+      "vehicleToughnessName": "Body Strength",
+      "passengerDamageDice": true,
+      "starshipToughessName": "",
+      "vehicleDifficulty": true,
+      "brawlAttribute": "",
+      "opposed": [],
+      "chatPath": "systems/od6s/templates/chat/",
+      "wildDieOneDefault": 0,
+      "wildDieOneAuto": 0,
+      "grenadeDamageDice": true,
+      "highlightEffects": true,
+      "randomHitLocations": true,
+      "mapRange": true,
+      "meleeDifficulty": true,
+      "baseAttackDifficulty": 10,
+      "defenseLock": false,
+      "currencyName": "Credits",
+      "fatePointRound": true,
+      "fatePointClimactic": true,
+      "woundConfig": 0,
+      "bodyPointsName": "Body Points",
+      "highHitDamage": false,
+      "autoOpposed": true,
+      "pipsPerDice": 3,
+      "speciesMaxDice": 1,
+      "speciesMinDice": 5,
+      "flatSkills": false,
+      "cost": "1",
+      "fundsFate": false,
+      "showSkillSpecialization": true,
+      "channelSkillName": "Control",
+      "senseSkillName": "Sense",
+      "transformSkillName": "Alter",
+      "deadlinessLevel": {
+        "character": 3,
+        "creature": 3,
+        "npc": 3
+      },
+      "wildDieResult": {
+        "0": "OD6S.WILD_RESULT_ONE",
+        "1": "OD6S.WILD_DIE_NONE",
+        "2": "OD6S.REMOVE_HIGHEST_DIE",
+        "3": "OD6S.COMPLICATION"
+      },
+      "actorMasks": {
+        "character": 0,
+        "npc": 1,
+        "creature": 2,
+        "vehicle": 3,
+        "starship": 4
+      },
+      "equippable": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "cargo_hold": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "deadliness": {
+        "0": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_WOUNDED_3",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "8": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "2": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "3": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "4": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "5": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        }
+      },
+      "damage": {
+        "OD6S": {
+          "WOUNDS_STUNNED": 1,
+          "WOUNDS_WOUNDED": 4,
+          "WOUNDS_INCAPACITATED": 9,
+          "WOUNDS_MORTALLY_WOUNDED": 13,
+          "WOUNDS_DEAD": 16
+        }
+      },
+      "bodyPointLevels": {
+        "OD6S": {
+          "WOUNDS_HEALTHY": 9999,
+          "WOUNDS_STUNNED": 81,
+          "WOUNDS_WOUNDED": 60,
+          "WOUNDS_SEVERELY_WOUNDED": 40,
+          "WOUNDS_INCAPACITATED": 20,
+          "WOUNDS_MORTALLY_WOUNDED": 10,
+          "WOUNDS_DEAD": 1
+        }
+      },
+      "vehicle_damage": {
+        "OD6S": {
+          "DAMAGE_NONE": {
+            "damage": 0,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_VERY_LIGHT": {
+            "damage": 1,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_LIGHT": {
+            "damage": 4,
+            "passenger_damage": "OD6S.PASSENGER_QUARTER_DAMAGE",
+            "passenger_damage_dice": 1
+          },
+          "DAMAGE_HEAVY": {
+            "damage": 9,
+            "passenger_damage": "OD6S.PASSENGER_HALF_DAMAGE",
+            "passenger_damage_dice": 3
+          },
+          "DAMAGE_SEVERE": {
+            "damage": 13,
+            "passenger_damage": "OD6S.PASSENGER_THREE_QUARTERS_DAMAGE",
+            "passenger_damage_dice": 6
+          },
+          "DAMAGE_DESTROYED": {
+            "damage": 16,
+            "passenger_damage": "OD6S.PASSENGER_FULL_DAMAGE",
+            "passenger_damage_dice": 12
+          }
+        }
+      },
+      "vehicle_speeds": {
+        "stopped": {
+          "name": "OD6S.VEHICLE_SPEED_STOPPED",
+          "damage": 6,
+          "mod": 0
+        },
+        "cautious": {
+          "name": "OD6S.VEHICLE_SPEED_CAUTIOUS",
+          "damage": 12,
+          "mod": 0
+        },
+        "cruise": {
+          "name": "OD6S.VEHICLE_SPEED_CRUISE",
+          "damage": 18,
+          "mod": 0
+        },
+        "high": {
+          "name": "OD6S.VEHICLE_SPEED_HIGH",
+          "damage": 24,
+          "mod": 5
+        },
+        "all_out": {
+          "name": "OD6S.VEHICLE_SPEED_ALL_OUT",
+          "damage": 30,
+          "mod": 10
+        }
+      },
+      "collision_types": {
+        "head_on": {
+          "name": "OD6S.VEHICLE_HEAD_ON",
+          "score": 9
+        },
+        "sidewipe": {
+          "name": "OD6S.VEHICLE_SIDESWIPE",
+          "score": -9
+        },
+        "rear_end": {
+          "name": "OD6S.VEHICLE_REAR_END",
+          "score": -9
+        },
+        "t_bone": {
+          "name": "OD6S.VEHICLE_T_BONE",
+          "score": 0
+        }
+      },
+      "weaponTypes": [
+        "OD6S.RANGED",
+        "OD6S.MELEE",
+        "OD6S.MISSILE",
+        "OD6S.THROWN",
+        "OD6S.EXPLOSIVE"
+      ],
+      "meleeDifficulties": [
+        "OD6S.DIFFICULTY_VERY_EASY",
+        "OD6S.DIFFICULTY_EASY",
+        "OD6S.DIFFICULTY_MODERATE",
+        "OD6S.DIFFICULTY_DIFFICULT",
+        "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "OD6S.DIFFICULTY_HEROIC"
+      ],
+      "actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_RANGED_ATTACK",
+          "type": "rangedattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "",
+          "subtype": "rangedattack"
+        },
+        "melee_attack": {
+          "name": "OD6S.ACTION_MELEE_ATTACK",
+          "type": "meleeattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Melee Combat",
+          "subtype": "meleeattack"
+        },
+        "brawl_attack": {
+          "name": "OD6S.ACTION_BRAWL_ATTACK",
+          "type": "brawlattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Brawling",
+          "subtype": "brawlattack"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_DODGE",
+          "type": "dodge",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Dodge",
+          "subtype": "dodge"
+        },
+        "parry": {
+          "name": "OD6S.ACTION_PARRY",
+          "type": "parry",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.MELEE_PARRY",
+          "subtype": "parry"
+        },
+        "block": {
+          "name": "OD6S.BRAWLING_PARRY",
+          "type": "block",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.BRAWLING_PARRY",
+          "subtype": "block"
+        },
+        "other": {
+          "name": "OD6S.ACTION_OTHER",
+          "type": "action",
+          "rollable": false,
+          "subtype": "misc"
+        }
+      },
+      "vehicle_actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_VEHICLE_RANGED_ATTACK",
+          "type": "vehiclerangedattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "ram": {
+          "name": "OD6S.ACTION_VEHICLE_RAM",
+          "type": "vehicleramattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_VEHICLE_DODGE",
+          "type": "vehicledodge",
+          "rollable": true,
+          "base": "mec"
+        },
+        "maneuver": {
+          "name": "OD6S.ACTION_VEHICLE_MANEUVER",
+          "type": "vehiclemaneuver",
+          "rollable": true,
+          "base": "mec"
+        },
+        "sensors": {
+          "name": "OD6S.ACTION_VEHICLE_SENSORS",
+          "type": "vehiclesensors",
+          "base": "mec",
+          "skill": "OD6S.SENSORS",
+          "rollable": true
+        },
+        "other": {
+          "name": "OD6S.ACTION_VEHICLE_OTHER",
+          "type": "action",
+          "rollable": false
+        }
+      },
+      "difficulty": {
+        "OD6S": {
+          "DIFFICULTY_UNKNOWN": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_CUSTOM": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_AUTOMATIC": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_VERY_EASY": {
+            "min": 1,
+            "max": 5
+          },
+          "DIFFICULTY_EASY": {
+            "min": 6,
+            "max": 10
+          },
+          "DIFFICULTY_MODERATE": {
+            "min": 11,
+            "max": 15
+          },
+          "DIFFICULTY_DIFFICULT": {
+            "min": 16,
+            "max": 20
+          },
+          "DIFFICULTY_VERY_DIFFICULT": {
+            "min": 21,
+            "max": 25
+          },
+          "DIFFICULTY_HEROIC": {
+            "min": 26,
+            "max": 30
+          },
+          "DIFFICULTY_LEGENDARY": {
+            "min": 31,
+            "max": 40
+          }
+        }
+      },
+      "difficultyShort": {
+        "VE": "OD6S.DIFFICULTY_VERY_EASY",
+        "E": "OD6S.DIFFICULTY_EASY",
+        "M": "OD6S.DIFFICULTY_MODERATE",
+        "D": "OD6S.DIFFICULTY_DIFFICULT",
+        "VD": "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "H": "OD6S.DIFFICULTY_HEROIC",
+        "L": "OD6S.DIFFICULTY_LEGENDARY"
+      },
+      "terrain_difficulty": {
+        "OD6S": {
+          "TERRAIN_EASY": {
+            "mod": 0
+          },
+          "TERRAIN_MODERATE": {
+            "mod": 5
+          },
+          "TERRAIN_ROUGH": {
+            "mod": 10
+          },
+          "TERRAIN_VERY_ROUGH": {
+            "mod": 15
+          },
+          "TERRAIN_HAZARDOUS": {
+            "mod": 20
+          },
+          "TERRAIN_VERY_HAZARDOUS": {
+            "mod": 25
+          }
+        }
+      },
+      "result": {
+        "OD6S": {
+          "FAILURE": {
+            "description": "OD6S.FAILURE",
+            "difference": -1
+          },
+          "RESULT_MINIMAL": {
+            "description": "OD6S.RESULT_MINIMAL_DESCRIPTION",
+            "difference": 0
+          },
+          "RESULT_SOLID": {
+            "description": "OD6S.RESULT_SOLID_DESCRIPTION",
+            "difference": 1
+          },
+          "RESULT_GOOD": {
+            "description": "OD6S.RESULT_GOOD_DESCRIPTION",
+            "difference": 5
+          },
+          "RESULT_SUPERIOR": {
+            "description": "OD6S.RESULT_SUPERIOR_DESCRIPTION",
+            "difference": 9
+          },
+          "RESULT_SPECTACULAR": {
+            "description": "OD6S.RESULT_SPECTACULAR_DESCRIPTION",
+            "difference": 13
+          },
+          "RESULT_INCREDIBLE": {
+            "description": "OD6S.RESULT_INCREDIBLE_DESCRIPTION",
+            "difference": 16
+          }
+        }
+      },
+      "cover": {
+        "OD6S": {
+          "COVER_SMOKE": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_LIGHT_SMOKE": {
+                "modifier": 3
+              },
+              "COVER_THICK_SMOKE": {
+                "modifier": 6
+              },
+              "COVER_VERY_THICK_SMOKE": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER_LIGHT": {
+            "OD6S": {
+              "COVER_LIGHT_NONE": {
+                "modifier": 0
+              },
+              "COVER_POOR_LIGHT": {
+                "modifier": 3
+              },
+              "COVER_MOONLIGHT_NIGHT": {
+                "modifier": 6
+              },
+              "COVER_COMPLETE_DARKNESS": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_QUARTER": {
+                "modifier": 3
+              },
+              "COVER_HALF": {
+                "modifier": 6
+              },
+              "COVER_THREE_QUARTERS": {
+                "modifier": 12
+              },
+              "COVER_FULL": {
+                "modifier": 0
+              }
+            }
+          }
+        }
+      },
+      "calledShot": {
+        "OD6S": {
+          "CALLED_SHOT_NONE": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_LARGE": {
+            "modifier": 3,
+            "damage": 0
+          },
+          "CALLED_SHOT_MEDIUM": {
+            "modifier": 12,
+            "damage": 0
+          },
+          "CALLED_SHOT_SMALL": {
+            "modifier": 24,
+            "damage": 0
+          },
+          "CALLED_SHOT_HEAD": {
+            "modifier": 5,
+            "damage": 12
+          },
+          "CALLED_SHOT_HEART": {
+            "modifier": 15,
+            "damage": 12
+          },
+          "CALLED_SHOT_TORSO": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_ARM": {
+            "modifier": 5,
+            "damage": -2
+          },
+          "CALLED_SHOT_LEG": {
+            "modifier": 5,
+            "damage": -1
+          },
+          "CALLED_SHOT_HAND": {
+            "modifier": 15,
+            "damage": -2
+          }
+        }
+      },
+      "gravity": {
+        "OD6S": {
+          "GRAVITY_STANDARD": {
+            "modifier": 0
+          },
+          "GRAVITY_LOW": {
+            "modifier": -3
+          },
+          "GRAVITY_NONE": {
+            "modifier": -6
+          },
+          "GRAVITY_HEAVY": {
+            "modifier": 9
+          }
+        }
+      },
+      "misc": {
+        "OD6S": {
+          "MISC": {
+            "modifier": 0
+          }
+        }
+      },
+      "rangedAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_RANGED_SINGLE_FIRE_AS_MULTI": {
+            "attack": -3,
+            "damage": 3,
+            "multi": true
+          },
+          "ATTACK_RANGED_FULL_AUTO": {
+            "attack": -6,
+            "damage": 6,
+            "multi": false
+          },
+          "ATTACK_RANGED_SWEEP": {
+            "attack": -6,
+            "damage": -9,
+            "multu": false
+          },
+          "ATTACK_RANGED_BURST_FIRE_AS_SINGLE": {
+            "attack": 0,
+            "damage": -6,
+            "multi": false
+          }
+        }
+      },
+      "meleeAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "brawlAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_GRAB": {
+            "attack": 9,
+            "damage": 0
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          },
+          "ATTACK_SWEEP": {
+            "attack": -6,
+            "damage": -9
+          },
+          "ATTACK_TACKLE": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "attributes": {
+        "agi": {
+          "name": "Dexterity",
+          "shortName": "DEX"
+        },
+        "str": {
+          "name": "Strength",
+          "shortName": "STR"
+        },
+        "mec": {
+          "name": "Mechanical",
+          "shortName": "MEC"
+        },
+        "kno": {
+          "name": "Knowledge",
+          "shortName": "KNO"
+        },
+        "per": {
+          "name": "Perception",
+          "shortName": "PER"
+        },
+        "tec": {
+          "name": "Technical",
+          "shortName": "TEC"
+        },
+        "met": {
+          "name": "The Force",
+          "shortName": "The Force"
+        }
+      },
+      "ranges": {
+        "OD6S": {
+          "RANGE_POINT_BLANK_SHORT": {
+            "name": "OD6S.RANGE_POINT_BLANK",
+            "difficulty": -5,
+            "map": "OD6S.DIFFICULTY_VERY_EASY"
+          },
+          "RANGE_SHORT_SHORT": {
+            "name": "OD6S.RANGE_SHORT",
+            "difficulty": 0,
+            "map": "OD6S.DIFFICULTY_EASY"
+          },
+          "RANGE_MEDIUM_SHORT": {
+            "name": "OD6S.RANGE_MEDIUM",
+            "difficulty": 5,
+            "map": "OD6S.DIFFICULTY_MODERATE"
+          },
+          "RANGE_LONG_SHORT": {
+            "name": "OD6S.RANGE_LONG",
+            "difficulty": 10,
+            "map": "OD6S.DIFFICULTY_DIFFICULT"
+          }
+        }
+      },
+      "damageTypes": {
+        "p": "OD6S.PHYSICAL",
+        "e": "OD6S.ENERGY"
+      },
+      "cyberneticsLocations": [
+        "OD6S.HEAD",
+        "OD6S.RIGHT_ARM",
+        "OD6S.LEFT_ARM",
+        "OD6S.BODY",
+        "OD6S.RIGHT_LEG",
+        "OD6S.LEFT_LEG"
+      ],
+      "allowedItemTypes": {
+        "container": [
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ],
+        "character": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "character-template",
+          "species-template"
+        ],
+        "npc": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "species-template"
+        ],
+        "creature": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic"
+        ],
+        "vehicle": [
+          "vehicle-weapon",
+          "vehicle-gear"
+        ],
+        "starship": [
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "actorTypeLabels": {
+        "character": "ACTOR.TypeCharacter",
+        "creature": "ACTOR.TypeCreature",
+        "npc": "ACTOR.TypeNpc",
+        "starship": "ACTOR.TypeStarship",
+        "vehicle": "ACTOR.TypeVehicle"
+      },
+      "templateItemTypes": {
+        "character-template": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation"
+        ],
+        "species-template": [
+          "specialability"
+        ],
+        "item-group": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "itemLabels": {
+        "skill": "OD6S.SKILL",
+        "specialization": "OD6S.SPECIALIZATION",
+        "advantage": "OD6S.ADVANTAGE",
+        "disadvantage": "OD6S.DISADVANTAGE",
+        "specialability": "OD6S.SPECIAL_ABILITY",
+        "armor": "OD6S.ARMOR",
+        "weapon": "OD6S.WEAPON",
+        "gear": "OD6S.GEAR",
+        "cybernetic": "OD6S.CYBERNETICS",
+        "vehicle": "OD6S.VEHICLE",
+        "manifestation": "OD6S.MANIFESTATION",
+        "character-template": "OD6S.CHARACTER_TEMPLATE",
+        "action": "OD6S.ACTION",
+        "species-template": "ITEM.TypeSpecies-template",
+        "starship-gear": "ITEM.TypeStarship-gear",
+        "starship-weapon": "ITEM.TypeStarship-weapon",
+        "vehicle-gear": "ITEM.TypeVehicle-gear",
+        "vehicle-weapon": "ITEM.TypeVehicle-weapon"
+      },
+      "chatTemplates": {
+        "generic": "systems/od6s/templates/chat/generic.html",
+        "roll": "systems/od6s/templates/chat/roll.html",
+        "opposed": "systems/od6s/templates/chat/opposed.html",
+        "damageresult": "systems/od6s/templates/chat/damageresult.html"
+      },
+      "data_tab": {
+        "defense": {
+          "dodge": "OD6S.DODGE",
+          "parry": "OD6S.PARRY",
+          "block": "OD6S.BLOCK"
+        },
+        "offense": {
+          "ranged": "OD6S.RANGED",
+          "melee": "OD6S.MELEE",
+          "brawl": "OD6S.BRAWL"
+        }
+      },
+      "statusEffects": [
+        {
+          "id": "dead",
+          "label": "EFFECT.StatusDead",
+          "icon": "icons/svg/skull.svg"
+        },
+        {
+          "id": "unconscious",
+          "label": "EFFECT.StatusUnconscious",
+          "icon": "icons/svg/unconscious.svg"
+        },
+        {
+          "id": "sleep",
+          "label": "EFFECT.StatusAsleep",
+          "icon": "icons/svg/sleep.svg"
+        },
+        {
+          "id": "stun",
+          "label": "EFFECT.StatusStunned",
+          "icon": "icons/svg/daze.svg"
+        },
+        {
+          "id": "prone",
+          "label": "EFFECT.StatusProne",
+          "icon": "icons/svg/falling.svg"
+        },
+        {
+          "id": "restrain",
+          "label": "EFFECT.StatusRestrained",
+          "icon": "icons/svg/net.svg"
+        },
+        {
+          "id": "paralysis",
+          "label": "EFFECT.StatusParalysis",
+          "icon": "icons/svg/paralysis.svg"
+        },
+        {
+          "id": "fly",
+          "label": "EFFECT.StatusFlying",
+          "icon": "icons/svg/wing.svg"
+        },
+        {
+          "id": "blind",
+          "label": "EFFECT.StatusBlind",
+          "icon": "icons/svg/blind.svg"
+        },
+        {
+          "id": "deaf",
+          "label": "EFFECT.StatusDeaf",
+          "icon": "icons/svg/deaf.svg"
+        },
+        {
+          "id": "silence",
+          "label": "EFFECT.StatusSilenced",
+          "icon": "icons/svg/silenced.svg"
+        },
+        {
+          "id": "fear",
+          "label": "EFFECT.StatusFear",
+          "icon": "icons/svg/terror.svg"
+        },
+        {
+          "id": "burning",
+          "label": "EFFECT.StatusBurning",
+          "icon": "icons/svg/fire.svg"
+        },
+        {
+          "id": "frozen",
+          "label": "EFFECT.StatusFrozen",
+          "icon": "icons/svg/frozen.svg"
+        },
+        {
+          "id": "shock",
+          "label": "EFFECT.StatusShocked",
+          "icon": "icons/svg/lightning.svg"
+        },
+        {
+          "id": "bleeding",
+          "label": "EFFECT.StatusBleeding",
+          "icon": "icons/svg/blood.svg"
+        },
+        {
+          "id": "disease",
+          "label": "EFFECT.StatusDisease",
+          "icon": "icons/svg/biohazard.svg"
+        },
+        {
+          "id": "poison",
+          "label": "EFFECT.StatusPoison",
+          "icon": "icons/svg/poison.svg"
+        },
+        {
+          "id": "radiation",
+          "label": "EFFECT.StatusRadiation",
+          "icon": "icons/svg/radiation.svg"
+        },
+        {
+          "id": "upgrade",
+          "label": "EFFECT.StatusUpgrade",
+          "icon": "icons/svg/upgrade.svg"
+        },
+        {
+          "id": "downgrade",
+          "label": "EFFECT.StatusDowngrade",
+          "icon": "icons/svg/downgrade.svg"
+        },
+        {
+          "id": "target",
+          "label": "EFFECT.StatusTarget",
+          "icon": "icons/svg/target.svg"
+        }
+      ],
+      "hitLocations": {
+        "0": "OD6S.LOCATION_RIGHT_HAND",
+        "1": "OD6S.LOCATION_LEFT_HAND",
+        "2": "OD6S.LOCATION_RIGHT_LEG",
+        "3": "OD6S.LOCATION_RIGHT_FOOT",
+        "4": "OD6S.LOCATION_LEFT_LEG",
+        "5": "OD6S.LOCATION_LEFT_FOOT",
+        "6": "OD6S.LOCATION_ABDOMEN",
+        "7": "OD6S.LOCATION_CHEST",
+        "8": "OD6S.LOCATION_CHEST",
+        "9": "OD6S.LOCATION_HEAD"
+      },
+      "manifestationName": "Force Power",
+      "starshipToughnessName": "Hull Strength",
+      "interstellarDriveName": "Interstellar Drive"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.oeNtRrNcZNqoLoOr"
+    },
+    "scene-packer": {
+      "hash": "63e3be624e633d4753017064c222fdfa43f67a62",
+      "sourceId": "Item.oeNtRrNcZNqoLoOr"
+    }
+  },
+  "_key": "!items!oeNtRrNcZNqoLoOr"
+}

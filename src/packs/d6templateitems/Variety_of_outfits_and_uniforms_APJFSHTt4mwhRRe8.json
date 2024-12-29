@@ -1,0 +1,37 @@
+{
+  "_id": "APJFSHTt4mwhRRe8",
+  "name": "Variety of outfits and uniforms",
+  "type": "gear",
+  "img": "icons/commodities/cloth/cloth-rolls-rgb.webp",
+  "data": {
+    "description": "<p>Suitable for playing such roles as a naive fop, a computer tech, or an Imperial commander</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ef39e5639dc1d22eece4bbd9bc7f4297b1546f1c",
+      "sourceId": "Item.APJFSHTt4mwhRRe8"
+    }
+  },
+  "_key": "!items!APJFSHTt4mwhRRe8"
+}

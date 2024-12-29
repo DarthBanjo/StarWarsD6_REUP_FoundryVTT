@@ -1,0 +1,26 @@
+{
+  "_id": "DWMshixKWBGjO1CZ",
+  "name": "Add Blaster: Blaster Rifle Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_blaster.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "402be3c0f28a65aab90c45fc909ab4a284e78ec3",
+      "sourceId": "Item.DWMshixKWBGjO1CZ"
+    }
+  },
+  "_key": "!items!DWMshixKWBGjO1CZ"
+}

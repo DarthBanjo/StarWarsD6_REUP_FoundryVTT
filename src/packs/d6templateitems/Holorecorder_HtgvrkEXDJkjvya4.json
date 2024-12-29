@@ -1,0 +1,40 @@
+{
+  "_id": "HtgvrkEXDJkjvya4",
+  "name": "Holorecorder",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/recordingrod.webp",
+  "data": {
+    "description": "<p>Recording rods are small, cylindrical data storage devices. Generally, recording rods are 30 centimeters long, and are capable of recording sounds or visuals within a range of 15 meters. Recording rods generally can store up to 100 standard hours worth of audio data, which can be accessed repeatedly or fed into a compatible computer system for enhancement. These devices are re-usable, though recording over existing data deletes the older information in favor of the new.</p>\n<p>Recording rods &mdash; like most items commercially available in the galaxy &mdash; come in a variety of types. Lower-priced models allow audio recording only, while others can store audio, visual and holographic information.</p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Data storage device</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">25 (audio recorder), 50 (video recorder), 100 (holo-recorder)</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><span class=\"fontstyle0\"><strong>Audio Range:</strong> </span><span class=\"fontstyle2\">15 meters</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong> </span><span class=\"fontstyle2\">Can store up to 100 standard hours worth of audio data, 10 hours of video data, or 1 hour of holo-video data.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 75,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.zvMg9zOVA5owzTZL"
+    },
+    "scene-packer": {
+      "hash": "d186858a5b044dc5c139f3cacb4b3098a7434210",
+      "sourceId": "Item.HtgvrkEXDJkjvya4"
+    }
+  },
+  "_key": "!items!HtgvrkEXDJkjvya4"
+}

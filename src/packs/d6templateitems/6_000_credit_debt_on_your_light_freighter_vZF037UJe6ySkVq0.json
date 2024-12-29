@@ -1,0 +1,40 @@
+{
+  "_id": "vZF037UJe6ySkVq0",
+  "name": "6,000 credit debt on your light freighter",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "de62f3f908f1fed8400f6a742b396e4e25dc5bd3",
+      "sourceId": "Item.vZF037UJe6ySkVq0"
+    },
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-d6hitems.QvBFfVX5SJ9vGBsx"
+    }
+  },
+  "_key": "!items!vZF037UJe6ySkVq0"
+}

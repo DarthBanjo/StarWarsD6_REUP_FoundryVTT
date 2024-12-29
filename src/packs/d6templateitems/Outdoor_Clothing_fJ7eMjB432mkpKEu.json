@@ -1,0 +1,37 @@
+{
+  "_id": "fJ7eMjB432mkpKEu",
+  "name": "Outdoor Clothing",
+  "type": "gear",
+  "img": "icons/equipment/chest/vest-leather-brown-gold.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b3ab9809448a24fda9aaf89b5f6f5fb52b108eff",
+      "sourceId": "Item.fJ7eMjB432mkpKEu"
+    }
+  },
+  "_key": "!items!fJ7eMjB432mkpKEu"
+}

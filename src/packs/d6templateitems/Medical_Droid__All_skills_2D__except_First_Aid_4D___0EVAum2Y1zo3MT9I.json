@@ -1,0 +1,37 @@
+{
+  "_id": "0EVAum2Y1zo3MT9I",
+  "name": "Medical Droid (All skills 2D, except First Aid 4D.)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_scoutdroid.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "62c11eacf52a3c65f67fcc1a9c6391c84c575e2e",
+      "sourceId": "Item.0EVAum2Y1zo3MT9I"
+    }
+  },
+  "_key": "!items!0EVAum2Y1zo3MT9I"
+}

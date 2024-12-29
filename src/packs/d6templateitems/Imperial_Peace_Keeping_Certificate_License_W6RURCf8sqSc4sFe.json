@@ -1,0 +1,37 @@
+{
+  "_id": "W6RURCf8sqSc4sFe",
+  "name": "Imperial Peace-Keeping Certificate License",
+  "type": "gear",
+  "img": "icons/sundries/misc/admission-ticket-blue.webp",
+  "data": {
+    "description": "<p>An&nbsp;Imperial Peace-Keeping Certificate&nbsp;(IPKC), also simply known as a&nbsp;bounty hunters' license, was a license issued to&nbsp;bounty hunters&nbsp;by the&nbsp;Imperial Office of Criminal Investigations&nbsp;and the&nbsp;Bounty Hunters' Guild, certifying them to hunt&nbsp;bounties. It also allowed them access to the&nbsp;Imperial Enforcement DataCore, a network that contained information regarding the&nbsp;law enforcement&nbsp;activities of the&nbsp;Galactic Empire&nbsp;and its&nbsp;agents, for a fee at&nbsp;posting agencies.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "60a09f3d50660a85cc7d4c2b27b1e867ded25872",
+      "sourceId": "Item.W6RURCf8sqSc4sFe"
+    }
+  },
+  "_key": "!items!W6RURCf8sqSc4sFe"
+}

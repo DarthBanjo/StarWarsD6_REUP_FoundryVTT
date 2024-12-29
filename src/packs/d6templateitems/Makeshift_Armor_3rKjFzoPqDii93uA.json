@@ -1,0 +1,38 @@
+{
+  "_id": "3rKjFzoPqDii93uA",
+  "name": "Makeshift Armor",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_quixoticjedi.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 1,
+    "er": 0,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ab46d904d32c492e813c55d436ab25e1b6cd58da",
+      "sourceId": "Item.3rKjFzoPqDii93uA"
+    }
+  },
+  "_key": "!items!3rKjFzoPqDii93uA"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "Ni99kos6rQ3GbMPF",
+  "name": "Textiles, common (1 meter)",
+  "type": "gear",
+  "img": "icons/commodities/cloth/cloth-roll-worn-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 5,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Ni99kos6rQ3GbMPF"
+}

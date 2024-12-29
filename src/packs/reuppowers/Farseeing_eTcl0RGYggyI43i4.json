@@ -1,0 +1,21 @@
+{
+  "_id": "eTcl0RGYggyI43i4",
+  "name": "Farseeing",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_farseeing.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong></p>\n<ul>\n<li>Very Easy.</li>\n<li>Modified by proximity.</li>\n<li>Add +5 to +20 to the difficulty if the character wishes to see into the past.</li>\n<li>Add +10 to +30 or more if the character wishes to see into the future.</li>\n</ul>\n<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Very Easy if the target is friendly and doesn't resist.</li>\n<li>If the target resists, make a control or Perception total for the difficulty.</li>\n<li>Modified by relationship.</li>\n</ul>\n<p><strong>Required Power:</strong>&nbsp;<em>Life Sense</em></p>\n<p><strong>Time To Use: </strong>At least one minute</p>\n<p><strong>Effect:</strong> The user sees the person or place he wishes to see in his mind as the situation currently exists. The power can also be used to see the past or the future. The Jedi also sees the immediate surroundings, and so can know, for example, when a friend is in danger, or what has happened to his home planet in his absence.</p>\n<p><em>Farseeing </em>requires calm conditions and at least one minute, but often takes a few minutes. <em>Farseeing </em>cannot be done in the face of danger. The Jedi's visions may not be entirely accurate:</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<th>Power roll &gt; Sense difficulty</th>\n<th>Past/Present</th>\n<th>Future</th>\n</tr>\n<tr>\n<td>0-10</td>\n<td>50%</td>\n<td>10%</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>75%</td>\n<td>25%</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>90%</td>\n<td>50%</td>\n</tr>\n<tr>\n<td>31 +</td>\n<td>100%</td>\n<td>75%</td>\n</tr>\n</tbody>\n</table>\n<p>The past and present are set and it is merely a matter of the Jedi having correct perceptions. However, the future is always fluid, always in motion, never set until it becomes the present &mdash; therefore it is much harder to predict. The percentages on the chart are a rough measure of how much correct information the character receives in their vision.</p>\n<p>For example, 10% means that the character will only be able to make out the most basic details of a situation, such as \"My friends are in danger.\" 25% means that the Jedi gets a somewhat accurate vision of what will transpire, but most major details will be missing from the vision. 50% means that the character's vision was about half right. 75% means that the character has an understanding of the critical happenings, but the character still has missed a major detail or two, which, of course, can complicate things. 90% means that the character has a very accurate and very detailed vision of what has or will transpired. 100% means that the character's vision is even more accurate and detailed, complete with minor, almost trivial details.</p>\n<p>When a character farsees into the future, the gamemaster has to make an honest effort to correctly represent what will happen: if the characters get a 75% result, the gamemaster must try to predict what he thinks the characters will do and what the outcome will be. Of course, since the future is so fluid, things are always subject to change. Farseeing is a great mechanic for the gamemaster to reveal part of the story &mdash; enough to tantalize the players, without ruining the story.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!eTcl0RGYggyI43i4"
+}

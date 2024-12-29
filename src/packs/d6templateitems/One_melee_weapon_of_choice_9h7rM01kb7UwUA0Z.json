@@ -1,0 +1,37 @@
+{
+  "_id": "9h7rM01kb7UwUA0Z",
+  "name": "One melee weapon of choice",
+  "type": "gear",
+  "img": "icons/svg/sword.svg",
+  "data": {
+    "description": "<p>Arrogant Noble</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8b19c83ca74f1f15656a9be8dce4aff27d5848a5",
+      "sourceId": "Item.9h7rM01kb7UwUA0Z"
+    }
+  },
+  "_key": "!items!9h7rM01kb7UwUA0Z"
+}
