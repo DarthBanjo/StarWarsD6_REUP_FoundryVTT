@@ -1,0 +1,37 @@
+{
+  "_id": "xam9G3mDJ9tu0LMU",
+  "name": "Lockbreaking Kit",
+  "type": "gear",
+  "img": "icons/commodities/tech/console-steel.webp",
+  "data": {
+    "description": "<h1 id=\"firstHeading\" lang=\"en\">Lock Breaking Kit</h1>\n<div id=\"bodyContent\">\n<div id=\"contentSub\"></div>\n<div id=\"jump-to-nav\"></div>\n<div id=\"mw-content-text\" dir=\"ltr\" lang=\"en\">\n<div>\n<p>Lock Breaking Kit<br />Model: Individual manufacture; many types<br />Type: Security code de-scrambler<br />Skill: Security: lockpicking<br />Cost: 8,000 (if purchased through legitimate agent), 16,000+ (black market price)<br />Availability: 4, R or X<br />Game Notes: Adds +2D to a user&rsquo;s security skill when attempting to open an electronically sealed entryway.<br />Source: Pirates &amp; Privateers (page 49), Rules of Engagement &ndash; The Rebel SpecForce Handbook (page 45)</p>\n</div>\n</div>\n</div>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4e1b260f5c194d84afc400cc22d2c53e805bf998",
+      "sourceId": "Item.xam9G3mDJ9tu0LMU"
+    }
+  },
+  "_key": "!items!xam9G3mDJ9tu0LMU"
+}

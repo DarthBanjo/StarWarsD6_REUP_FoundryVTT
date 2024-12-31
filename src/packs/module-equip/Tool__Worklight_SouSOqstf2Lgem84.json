@@ -1,0 +1,36 @@
+{
+  "_id": "SouSOqstf2Lgem84",
+  "name": "Tool, Worklight",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/tool_worklight.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Illuminates hard-to-see workspaces. Runs off power cell (12 hours).</span> </p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 25</p>\n<p><strong>Availability:</strong>&nbsp;1</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.SouSOqstf2Lgem84"
+    }
+  },
+  "_key": "!items!SouSOqstf2Lgem84"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "bqHD05PfscEJnQrc",
+  "name": "Two bottles of fizzyglug",
+  "type": "gear",
+  "img": "icons/consumables/drinks/tea-jug-glowing-brown-pink.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 2,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a20edfb7b50e457cb6cd0b1f8e3be8385034f689",
+      "sourceId": "Item.bqHD05PfscEJnQrc"
+    }
+  },
+  "_key": "!items!bqHD05PfscEJnQrc"
+}

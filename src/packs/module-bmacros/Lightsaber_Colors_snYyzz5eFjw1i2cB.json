@@ -1,0 +1,21 @@
+{
+  "name": "Lightsaber Colors",
+  "type": "script",
+  "author": "uw16b8PR8Y6FGcPN",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/lightsaberMacro.webp",
+  "scope": "global",
+  "command": "// A macro for the Foundry virtual tabletop that lets a user configure their token's vision and lighting settings. The original script is taken from Sky's foundry repo here: https://github.com/Sky-Captain-13/foundry/blob/master/scriptMacros/tokenVision.js. Modified by Darthbanjo for Star Wars. \n\nlet dialogEditor = new Dialog({\n  title: `Apply Lightsaber Glow to Actor`,\n  buttons: {\n    none: {\n      label: `None`,\n      callback: () => {\n        token.document.update({light:{ dim: 0, bright: 0, color: \"00000\", alpha: 1, animation:{ type: \"none\"}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n    },\nblueblade: {\n      label: `Blue`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright: .25, color : \"#0080ff\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\n    greenblade: {\n      label: `Green`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright: .25, color : \"#00cd00\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\nredblade: {\n      label: `Red`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright : .25, color : \"#ff0000\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\npurple: {\n      label: `Violet`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright : .25, color : \"#ff00ff\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\n\nyellow: {\n      label: `Yellow`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright : .25, color : \"#ffff00\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\ndarksaber: {\n      label: `Darksaber/Grey`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright : .25, color : \"#ffffff\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\norange: {\n      label: `Orange`,\n      callback: () => {\n        token.document.update({light:{ dim: 1, bright : .25, color : \"#ffa500\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 3, intensity: 3}, coloration: 1}});\n        dialogEditor.render(true);\n      }\n   },\n    close: {\n      icon: \"<i class='fas fa-tick'></i>\",\n      label: `Exit`\n    },\n  },\n  default: \"close\",\n  close: () => {}\n});\ndialogEditor.render(true)",
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Macro.RZTdkjRDdtE3x3uo"
+    }
+  },
+  "_id": "snYyzz5eFjw1i2cB",
+  "_key": "!macros!snYyzz5eFjw1i2cB"
+}

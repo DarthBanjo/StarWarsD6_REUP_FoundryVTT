@@ -1,0 +1,86 @@
+{
+  "_id": "OwVOIpegsJq4RYdJ",
+  "name": "Stun Cloak",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_stuncloak.webp",
+  "data": {
+    "description": "<p><strong>Stun Cloak</strong><br /><strong>Model: </strong>Koromondain PDS, Inc. Model SVT-300<br /><strong>Type: </strong>Stun cloak<br /><strong>Scale:</strong> Character<br /><strong>Skill: </strong>Melee combat<br /><strong>Ammo: </strong>3 before power cell is temporarily depleted; holds a total of 8 charges<br /><strong>Cost: </strong>1,500<br /><strong>Availability: </strong>2<br /><strong>Difficulty: </strong>Moderate (Easy if target is attacking)<br /><strong>Damage: </strong>5D (stun damage)<br /><strong>Game Notes: </strong>The stun cloak has a micro cell that recycles in three minutes after the initial charges are used. The cell can be powered up from any external generator in two rounds. A target must make a Difficult melee parry or brawling parry roll to avoid contact with the cloak.<br /><strong>Source:</strong> Galaxy Guide 10: Bounty Hunters (page 86), Gundark&rsquo;s Fantastic Technology (page 12)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Melee Combat",
+      "specialization": "Stun Cloak"
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "e",
+      "score": 15,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 3,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_MODERATE",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e33eb5de5b567493eb15e80f849c37f55f894ee6",
+      "sourceId": "Item.OwVOIpegsJq4RYdJ"
+    }
+  },
+  "_key": "!items!OwVOIpegsJq4RYdJ"
+}

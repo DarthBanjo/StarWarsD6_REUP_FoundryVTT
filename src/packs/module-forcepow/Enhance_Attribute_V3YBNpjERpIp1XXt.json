@@ -1,0 +1,418 @@
+{
+  "_id": "V3YBNpjERpIp1XXt",
+  "name": "Enhance Attribute",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">Moderate.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">A Jedi uses this power to increase a single attribute for a limited period. An increased attribute can help a Jedi jump higher, see better, and run faster. All skills governed by the enhanced attribute increase by the same amount for as long as the power remains in effect.</span></p>\n<p><span class=\"fontstyle2\">An attribute increased by this power remains enhanced for the duration listed below. Duration and attribute increase are determined by how much a character&rsquo;s </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">skill roll exceeds the difficulty number. Duration can be extended through use of Character Points &mdash; for each Character Point a Jedi spends, the duration is increased by one combat round. The points can be spent at any time before the power fades.</span></p>\n<p><span class=\"fontstyle2\">A Jedi can only increase one attribute at a time. If a character invokes the power to enhance a second attribute while the first attribute is still enhanced, then the first enhancement fades and the second attribute receives the increase.<br /></span></p>\n<p>&nbsp;</p>\n<table class=\"NormalTable\">\n<tbody>\n<tr>\n<td width=\"79\"><span class=\"fontstyle0\">Skill Roll &ge;<br />Difficulty By:</span></td>\n<td width=\"76\"><span class=\"fontstyle0\">Attribute<br />Increase </span></td>\n<td width=\"58\"><span class=\"fontstyle0\">Duration</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table class=\"NormalTable\">\n<tbody>\n<tr>\n<td width=\"61\"><span class=\"fontstyle4\">0-13 <br />14-25 <br />26+ </span></td>\n<td width=\"80\"><span class=\"fontstyle4\">+1D <br />+2D <br />+3D </span></td>\n<td width=\"68\"><span class=\"fontstyle4\">3 rounds<br />2 rounds<br />1 round</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "X8e1xoT0HSjvAL4A",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Dexterity 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.X8e1xoT0HSjvAL4A"
+    },
+    {
+      "_id": "5USqHZ49q83WDMO8",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Dexterity 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.5USqHZ49q83WDMO8"
+    },
+    {
+      "_id": "A6sxQxnuX8oAO8Oq",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "startRound": 1
+      },
+      "label": "Enhance Dexterity 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.A6sxQxnuX8oAO8Oq"
+    },
+    {
+      "_id": "6um99IR2YFmmL7pM",
+      "changes": [
+        {
+          "key": "data.attributes.mec.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Mechanical 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.6um99IR2YFmmL7pM"
+    },
+    {
+      "_id": "8W4RevJMHK5UTaEy",
+      "changes": [
+        {
+          "key": "data.attributes.mec.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Mechanical 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.8W4RevJMHK5UTaEy"
+    },
+    {
+      "_id": "MNm46OHbypXyYO6M",
+      "changes": [
+        {
+          "key": "data.attributes.mec.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Mechanical 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.MNm46OHbypXyYO6M"
+    },
+    {
+      "_id": "c3GGOjpW6W2JIxh5",
+      "changes": [
+        {
+          "key": "data.attributes.per.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Perception 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": "#000000",
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.c3GGOjpW6W2JIxh5"
+    },
+    {
+      "_id": "z7BYEbgUyt0i1csV",
+      "changes": [
+        {
+          "key": "data.attributes.per.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Perception 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.z7BYEbgUyt0i1csV"
+    },
+    {
+      "_id": "A70s2C8e1reV9gbH",
+      "changes": [
+        {
+          "key": "data.attributes.per.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "startRound": 1
+      },
+      "label": "Enhance Perception 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.A70s2C8e1reV9gbH"
+    },
+    {
+      "_id": "qAqfuRKLh8hpGFDU",
+      "changes": [
+        {
+          "key": "data.attributes.kno.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Knowledge 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.qAqfuRKLh8hpGFDU"
+    },
+    {
+      "_id": "oYn0VqDHWxUfEIL1",
+      "changes": [
+        {
+          "key": "data.attributes.kno.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Knowledge 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.oYn0VqDHWxUfEIL1"
+    },
+    {
+      "_id": "BFFcdAowc6OU9uS0",
+      "changes": [
+        {
+          "key": "data.attributes.kno.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "startRound": 1
+      },
+      "label": "Enhance Knowledge 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.BFFcdAowc6OU9uS0"
+    },
+    {
+      "_id": "ko9pkQsh0ngoNArs",
+      "changes": [
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Strength 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.ko9pkQsh0ngoNArs"
+    },
+    {
+      "_id": "oVfjHvNsHUG4ZRCN",
+      "changes": [
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Strength 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.oVfjHvNsHUG4ZRCN"
+    },
+    {
+      "_id": "8duMIQvRKcELjdqU",
+      "changes": [
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "startRound": 1
+      },
+      "label": "Enhance Strength 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.8duMIQvRKcELjdqU"
+    },
+    {
+      "_id": "35eHpNjuwZsz432d",
+      "changes": [
+        {
+          "key": "data.attributes.tec.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3,
+        "startRound": 1
+      },
+      "label": "Enhance Technical 1",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.35eHpNjuwZsz432d"
+    },
+    {
+      "_id": "LDiiHyWYYlAauvC8",
+      "changes": [
+        {
+          "key": "data.attributes.tec.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2,
+        "startRound": 1
+      },
+      "label": "Enhance Technical 2",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.LDiiHyWYYlAauvC8"
+    },
+    {
+      "_id": "uawjXuHVsQsirqVL",
+      "changes": [
+        {
+          "key": "data.attributes.tec.mod",
+          "mode": 2,
+          "value": "9"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 1,
+        "startRound": 1
+      },
+      "label": "Enhance Technical 3",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_enhanceattribute.svg",
+      "tint": null,
+      "_key": "!items.effects!V3YBNpjERpIp1XXt.uawjXuHVsQsirqVL"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!V3YBNpjERpIp1XXt"
+}

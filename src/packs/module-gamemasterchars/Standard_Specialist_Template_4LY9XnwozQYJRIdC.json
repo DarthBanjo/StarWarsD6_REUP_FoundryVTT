@@ -1,0 +1,343 @@
+{
+  "_id": "4LY9XnwozQYJRIdC",
+  "name": "Standard Specialist Template",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "data": {
+    "move": {
+      "type": "Number",
+      "label": "OD6S.CHAR_MOVE",
+      "mod": 0,
+      "value": 10
+    },
+    "chartype": {
+      "type": "String",
+      "label": "OD6S.CHAR_TYPE",
+      "content": ""
+    },
+    "species": {
+      "type": "String",
+      "label": "OD6S.CHAR_SPECIES",
+      "content": ""
+    },
+    "wounds": {
+      "type": "String",
+      "label": "OD6S.CHAR_HEALTH",
+      "short_label": "OD6S.CHAR_HEALTH",
+      "value": "0",
+      "body_points": {
+        "max": 0,
+        "current": 0
+      }
+    },
+    "stuns": {
+      "type": "Number",
+      "label": "OD6S_CHAR_STUNS",
+      "value": 0
+    },
+    "strengthdamage": {
+      "type": "Number",
+      "label": "OD6S.STRENGTH_DAMAGE",
+      "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "melee": {
+      "type": "Number",
+      "label": "OD6S.MELEE_ATTACK_MOD",
+      "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "brawl": {
+      "type": "Number",
+      "label": "OD6S.BRAWL_ATTACK_MOD",
+      "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "freeedit"
+    },
+    "dodge": {
+      "type": "Number",
+      "label": "OD6S.DODGE",
+      "short_label": "OD6S.DODGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "parry": {
+      "type": "Number",
+      "label": "OD6S.PARRY",
+      "short_label": "OD6S.PARRY_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "block": {
+      "type": "Number",
+      "label": "OD6S.BLOCK",
+      "short_label": "OD6S.BLOCK_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "pr": {
+      "type": "Number",
+      "label": "OD6S.PHYSICAL_RESISTANCE",
+      "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "er": {
+      "type": "Number",
+      "label": "OD6S.ENERGY_RESISTANCE",
+      "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "credits": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CREDITS",
+      "value": 0
+    },
+    "funds": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FUNDS",
+      "score": 0
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "scale": {
+      "type": "Number",
+      "label": "OD6S.SCALE",
+      "score": 0,
+      "mod": null
+    },
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number",
+        "min": null,
+        "max": null
+      }
+    },
+    "customeffects": {
+      "skills": {},
+      "specializations": {}
+    },
+    "custom1": "",
+    "custom2": "",
+    "custom3": "",
+    "custom4": "",
+    "labels": {},
+    "tags": [],
+    "description": {
+      "type": "String",
+      "label": "OD6S.DESCRIPTION",
+      "content": ""
+    },
+    "vehicle": {}
+  },
+  "token": {
+    "name": "Standard Specialist",
+    "img": "icons/svg/mystery-man.svg",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "power"
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "J45Jebpjio7yGYwG",
+      "name": "Gamemaster Character: Character Points",
+      "type": "gear",
+      "img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+      "data": {
+        "description": "<p>This item holds the gamemaster character's character points, for tracking purposes.</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 3,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.UGASvySPy44vpPpl"
+        }
+      },
+      "_key": "!actors.items!4LY9XnwozQYJRIdC.J45Jebpjio7yGYwG"
+    },
+    {
+      "_id": "RwbDCGdU8QzEBjrX",
+      "name": "Specialist",
+      "type": "specialability",
+      "img": "icons/skills/trades/academics-book-study-purple.webp",
+      "data": {
+        "description": "<p>This is a blank template to quickly create a gamemaster character. All skills 2D.&nbsp; Improve three skills to 4D.</p>",
+        "labels": {},
+        "tags": [],
+        "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.8oN9N32p22aOqEKq"
+        }
+      },
+      "_key": "!actors.items!4LY9XnwozQYJRIdC.RwbDCGdU8QzEBjrX"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "od6s": {
+      "fatepointeffect": false,
+      "crew": "",
+      "hasTakenTurn": false
+    }
+  },
+  "_key": "!actors!4LY9XnwozQYJRIdC"
+}

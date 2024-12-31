@@ -1,0 +1,37 @@
+{
+  "_id": "qbMzH30Ao0zYw4Oc",
+  "name": "one packet of candy",
+  "type": "gear",
+  "img": "icons/consumables/fruit/lichee-cut-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1ade74880cbaa36ee1f9b475452fe4aad39f6ba7",
+      "sourceId": "Item.qbMzH30Ao0zYw4Oc"
+    }
+  },
+  "_key": "!items!qbMzH30Ao0zYw4Oc"
+}

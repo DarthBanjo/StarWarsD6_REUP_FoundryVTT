@@ -1,0 +1,37 @@
+{
+  "_id": "UPLAma6p7uLx9R4W",
+  "name": "Several changes of clothing in the latest styles",
+  "type": "gear",
+  "img": "icons/containers/chest/chest-elm-steel-tan.webp",
+  "data": {
+    "description": "<p>Arrogant Noble</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5d4b4d0b1307d721e13ffc7f40587f7a381d9871",
+      "sourceId": "Item.UPLAma6p7uLx9R4W"
+    }
+  },
+  "_key": "!items!UPLAma6p7uLx9R4W"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "SYS776YdvlLwAmg5",
+  "name": "Shipsuit",
+  "type": "gear",
+  "img": "icons/equipment/chest/vest-leather-brown.webp",
+  "data": {
+    "description": "<p><strong>Shipsuit</strong><br /><strong>Model: </strong>Ayelic/Krongbing Textiles Shipsuit<br /><strong>Type:</strong> General purpose shipsuit<br /><strong>Cost: </strong>200<br /><strong>Availability:</strong> 1<br /><strong>Game Notes:</strong> Multi-pocketed coverall, fireproof and electrically nonconductive.<br /><strong>Source: </strong>Gundark&rsquo;s Fantastic Technology (page 76), Pirates &amp; Privateers (page 47)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3c7fc0a6d9a7886de1c179229ce2844b993e8da2",
+      "sourceId": "Item.SYS776YdvlLwAmg5"
+    }
+  },
+  "_key": "!items!SYS776YdvlLwAmg5"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "Gb9zJDP0bjh15c1N",
+  "name": "Syntherope",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/syntherope.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Syntherope is &mdash; as the name implies &mdash; a synthetic, durable multipurpose cable. Created from high-strength polymers, syntherope is tough, lightweight and flexible, capable of supporting up to 700 kilograms of weight. Although not as compact and convenient as a liquid cable dispenser, syntherope is stronger and more durable. A coil contains 45 meters of syntherope, and unlike liquid cable it is meant to be reused.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">SureGrip Syntherope</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Synthetic fiber line</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">20</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">45 meters. Can support 700 kilograms.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 20,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Gb9zJDP0bjh15c1N"
+    }
+  },
+  "_key": "!items!Gb9zJDP0bjh15c1N"
+}

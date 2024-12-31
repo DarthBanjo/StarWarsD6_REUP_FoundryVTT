@@ -1,0 +1,31 @@
+{
+  "_id": "1HeeaeETAo4PnQNw",
+  "name": "Business",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_business.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Field or organization (company, conglomerate, trade guild) &mdash;&nbsp; s</span><span class=\"fontstyle0\">tarships, weapons, droids, Sienar Fleet Systems, Corporate Sector Authority, Golan Arms</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">The character has a working knowledge of businesses and business procedures. A character skilled in </span><span class=\"fontstyle2\">business </span><span class=\"fontstyle0\">might want to run his own company, or knows how to convince a warehouse manager to give him a tour of a facility or to allow him to &ldquo;borrow&rdquo; a few things in an emergency.</span></p>\n<p><span class=\"fontstyle0\">Characters with a high </span><span class=\"fontstyle2\">business </span><span class=\"fontstyle0\">skill know how much it costs companies to produce goods and will be able to negotiate for good prices direct from a company or distributor. The character probably has several contacts in the business world and can get special favors done for him if he is somewhere where the company has a lot of power.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to one day or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!1HeeaeETAo4PnQNw"
+}

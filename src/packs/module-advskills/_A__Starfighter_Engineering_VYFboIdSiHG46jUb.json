@@ -1,0 +1,31 @@
+{
+  "_id": "VYFboIdSiHG46jUb",
+  "name": "(A) Starfighter Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_starfighter.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Advanced skill -- requires </strong><strong>5D in </strong></span><strong><span class=\"fontstyle2\"><em>starfighter repair</em>, and optionally* 3</span><span class=\"fontstyle0\">D in <em>starship weapons repair</em>.</span></strong></p>\n<p><span class=\"fontstyle0\">This skill allows the design of various starfighters and starfighter systems.</span></p>\n<p><span class=\"fontstyle0\">*</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">It is possible to take this skill without the required die code in </span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">starship weapons </span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">repair,&nbsp;</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">but the bonus effects from&nbsp;</span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">engineering&nbsp;</span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">would only apply to non-weapon functions.&nbsp;</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!VYFboIdSiHG46jUb"
+}

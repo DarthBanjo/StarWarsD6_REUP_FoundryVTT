@@ -1,0 +1,37 @@
+{
+  "_id": "mmrzxv7Qtb0pV0z0",
+  "name": "Flyers and leaflets of latest news",
+  "type": "gear",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b295d1fe3bd0fbf76d4f1521632db429b31204e2",
+      "sourceId": "Item.mmrzxv7Qtb0pV0z0"
+    }
+  },
+  "_key": "!items!mmrzxv7Qtb0pV0z0"
+}

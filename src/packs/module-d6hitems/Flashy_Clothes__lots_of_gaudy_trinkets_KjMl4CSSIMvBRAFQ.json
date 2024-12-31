@@ -1,0 +1,37 @@
+{
+  "_id": "KjMl4CSSIMvBRAFQ",
+  "name": "Flashy Clothes, lots of gaudy trinkets",
+  "type": "gear",
+  "img": "icons/equipment/chest/vest-leather-pink.webp",
+  "data": {
+    "description": "<p>Covered in lots of gaudy trinkets.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6a8753798bda4e215cbe0ed98e9c3907b6120308",
+      "sourceId": "Item.KjMl4CSSIMvBRAFQ"
+    }
+  },
+  "_key": "!items!KjMl4CSSIMvBRAFQ"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "Ur6LgCcDESyWIMtd",
+  "name": "Swimming",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/str_swimming.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This skill represents the character&rsquo;s ability to stay afloat in aquatic environments &mdash; lakes, oceans, flooding rivers and luxury starliner swimming pools. </span><span class=\"fontstyle2\">Swimming </span><span class=\"fontstyle0\">difficulties are determined by the water conditions: the starliner pool is Very Easy, while a roaring river might be Very Difficult. </span></p>\n<p><span class=\"fontstyle0\">When a character fails a </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">check, he begins to drown. Roll 2D at the beginning of each round; if the total is less than the number of rounds that the character has been drowning, the character drowns and dies. Characters can attempt other actions while drowning at a -3D penalty. Characters who are drowning may attempt to save themselves once per round. They must make a </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">total at one level of difficulty higher than the one in which they failed their </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">roll (the character doesn&rsquo;t suffer the -3D penalty when making this roll).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "str",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several minutes or hours.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.k8QCsoBe74eik0Af"
+    }
+  },
+  "_key": "!items!Ur6LgCcDESyWIMtd"
+}

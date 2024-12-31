@@ -1,0 +1,37 @@
+{
+  "_id": "yREqO5yla1CE8TnA",
+  "name": "Performance prop (either juggling items, conjuring tricks, or a musical instrument)",
+  "type": "gear",
+  "img": "icons/sundries/misc/teeth-dentures.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c39b325f4870f4348c022f6a77ba629338f7338e",
+      "sourceId": "Item.yREqO5yla1CE8TnA"
+    }
+  },
+  "_key": "!items!yREqO5yla1CE8TnA"
+}

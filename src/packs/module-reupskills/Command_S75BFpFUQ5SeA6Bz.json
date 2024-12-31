@@ -1,0 +1,31 @@
+{
+  "_id": "S75BFpFUQ5SeA6Bz",
+  "name": "Command",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_command.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Leader&rsquo;s unit &mdash; </span><span class=\"fontstyle0\">Rogue Squadron, Imperial stormtroopers</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">is a measure of a character&rsquo;s ability to convince gamemaster characters and subordinates to do what they&rsquo;re told. </span><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">generally shouldn&rsquo;t be used against other player characters to force them to do something against their will &mdash; these situations should be handled through roleplaying interaction.</span></p>\n<p><span class=\"fontstyle2\">A high </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can complement individual participants&rsquo; rolls in a group activity, while a low </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.</span></p>\n<p><span class=\"fontstyle2\">The skill is often used in combat situations, such as a squad leader commanding his troops or a Star Destroyer captain telling his gunners which enemy ship to target.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\">When a character uses </span><span class=\"fontstyle2\">command</span><span class=\"fontstyle0\">, determine a difficulty number.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Characters have every reason to obey. (Stormtroopers taking orders from an Imperial admiral.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Characters have some reason to obey. (A bunch of Rebels from different units working together to fight off Imperial troops.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Characters have no reason to disobey. (A crowd of civilians being commanded to &ldquo;Move along&rdquo; at an accident scene.)<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Characters are skeptical or suspicious. (A bunch of Ewoks who are carrying you lashed to stakes.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Characters have every reason to be suspicious. (Imperial troops who think you&rsquo;re a Rebel agent.)<br /></span><strong><span class=\"fontstyle3\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Characters have no reason at all to listen to you. (Imperial troops when you&rsquo;re dressed like a Rebel.)<br /></span></p>\n<p><span class=\"fontstyle2\">Command </span><span class=\"fontstyle0\">is also used when coordinating projects with many workers, such as manufacturing ships in space dock and other complex operations. See the&nbsp; sections on &ldquo;Combined Actions&rdquo; in the chapter on &ldquo;The Rules.&rdquo;</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!S75BFpFUQ5SeA6Bz"
+}

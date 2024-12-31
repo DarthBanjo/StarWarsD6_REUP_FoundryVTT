@@ -1,0 +1,89 @@
+{
+  "_id": "hfXo91Qm0Sr4a4m8",
+  "name": "Grenade, Glop",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_grenade_glop.webp",
+  "data": {
+    "description": "<p>Glop grenades are effective riot control weapons. Rather than releasing metal shards or lethal gasses, glop grenades spray an extremely strong adhesive chemical foam over a blast area. The adhesive holds those covered with it to the ground, incapacitating them. The fist-sized plastic sphere is light and can be thrown farther than most other grenades. The standard glop grenade made by Merr-Sonn can be set to explode on impact, or timed for up to a 15-second delay.</p>\n<p><strong>Glop Grenade</strong><br /><strong>Model: </strong>Merr-Sonn G-20 Glop Grenade<br /><strong>Type: </strong>Restraining explosive<br /><strong>Scale: </strong>Character<br /><strong>Skill:</strong> Grenade<br /><strong>Cost: </strong>275<br /><strong>Availability: </strong>2, R or X<br /><strong>Range:</strong> 3-7/30/60<br /><strong>Blast Radius: </strong>0-1/3/5<br /><strong>Damage:</strong> 6D/5D/3D (Strength of glop; character must make opposed roll to break free of glop; glop does not cause damage)<br /><br /><strong>Source: </strong>Gundark&rsquo;s Fantastic Technology (page 42), Han Solo and the Corporate Sector Sourcebook (pages 118-119), Arms and Equipment Guide (pages 33-34)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 275,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Explosive",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Grenade",
+      "specialization": ""
+    },
+    "range": {
+      "short": "7",
+      "medium": "30",
+      "long": "60"
+    },
+    "damage": {
+      "type": "p",
+      "score": 0,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 1,
+        "damage": 6
+      },
+      "2": {
+        "range": 3,
+        "damage": 5
+      },
+      "3": {
+        "range": 5,
+        "damage": 3
+      },
+      "4": {
+        "range": null,
+        "damage": null
+      }
+    },
+    "ammo": 1,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2nYPQ7fUeg2qrCow"
+    },
+    "scene-packer": {
+      "hash": "f892f441ef67482c519d65c71a17ca8bd4bb4d8a",
+      "sourceId": "Item.hfXo91Qm0Sr4a4m8"
+    }
+  },
+  "_key": "!items!hfXo91Qm0Sr4a4m8"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "fYVLXN2oqw268GUC",
+  "name": "Field coveralls",
+  "type": "gear",
+  "img": "icons/equipment/chest/vest-leather-brown-gold.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "216ddc34ce7b78f5b37d48259c6ec1eb472d9aae",
+      "sourceId": "Item.fYVLXN2oqw268GUC"
+    }
+  },
+  "_key": "!items!fYVLXN2oqw268GUC"
+}

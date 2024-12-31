@@ -1,0 +1,21 @@
+{
+  "_id": "j0LL5U9ZBPMtyIsx",
+  "name": "Remain Conscious",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_remainconscious.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle2\"><strong>Control Difficulty:</strong> </span></p>\n<ul>\n<li><span class=\"fontstyle3\">Easy for </span><span class=\"fontstyle4\">stunned </span><span class=\"fontstyle3\">characters, </span></li>\n<li><span class=\"fontstyle3\">Moderate for </span><span class=\"fontstyle4\">incapacitated </span><span class=\"fontstyle3\">characters, </span></li>\n<li><span class=\"fontstyle3\">Difficult for </span><span class=\"fontstyle4\">mortally wounded </span><span class=\"fontstyle3\">characters.</span></li>\n</ul>\n<p><strong><span class=\"fontstyle2\">Required Powers: </span></strong><span class=\"fontstyle4\"><em>Control pain</em>.</span></p>\n<p><span class=\"fontstyle2\"><strong>Effect:</strong> </span><span class=\"fontstyle4\"><em>Remain conscious</em> </span><span class=\"fontstyle3\">allows a Jedi to remain conscious even after suffering injuries which would knock her unconscious. When a character with this power suffers this kind of injury, she loses all other actions for the rest of the round but she is still conscious (a character without this power would simply pass out). </span></p>\n<p><span class=\"fontstyle3\">At the beginning of the next round, the character may attempt to activate the power &mdash; this must be the first action of that round; the Jedi cannot even </span><em><span class=\"fontstyle4\">dodge </span></em><span class=\"fontstyle3\">or </span><em><span class=\"fontstyle4\">parry</span></em><span class=\"fontstyle3\">.</span></p>\n<p><span class=\"fontstyle3\">If the roll is unsuccessful, the character passes out immediately. If the roll is successful, the Jedi may only perform one other action that round &mdash; often the character will attempt to </span><em><span class=\"fontstyle4\">control pain</span></em><span class=\"fontstyle3\">. The character may make a last-ditch heroic effort before passing out. After that other action has been completed, the Jedi will lapse into unconsciousness (unless she has activated </span><span class=\"fontstyle4\"><em>control pain</em> </span><span class=\"fontstyle3\">or done something else to stay conscious).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!j0LL5U9ZBPMtyIsx"
+}

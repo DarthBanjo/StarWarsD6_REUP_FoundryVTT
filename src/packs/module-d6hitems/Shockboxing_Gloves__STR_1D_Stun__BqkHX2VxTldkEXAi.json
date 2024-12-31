@@ -1,0 +1,86 @@
+{
+  "_id": "BqkHX2VxTldkEXAi",
+  "name": "Shockboxing Gloves (STR+1D Stun)",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_shockboxgloves.webp",
+  "data": {
+    "description": "<p>Str+1D Stun</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Brawling",
+      "specialization": "Shockboxing"
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "e",
+      "score": 3,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 0,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_MODERATE",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0f22705b685513daddce172e511d4890c05e1448",
+      "sourceId": "Item.BqkHX2VxTldkEXAi"
+    }
+  },
+  "_key": "!items!BqkHX2VxTldkEXAi"
+}

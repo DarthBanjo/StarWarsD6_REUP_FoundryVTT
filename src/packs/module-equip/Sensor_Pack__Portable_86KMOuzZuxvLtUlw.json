@@ -1,0 +1,36 @@
+{
+  "_id": "86KMOuzZuxvLtUlw",
+  "name": "Sensor Pack, Portable",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/scanner2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Sensor packs are portable scanning devices that can detect life-forms, com signals, energy emissions, tectonic instability and any number of other phenomena. Most sensor packs are hand-held devices that are fairly bulky; more sensitive apparatus must often be handled by two or more people.</span></p>\n<p><span class=\"fontstyle0\">Smaller sensor packs are only capable of detecting a single phenomenon (such as a comm signal or life-form); the more functions the sensor pack is required to perform, the larger the unit tends to be. Most hand-held sensor packs are only capable of giving general information about what has been detected (such as the general direction and frequency of a comm signal, or the relative distance to a life-form) but cannot give precise data. Larger units tend to be more accurate &mdash; and more sensitive &mdash; but are also more expensive.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">NeuroSaav 8932/D Sensor Pack</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Portable scanning device</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\"><em>Sensors</em></span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">300</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">2</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">The NeuroSaav 8932/D is a general-purpose sensor apparatus that can detect </span><span class=\"fontstyle6\">either </span><span class=\"fontstyle5\">the presence of a life form, </span><span class=\"fontstyle6\">or </span><span class=\"fontstyle5\">the presence of a comm signal. Characters using the unit receive a +1D bonus to </span><em><span class=\"fontstyle6\">sensors</span></em><span class=\"fontstyle5\">. The device can scan up to 300 meters away, and will give approximate bearings to the source of a comm transmission or to the location of a life form.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 300,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.86KMOuzZuxvLtUlw"
+    }
+  },
+  "_key": "!items!86KMOuzZuxvLtUlw"
+}

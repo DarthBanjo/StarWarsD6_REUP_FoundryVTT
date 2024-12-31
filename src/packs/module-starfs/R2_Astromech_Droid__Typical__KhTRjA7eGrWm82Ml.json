@@ -1,0 +1,1248 @@
+{
+  "_id": "KhTRjA7eGrWm82Ml",
+  "name": "R2 Astromech Droid (Typical)",
+  "type": "npc",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/droid_astromech_1.webp",
+  "items": [
+    {
+      "_id": "aUAdwwEYQBXsJUqi",
+      "name": "Lifting",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/str_lifting.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.k8QCsoBe74eik0Af"
+        }
+      },
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Lifting </span><span class=\"fontstyle2\">is a character&rsquo;s ability to lift heavy objects; it&rsquo;s also the character&rsquo;s ability to carry something for a long time. The difficulty depends on the weight of the object and how long it will be carried.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p>&nbsp;</p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "str",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.aUAdwwEYQBXsJUqi"
+    },
+    {
+      "_id": "5twKPM7q3J73QTFu",
+      "name": "Astrogation",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_astrogation.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "system": {
+        "description": "<p><em><span class=\"fontstyle0\">Time Taken: </span><span class=\"fontstyle2\">One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship&rsquo;s current position and then compute jump coordinates.</span></em></p>\n<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific trade route &mdash; </span><span class=\"fontstyle0\">Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Starship pilots use </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">to plot a course from one star system to another. For more details on </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">difficulties, see the chapter on &ldquo;Space Travel and Combat.&rdquo;</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One minute or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.5twKPM7q3J73QTFu"
+    },
+    {
+      "_id": "3cDeiMYcZReYlOpg",
+      "name": "Starfighter Piloting",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_starfighterpiloting.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "system": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model starfighter &mdash; </span><span class=\"fontstyle0\">X-wing, TIE/In, TIE interceptor, Z-95 Headhunter</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Starfighter piloting </span><span class=\"fontstyle2\">is used for all combat starfighters, including X-wings, Y-wings, A-wings, and TIE fighters. See the chapter on &ldquo;Space Travel and Combat.&rdquo;</span></p>\n<p><span class=\"fontstyle0\">Starfighter piloting </span><span class=\"fontstyle2\">can be used for a starship dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.3cDeiMYcZReYlOpg"
+    },
+    {
+      "_id": "TM7lijP5b3ogALVL",
+      "name": "Space Transports",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_spacetransports.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "system": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model transport &mdash; </span><span class=\"fontstyle0\">YT-1300 transport, Gallofree medium transport, Corellian Action VI transport</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Space transports </span><span class=\"fontstyle2\">is used to pilot all space transports: any non-combat starship, ranging from small light freighters (the </span><span class=\"fontstyle0\">Millennium Falcon </span><span class=\"fontstyle2\">is a highly-modified YT-1300 light freighter) and scout ships to passenger liners, huge container ships and super transports. Transports may be starfighter- or capital-scale.</span></p>\n<p><span class=\"fontstyle0\">Space transports </span><span class=\"fontstyle2\">can be used for a starship dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.TM7lijP5b3ogALVL"
+    },
+    {
+      "_id": "ryQjR0dkjtfTqjGU",
+      "name": "Computer Programming/Repair",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_compprogrepair.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+        }
+      },
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model computer &mdash; </span><span class=\"fontstyle0\">portable computer, mainframe, datapad, YT1300- computer.</span></p>\n<p><span class=\"fontstyle2\">Characters use this skill to repair, modify, and program computers &mdash; it also covers a character&rsquo;s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The time required and the Difficulty of are determined by the type of information sought.</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Public data. Your character&rsquo;s credit balance. (1 minute)<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)<br /></span><strong><span class=\"fontstyle2\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Private data. A person&rsquo;s diary, or their credit balance. (1 hour)<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Secret data. A corporation&rsquo;s records, military plans. (8 hours)<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Top-secret data. The Navy&rsquo;s cloaking device plans, a Grand Moff&rsquo;s itinerary (gamemaster discretion).</span><br /><span class=\"fontstyle2\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Information that only a select few individuals would know. The location of all of Emperor Palpatine&rsquo;s secret weapons vaults (gamemaster discretion).</span> </p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "tec",
+        "min": false,
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round to several minutes, hours, or days.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.ryQjR0dkjtfTqjGU"
+    },
+    {
+      "_id": "z8FLhafoMwO56Bsx",
+      "name": "Starfighter Repair",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_starfighterrepair.svg",
+      "effects": [],
+      "folder": "qu843eHiUX0Sc9xr",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+        }
+      },
+      "system": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model starfighter &mdash; </span><span class=\"fontstyle0\">X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.</span></em></p>\n<p><span class=\"fontstyle2\">This repair skill represents a character&rsquo;s ability to fix and modify starfighters. Each roll may repair one damaged system aboard a particular fighter. The cost and difficulty to repair a ship depends on how badly it is damaged, and what systems have been hit. See &ldquo;Using Repair Skills&rdquo; above for difficulties and costs associated with various systems which may be damaged.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "tec",
+        "min": false,
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized by circumstances.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.z8FLhafoMwO56Bsx"
+    },
+    {
+      "_id": "KR1VzvesLBxu4CFT",
+      "name": "Three wheeled legs",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.0l0K1zA2JSlukwnN"
+        }
+      },
+      "system": {
+        "description": "",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.KR1VzvesLBxu4CFT"
+    },
+    {
+      "_id": "EYsOPnP9ZIi3ZruF",
+      "name": "Retractable heavy grasping arm",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.0l0K1zA2JSlukwnN"
+        }
+      },
+      "system": {
+        "description": "<p><em>Lifting</em> at 2D</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.EYsOPnP9ZIi3ZruF"
+    },
+    {
+      "_id": "9j32PCJKc4ifLSBZ",
+      "name": "Retractable fine work heavy grasper arm",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.0l0K1zA2JSlukwnN"
+        }
+      },
+      "system": {
+        "description": "",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.9j32PCJKc4ifLSBZ"
+    },
+    {
+      "_id": "tt2xTEpCR5pZuSXb",
+      "name": "Extendable 0.3 meter long video sensor",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.0l0K1zA2JSlukwnN"
+        }
+      },
+      "system": {
+        "description": "<p><em>&nbsp;(360 degree rotation)</em></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.tt2xTEpCR5pZuSXb"
+    },
+    {
+      "_id": "1g0CrasxR2pyt1cj",
+      "name": "Fire Extinguisher",
+      "type": "gear",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBYSA/fireextinguisher.webp",
+      "effects": [],
+      "folder": "I0Ppb5Vb1HDSMA1C",
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.aWi60COYEYaQfXje"
+        }
+      },
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Fire-extinguishers use a chemical agent to inhibit a fires access to oxygen. The chemical is non-toxic to most species and is able to fight most fire classes (electrical, chemical, wood),&nbsp; however a fire extinguisher is useless against plasma or other unusual fire types.</span></p>\n<p><span class=\"fontstyle0\">A full-round blast from this tool produces a chemical cloud that provides total concealment. Those inside the cloud can&rsquo;t see targets outside the cloud, and those outside the cloud can&rsquo;t see targets inside the cloud. The cloud spreads 5 meters in all directions for every round it is activated. It dissipates after 3 rounds (no matter how large the cloud). Each round where the fire extinguisher is used depletes one-tenth of it&rsquo;s chemical supply.</span></p>\n<p><strong><span class=\"fontstyle7\">Model: </span></strong><span class=\"fontstyle8\">Themex 50-A Fire Suppressor</span></p>\n<p><strong><span class=\"fontstyle7\">Type: </span></strong><span class=\"fontstyle8\">Fire extinguisher</span></p>\n<p><span class=\"fontstyle7\"><strong>Cost:</strong> </span><span class=\"fontstyle8\">50</span></p>\n<p><strong><span class=\"fontstyle7\">Availability: </span></strong><span class=\"fontstyle8\">1</span></p>\n<p><strong><span class=\"fontstyle7\">Game Notes: </span></strong><span class=\"fontstyle8\">The extinguisher can put out a fire of up to a 50 meter in area at a rate of 5 meters per round before it is depleted. Reloading the fire extinguisher takes an entire round. Replacement chemical cartridges for the extinguisher cost 25 credits each.</span> </p>",
+        "labels": {},
+        "tags": [],
+        "cost": 50,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.1g0CrasxR2pyt1cj"
+    },
+    {
+      "_id": "oCQ63oDl5S7gyQng",
+      "name": "Video display screen",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.yJnnpCEA3fLx3Wg2"
+        }
+      },
+      "system": {
+        "description": "",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.oCQ63oDl5S7gyQng"
+    },
+    {
+      "_id": "pI4xRueRG8xaZ0Bt",
+      "name": "Holographic projector/recorder",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.FsjG0cMEkj43uI1b"
+        }
+      },
+      "system": {
+        "description": "",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.pI4xRueRG8xaZ0Bt"
+    },
+    {
+      "_id": "DrLB1alNQAfRiaPz",
+      "name": "Small electric arc welder",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.FsjG0cMEkj43uI1b"
+        }
+      },
+      "system": {
+        "description": "<p>1D to 5D, as fitting situation, 0.3 meter range.</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.DrLB1alNQAfRiaPz"
+    },
+    {
+      "_id": "osIQvYewZSuspAYw",
+      "name": "Small circular saw",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.9Gn6qlWoULSzLkiL"
+        }
+      },
+      "system": {
+        "description": "<p>4D, 0.3 meter range</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.osIQvYewZSuspAYw"
+    },
+    {
+      "_id": "Kufr262ygllq2OkF",
+      "name": "Small internal \"cargo\" area",
+      "type": "gear",
+      "img": "systems/od6s/icons/blank.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Item.9Gn6qlWoULSzLkiL"
+        }
+      },
+      "system": {
+        "description": "<p><span class=\"fontstyle0\">Some additional small tools and equipment</span></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "ownership": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KhTRjA7eGrWm82Ml.Kufr262ygllq2OkF"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "od6s": {
+      "fatepointeffect": false,
+      "crew": "",
+      "hasTakenTurn": false
+    },
+    "core": {
+      "sheetClass": "",
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-starfs.KhTRjA7eGrWm82Ml"
+    },
+    "scene-packer": {
+      "sourceId": "Actor.KhTRjA7eGrWm82Ml"
+    }
+  },
+  "system": {
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number",
+        "min": null,
+        "max": null
+      }
+    },
+    "move": {
+      "type": "Number",
+      "label": "OD6S.CHAR_MOVE",
+      "mod": 0,
+      "value": 5
+    },
+    "chartype": {
+      "type": "String",
+      "label": "OD6S.CHAR_TYPE",
+      "content": "Industrial Automaton R2 Astromech Droid"
+    },
+    "species": {
+      "type": "String",
+      "label": "OD6S.CHAR_SPECIES",
+      "content": "Droid"
+    },
+    "wounds": {
+      "type": "String",
+      "label": "OD6S.CHAR_HEALTH",
+      "short_label": "OD6S.CHAR_HEALTH",
+      "value": "0",
+      "body_points": {
+        "max": 23,
+        "current": 23
+      }
+    },
+    "stuns": {
+      "type": "Number",
+      "label": "OD6S_CHAR_STUNS",
+      "value": 0
+    },
+    "strengthdamage": {
+      "type": "Number",
+      "label": "OD6S.STRENGTH_DAMAGE",
+      "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "melee": {
+      "type": "Number",
+      "label": "OD6S.MELEE_ATTACK_MOD",
+      "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "brawl": {
+      "type": "Number",
+      "label": "OD6S.BRAWL_ATTACK_MOD",
+      "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "normal"
+    },
+    "dodge": {
+      "type": "Number",
+      "label": "OD6S.DODGE",
+      "short_label": "OD6S.DODGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "parry": {
+      "type": "Number",
+      "label": "OD6S.PARRY",
+      "short_label": "OD6S.PARRY_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "block": {
+      "type": "Number",
+      "label": "OD6S.BLOCK",
+      "short_label": "OD6S.BLOCK_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "pr": {
+      "type": "Number",
+      "label": "OD6S.PHYSICAL_RESISTANCE",
+      "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "er": {
+      "type": "Number",
+      "label": "OD6S.ENERGY_RESISTANCE",
+      "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "credits": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CREDITS",
+      "value": 0
+    },
+    "funds": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FUNDS",
+      "score": 0
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "scale": {
+      "type": "Number",
+      "label": "OD6S.SCALE",
+      "score": 0,
+      "mod": null
+    },
+    "customeffects": {
+      "skills": {},
+      "specializations": {}
+    },
+    "custom1": "",
+    "custom2": "",
+    "custom3": "",
+    "custom4": "",
+    "labels": {},
+    "tags": [],
+    "description": {
+      "type": "String",
+      "label": "OD6S.DESCRIPTION",
+      "content": ""
+    },
+    "fatepoints": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FATE_POINTS",
+      "short_label": "OD6S.CHAR_FATE_POINTS_SHORT",
+      "value": 0
+    },
+    "characterpoints": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CHAR_POINTS",
+      "short_label": "OD6S.CHAR_CHAR_POINTS_SHORT",
+      "value": 0
+    },
+    "vehicle": {
+      "uuid": "Scene.Np8WlXMuDWMKoJn3.Token.28gWSoy6veIuYX8Y",
+      "name": "B-Wing",
+      "type": "starship",
+      "move": {
+        "value": 6,
+        "type": "Number",
+        "label": "OD6S.MOVE"
+      },
+      "maneuverability": {
+        "score": 4,
+        "type": "Number",
+        "label": "OD6S.MANEUVERABILITY"
+      },
+      "toughness": {
+        "score": 9,
+        "type": "Number",
+        "label": "OD6S.TOUGHNESS"
+      },
+      "crewmembers": [
+        {
+          "uuid": "Actor.KhTRjA7eGrWm82Ml",
+          "name": "R2 Astromech Droid",
+          "sort": 0
+        }
+      ],
+      "items": {},
+      "attribute": {
+        "value": "mec",
+        "type": "String",
+        "label": "OD6S.ATTRIBUTE"
+      },
+      "skill": {
+        "value": "Starfighter Piloting",
+        "type": "String",
+        "label": "OD6S.SKILL"
+      },
+      "specialization": {
+        "value": "B-Wing",
+        "type": "String",
+        "label": "OD6S.SPECIALIZATION"
+      },
+      "damage": {
+        "value": "OD6S.DAMAGE_NONE",
+        "type": "String",
+        "label": "OD6S.DAMAGE"
+      },
+      "shields": {
+        "value": 6,
+        "allocated": 0,
+        "type": "Number",
+        "label": "OD6S.SHIELDS",
+        "skill": {
+          "value": "Starship Shields"
+        },
+        "arcs": {
+          "front": {
+            "label": "OD6S.FRONT",
+            "value": 0,
+            "type": "Number"
+          },
+          "rear": {
+            "label": "OD6S.REAR",
+            "value": 0,
+            "type": "Number"
+          },
+          "left": {
+            "label": "OD6S.LEFT",
+            "value": 0,
+            "type": "Number"
+          },
+          "right": {
+            "label": "OD6S.RIGHT",
+            "value": 0,
+            "type": "Number"
+          }
+        }
+      },
+      "scale": {
+        "score": 18,
+        "type": "Number",
+        "label": "OD6S.SCALE"
+      },
+      "sensors": {
+        "value": true,
+        "type": "Boolean",
+        "label": "OD6S.SENSORS",
+        "skill": "Sensors",
+        "mod": 0,
+        "types": {
+          "passive": {
+            "score": 0,
+            "range": 0,
+            "label": "OD6S.SENSORS_PASSIVE",
+            "type": "Number"
+          },
+          "scan": {
+            "score": 0,
+            "range": 0,
+            "label": "OD6S.SENSORS_SCAN",
+            "type": "Number"
+          },
+          "search": {
+            "score": 0,
+            "range": 0,
+            "label": "OD6S.SENSORS_SEARCH",
+            "type": "Number"
+          },
+          "focus": {
+            "score": 0,
+            "range": 0,
+            "label": "OD6S.SENSORS_FOCUS",
+            "type": "Number"
+          }
+        }
+      },
+      "armor": {
+        "score": 0,
+        "type": "Number",
+        "label": "OD6S.ARMOR"
+      },
+      "dodge": {
+        "score": 0,
+        "mod": 0,
+        "type": "Number",
+        "label": "OD6S.DODGE"
+      },
+      "ranged": {
+        "type": "Number",
+        "label": "OD6S.RANGED_ATTACK_MOD",
+        "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+        "score": 6
+      },
+      "ranged_damage": {
+        "type": "Number",
+        "label": "OD6S.RANGED_DAMAGE_MOD",
+        "short_label": "OD6S.RANGED_DAMAGE_MOD_SHORT",
+        "score": 0
+      },
+      "ram": {
+        "type": "Number",
+        "label": "OD6S.RAM_ATTACK_MOD",
+        "short_label": "OD6S.RAM_ATTACK_MOD_SHORT",
+        "score": 0
+      },
+      "ram_damage": {
+        "type": "Number",
+        "label": "OD6S.RAM_DAMAGE_MOD",
+        "short_label": "OD6S.RAM_DAMAGE_MOD_SHORT",
+        "score": 0
+      },
+      "vehicle_weapons": [
+        {
+          "_id": "raIKqj54ExClMVNo",
+          "name": "Laser Cannon",
+          "type": "starship-weapon",
+          "img": "icons/svg/item-bag.svg",
+          "data": {
+            "description": "<p><span class=\"fontstyle0\"><strong>Laser Cannon</strong><br /></span><span class=\"fontstyle2\">Fire Arc: </span><span class=\"fontstyle3\">Front<br /></span><span class=\"fontstyle2\">Skill: Starship gunnery<br />Fire Control:</span><span class=\"fontstyle3\">1D<br /></span><span class=\"fontstyle2\">Space Range:</span><span class=\"fontstyle3\">1-3/12/25<br /></span><span class=\"fontstyle2\">Atmosphere Range:</span><span class=\"fontstyle3\">100-300/1.2/2.5 km<br /></span><span class=\"fontstyle2\">Damage:</span><span class=\"fontstyle3\">7</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+            "labels": {},
+            "tags": [],
+            "cost": 0,
+            "price": "",
+            "availability": "",
+            "quantity": 1,
+            "equipped": {
+              "value": true,
+              "type": "Boolean",
+              "label": "OD6S.EQUIPPED",
+              "consumable": false
+            },
+            "scale": {
+              "type": "Number",
+              "score": 0
+            },
+            "ammo": {
+              "type": "Number",
+              "value": 0
+            },
+            "arc": {
+              "type": "String",
+              "value": "Front"
+            },
+            "crew": {
+              "type": "Number",
+              "value": 1
+            },
+            "attribute": {
+              "type": "String",
+              "value": "mec"
+            },
+            "skill": {
+              "type": "String",
+              "value": "Starship Gunnery"
+            },
+            "specialization": {
+              "type": "String",
+              "value": "Laser Cannon"
+            },
+            "fire_control": {
+              "type": "Number",
+              "score": 3
+            },
+            "range": {
+              "short": 3,
+              "medium": 12,
+              "long": 25
+            },
+            "damage": {
+              "type": "e",
+              "score": 21
+            },
+            "linked": {
+              "type": "Number",
+              "value": 0
+            },
+            "difficulty": 0,
+            "mods": {
+              "difficulty": 0,
+              "attack": -6,
+              "damage": 0
+            },
+            "area-units": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.AREA_UNITS"
+            },
+            "mass": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.MASS"
+            },
+            "energy": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.ENERGY"
+            },
+            "label": "OD6S.STARSHIP_WEAPON"
+          },
+          "effects": [],
+          "folder": null,
+          "sort": 0,
+          "permission": {
+            "default": 0,
+            "uw16b8PR8Y6FGcPN": 3
+          },
+          "flags": {
+            "scene-packer": {
+              "hash": "d14f0db91922aa787f0e1c6d342768bd6e31fa6e"
+            },
+            "core": {
+              "sourceId": "Item.KAwBzIhfdqdnzei3"
+            }
+          },
+          "id": "raIKqj54ExClMVNo"
+        }
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "R2 Astromech Droid",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "power"
+    },
+    "flags": {},
+    "randomImg": true,
+    "texture": {
+      "src": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/droid_astromech_*.webp",
+      "tint": null,
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": []
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.7.11",
+    "coreVersion": "10.291",
+    "createdTime": 1681929125955,
+    "modifiedTime": 1681929983236,
+    "lastModifiedBy": "u4OWNRnVPfdZdAIU"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "u4OWNRnVPfdZdAIU": 3
+  },
+  "_key": "!actors!KhTRjA7eGrWm82Ml"
+}

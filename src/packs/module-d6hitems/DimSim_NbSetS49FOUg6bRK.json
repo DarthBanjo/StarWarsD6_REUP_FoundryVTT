@@ -1,0 +1,37 @@
+{
+  "_id": "NbSetS49FOUg6bRK",
+  "name": "DimSim",
+  "type": "gear",
+  "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+  "data": {
+    "description": "<p><strong>DimSim</strong></p>\n<p>A&nbsp;DimSim&nbsp;was a personal, custom designed portable&nbsp;holographic projector&nbsp;that created a shield of darkness over the wearer's face. DimSims worked to obscure their owner's identity rather than disguising it.</p>\n<p>Model: DimSim (custom designed unit)<br />Type: Personal holographic projector/interference unit<br />Cost: 5,000<br />Availability: 4, X<br />Game Notes: DimSim completely conceals the user&rsquo;s features.<br />Source: Galaxy Guide 11: Criminal Organizations (page 85), Gundark&rsquo;s Fantastic Technology (page 107)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 5000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cabe3b742128a3b9a4c95d2231aca70ffa7566aa",
+      "sourceId": "Item.NbSetS49FOUg6bRK"
+    }
+  },
+  "_key": "!items!NbSetS49FOUg6bRK"
+}

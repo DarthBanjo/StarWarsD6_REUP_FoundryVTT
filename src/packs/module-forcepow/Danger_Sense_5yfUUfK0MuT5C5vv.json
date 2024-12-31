@@ -1,0 +1,38 @@
+{
+  "_id": "5yfUUfK0MuT5C5vv",
+  "name": "Danger Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_dangersense.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong> Moderate or attacker's control roll.</p>\n<p><strong>Required Power:</strong>&nbsp;<em>Life Detection</em></p>\n<p><em>This power can be kept up.</em></p>\n<p><strong>Effect: </strong><em>Danger sense</em> allows a Jedi to extend his senses around himself like protective sensors, creating an early warning system for as long as the power is in effect. When this power is used, the Jedi detects any attacks the round before they are made. This gives the Jedi a round to decide how to react to the danger. In game terms, if any character is going to attack a Jedi on the next round, they must declare their action the round before it happens. Characters who are going to attack the Jedi may roll their <em>control </em>skill to increase the difficulty of using the power.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "PJqVYlfGtOisEnym",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Danger Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_dangersense.svg",
+      "tint": null,
+      "_key": "!items.effects!5yfUUfK0MuT5C5vv.PJqVYlfGtOisEnym"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!5yfUUfK0MuT5C5vv"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "RN0umyTn5yot3DBa",
+  "name": "Projected Fighting",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_projectedfighting.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Difficult.</p>\n<p><strong>Sense Difficulty: </strong>Difficult.</p>\n<p><strong>Alter Difficulty: </strong>Moderate. Modified by proximity.</p>\n<p><strong>Required Powers: </strong>Concentration, telekinesis.</p>\n<p><em>The target must be within the Jedi&rsquo;s line of sight.</em></p>\n<p><em>This power can be kept &ldquo;up&rdquo;.</em></p>\n<p><strong>Effect: </strong><em>Projected fighting </em>allows the user to strike at an opponent, inflicting damage without physically touching the target.</p>\n<p>Use of this power is more than a little risky; in many cases<em> projected fighting </em>is simply using the Force for attack. However, the Jedi attempting to use <em>projected fighting </em>can elect to cause stun damage only, and even then should only attempt to use this power if it is to protect innocent life from immediate danger. A Jedi who uses <em>projected fighting</em> for any other reason, or causes anything more serious than stun damage, receives a Dark Side Point.</p>\n<p>After successfully using the power, the user makes a <em>brawling </em>skill roll. If attacking a Force-sensitive, the target may use the <em>brawling parry </em>skill to avoid the attack. Otherwise, the target cannot deflect the Jedi&rsquo;s blows. If the <em>brawling</em> roll is successful, the user rolls his or her full <em>Strength </em>versus the target&rsquo;s <em>Strength</em>. The user may target a specific portion of the body, but must subtract an additional -1D from his <em>brawling </em>skill (See &ldquo;Called Shots&rdquo; in the &ldquo;Combat &amp; Injuries&rdquo; chapter). Be sure to add any armor bonuses that the target may have.</p>\n<p>This power can be kept up as long as the distance between the user and the target remains the same. Should the target move significantly or the user wish to select a new target, the power must be rerolled. </p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "FW7nHfrXUJ0dq9bz",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Projected Fighting",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_projectedfighting.svg",
+      "tint": null,
+      "_key": "!items.effects!RN0umyTn5yot3DBa.FW7nHfrXUJ0dq9bz"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!RN0umyTn5yot3DBa"
+}

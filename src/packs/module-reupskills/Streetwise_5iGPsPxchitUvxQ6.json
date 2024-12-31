@@ -1,0 +1,31 @@
+{
+  "_id": "5iGPsPxchitUvxQ6",
+  "name": "Streetwise",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_streetwise.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific planet or criminal organization &mdash; </span><span class=\"fontstyle0\">Celanon, Corellia, Jabba the Halt&rsquo;s organization, Black Sun, Talon Karrde&rsquo;s organization</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Streetwise </span><span class=\"fontstyle2\">reflects a character&rsquo;s familiarity with underworld organizations and their operation. He can use </span><span class=\"fontstyle0\">streetwise </span><span class=\"fontstyle2\">to make a contact in the criminal underworld, purchase illegal goods or services, or find someone to do something illegal.</span></p>\n<p><span class=\"fontstyle2\">Illegal activities may include the usual vices: gambling, fencing stolen goods, racketeering, blackmail, contract killing, and fraud. Because Imperial laws are repressive, some actions deemed &ldquo;criminal&rdquo; may be perfectly moral: freeing slaves, delivering medicine and food to refugees from Imperial aggression, and smuggling wanted criminals (such as Alliance personnel) through Imperial blockades.</span></p>\n<p><span class=\"fontstyle2\">This skill also reflects knowledge of specific criminal bosses, such as Jabba the Hutt or Talon Karrde, and their organizations and activities.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to one day or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!5iGPsPxchitUvxQ6"
+}

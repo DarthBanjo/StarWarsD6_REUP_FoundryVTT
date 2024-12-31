@@ -1,0 +1,40 @@
+{
+  "_id": "lu0ejsjHRW1QQZ1M",
+  "name": "Corporate Credit Voucher",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/credits2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">The credit chip is a small, flat card that features a security codeout and credit algorithm memory stripes. The chip can hold a specified number of credits appropriate to the government that issued it, or it can draw from a specific account held by the user. Credit chips not only allow quick and easy transfers of </span><span class=\"fontstyle0\">funds but also protect users from theft. Credit chips are encrypted storage devices. Accessing a credit chip in order to manipulate the credits it will dispense, requires a Very Difficult </span><span class=\"fontstyle5\"><em>computer programming/repair</em> </span><span class=\"fontstyle0\">roll. If you fail by 5 or more on your roll to access an account, the credit chip&rsquo;s security program detects the intrusion attempt and self-destructs.</span></p>\n<p><span class=\"fontstyle0\">Modifying a credit chip so that government and bank computers think that it draws on a different account or that it has a different value stored requires a Heroic </span><span class=\"fontstyle5\"><em>computer programming/ repair</em> </span><span class=\"fontstyle0\">roll. You won&rsquo;t know if your check succeeded until after you attempt to use the modified credit chip. If you fail, the government or bank computer orders the chip&rsquo;s self-destruct programming to activate, ruining the chip. If you fail by 10 or more, the chip&rsquo;s self-destruct programming activates and the government or bank computer has traced your location, dispatching security personnel to apprehend you.</span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Standard Credit Chip</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Credit chip</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">For a newly purchased chip, a Very Easy </span><em><span class=\"fontstyle3\">computer programming/repair </span></em><span class=\"fontstyle2\">roll is required to encode a password making it accessible only by the owner</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.IvIg1BJp5RUR6INa"
+    },
+    "scene-packer": {
+      "hash": "a4cc2f252486ffc74cac3005ce6e78002f2e05f1",
+      "sourceId": "Item.lu0ejsjHRW1QQZ1M"
+    }
+  },
+  "_key": "!items!lu0ejsjHRW1QQZ1M"
+}

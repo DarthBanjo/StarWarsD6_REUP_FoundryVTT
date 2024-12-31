@@ -1,0 +1,38 @@
+{
+  "_id": "MhYd8b25Mbagt2EC",
+  "name": "Enhanced Coordination",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_enhancedcoordination.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Moderate.</p>\n<p><strong>Sense Difficulty: </strong>Difficult.</p>\n<p><strong>Alter Difficulty: </strong>Variable, depending upon number of targets. Modified by proximity.</p>\n<ul>\n<li>1-10 - Very Easy</li>\n<li>11-100 - Easy</li>\n<li>101-500 - Moderate</li>\n<li>501-5,000 - Difficult</li>\n<li>5,001-50,000 - Very Difficult</li>\n<li>51,000-500,000 - Heroic</li>\n</ul>\n<p><strong>Required Powers:</strong> <em>Life sense, affect mind</em></p>\n<p><strong>Effect: </strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">This power allows the Jedi to coordinate a group at </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">the subconscious level to perform certain tasks more efficiently. </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">The Emperor often used this power to increase the fighting ability of his troops, mentally driving them on and supplementing </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">their will to fight. This power can only be used on individuals </span><span class=\"fontstyle0\">who are in agreement with the intent of the Jedi, and it in no way grants the Jedi mental control over the troops affected. Instead, it links the troops on a subconscious level, allowing them to fight more proficiently and with better organization. If the power is successfully called upon, the Jedi picks three specific skills. The skills must be the same for the entire group. For every 3D (round down) that individuals in the group have in those skills they receive a +1D bonus.</span></p>\n<p><span class=\"fontstyle0\">The power may be kept up, but if new troops join the battle, t</span>he Jedi must make a new roll. Likewise the Jedi must make a new roll if the individuals&rsquo; skills are affected or changed. This power can only affect Dexterity, Technical, and Strength skills.</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "rg9kKbdUz32BQFJ0",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Enhanced Coordination",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_enhancedcoordination.svg",
+      "tint": null,
+      "_key": "!items.effects!MhYd8b25Mbagt2EC.rg9kKbdUz32BQFJ0"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!MhYd8b25Mbagt2EC"
+}

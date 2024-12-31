@@ -1,0 +1,37 @@
+{
+  "_id": "Q6pg69JvmV9qLEKm",
+  "name": "A small animal (dead or alive- your choice)",
+  "type": "gear",
+  "img": "icons/creatures/amphibians/frog-confused-green-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "80e7d8643fc1f2c5426d9ba7372011e01b1195c7",
+      "sourceId": "Item.Q6pg69JvmV9qLEKm"
+    }
+  },
+  "_key": "!items!Q6pg69JvmV9qLEKm"
+}

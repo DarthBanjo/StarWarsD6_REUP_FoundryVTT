@@ -1,0 +1,25 @@
+{
+  "_id": "wFFJnWx8j9ere7fy",
+  "name": "Redirect Energy",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_redirectenergy.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Difficult.</span></p>\n<p><strong><span class=\"fontstyle0\">Alter Difficulty: </span></strong><span class=\"fontstyle2\">Very Difficult or target&rsquo;s </span><em><span class=\"fontstyle3\">dodge </span></em><span class=\"fontstyle2\">roll.</span></p>\n<p><strong><span class=\"fontstyle0\">Required Powers: </span></strong><em><span class=\"fontstyle3\">Absorb/dissipate energy.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\">If the Jedi is the target of a Force energy attack (such as </span><span class=\"fontstyle3\"><em>force lightning</em>) </span><span class=\"fontstyle2\">he may attempt to send the energy back at the attacker. After the Jedi has successfully absorbed the Force energy attack using </span><span class=\"fontstyle3\">absorb/dissipate energy</span><span class=\"fontstyle2\">; he may hold the energy (Difficult </span><em><span class=\"fontstyle3\">control </span></em><span class=\"fontstyle2\">roll), and then redirect the energy in the direction he chooses (Very Difficult </span><em><span class=\"fontstyle3\">alter </span></em><span class=\"fontstyle2\">roll). If the Jedi fails the </span><em><span class=\"fontstyle3\">alter </span></em><span class=\"fontstyle2\">roll, then the energy will be sent wildly off target (as determined by the grenade scatter diagram). If the bolt hits any sentient being other than the original attacker, the Jedi receives one Dark Side Point. The energy is not sent off target if it is merely dodged.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.wFFJnWx8j9ere7fy"
+    }
+  },
+  "_key": "!items!wFFJnWx8j9ere7fy"
+}

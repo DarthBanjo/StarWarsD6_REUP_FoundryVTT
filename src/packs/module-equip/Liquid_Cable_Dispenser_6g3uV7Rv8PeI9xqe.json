@@ -1,0 +1,36 @@
+{
+  "_id": "6g3uV7Rv8PeI9xqe",
+  "name": "Liquid Cable Dispenser",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/liquidcabledispenser.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Cable dispensers contain a special liquid that instantly solidifies upon contact with either atmosphere or vacuum to form a tough, lightweight, flexible cable. The dispenser contains enough liquid for 15 meters of cable and is refillable at authorized outlets.</span></p>\n<p><span class=\"fontstyle7\"><strong>Model:</strong> </span><span class=\"fontstyle8\">SureGrip Liquid Cable Dispenser</span></p>\n<p><strong><span class=\"fontstyle7\">Type: </span></strong><span class=\"fontstyle8\">Liquid fiber line dispenser</span></p>\n<p><strong><span class=\"fontstyle7\">Cost: </span></strong><span class=\"fontstyle8\">10</span></p>\n<p><strong><span class=\"fontstyle7\">Availability: </span></strong><span class=\"fontstyle8\">2</span></p>\n<p><strong><span class=\"fontstyle7\">Game Notes: </span></strong><span class=\"fontstyle8\">15 meters. Can support 500 kilograms.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.6g3uV7Rv8PeI9xqe"
+    }
+  },
+  "_key": "!items!6g3uV7Rv8PeI9xqe"
+}

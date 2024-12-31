@@ -1,0 +1,36 @@
+{
+  "_id": "V9c2ZQhItiFSns6z",
+  "name": "Jet Pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/jetpack.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Jet packs are an unusual form of conveyance that more commonly see use with military forces or fringe groups (although a number of commercial jet packs are available). A jet pack is simply a propulsion system that a pilot can strap on, allowing flight over short distances. Arm and wrist controls are often employed for maneuvering, and many civilian packs have limited sound baffles to conform with local noise ordinances; while these baffles reduce noise, they also reduce the unit&rsquo;s speed as well.<br /></span><span class=\"fontstyle3\"><br /></span><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Arakyd Aerodynes, Inc. Hush-About AJP-400</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Personal jet pack</span></p>\n<p><span class=\"fontstyle4\"><strong>Skill: </strong></span><span class=\"fontstyle6\">Jet pack operation</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">1,800, 150 (power pack recharge), 150 (portable carrying case)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">3, F or R</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">The Arakyd Hush-About AJP-400 is capable of lifting up to 300 kilograms (total). It moves vertically 200 meters per charge, horizontally up to 500 meters per charge. A fully charged unit has 10 charges and can be run on continuous charge-feed. During normal operation this unit produces very little noise. Any attempt to locate a Hush-About using auditory pickups requires a successful </span><span class=\"fontstyle6\">search </span><span class=\"fontstyle5\">roll at a +10 penalty to the Difficulty</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1800,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.V9c2ZQhItiFSns6z"
+    }
+  },
+  "_key": "!items!V9c2ZQhItiFSns6z"
+}

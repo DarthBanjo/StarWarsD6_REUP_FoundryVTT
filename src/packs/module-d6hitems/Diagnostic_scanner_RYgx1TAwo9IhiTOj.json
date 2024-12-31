@@ -1,0 +1,40 @@
+{
+  "_id": "RYgx1TAwo9IhiTOj",
+  "name": "Diagnostic scanner",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/device.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cb5e5697ea8dc3c105897981a099e5668325cb75",
+      "sourceId": "Item.RYgx1TAwo9IhiTOj"
+    },
+    "core": {
+      "sourceId": "Item.7VEOxp8PNtZMmJ3z"
+    }
+  },
+  "_key": "!items!RYgx1TAwo9IhiTOj"
+}

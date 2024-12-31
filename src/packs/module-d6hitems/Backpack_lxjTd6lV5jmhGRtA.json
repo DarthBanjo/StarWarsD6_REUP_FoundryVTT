@@ -1,0 +1,37 @@
+{
+  "_id": "lxjTd6lV5jmhGRtA",
+  "name": "Backpack",
+  "type": "gear",
+  "img": "icons/containers/bags/pack-leather-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0170de3df0bdd1a133c36e7dc252f2c37457735e",
+      "sourceId": "Item.lxjTd6lV5jmhGRtA"
+    }
+  },
+  "_key": "!items!lxjTd6lV5jmhGRtA"
+}

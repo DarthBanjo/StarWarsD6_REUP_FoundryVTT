@@ -1,0 +1,37 @@
+{
+  "_id": "aIKWSrBRPEpetd3y",
+  "name": "Emergency suit sealant pack",
+  "type": "gear",
+  "img": "icons/commodities/materials/slime-thick-orange.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6f24b29bdba3fd78f623eea398f0cafea214db55",
+      "sourceId": "Item.aIKWSrBRPEpetd3y"
+    }
+  },
+  "_key": "!items!aIKWSrBRPEpetd3y"
+}

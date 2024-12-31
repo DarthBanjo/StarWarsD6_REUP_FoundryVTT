@@ -1,0 +1,38 @@
+{
+  "_id": "4nJ2UyLfsZO6t3nQ",
+  "name": "Protective Vest (+2 STR to resist damage)",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 2,
+    "er": 2,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "8c40ac0516cbbb586e71da7c6b51c657c665636d",
+      "sourceId": "Item.4nJ2UyLfsZO6t3nQ"
+    }
+  },
+  "_key": "!items!4nJ2UyLfsZO6t3nQ"
+}

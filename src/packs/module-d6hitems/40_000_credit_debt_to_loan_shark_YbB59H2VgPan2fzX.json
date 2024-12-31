@@ -1,0 +1,37 @@
+{
+  "_id": "YbB59H2VgPan2fzX",
+  "name": "40,000 credit debt to loan shark",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2982d1e421a0483cc6e43d5d846225f18288607e",
+      "sourceId": "Item.YbB59H2VgPan2fzX"
+    }
+  },
+  "_key": "!items!YbB59H2VgPan2fzX"
+}

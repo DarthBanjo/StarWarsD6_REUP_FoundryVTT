@@ -1,0 +1,37 @@
+{
+  "_id": "b9Uht9C2HUm4FpuY",
+  "name": "Dark Cloak (+1D to Sneak)",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-layered-grey-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 30,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "43a9d2c3b46aa6252c0295cbe248da4978054d28",
+      "sourceId": "Item.b9Uht9C2HUm4FpuY"
+    }
+  },
+  "_key": "!items!b9Uht9C2HUm4FpuY"
+}

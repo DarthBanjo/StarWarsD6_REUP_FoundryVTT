@@ -1,0 +1,37 @@
+{
+  "_id": "wMU57Y3AfB2m80r0",
+  "name": "Vehicle or Starship (as mission requires)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/chariotLAV.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "75c6678efcb24ecbdc971a7058372c052b607f2b",
+      "sourceId": "Item.wMU57Y3AfB2m80r0"
+    }
+  },
+  "_key": "!items!wMU57Y3AfB2m80r0"
+}

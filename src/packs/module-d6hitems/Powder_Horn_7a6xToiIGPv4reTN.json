@@ -1,0 +1,37 @@
+{
+  "_id": "7a6xToiIGPv4reTN",
+  "name": "Powder Horn",
+  "type": "gear",
+  "img": "icons/containers/ammunition/powder-horn-worn.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7aaa9a4fd8c9c7a64a7cf53527e449cb25a5e477",
+      "sourceId": "Item.7a6xToiIGPv4reTN"
+    }
+  },
+  "_key": "!items!7a6xToiIGPv4reTN"
+}

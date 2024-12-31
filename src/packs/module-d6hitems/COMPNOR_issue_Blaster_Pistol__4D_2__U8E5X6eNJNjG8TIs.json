@@ -1,0 +1,90 @@
+{
+  "_id": "U8E5X6eNJNjG8TIs",
+  "name": "COMPNOR-issue Blaster Pistol (4D+2)",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/REUP_CC/blasterPistol_CC.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">The word &ldquo;blaster&rdquo; is a blanket term for literally thousands of different designs from hundreds of manufacturers, such as the popular BlasTech DL-18. Blasters are popular with urban police forces, traders, and anyone who needs to pack respectable firepower in an easily carried package. Ownership of these weapons is restricted in many systems.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Blaster pistol</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\"><em>Blaster: Blaster Pistol</em></span></p>\n<p><strong><span class=\"fontstyle4\">Ammo: </span></strong><span class=\"fontstyle5\">100</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1, F, R or X</span></p>\n<p><span class=\"fontstyle4\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Range:</strong> </span><span class=\"fontstyle5\">3-10/30/120</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">4D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Ranged",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Blaster",
+      "specialization": "Blaster Pistol"
+    },
+    "range": {
+      "short": "10",
+      "medium": "30",
+      "long": "120"
+    },
+    "damage": {
+      "type": "e",
+      "score": 14,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 100,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 1,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS",
+    "credits": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.weapons.l0ZTW2CZqGHpNa6L"
+    },
+    "scene-packer": {
+      "hash": "68bd3dbc5d08290a7e9b35df00658b0df3ffa286",
+      "sourceId": "Item.U8E5X6eNJNjG8TIs"
+    }
+  },
+  "_key": "!items!U8E5X6eNJNjG8TIs"
+}

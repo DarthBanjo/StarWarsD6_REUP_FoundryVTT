@@ -1,0 +1,93 @@
+{
+  "_id": "8ANrNTN7xpb2sqA3",
+  "name": "Corellian Powersuit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/powersuit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This suit of body armor contains an energized exoskeleton and a series of servomotors that boosts the wearer&rsquo;s physical strength. Used by professional soldiers, mercenaries, and bounty hunters, the powersuit requires skill and training to use effectively.<br /></span></p>\n<p><span class=\"fontstyle4\"><strong>Model:</strong> </span><span class=\"fontstyle5\">Corellian powersuit</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Powersuit body armor</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Powersuit operation</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">10,000</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">+1D+2 </span><span class=\"fontstyle6\">physical</span><span class=\"fontstyle5\">, +1D </span><span class=\"fontstyle6\">energy</span><span class=\"fontstyle5\">, -1D </span><span class=\"fontstyle6\">Dexterity </span><span class=\"fontstyle5\">and related </span><span class=\"fontstyle5\">attributes. Servos in the armor provide +1D </span><span class=\"fontstyle6\">Strength </span><span class=\"fontstyle5\">bonus for </span><span class=\"fontstyle6\">lifting </span><span class=\"fontstyle5\">skill rolls and melee and brawling damage. If the wearer can&rsquo;t make an Easy </span><span class=\"fontstyle6\"><em>powersuit operation</em> </span><span class=\"fontstyle5\">roll, or if the armor is disabled or out of power, this bonus doesn&rsquo;t apply and the wearer suffers a further -1D penalty to </span><em><span class=\"fontstyle6\">Strength </span></em><span class=\"fontstyle5\">and </span><span class=\"fontstyle6\"><em>Dexterity</em>.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 5,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "4utMTp8z0ERxRaHj",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-6"
+        },
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Corellian Powersuit Attribute Penalties",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/powersuit.webp",
+      "tint": null,
+      "_key": "!items.effects!8ANrNTN7xpb2sqA3.4utMTp8z0ERxRaHj"
+    },
+    {
+      "_id": "WP2RxobpQQH14iKJ",
+      "changes": [
+        {
+          "key": "data.strengthdamage.mod",
+          "mode": 2,
+          "value": "3"
+        },
+        {
+          "key": "data.attributes.str.mod",
+          "mode": 2,
+          "value": "3"
+        },
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Corellian Powersuit Bonuses",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!8ANrNTN7xpb2sqA3.WP2RxobpQQH14iKJ"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    }
+  },
+  "_key": "!items!8ANrNTN7xpb2sqA3"
+}

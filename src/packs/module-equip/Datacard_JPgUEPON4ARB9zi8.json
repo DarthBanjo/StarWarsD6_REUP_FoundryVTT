@@ -1,0 +1,36 @@
+{
+  "_id": "JPgUEPON4ARB9zi8",
+  "name": "Datacard",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datacard.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A datacard is a simple storage device. Intended solely as external storage for a computer, it has no interface for direct display, editing, or entry of data. They are often called &ldquo;datatapes&rdquo; in many sectors.</span></p>\n<p><span class=\"fontstyle4\"><strong>Model:</strong> </span><span class=\"fontstyle5\">Standard Datacard</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Datacard</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\">Computer programming/repair</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">10</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">1</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.JPgUEPON4ARB9zi8"
+    }
+  },
+  "_key": "!items!JPgUEPON4ARB9zi8"
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "7CvUYkvVy9ufZxyX",
+  "name": "Threadbare Flight Suit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/paddedflightsuit.webp",
+  "data": {
+    "description": "<p>Space suits and vacuum suits are required equipment for starfighter pilots. Space suits allow an individual to enter the vacuum of space for limited periods of time without harm. Vacuum suits &mdash; which are favored by most &ldquo;fighter jocks&rdquo; &mdash; perform a similar function.</p>\n<p>Vacuum suits are also self-contained environments, though they dispense with most of the &ldquo;amenities&rdquo; provided by space suits. Most vacuum suits do not contain suit heaters, and generally hold enough atmosphere to last a few hours. However, most starfighter pilots &mdash; particularly in the Rebel Alliance &mdash; view space suits as bulky and obstructive when worn in battle. The heavy padding and insulation in a space suit makes manipulating controls in a cramped fighter cockpit very difficult. Most military pilots are willing to trade the extra atmosphere a space suit provides for the reaction time a vacuum suit allows.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 0,
+    "er": 0,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.StarWarsD6_REUP_FoundryVTT.module-equip.M8sZrISfgOFGnqWv"
+    },
+    "scene-packer": {
+      "hash": "177410e04f7dc4a9862ac4de466579f0075db4e0",
+      "sourceId": "Item.7CvUYkvVy9ufZxyX"
+    }
+  },
+  "_key": "!items!7CvUYkvVy9ufZxyX"
+}

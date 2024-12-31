@@ -1,0 +1,41 @@
+{
+  "_id": "pqF5pxaAPtT4ppbo",
+  "name": "PTP Link",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/comlink.webp",
+  "data": {
+    "description": "<p><strong>PTP</strong> Link<br /><strong>Type:</strong> Point-to-point multi-channel personal communicator<br /><strong>Cost: </strong>150<br /><strong>Availability:</strong> 2<br /><strong>Game Notes: </strong>PTP links can reach distances up to 25 kilometers. Average PTP links are simple communication devices, capable of audio transmissions only. More expensive models often contain encryption packages that help secure a channel that is in use. Such PTP links can cost as much as 1,000 credits, and require a Moderate communications roll to use successfully. If successful, the channel is secured and cannot be deciphered.<br /><strong>Source:</strong> Gundark&rsquo;s Fantastic Technology (page 90), Tales of the Jedi Companion (page 123)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 150,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.RymAgIFpafU3NZGB"
+    },
+    "scene-packer": {
+      "hash": "79a24b90142c493feb816ae3d6de9eecfe2a9927",
+      "sourceId": "Item.pqF5pxaAPtT4ppbo",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!pqF5pxaAPtT4ppbo"
+}

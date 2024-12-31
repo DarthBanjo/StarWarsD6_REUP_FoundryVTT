@@ -1,0 +1,25 @@
+{
+  "_id": "C4IUcOBOkHd18EWg",
+  "name": "Inhibitor Chip",
+  "type": "specialability",
+  "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+  "data": {
+    "description": "<p><em>\"Good soldiers follow orders.\"</em></p>\n<p>When they were activated the troopers responded to orders without question, even Order 66.</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Item.C4IUcOBOkHd18EWg"
+    }
+  },
+  "_key": "!items!C4IUcOBOkHd18EWg"
+}

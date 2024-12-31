@@ -1,0 +1,37 @@
+{
+  "_id": "HxlNzEuxTJhHEd8p",
+  "name": "Swoop",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/swoop_air2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5029b75cdfab990c3549bed9bbeffc19c6a26e11",
+      "sourceId": "Item.HxlNzEuxTJhHEd8p"
+    }
+  },
+  "_key": "!items!HxlNzEuxTJhHEd8p"
+}

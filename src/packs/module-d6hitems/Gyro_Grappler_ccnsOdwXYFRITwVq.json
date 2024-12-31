@@ -1,0 +1,37 @@
+{
+  "_id": "ccnsOdwXYFRITwVq",
+  "name": "Gyro-Grappler",
+  "type": "gear",
+  "img": "art/items/gyro.webp",
+  "data": {
+    "description": "<p>The gyro-grappler was originally designed for use in the Republic military, acting as an aid to scaling walls or sheer inclines, such as mountains or cliff-faces. The gyro-grappler is essentially a large grappling hook that is equipped with powerful micro-thrusters that propel the hook (and any rope attached to it) forward. This thruster package is extremely quiet and allows throws up to 120 meters.</p>\n<p><strong>Type:&nbsp;</strong>Standard gyro-grappler</p>\n<p><strong>Cost: </strong>15</p>\n<p><strong>Availability: </strong>1</p>\n<p><strong>Game Notes: </strong>The gyro-grappler has built-in microthrusters that activate upon throwing, propelling the device forward in the intended direction. All climbing skills rolls have a bonus of + 10 for characters employing a gyro-grappler in their ascent.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 15,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Item.ccnsOdwXYFRITwVq",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!ccnsOdwXYFRITwVq"
+}

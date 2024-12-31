@@ -1,0 +1,38 @@
+{
+  "_id": "xBAXPELMosBag3df",
+  "name": "Resist Stun",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_resiststun.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">Moderate.</span></p>\n<p><span class=\"fontstyle0\"><strong>Time To Use:</strong> </span><span class=\"fontstyle2\">One minute.</span></p>\n<p><em><span class=\"fontstyle3\">This power may be kept &ldquo;up&rdquo;.</span></em></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle3\">Resist stun </span><span class=\"fontstyle2\">allows the Jedi to prepare her body to resist the effects of stun damage. The power must be activated </span><span class=\"fontstyle3\">before </span><span class=\"fontstyle2\">the character has suffered any damage. </span></p>\n<p><span class=\"fontstyle2\">A successful result allows the Jedi to resist all stun results (except for </span><span class=\"fontstyle3\">unconscious</span><span class=\"fontstyle2\">). An </span><span class=\"fontstyle3\">unconscious </span><span class=\"fontstyle2\">result forces the Jedi to drop the power, and she is considered </span><span class=\"fontstyle3\">stunned</span><span class=\"fontstyle2\">. Other injuries &mdash; </span><span class=\"fontstyle3\">wounded</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle3\">incapacitated</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle3\">mortally wounded </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle3\">killed </span><span class=\"fontstyle2\">&mdash; are treated normally.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "ylPj8fiQolPsqQTE",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Resist Stun",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_resiststun.svg",
+      "tint": null,
+      "_key": "!items.effects!xBAXPELMosBag3df.ylPj8fiQolPsqQTE"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!xBAXPELMosBag3df"
+}

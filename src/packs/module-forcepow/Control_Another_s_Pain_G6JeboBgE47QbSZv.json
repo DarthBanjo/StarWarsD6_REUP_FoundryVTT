@@ -1,0 +1,25 @@
+{
+  "_id": "G6JeboBgE47QbSZv",
+  "name": "Control Another's Pain",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_controlanotherspain.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Very Easy. Modified by relationship.</p>\n<p><strong>Alter Difficulty: </strong></p>\n<ul>\n<li>Easy for wounded characters;</li>\n<li>Moderate for incapacitated characters;</li>\n<li>Difficult for mortally wounded characters.</li>\n</ul>\n<p><strong>Required Powers:&nbsp;</strong><em>Control Pain</em></p>\n<p><strong>Effect: </strong>This power allows a Jedi to help another character <em>control pain</em>, under the same rules and conditions outlined in the <em>control pain</em> power. The Jedi must be touching the character to use this power.</p>\n<p><span class=\"fontstyle2\">A wounded target of <em>Control Another's Pain</em> </span><span class=\"fontstyle2\">can act as if they have not been wounded, starting with the round after the power roll has been made. The wound is not healed, but the character doesn&rsquo;t suffer the penalties of being wounded: a&nbsp;</span><span class=\"fontstyle3\">wounded&nbsp;</span><span class=\"fontstyle2\">target doesn&rsquo;t suffer any die code penalties; an&nbsp;</span><span class=\"fontstyle3\">incapacitated&nbsp;</span><span class=\"fontstyle2\">character can still act normally, as can a&nbsp;</span><span class=\"fontstyle3\">mortally wounded&nbsp;</span><span class=\"fontstyle2\">character. This power can also be used to shrug off any stun results.</span></p>\n<p><span class=\"fontstyle2\">However, the character is still injured, and thus is prone to getting worse, even if the target doesn&rsquo;t feel the pain. For example, a character who&rsquo;s been&nbsp;</span><span class=\"fontstyle3\">wounded twice&nbsp;</span><span class=\"fontstyle2\">and is wounded again would still become&nbsp;</span><span class=\"fontstyle3\">incapacitated</span><span class=\"fontstyle2\">.&nbsp;</span><span class=\"fontstyle3\">Mortally wounded&nbsp;</span><span class=\"fontstyle2\">characters may still die from injuries, even if they don&rsquo;t feel any pain.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.G6JeboBgE47QbSZv"
+    }
+  },
+  "_key": "!items!G6JeboBgE47QbSZv"
+}

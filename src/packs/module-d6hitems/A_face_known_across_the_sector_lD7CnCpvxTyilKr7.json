@@ -1,0 +1,37 @@
+{
+  "_id": "lD7CnCpvxTyilKr7",
+  "name": "A face known across the sector",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_holovidceleb.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6755f53b273183b1ad750f7f4a19d2b9c1ea0ffb",
+      "sourceId": "Item.lD7CnCpvxTyilKr7"
+    }
+  },
+  "_key": "!items!lD7CnCpvxTyilKr7"
+}

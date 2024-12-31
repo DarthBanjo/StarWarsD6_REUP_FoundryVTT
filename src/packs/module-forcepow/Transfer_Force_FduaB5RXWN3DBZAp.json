@@ -1,0 +1,25 @@
+{
+  "_id": "FduaB5RXWN3DBZAp",
+  "name": "Transfer Force",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_transferforce.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Easy. Modified by relationship.</p>\n<p><strong>Alter Difficulty: </strong>Moderate.</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Control Another's Pain,&nbsp;Control Pain</em></p>\n<p><strong>Time To Use: </strong>One minute.</p>\n<p><strong>Effect: </strong>This power will save a mortally wounded character from dying because the Jedi is transferring her life force to the target. The target character remains mortally wounded but will not die unless injured again. The injured character is in hibernation and will stay alive in this state for up to six weeks. The Jedi must be touching the target character when the power is activated.</p>\n<p>When this power is used, the Jedi must spend a Force Point (this is the life force that is transferred to the target). This use is always considered heroic, so the Jedi will get the Force Point back at the end of the adventure.</p>\n<p>The recipient of this power must be willing.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.FduaB5RXWN3DBZAp"
+    }
+  },
+  "_key": "!items!FduaB5RXWN3DBZAp"
+}

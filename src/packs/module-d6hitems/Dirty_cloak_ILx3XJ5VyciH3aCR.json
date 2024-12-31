@@ -1,0 +1,37 @@
+{
+  "_id": "ILx3XJ5VyciH3aCR",
+  "name": "Dirty cloak",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-hooded-pink.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "25308cd3477c0b23c4d9679f76cb14145ecd6530",
+      "sourceId": "Item.ILx3XJ5VyciH3aCR"
+    }
+  },
+  "_key": "!items!ILx3XJ5VyciH3aCR"
+}

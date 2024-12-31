@@ -1,0 +1,32 @@
+{
+  "_id": "Tof8o5re6D6xtSqI",
+  "name": "Spice, common (1kg)",
+  "type": "gear",
+  "img": "icons/commodities/materials/powder-red-green-yellow.webp",
+  "data": {
+    "description": "<p>1 kg</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Tof8o5re6D6xtSqI"
+}

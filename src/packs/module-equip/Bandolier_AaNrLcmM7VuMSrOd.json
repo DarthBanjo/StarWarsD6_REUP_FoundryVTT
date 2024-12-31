@@ -1,0 +1,36 @@
+{
+  "_id": "AaNrLcmM7VuMSrOd",
+  "name": "Bandolier",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/bandolier.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Since there are so many types of weapons, there are an equally large number of ammunition types. Depending upon the weapons the wearer carries, a bandolier may contain energy cells or power packs (blasters), clips (slugthrowers), explosive bolts (bowcasters), magazines (missile launchers), grenades, knives, or any other forms of ammunition.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Ayelixe/Krongbing textiles Bandolier</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Bandolier</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">300</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">A bandolier has 12 slots that can each hold a single small weapon (such as a grenade or a knife) or a single piece of equipment weighing up to about 0.5 kg. Any item on the bandolier can be retrieved as a non-roll action.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 300,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.AaNrLcmM7VuMSrOd"
+    }
+  },
+  "_key": "!items!AaNrLcmM7VuMSrOd"
+}

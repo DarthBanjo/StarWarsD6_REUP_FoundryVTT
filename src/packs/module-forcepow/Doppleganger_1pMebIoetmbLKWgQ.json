@@ -1,0 +1,38 @@
+{
+  "_id": "1pMebIoetmbLKWgQ",
+  "name": "Doppleganger",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_doppleganger.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Difficult</p>\n<p><strong>Sense Difficulty: </strong>Very Difficult</p>\n<p><strong>Alter Difficulty: </strong>Heroic</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Control Pain,&nbsp;Emptiness,&nbsp;Life Detection,&nbsp;Life Sense,&nbsp;Magnify Senses,&nbsp;Receptive Telepathy,&nbsp;Sense Force,&nbsp;Telekinesis,&nbsp;Projective Telepathy,&nbsp;Control Another's Pain,&nbsp;Transfer Force,&nbsp;Affect Mind,&nbsp;Dim Other's Senses</em></p>\n<p><em>This power must be kept &ldquo;up.&rdquo;</em></p>\n<p><strong>Warning: </strong>A character who uses this power receives a Dark Side Point.</p>\n<p><strong>Time To Use: </strong>Five minutes</p>\n<p><strong>Effect: </strong>This power creates a doppleganger of the person using the power. The doppleganger is an illusion, but to those who interact with it, it will seem real. The user can sense all normal senses through the doppleganger, and the duplicate seems to have form and substance: the doppleganger registers as normal on all droid audio and video sensors.</p>\n<p>Those who are with the doppleganger believe it to be a real person. The doppleganger acts with half the skill dice of the person using the power. The user must roll once every five minutes to maintain the doppleganger; if the Jedi stops using the power or the doppleganger is fatally injured, it simply fades away.</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "n4lYPTEYHz2WTgNn",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Doppleganger",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_doppleganger.svg",
+      "tint": null,
+      "_key": "!items.effects!1pMebIoetmbLKWgQ.n4lYPTEYHz2WTgNn"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!1pMebIoetmbLKWgQ"
+}

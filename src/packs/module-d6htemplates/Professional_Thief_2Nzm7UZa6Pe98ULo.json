@@ -1,0 +1,1392 @@
+{
+  "_id": "2Nzm7UZa6Pe98ULo",
+  "name": "Professional Thief",
+  "type": "character-template",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_prothief.webp",
+  "data": {
+    "description": "<p><strong>A Quote:</strong> \"Better luck next time, Constable!\" </p>\n<p><strong>Background: </strong>You grew up on the streets of Procopia, a poor child in the midst of tremendous wealth. You vowed that you would one day taste the riches that those around you took for granted, even if you had to steal it out from under them.<br />You spent some time with a traveling performing troupe as an acrobat and juggler. After a performance, you would sneak out into the night, breaking into the homes of wealthy nobles and corporate execs, stealing gems and works of art. So far, you've had some minor successes and the local newsnets have begun to follow your exploits. You've enjoyed the media attention and have begun leaving small \"calling cards\" at the sites of your burglaries. The local authorities are less than amused with you, but-in your opinion-the law will have to move much more quickly to catch you.</p>\n<p><strong>Personality: </strong>You love your chosen profession for its freedom, adventure and danger. You enjoy the thrill of the chase more as such as the loot you steal. You constantly seek out the best in food, drink and other lusuries, committing audacious thefts to cover your expenses.</p>\n<p><strong>Objectives: </strong>To loot Tapan sector from end to end and retire with your freedom and enough wealth to buy a planet.</p>\n<p><strong>Connection With Other Characters: </strong>You may be posing as a wealthy noble, hiring a security specialist, retainer or other such character to make your cover more convincing. A noble may have stumbled upon your true identity and threatens to turn you over to the authorities unless you perform a task for him.</p>\n<p><strong>Source: </strong>Player's guide to Tapani</p>",
+    "labels": {},
+    "tags": [],
+    "species": "",
+    "attributes": {
+      "agi": 12,
+      "str": 12,
+      "kno": 8,
+      "mec": 6,
+      "per": 10,
+      "tec": 6,
+      "met": 0
+    },
+    "fp": 1,
+    "cp": 5,
+    "funds": 0,
+    "credits": 500,
+    "move": 10,
+    "me": false,
+    "items": [
+      {
+        "name": "Hold-Out Blaster",
+        "type": "weapon",
+        "description": "<p><span class=\"fontstyle0\">Small enough to be hidden in the hand of a human, hold-out blasters are common in urban areas with strict weapon controls and among undercover agents.</span></p>\n<p><span class=\"fontstyle0\">Hold-out blasters require custom designed power packs and only hold enough blaster gas for a few shots. They are illegal or closely regulated in most systems. Many systems, however, look on them as a &ldquo;self-defense&rdquo; alternative to the more powerful types of personal weapons available.</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Concealable blaster</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Blaster: Hold-Out Blaster</span></em></p>\n<p><span class=\"fontstyle4\"><strong>Ammo:</strong> </span><span class=\"fontstyle5\">6</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">275 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R or X</span></p>\n<p><span class=\"fontstyle4\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">3-4/8/12</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">3D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Lockbreaking Kit",
+        "type": "gear",
+        "description": "<h1 id=\"firstHeading\" lang=\"en\">Lock Breaking Kit</h1>\n<div id=\"bodyContent\">\n<div id=\"contentSub\"></div>\n<div id=\"jump-to-nav\"></div>\n<div id=\"mw-content-text\" dir=\"ltr\" lang=\"en\">\n<div>\n<p>Lock Breaking Kit<br />Model: Individual manufacture; many types<br />Type: Security code de-scrambler<br />Skill: Security: lockpicking<br />Cost: 8,000 (if purchased through legitimate agent), 16,000+ (black market price)<br />Availability: 4, R or X<br />Game Notes: Adds +2D to a user&rsquo;s security skill when attempting to open an electronically sealed entryway.<br />Source: Pirates &amp; Privateers (page 49), Rules of Engagement &ndash; The Rebel SpecForce Handbook (page 45)</p>\n</div>\n</div>\n</div>"
+      },
+      {
+        "name": "Forged identification credentials",
+        "type": "gear",
+        "description": ""
+      },
+      {
+        "name": "Power Pitons (+2D to climbing with an Easy Dexterity roll)",
+        "type": "gear",
+        "description": ""
+      },
+      {
+        "name": "Blaster",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">A specific type or model of character-scale blaster weapon &mdash; </span><span class=\"fontstyle0\">blaster pistol, heavy blaster pistol, blaster rifle, BlasTech DL-44, hold-out blaster.</span></em></p>\n<p><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to shoot blaster weapons that can be held and carried by a character. </span><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">covers everything from tiny holdout blasters to large repeating blasters (such as the EWEB heavy repeating blaster used by Imperial snowtroopers on Hoth in </span><span class=\"fontstyle0\">The Empire Strikes Back</span><span class=\"fontstyle2\">). Other blaster types include sporting blasters (Princess Leia uses a sporting blaster in </span><span class=\"fontstyle0\">Star Wars: A New Hope</span><span class=\"fontstyle2\">), blaster pistols, heavy blaster pistols (like Han Solo&rsquo;s BlasTech DL-44), and the blaster rifles used by stormtroopers.</span></p>\n<p><span class=\"fontstyle2\">Do not use blaster to fire fixed blasters or multi-crew weapons (use </span><span class=\"fontstyle0\">blaster artillery</span><span class=\"fontstyle2\">), weapons mounted on vehicles (use </span><span class=\"fontstyle0\">vehicle blasters</span><span class=\"fontstyle2\">), or starship weapons (use </span><span class=\"fontstyle0\">capital ship gunnery </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">starship gunnery</span><span class=\"fontstyle2\">, both </span><span class=\"fontstyle0\">Mechanical </span><span class=\"fontstyle2\">skills).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Brawling Parry",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Style of </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">being parried when unarmed and avoiding a brawling or melee attack &mdash; </span><span class=\"fontstyle0\">boxing</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">martial arts</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Brawling parry </span><span class=\"fontstyle2\">is a &ldquo;reaction skill&rdquo; used to avoid being hit by a </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">melee combat </span><span class=\"fontstyle2\">attack if you&rsquo;re unarmed. </span><span class=\"fontstyle0\">Brawling parry </span><span class=\"fontstyle2\">is used to hold one&rsquo;s ground yet avoid or block a hand-to-hand combat attack.</span> </p>\n<p><span class=\"fontstyle0\">If your character is using </span><span class=\"fontstyle2\">brawling parry </span><span class=\"fontstyle0\">in defending against someone who is attacking with a weapon or sharp natural tools, the attacker gets a +10 bonus modifier to his attack roll. (REUP P90)</span></p>"
+      },
+      {
+        "name": "Dodge",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of ranged attack to be dodged &mdash; </span><span class=\"fontstyle0\">energy weapons, grenades, missile weapons</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Dodge </span><span class=\"fontstyle2\">is a &ldquo;reaction skill&rdquo; used to avoid any ranged attack, including blaster fire, grenades, bullets and arrows. Characters using this are doing whatever they can to </span><span class=\"fontstyle0\">dodge </span><span class=\"fontstyle2\">the attack &mdash; slipping around a corner for cover, diving behind cargo containers, dropping to the ground, or any other maneuvers to avoid getting hit.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Grenade",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind or model of grenade &mdash; </span><span class=\"fontstyle0\">thermal detonator, anti-vehicle grenade</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Grenade </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill to throw grenades. Success means the grenade hits the location it was thrown to. Failure means it lands somewhere else.</span></p>\n<p><span class=\"fontstyle2\">This skill covers throwing other objects like rocks and balls.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Melee Combat",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type of melee weapon &mdash; </span><span class=\"fontstyle0\">swords, knives, axes, vibroblades, vibro-axes</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Melee combat </span><span class=\"fontstyle2\">is the &ldquo;melee combat&rdquo; skill used for all hand-to-hand weapons (except lightsabers, which is covered under the </span><span class=\"fontstyle0\">lightsaber </span><span class=\"fontstyle2\">skill). Melee weapons include vibro-axes, force pikes, clubs, bayonets and even impromptu weapons like chairs and blaster butts.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Melee Parry",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of melee weapon used &mdash; </span><span class=\"fontstyle0\">lightsabers, knives, clubs, axes, vibroblades</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Melee parry </span><span class=\"fontstyle2\">is the &ldquo;reaction skill&rdquo; used if a character has a melee weapon and is attacked by someone with a </span><span class=\"fontstyle0\">melee combat</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">lightsaber </span><span class=\"fontstyle2\">attack. (Melee parry can&rsquo;t be used to parry blaster attacks &mdash; that&rsquo;s </span><span class=\"fontstyle0\">dodge.</span><span class=\"fontstyle2\">)</span> </p>\n<p><span class=\"fontstyle0\">If your character is defending against someone who is unarmed and doesn&rsquo;t have sharp natural weapons, the defender gets a +5 bonus modifier to his </span><span class=\"fontstyle2\">melee parry </span><span class=\"fontstyle0\">roll.</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">&nbsp;(REUP P90)</span></p>"
+      },
+      {
+        "name": "Pick Pocket",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Characters use </span><span class=\"fontstyle2\">pick pocket </span><span class=\"fontstyle0\">to pick the pockets of others, or to palm objects without being noticed.</span></p>\n<p><span class=\"fontstyle0\">When a character makes a pick pocket attempt, the victim makes an opposed </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">roll to notice it.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Running",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Long distance, short sprint.</span></em></p>\n<p><span class=\"fontstyle0\">Running </span><span class=\"fontstyle2\">is the character&rsquo;s ability to run and keep his balance, especially in dangerous terrain. The </span><span class=\"fontstyle0\">running </span><span class=\"fontstyle2\">difficulty is based on the kind of terrain being crossed and how fast the character moves. See the chapter on &ldquo;Movement and Chases&rdquo; for more information.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Thrown Weapons",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific kind of thrown weapon &mdash; </span><span class=\"fontstyle0\">knife, spear, sling</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Thrown weapons </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used whenever a character employs a primitive thrown weapon, including throwing knives, slings, throwing spears and<br />javelins</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Alien Species",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Knowledge of a particular alien species &mdash; </span><span class=\"fontstyle0\">Wookiees, Gamorreans, Ewoks, Sullustans</span><span class=\"fontstyle2\">. </span></em></p>\n<p><span class=\"fontstyle0\">Alien species </span><span class=\"fontstyle2\">involves knowledge of any species outside of the character&rsquo;s. For human characters, it covers all nonhumans; for Wookiees, the skill covers all non-Wookiees.</span></p>\n<p><span class=\"fontstyle0\">Alien species </span><span class=\"fontstyle2\">represents knowledge of customs, societies, physical appearance, attitudes, philosophy, history, art, politics, special abilities, and other areas of reasonable knowledge</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Business",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Field or organization (company, conglomerate, trade guild) &mdash;&nbsp; s</span><span class=\"fontstyle0\">tarships, weapons, droids, Sienar Fleet Systems, Corporate Sector Authority, Golan Arms</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">The character has a working knowledge of businesses and business procedures. A character skilled in </span><span class=\"fontstyle2\">business </span><span class=\"fontstyle0\">might want to run his own company, or knows how to convince a warehouse manager to give him a tour of a facility or to allow him to &ldquo;borrow&rdquo; a few things in an emergency.</span></p>\n<p><span class=\"fontstyle0\">Characters with a high </span><span class=\"fontstyle2\">business </span><span class=\"fontstyle0\">skill know how much it costs companies to produce goods and will be able to negotiate for good prices direct from a company or distributor. The character probably has several contacts in the business world and can get special favors done for him if he is somewhere where the company has a lot of power.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Cultures",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Planet or social group &mdash; </span><span class=\"fontstyle0\">Corellians, Alderaan royal family, Brentaal, Prexian pirates</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects knowledge of particular cultures and common cultural forms (primitive tribal civilizations tend to be somewhat similar, for example). </span><span class=\"fontstyle0\">Cultures </span><span class=\"fontstyle2\">allows a character to determine how he is expected to behave in a particular situation among a certain group of individuals.</span></p>\n<p><span class=\"fontstyle2\">The more obscure the information or culture, the higher the difficulty. Cultural knowledge includes information about a certain group&rsquo;s art, history, politics, customs, rites of passage, and views on outsiders. For instance, a visitor to Tatooine might make a </span><span class=\"fontstyle0\">cultures </span><span class=\"fontstyle2\">roll to better understand the moisture farmers he&rsquo;s dealing with. Depending on what the player asks about this culture, he could learn the moisture farmers depend heavily on droids, they often trade with&nbsp; roaming bands of Jawa scavengers, and their calendar revolves around<br />planting and harvesting seasons. </span></p>\n<p><span class=\"fontstyle2\">This skill can be used for cultures of one&rsquo;s own species or for those of other species.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Languages",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific language known &mdash; </span><span class=\"fontstyle0\">Wookiee, Huttese, Bocce, Ewok.</span></em></p>\n<p><span class=\"fontstyle2\">The common language of the Known Galaxy is Basic. Most people speak it &mdash; if not as their main language, they are at least fluent in it &mdash; and virtually everyone can understand it. However, some areas of the galaxy are so isolated that Basic is rarely spoken. Some aliens can&rsquo;t or refuse to speak Basic. For example, Wookiees can under</span><span class=\"fontstyle2\">stand Basic, but, because of the structure of their mouths, usually cannot speak it. Ewoks do not normally understand Basic, but can learn it fairly easily. </span></p>\n<p><span class=\"fontstyle2\">The </span><span class=\"fontstyle0\">languages </span><span class=\"fontstyle2\">skill is used to determine whether or not a character understands something in another language. If the character wants to say something in a language in which he isn&rsquo;t fluent (see &ldquo;specialization&rdquo; below) increase the difficulty by two levels.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Specialization: </strong>Characters may specialize in a specific language, such as Wookiee, Huttese, or astromech droid. Once the character has 5D in the specialized language, the character is considered fluent in the language and no longer has to make rolls to understand anything in that language.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>"
+      },
+      {
+        "name": "Law Enforcement",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular planet&rsquo;s or organization&rsquo;s laws and procedures &mdash; </span><span class=\"fontstyle0\">Alderaan, Tatooine, the Empire, Rebel Alliance</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">The character is familiar with law enforcement techniques and procedures. He knows how to deal with the authorities &mdash; for example, he may be able to persuade a customs official not to impound his ship or not arrest him<br />for a minor offense.</span></p>\n<p><span class=\"fontstyle2\">Characters are also knowledgeable about laws. By making a successful </span><span class=\"fontstyle0\">law enforcement </span><span class=\"fontstyle2\">skill check, the character will know whether or not bribery, resistance or cooperation is advisable under particular circumstances. This skill covers major laws &mdash; Old Republic, New Republic, or Imperial &mdash; and their&nbsp; underlying principles. Some planets have very unusual legal systems and customs: </span><span class=\"fontstyle0\">law enforcement </span><span class=\"fontstyle2\">difficulties on these worlds should be much higher.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Planetary Systems",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific system or planet &mdash; </span><span class=\"fontstyle0\">Tatooine, Endor, Hoth, Kessel.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets. Much of this information is gained from personal experience, computer records and hearsay from others who&rsquo;ve visited various systems.</span></p>\n<p><span class=\"fontstyle0\">Characters specializing in particular planets have a deeper knowledge of more subtle details &mdash; more than the average general database would contain. Although someone with an improved </span><span class=\"fontstyle2\">planetary systems </span><span class=\"fontstyle0\">skill would know that Tatooine&rsquo;s deserts are home to Jawas and Tusken Raiders, those with </span><span class=\"fontstyle2\">planetary systems: Tatooine </span><span class=\"fontstyle0\">would know the role the Jawa scavengers play in supplying the moisture farmers with spare parts and droids.</span></p>"
+      },
+      {
+        "name": "Streetwise",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific planet or criminal organization &mdash; </span><span class=\"fontstyle0\">Celanon, Corellia, Jabba the Halt&rsquo;s organization, Black Sun, Talon Karrde&rsquo;s organization</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Streetwise </span><span class=\"fontstyle2\">reflects a character&rsquo;s familiarity with underworld organizations and their operation. He can use </span><span class=\"fontstyle0\">streetwise </span><span class=\"fontstyle2\">to make a contact in the criminal underworld, purchase illegal goods or services, or find someone to do something illegal.</span></p>\n<p><span class=\"fontstyle2\">Illegal activities may include the usual vices: gambling, fencing stolen goods, racketeering, blackmail, contract killing, and fraud. Because Imperial laws are repressive, some actions deemed &ldquo;criminal&rdquo; may be perfectly moral: freeing slaves, delivering medicine and food to refugees from Imperial aggression, and smuggling wanted criminals (such as Alliance personnel) through Imperial blockades.</span></p>\n<p><span class=\"fontstyle2\">This skill also reflects knowledge of specific criminal bosses, such as Jabba the Hutt or Talon Karrde, and their organizations and activities.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Value",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of goods or specific planet&rsquo;s markets &mdash; </span><span class=\"fontstyle0\">starships, droids, Kessel, Coruscant</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s ability to gauge the fair market value of goods based on the local economy, the availability of merchandise, quality and other market factors. The character can also gauge specific capabilities of and modifications made to goods with regard to performance.</span></p>\n<p><span class=\"fontstyle2\">Using </span><span class=\"fontstyle0\">value </span><span class=\"fontstyle2\">often answers the question, &ldquo;How much is it </span><span class=\"fontstyle0\">really </span><span class=\"fontstyle2\">worth?&rdquo; Results often depend on the source of information about the item, and how much the character already knows about that kind of merchandise. A starship dealer rattling on about a particular used-freighter might be exaggerating &mdash; although characters can make some estimations based on the starship model. If the item can be examined in person, its value is much easier to determine.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">When the character makes a </span><span class=\"fontstyle2\">value </span></strong><span class=\"fontstyle0\"><strong>roll, use these difficulty guidelines:</strong><br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Knowing that a new astromech droid should cost about 1,000 credits.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Knowing that a new freighter, equipped with heavy duty weapons, should cost well over 100,000 credits; knowing that it could probably stand up to a slower starfighter, but not a customs ship.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Figuring out how much a modified freighter is worth, and how much better (or worse) the modifications make it.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Determining how much it should cost to hire a pilot to make a smuggling run where there&rsquo;s a high level of risk involved.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Determining how expensive it should be to hire a crack pilot to fly an Imperial blockade... when he knows the risks.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Coming up with a market price for a product in a hurry &mdash; one that isn&rsquo;t normally &ldquo;on the market&rdquo; (Cloud City, a Star Destroyer, a Rebel Princess to be sold to the Empire). Knowing how much an Imperial prototype weapon is worth.</span> </p>\n<p>&nbsp;</p>"
+      },
+      {
+        "name": "Astrogation",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Time Taken: </span><span class=\"fontstyle2\">One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship&rsquo;s current position and then compute jump coordinates.</span></em></p>\n<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific trade route &mdash; </span><span class=\"fontstyle0\">Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Starship pilots use </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">to plot a course from one star system to another. For more details on </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">difficulties, see the chapter on &ldquo;Space Travel and Combat.&rdquo;</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Beast Riding",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular riding animal &mdash; </span><span class=\"fontstyle0\">banthas, Cracian thumpers, dewbacks, tauntauns</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Beast riding </span><span class=\"fontstyle2\">represents a character&rsquo;s ability to ride any live mount. Unlike vehicles, animals sometimes resist orders from their riders. Each animal has an </span><span class=\"fontstyle0\">orneriness code</span><span class=\"fontstyle2\">. When a character mounts a riding animal, the character makes an opposed roll against the animal&rsquo;s orneriness code. If the character rolls higher than the animal, it does as he wishes. If the animal rolls higher, find the results on the chart below.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Animal rolls higher than character by:</strong><br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">21+ points: </span></strong><span class=\"fontstyle2\">Animal bucks rider. Roll the animal&rsquo;s </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">versus the character&rsquo;s </span><span class=\"fontstyle3\">Dexterity</span><span class=\"fontstyle2\">: If the animal rolls higher, the character is thrown to the ground. The animal will trample the rider if there is no immediate threat; otherwise, it will run to safety.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">16-20 points: </span></strong><span class=\"fontstyle2\">Animal bucks rider and runs to safety. If the<br />character falls off, the creature will not attempt to trample the<br />rider.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>11-15 points:</strong> </span><span class=\"fontstyle2\">Animal refuses to follow rider&rsquo;s command and runs to safety. The rider may regain control by making another </span><span class=\"fontstyle3\">beast riding </span><span class=\"fontstyle2\">roll and beating the animal&rsquo;s total by 5 or more points.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>6-10 points:</strong> </span><span class=\"fontstyle2\">Animal stops moving and refuses to move for the rest of the round or the next round.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">1-5 points: </span></strong><span class=\"fontstyle2\">Animal stops moving and refuses to move for the rest of the round.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>"
+      },
+      {
+        "name": "Communications",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model of communications unit &mdash; </span><span class=\"fontstyle0\">comlink, subspace radio</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Communications </span><span class=\"fontstyle2\">represents a character&rsquo;s ability to use subspace radios, comlinks and other communications systems. While operating communications devices is generally a Very Easy task, the difficulty numbers are higher when the skill is used to descramble enemy codes and find particular enemy transmission frequencies.</span></p>\n<p><span class=\"fontstyle2\">Characters may also use </span><span class=\"fontstyle0\">communications </span><span class=\"fontstyle2\">to send or receive a signal through natural hazards which disrupt communications, such as a gas cloud, heavy magnetic fields or locations with a high metal content.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>The following difficulties are for finding a specific kind of frequency:</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Listening in on a known, registered frequency. Public communications, low-security corporate commnets.<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Listening in on a specific private frequency. Low-security government communications such as emergency services.<br /></span><span class=\"fontstyle2\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Listening in on a somewhat sensitive communication frequency. Local governments, sensitive businesses or security-conscious individuals.<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Tapping professionally secure channels. Lower-level Imperial or higher-level police bands.<br /></span><span class=\"fontstyle2\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Listening in on higher Imperial channels, or high-ranking government channels.<br /></span><strong><span class=\"fontstyle2\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Listening in on a top-secret Imperial, Rebel or New Republic frequency.</span></span></p>"
+      },
+      {
+        "name": "Jet Pack Operation",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">This skill represents a character&rsquo;s skill at using jet packs.</span></p>\n<p><span class=\"fontstyle0\">Since these back-mounted packs rely on pulling in surrounding atmosphere and mixing it with regulated amounts of fuel, they can only be operated within atmospheres. Characters with </span><span class=\"fontstyle2\">jet pack operation </span><span class=\"fontstyle0\">gain no bonuses when operating &ldquo;rocket packs,&rdquo; which use the </span><span class=\"fontstyle2\">rocket pack operation </span><span class=\"fontstyle0\">skill.</span></p>\n<p><span class=\"fontstyle2\">Jet pack operatio</span><span class=\"fontstyle0\">n can be used as a &ldquo;reaction skill&rdquo; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Repulsorlift Operation",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model repulsorlift vehicle &mdash; </span><span class=\"fontstyle0\">XP-38 landspeeder, Incom T-16 Skyhopper, Rebel Alliance combat snowspeeder</span></em><span class=\"fontstyle2\"><em>.</em></span></p>\n<p><span class=\"fontstyle2\">The character knows how to operate common repulsorlift (or &ldquo;antigrav&rdquo;) craft, including landspeeders, snowspeeders, T-16 skyhoppers, cloud cars, airspeeders, speeder bikes, skiffs and sail barges.</span></p>\n<p><span class=\"fontstyle0\">Repulsorlift operation </span><span class=\"fontstyle2\">can be used for a vehicle dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Rocket Pack Operation",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">This skill reflects the character&rsquo;s ability to use personal, self-contained rocket packs. Since these backpack units contain all the chemical thrust components for propulsion and maneuvering, they can be used in zero, low or high atmosphere conditions. Characters with </span><span class=\"fontstyle2\">rocket pack operation </span><span class=\"fontstyle0\">gain no bonuses when operating &ldquo;jet packs,&rdquo; which use the </span><span class=\"fontstyle2\">jet pack operation </span><span class=\"fontstyle0\">skill.</span></p>\n<p><span class=\"fontstyle2\">Rocket pack operation </span><span class=\"fontstyle0\">can be used as a &ldquo;reaction skill&rdquo; to dodge enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Bargain",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of merchandise to be purchased or sold &mdash; spice, weapons, droids, datapads. </span></em></p>\n<p><span class=\"fontstyle2\">Characters use this skill to haggle over prices for goods they want to purchase or sell. The difficulty is often an opposed roll against the gamemaster character&rsquo;s </span><span class=\"fontstyle0\">bargain </span><span class=\"fontstyle2\">skill.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Bribery:</strong> </span><span class=\"fontstyle2\">Bargain </span><span class=\"fontstyle3\">can also be used to bribe others.</span></span></p>"
+      },
+      {
+        "name": "Con",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular method of conning &mdash; </span><span class=\"fontstyle0\">disguise, fast-talk</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is used to trick and deceive characters, or otherwise convince them to do something that isn&rsquo;t in their best interest. (</span><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is another interaction skill, so you&rsquo;ll often want to use roleplaying to resolve these situations.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">The difficulty of the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">depends upon who is being conned.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">A close friend or relative who has no reason to suspect a </span><span class=\"fontstyle2\">con</span><span class=\"fontstyle0\">.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Naive teenager, gullible person.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">A stormtrooper when the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">doesn&rsquo;t personally involve him.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">A customs or law enforcement officer; stormtrooper when </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">will involve possible danger.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Someone who should know better. Jabba the Hutt, an Imperial general.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Someone who </span><span class=\"fontstyle2\">really </span><span class=\"fontstyle0\">knows better. A Jedi Knight, Emperor Palpatine.<br /></span></span></p>\n<p>&nbsp;</p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle3\"><strong>Modifiers:</strong><br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to victim&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will cause victim to do something illegal or highly dangerous.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+5 or more to victim&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Person knows the character is prone to pulling cons and has their guard up.<br /></span><span class=\"fontstyle3\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will convince victim to do something they might normally do anyway.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+5 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim generally likes character, but suspects something because of character&rsquo;s unusual behavior.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim has no reason to suspect dishonesty, and trusts and likes that character.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">Characters can </span><span class=\"fontstyle2\">actively resist </span><span class=\"fontstyle0\">a </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">attempt by rolling their </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">dice against the opponent&rsquo;s </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">total. In that case, the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">difficulty number is </span><span class=\"fontstyle2\">ignored</span><span class=\"fontstyle0\">, but the modifiers are not.</span></span></p>"
+      },
+      {
+        "name": "Forgery",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific kind of documentation to be forged &mdash; </span><span class=\"fontstyle0\">security codes, datapad scandocs, starship permits.</span></em></p>\n<p><span class=\"fontstyle2\">The character has the ability to falsify electronic documents to say what the character wishes. Characters might forge bank codes to get someone else&rsquo;s credits out of an account, alter official Imperial cargo vouchers so they may appear to have the right permit to carry a certain type of restricted good, or create valid identification so they may impersonate New Republic inspectors.</span></p>\n<p><span class=\"fontstyle2\">A person inspecting a forged document may make an opposed </span><span class=\"fontstyle0\">forgery</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">search </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">Perception </span><span class=\"fontstyle2\">roll to spot the forgery. This is further modified by the difficulty in forging the document and familiarity with the type of document in question.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>Modifiers:</strong><br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+10 or more to forger&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Forger has had extensive experience with document type or inspector has had none.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+5 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has some experience with document type or inspector has had little.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has &ldquo;sample&rdquo; document to compare forgery to.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has all necessary materials to perform forgery.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+3-15 to forger&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Forger has special assistance (droids, computers) designed to assist in forging documents.<br /></span><span class=\"fontstyle0\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Both characters have equal experience with document type.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+10 or more to difficulty or inspector&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Inspector has extensive experience with document type or forger has none.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+5 to difficulty or inspector&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Inspector has some experience with document type or forger has had little.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to inspector&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Inspector has &ldquo;sample&rdquo; document to compare forgery to.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3-15 to inspector&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Inspector has additional assistance (computers, droids, analyzers) designed to help spot forgeries.</span> </p>"
+      },
+      {
+        "name": "Gambling",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular game of chance &mdash; </span><span class=\"fontstyle0\">sabacc, Trin sticks, warp-top</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Gambling </span><span class=\"fontstyle2\">reflects a character&rsquo;s skill at various games of chance &mdash; it is used to increase his odds of winning. This skill doesn&rsquo;t affect games that are purely random, but does influence games with an element of strategy, like sabacc or a similar game. When playing a skill game honestly, all characters make opposed </span><span class=\"fontstyle0\">gambling </span><span class=\"fontstyle2\">rolls, and the highest roll wins.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Hide",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle1\">Specializations: Camouflage</span><span class=\"fontstyle3\">.</span></em></p>\n<p><span class=\"fontstyle1\">Hide </span><span class=\"fontstyle3\">represents a character&rsquo;s ability to conceal objects from view. The skill is used when trying to hide weapons on one&rsquo;s person, conceal goods within luggage, plant objects to be left in a room and other similar tasks. </span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle0\">When characters are attempting to spot hidden objects, they must make an opposed </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">check. Modifiers include how well the gamemaster thinks the character hid the object. Just rolling high to </span><span class=\"fontstyle2\">hide </span><span class=\"fontstyle0\">a lightsaber on a character&rsquo;s belt won&rsquo;t do any good in a pat-down search, but dumping one into a ventilator shaft will be much more effective (usually).</span></span></p>\n<p><span class=\"fontstyle3\"><span class=\"fontstyle2\">Hide </span><span class=\"fontstyle0\">can also be used to conceal large objects: camouflaging a grounded starfighter or covering up the cave entrance of a secret base.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>"
+      },
+      {
+        "name": "Investigation",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Locale or field of investigation &mdash; </span><span class=\"fontstyle0\">Mos Eisley, Imperial City, property estates, criminal records</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Investigation </span><span class=\"fontstyle2\">is a character&rsquo;s ability to find and gather information regarding someone else&rsquo;s activities, and then draw a conclusion about what the target has done or where she has gone. </span><span class=\"fontstyle0\">Investigation </span><span class=\"fontstyle2\">is useful for finding out about the target&rsquo;s ship reservations and following her to a specific planet, or figuring out what shady business dealings she has undertaken. Just as with other skills,&nbsp; i</span><span class=\"fontstyle0\">nvestigation </span><span class=\"fontstyle2\">is often more fun when you use roleplaying over skill rolls; when a player makes a good </span><span class=\"fontstyle0\">investigation </span><span class=\"fontstyle2\">roll, gamemasters can provide additional hints and clues rather than just giving the player the answer to a puzzle.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Search",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: Tracking.</span></em></p>\n<p><span class=\"fontstyle0\">This skill is used when the character is trying to spot hidden objects or individuals. If the subject of the search has been purposefully hidden, the searching character makes an opposed roll against the hiding character&rsquo;s </span><span class=\"fontstyle2\">hide<br /></span><span class=\"fontstyle0\">skill. If the object hasn&rsquo;t been hidden, the character simply makes a roll against a difficulty.</span></p>\n<p><span class=\"fontstyle0\">This skill is also used to spot characters using the </span><span class=\"fontstyle2\">sneak </span><span class=\"fontstyle0\">skill, such as a group of rebels moving into position to prepare an ambush, or someone attempting to conceal themselves. This is an opposed roll &mdash; the character </span><span class=\"fontstyle2\">sneaking </span><span class=\"fontstyle0\">around makes a roll, and anyone who might spot the character makes a </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">(or </span><span class=\"fontstyle2\">Perception</span><span class=\"fontstyle0\">) roll.</span></p>\n<p><span class=\"fontstyle0\">Here are some sample </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">difficulties:<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s exact location.<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s general location.<br /></span><strong><span class=\"fontstyle3\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Character has only vague information, or has only a general idea regarding what he is looking for.<br /></span><span class=\"fontstyle3\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Character is conducting a general </span><span class=\"fontstyle2\">search</span><span class=\"fontstyle0\">, but doesn&rsquo;t know what he is looking for (looking for clues at a crime scene). Looking for objects that are very small, like coins.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Character doesn&rsquo;t know what he is looking for, or is searching for a very obscure or extremely small object.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Object is almost microscopic in size.</span></p>\n<p><span class=\"fontstyle3\">Modifiers:<br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-6 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If tracking wheeled/tracked vehicle.</span><br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">Soft dirt, mud, or snow.<br /></span><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">For every two people in a party being tracked.<br /></span><strong><span class=\"fontstyle3\">-3 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Per each additional vehicle being tracked.<br /></span></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>No Modifier: </strong></span><span class=\"fontstyle0\">Grassland.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+3 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a forest or thin crowd.<br /><span class=\"fontstyle3\"><strong>+3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a day old.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+6 to search difficulty</strong>: </span><span class=\"fontstyle0\">In a rain forest or big crowd.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Tracking during bad weather.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">If the trail is a few days old.</span></span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+9 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a desert, wasteland, or over a hard surface.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><span class=\"fontstyle3\"><strong>+9 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a week old.<br /></span></span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Sneak",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type of terrain &mdash; </span><span class=\"fontstyle0\">jungle, urban</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Sneak </span><span class=\"fontstyle2\">represents the character&rsquo;s ability to move silently, hide from view, move in shadows and otherwise creep around without being noticed. This is an opposed roll &mdash; the character sneaking around makes a </span><span class=\"fontstyle0\">sneak </span><span class=\"fontstyle2\">roll, and anyone who might spot the character makes a </span><span class=\"fontstyle0\">search </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">Perception </span><span class=\"fontstyle2\">roll. </span></p>\n<p><span class=\"fontstyle2\">This skill allows characters to hide themselves only &mdash; to conceal objects, they must use the </span><span class=\"fontstyle0\">hide </span><span class=\"fontstyle2\">skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Climbing/Jumping",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: Climbing, jumping</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Use this skill when a character attempts to climb a tree, wall or cliff, leap a wide gap, or jump up and grab an outcropping.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><strong><span class=\"fontstyle0\">Climbing </span></strong><span class=\"fontstyle2\"><strong>Modifiers:</strong><br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-10 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Many handholds.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Prepared for climbing.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-5 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Taking care in climbing.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-3 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 90-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 60-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-9 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Less than a 45-degree angle.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+3 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 25% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 50% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+15 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 100% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+5 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Slick or loose surface.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+10 to climber&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Fewer than basic handholds and footholds.<br /></span><br /><strong><span class=\"fontstyle0\">Jumping </span></strong><span class=\"fontstyle2\"><strong>Modifiers:</strong><br /><strong>No Modifier:</strong> </span><span class=\"fontstyle3\">Performing the maneuver from a flat surface, to another flat surface.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>-5 to the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Unlimited landing area.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+5 to the the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Limited landing area,<br /></span><strong><span class=\"fontstyle2\" style=\"color: #000000;\">+10 to the jumper&rsquo;s difficulty: </span></strong><span class=\"fontstyle3\">Almost no landing area.<br /></span><strong><span class=\"fontstyle2\" style=\"color: #000000;\">+3 or more to the jumper&rsquo;s difficulty: </span></strong><span class=\"fontstyle3\">Rough, slick, or unsteady landing area.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to the jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Uphill (more than 30-degrees).<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+6 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 50% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+9 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 75% of body weight.<br /></span><span class=\"fontstyle2\" style=\"color: #000000;\"><strong>+12 to jumper&rsquo;s difficulty:</strong> </span><span class=\"fontstyle3\">Carrying 100% of body weight.</span> </p>"
+      },
+      {
+        "name": "Lifting",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Lifting </span><span class=\"fontstyle2\">is a character&rsquo;s ability to lift heavy objects; it&rsquo;s also the character&rsquo;s ability to carry something for a long time. The difficulty depends on the weight of the object and how long it will be carried.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p>&nbsp;</p>"
+      },
+      {
+        "name": "Stamina",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Stamina </span><span class=\"fontstyle2\">checks reflect that a character is being pushed to his or her physical limits. They should be called for once in a while to show the strain on a character; only require them when a character does something out of the ordinary.</span></p>\n<p><span class=\"fontstyle2\">Whenever a character fails a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">roll, he is fatigued; all actions are at -1D for every </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check failed until the character rests for as long as he exerted himself.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Swimming",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">This skill represents the character&rsquo;s ability to stay afloat in aquatic environments &mdash; lakes, oceans, flooding rivers and luxury starliner swimming pools. </span><span class=\"fontstyle2\">Swimming </span><span class=\"fontstyle0\">difficulties are determined by the water conditions: the starliner pool is Very Easy, while a roaring river might be Very Difficult. </span></p>\n<p><span class=\"fontstyle0\">When a character fails a </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">check, he begins to drown. Roll 2D at the beginning of each round; if the total is less than the number of rounds that the character has been drowning, the character drowns and dies. Characters can attempt other actions while drowning at a -3D penalty. Characters who are drowning may attempt to save themselves once per round. They must make a </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">total at one level of difficulty higher than the one in which they failed their </span><span class=\"fontstyle2\">swimming </span><span class=\"fontstyle0\">roll (the character doesn&rsquo;t suffer the -3D penalty when making this roll).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Computer Programming/Repair",
+        "type": "skill",
+        "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model computer &mdash; </span><span class=\"fontstyle0\">portable computer, mainframe, datapad, YT1300- computer.</span></p>\n<p><span class=\"fontstyle2\">Characters use this skill to repair, modify, and program computers &mdash; it also covers a character&rsquo;s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The time required and the Difficulty of are determined by the type of information sought.</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Public data. Your character&rsquo;s credit balance. (1 minute)<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)<br /></span><strong><span class=\"fontstyle2\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Private data. A person&rsquo;s diary, or their credit balance. (1 hour)<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Secret data. A corporation&rsquo;s records, military plans. (8 hours)<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Top-secret data. The Navy&rsquo;s cloaking device plans, a Grand Moff&rsquo;s itinerary (gamemaster discretion).</span><br /><span class=\"fontstyle2\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Information that only a select few individuals would know. The location of all of Emperor Palpatine&rsquo;s secret weapons vaults (gamemaster discretion).</span> </p>"
+      },
+      {
+        "name": "Blaster Repair",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model blaster &mdash; </span><span class=\"fontstyle0\">blaster pistols, surface-to-surface blaster artillery, heavy blaster cannon</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">A character&rsquo;s ability to fix and modify blaster weapons (character-, speeder- and walker-scale) is represented by his </span><span class=\"fontstyle0\">blaster repair </span><span class=\"fontstyle2\">skill. The cost and difficulty to repair weapons depends upon how badly it is damaged &mdash; see &ldquo;Weapons&rdquo; in &ldquo;Using Repair Skills&rdquo; above. </span></p>\n<p><span class=\"fontstyle2\">Note vibroblades, slugthrowers, and other non-blaster weapons are repaired and modified using the </span><span class=\"fontstyle0\">equipment repair </span><span class=\"fontstyle2\">skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "Demolitions",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific target type &mdash; </span><span class=\"fontstyle0\">bridges, walls, vehicles</span></em><span class=\"fontstyle2\"><em>.</em></span></p>\n<p><span class=\"fontstyle0\">Demolitions </span><span class=\"fontstyle2\">reflects a character&rsquo;s ability to set explosives for both destructive&nbsp; purposes and to accomplish specific special effects.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+      },
+      {
+        "name": "First Aid",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Species of patient &mdash; </span><span class=\"fontstyle0\">humans, Ewoks, Wookiees</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">First aid </span><span class=\"fontstyle2\">reflects a character&rsquo;s ability to perform emergency life saving procedures in the field. For rules on the use of </span><span class=\"fontstyle0\">first aid</span><span class=\"fontstyle2\">, see &ldquo;Combat and Injuries.&rdquo;</span> </p>"
+      },
+      {
+        "name": "Security",
+        "type": "skill",
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model security device &mdash; </span><span class=\"fontstyle0\">magna lock, blast door, retinal lock</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill represents a character&rsquo;s knowledge of physical security systems: locks, alarm systems and other detection devices. It does not govern computer security procedures.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The difficulty depends on the sophistication of the lock or alarm:</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Standard lock, no special protection.<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Regular security lock, civilian.<br /></span><span class=\"fontstyle2\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">High-quality lock, standard military.<br /></span><span class=\"fontstyle2\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Bank vault lock, upper military.<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Super-security lock, Imperial governor, Fleet captain, rare collectible dealer, Jabba the Hutt&rsquo;s locks.<br /></span><strong><span class=\"fontstyle2\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">If Darth Vader or Emperor Palpatine locked things up, this is what they&rsquo;d use.</span> </p>"
+      }
+    ],
+    "label": "OD6S.CHARACTER_TEMPLATES",
+    "effects": [],
+    "folder": "null",
+    "sort": 0,
+    "config": {
+      "startCombat": false,
+      "socket": {
+        "functions": {},
+        "socketName": "system.od6s",
+        "pendingRequests": {}
+      },
+      "baseHitDifficulty": 10,
+      "default_sensor_skill": "OD6S.SENSORS",
+      "fatePointsName": "Force Points",
+      "fatePointsShortName": "FPs",
+      "useAFatePointName": "Use a force point?",
+      "metaphysicsName": "",
+      "manifestationsName": "Force Powers",
+      "metaphysicsExtranormalName": "Force-Sensitive",
+      "vehicleToughnessName": "Body Strength",
+      "passengerDamageDice": true,
+      "starshipToughessName": "",
+      "vehicleDifficulty": true,
+      "brawlAttribute": "",
+      "opposed": [],
+      "chatPath": "systems/od6s/templates/chat/",
+      "wildDieOneDefault": 0,
+      "wildDieOneAuto": 0,
+      "grenadeDamageDice": true,
+      "highlightEffects": true,
+      "randomHitLocations": true,
+      "mapRange": true,
+      "meleeDifficulty": true,
+      "baseAttackDifficulty": 10,
+      "defenseLock": false,
+      "currencyName": "Credits",
+      "fatePointRound": true,
+      "fatePointClimactic": true,
+      "woundConfig": 0,
+      "bodyPointsName": "Body Points",
+      "highHitDamage": false,
+      "autoOpposed": true,
+      "pipsPerDice": 3,
+      "speciesMaxDice": 1,
+      "speciesMinDice": 5,
+      "flatSkills": false,
+      "cost": "1",
+      "fundsFate": false,
+      "showSkillSpecialization": true,
+      "channelSkillName": "Control",
+      "senseSkillName": "Sense",
+      "transformSkillName": "Alter",
+      "deadlinessLevel": {
+        "character": 3,
+        "creature": 3,
+        "npc": 3
+      },
+      "wildDieResult": {
+        "0": "OD6S.WILD_RESULT_ONE",
+        "1": "OD6S.WILD_DIE_NONE",
+        "2": "OD6S.REMOVE_HIGHEST_DIE",
+        "3": "OD6S.COMPLICATION"
+      },
+      "actorMasks": {
+        "character": 0,
+        "npc": 1,
+        "creature": 2,
+        "vehicle": 3,
+        "starship": 4
+      },
+      "equippable": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "cargo_hold": [
+        "weapon",
+        "armor",
+        "gear",
+        "vehicle-weapon",
+        "vehicle-gear",
+        "starship-weapon",
+        "starship-gear"
+      ],
+      "deadliness": {
+        "0": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_WOUNDED_3",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "8": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "2": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED_1",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_WOUNDED_2",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "7": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "3": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_STUNNED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_STUNNED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "6": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "4": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_INCAPACITATED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_INCAPACITATED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "5": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        },
+        "5": {
+          "0": {
+            "description": "OD6S.WOUNDS_HEALTHY",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_HEALTHY"
+          },
+          "1": {
+            "description": "OD6S.WOUNDS_WOUNDED",
+            "penalty": 1,
+            "core": "OD6S.WOUNDS_WOUNDED"
+          },
+          "2": {
+            "description": "OD6S.WOUNDS_SEVERELY_WOUNDED",
+            "penalty": 2,
+            "core": "OD6S.WOUNDS_SEVERELY_WOUNDED"
+          },
+          "3": {
+            "description": "OD6S.WOUNDS_MORTALLY_WOUNDED",
+            "penalty": 3,
+            "core": "OD6S.WOUNDS_MORTALLY_WOUNDED"
+          },
+          "4": {
+            "description": "OD6S.WOUNDS_DEAD",
+            "penalty": 0,
+            "core": "OD6S.WOUNDS_DEAD"
+          }
+        }
+      },
+      "damage": {
+        "OD6S": {
+          "WOUNDS_STUNNED": 1,
+          "WOUNDS_WOUNDED": 4,
+          "WOUNDS_INCAPACITATED": 9,
+          "WOUNDS_MORTALLY_WOUNDED": 13,
+          "WOUNDS_DEAD": 16
+        }
+      },
+      "bodyPointLevels": {
+        "OD6S": {
+          "WOUNDS_HEALTHY": 9999,
+          "WOUNDS_STUNNED": 81,
+          "WOUNDS_WOUNDED": 60,
+          "WOUNDS_SEVERELY_WOUNDED": 40,
+          "WOUNDS_INCAPACITATED": 20,
+          "WOUNDS_MORTALLY_WOUNDED": 10,
+          "WOUNDS_DEAD": 1
+        }
+      },
+      "vehicle_damage": {
+        "OD6S": {
+          "DAMAGE_NONE": {
+            "damage": 0,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_VERY_LIGHT": {
+            "damage": 1,
+            "passenger_damage": "OD6S.PASSENGER_NO_DAMAGE",
+            "passenger_damage_dice": 0
+          },
+          "DAMAGE_LIGHT": {
+            "damage": 4,
+            "passenger_damage": "OD6S.PASSENGER_QUARTER_DAMAGE",
+            "passenger_damage_dice": 1
+          },
+          "DAMAGE_HEAVY": {
+            "damage": 9,
+            "passenger_damage": "OD6S.PASSENGER_HALF_DAMAGE",
+            "passenger_damage_dice": 3
+          },
+          "DAMAGE_SEVERE": {
+            "damage": 13,
+            "passenger_damage": "OD6S.PASSENGER_THREE_QUARTERS_DAMAGE",
+            "passenger_damage_dice": 6
+          },
+          "DAMAGE_DESTROYED": {
+            "damage": 16,
+            "passenger_damage": "OD6S.PASSENGER_FULL_DAMAGE",
+            "passenger_damage_dice": 12
+          }
+        }
+      },
+      "vehicle_speeds": {
+        "stopped": {
+          "name": "OD6S.VEHICLE_SPEED_STOPPED",
+          "damage": 6,
+          "mod": 0
+        },
+        "cautious": {
+          "name": "OD6S.VEHICLE_SPEED_CAUTIOUS",
+          "damage": 12,
+          "mod": 0
+        },
+        "cruise": {
+          "name": "OD6S.VEHICLE_SPEED_CRUISE",
+          "damage": 18,
+          "mod": 0
+        },
+        "high": {
+          "name": "OD6S.VEHICLE_SPEED_HIGH",
+          "damage": 24,
+          "mod": 5
+        },
+        "all_out": {
+          "name": "OD6S.VEHICLE_SPEED_ALL_OUT",
+          "damage": 30,
+          "mod": 10
+        }
+      },
+      "collision_types": {
+        "head_on": {
+          "name": "OD6S.VEHICLE_HEAD_ON",
+          "score": 9
+        },
+        "sidewipe": {
+          "name": "OD6S.VEHICLE_SIDESWIPE",
+          "score": -9
+        },
+        "rear_end": {
+          "name": "OD6S.VEHICLE_REAR_END",
+          "score": -9
+        },
+        "t_bone": {
+          "name": "OD6S.VEHICLE_T_BONE",
+          "score": 0
+        }
+      },
+      "weaponTypes": [
+        "OD6S.RANGED",
+        "OD6S.MELEE",
+        "OD6S.MISSILE",
+        "OD6S.THROWN",
+        "OD6S.EXPLOSIVE"
+      ],
+      "meleeDifficulties": [
+        "OD6S.DIFFICULTY_VERY_EASY",
+        "OD6S.DIFFICULTY_EASY",
+        "OD6S.DIFFICULTY_MODERATE",
+        "OD6S.DIFFICULTY_DIFFICULT",
+        "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "OD6S.DIFFICULTY_HEROIC"
+      ],
+      "actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_RANGED_ATTACK",
+          "type": "rangedattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "",
+          "subtype": "rangedattack"
+        },
+        "melee_attack": {
+          "name": "OD6S.ACTION_MELEE_ATTACK",
+          "type": "meleeattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Melee Combat",
+          "subtype": "meleeattack"
+        },
+        "brawl_attack": {
+          "name": "OD6S.ACTION_BRAWL_ATTACK",
+          "type": "brawlattack",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Brawling",
+          "subtype": "brawlattack"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_DODGE",
+          "type": "dodge",
+          "rollable": true,
+          "base": "agi",
+          "skill": "Dodge",
+          "subtype": "dodge"
+        },
+        "parry": {
+          "name": "OD6S.ACTION_PARRY",
+          "type": "parry",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.MELEE_PARRY",
+          "subtype": "parry"
+        },
+        "block": {
+          "name": "OD6S.BRAWLING_PARRY",
+          "type": "block",
+          "rollable": true,
+          "base": "agi",
+          "skill": "OD6S.BRAWLING_PARRY",
+          "subtype": "block"
+        },
+        "other": {
+          "name": "OD6S.ACTION_OTHER",
+          "type": "action",
+          "rollable": false,
+          "subtype": "misc"
+        }
+      },
+      "vehicle_actions": {
+        "ranged_attack": {
+          "name": "OD6S.ACTION_VEHICLE_RANGED_ATTACK",
+          "type": "vehiclerangedattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "ram": {
+          "name": "OD6S.ACTION_VEHICLE_RAM",
+          "type": "vehicleramattack",
+          "rollable": true,
+          "base": "mec"
+        },
+        "dodge": {
+          "name": "OD6S.ACTION_VEHICLE_DODGE",
+          "type": "vehicledodge",
+          "rollable": true,
+          "base": "mec"
+        },
+        "maneuver": {
+          "name": "OD6S.ACTION_VEHICLE_MANEUVER",
+          "type": "vehiclemaneuver",
+          "rollable": true,
+          "base": "mec"
+        },
+        "sensors": {
+          "name": "OD6S.ACTION_VEHICLE_SENSORS",
+          "type": "vehiclesensors",
+          "base": "mec",
+          "skill": "OD6S.SENSORS",
+          "rollable": true
+        },
+        "other": {
+          "name": "OD6S.ACTION_VEHICLE_OTHER",
+          "type": "action",
+          "rollable": false
+        }
+      },
+      "difficulty": {
+        "OD6S": {
+          "DIFFICULTY_UNKNOWN": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_CUSTOM": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_AUTOMATIC": {
+            "min": 0,
+            "max": 0
+          },
+          "DIFFICULTY_VERY_EASY": {
+            "min": 1,
+            "max": 5
+          },
+          "DIFFICULTY_EASY": {
+            "min": 6,
+            "max": 10
+          },
+          "DIFFICULTY_MODERATE": {
+            "min": 11,
+            "max": 15
+          },
+          "DIFFICULTY_DIFFICULT": {
+            "min": 16,
+            "max": 20
+          },
+          "DIFFICULTY_VERY_DIFFICULT": {
+            "min": 21,
+            "max": 25
+          },
+          "DIFFICULTY_HEROIC": {
+            "min": 26,
+            "max": 30
+          },
+          "DIFFICULTY_LEGENDARY": {
+            "min": 31,
+            "max": 40
+          }
+        }
+      },
+      "difficultyShort": {
+        "VE": "OD6S.DIFFICULTY_VERY_EASY",
+        "E": "OD6S.DIFFICULTY_EASY",
+        "M": "OD6S.DIFFICULTY_MODERATE",
+        "D": "OD6S.DIFFICULTY_DIFFICULT",
+        "VD": "OD6S.DIFFICULTY_VERY_DIFFICULT",
+        "H": "OD6S.DIFFICULTY_HEROIC",
+        "L": "OD6S.DIFFICULTY_LEGENDARY"
+      },
+      "terrain_difficulty": {
+        "OD6S": {
+          "TERRAIN_EASY": {
+            "mod": 0
+          },
+          "TERRAIN_MODERATE": {
+            "mod": 5
+          },
+          "TERRAIN_ROUGH": {
+            "mod": 10
+          },
+          "TERRAIN_VERY_ROUGH": {
+            "mod": 15
+          },
+          "TERRAIN_HAZARDOUS": {
+            "mod": 20
+          },
+          "TERRAIN_VERY_HAZARDOUS": {
+            "mod": 25
+          }
+        }
+      },
+      "result": {
+        "OD6S": {
+          "FAILURE": {
+            "description": "OD6S.FAILURE",
+            "difference": -1
+          },
+          "RESULT_MINIMAL": {
+            "description": "OD6S.RESULT_MINIMAL_DESCRIPTION",
+            "difference": 0
+          },
+          "RESULT_SOLID": {
+            "description": "OD6S.RESULT_SOLID_DESCRIPTION",
+            "difference": 1
+          },
+          "RESULT_GOOD": {
+            "description": "OD6S.RESULT_GOOD_DESCRIPTION",
+            "difference": 5
+          },
+          "RESULT_SUPERIOR": {
+            "description": "OD6S.RESULT_SUPERIOR_DESCRIPTION",
+            "difference": 9
+          },
+          "RESULT_SPECTACULAR": {
+            "description": "OD6S.RESULT_SPECTACULAR_DESCRIPTION",
+            "difference": 13
+          },
+          "RESULT_INCREDIBLE": {
+            "description": "OD6S.RESULT_INCREDIBLE_DESCRIPTION",
+            "difference": 16
+          }
+        }
+      },
+      "cover": {
+        "OD6S": {
+          "COVER_SMOKE": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_LIGHT_SMOKE": {
+                "modifier": 3
+              },
+              "COVER_THICK_SMOKE": {
+                "modifier": 6
+              },
+              "COVER_VERY_THICK_SMOKE": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER_LIGHT": {
+            "OD6S": {
+              "COVER_LIGHT_NONE": {
+                "modifier": 0
+              },
+              "COVER_POOR_LIGHT": {
+                "modifier": 3
+              },
+              "COVER_MOONLIGHT_NIGHT": {
+                "modifier": 6
+              },
+              "COVER_COMPLETE_DARKNESS": {
+                "modifier": 12
+              }
+            }
+          },
+          "COVER": {
+            "OD6S": {
+              "NONE": {
+                "modifier": 0
+              },
+              "COVER_QUARTER": {
+                "modifier": 3
+              },
+              "COVER_HALF": {
+                "modifier": 6
+              },
+              "COVER_THREE_QUARTERS": {
+                "modifier": 12
+              },
+              "COVER_FULL": {
+                "modifier": 0
+              }
+            }
+          }
+        }
+      },
+      "calledShot": {
+        "OD6S": {
+          "CALLED_SHOT_NONE": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_LARGE": {
+            "modifier": 3,
+            "damage": 0
+          },
+          "CALLED_SHOT_MEDIUM": {
+            "modifier": 12,
+            "damage": 0
+          },
+          "CALLED_SHOT_SMALL": {
+            "modifier": 24,
+            "damage": 0
+          },
+          "CALLED_SHOT_HEAD": {
+            "modifier": 5,
+            "damage": 12
+          },
+          "CALLED_SHOT_HEART": {
+            "modifier": 15,
+            "damage": 12
+          },
+          "CALLED_SHOT_TORSO": {
+            "modifier": 0,
+            "damage": 0
+          },
+          "CALLED_SHOT_ARM": {
+            "modifier": 5,
+            "damage": -2
+          },
+          "CALLED_SHOT_LEG": {
+            "modifier": 5,
+            "damage": -1
+          },
+          "CALLED_SHOT_HAND": {
+            "modifier": 15,
+            "damage": -2
+          }
+        }
+      },
+      "gravity": {
+        "OD6S": {
+          "GRAVITY_STANDARD": {
+            "modifier": 0
+          },
+          "GRAVITY_LOW": {
+            "modifier": -3
+          },
+          "GRAVITY_NONE": {
+            "modifier": -6
+          },
+          "GRAVITY_HEAVY": {
+            "modifier": 9
+          }
+        }
+      },
+      "misc": {
+        "OD6S": {
+          "MISC": {
+            "modifier": 0
+          }
+        }
+      },
+      "rangedAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_RANGED_SINGLE_FIRE_AS_MULTI": {
+            "attack": -3,
+            "damage": 3,
+            "multi": true
+          },
+          "ATTACK_RANGED_FULL_AUTO": {
+            "attack": -6,
+            "damage": 6,
+            "multi": false
+          },
+          "ATTACK_RANGED_SWEEP": {
+            "attack": -6,
+            "damage": -9,
+            "multu": false
+          },
+          "ATTACK_RANGED_BURST_FIRE_AS_SINGLE": {
+            "attack": 0,
+            "damage": -6,
+            "multi": false
+          }
+        }
+      },
+      "meleeAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "brawlAttackOptions": {
+        "OD6S": {
+          "ATTACK_STANDARD": {
+            "attack": 0,
+            "damage": 0,
+            "multi": false
+          },
+          "ATTACK_ALL_OUT": {
+            "attack": -6,
+            "damage": 3
+          },
+          "ATTACK_GRAB": {
+            "attack": 9,
+            "damage": 0
+          },
+          "ATTACK_LUNGE": {
+            "attack": 3,
+            "damage": -3
+          },
+          "ATTACK_KNOCKDOWN_TRIP": {
+            "attack": 6,
+            "damage": 0
+          },
+          "ATTACK_PUSH": {
+            "attack": 3,
+            "damage": 0
+          },
+          "ATTACK_SWEEP": {
+            "attack": -6,
+            "damage": -9
+          },
+          "ATTACK_TACKLE": {
+            "attack": 3,
+            "damage": 0
+          }
+        }
+      },
+      "attributes": {
+        "agi": {
+          "name": "Dexterity",
+          "shortName": "DEX"
+        },
+        "str": {
+          "name": "Strength",
+          "shortName": "STR"
+        },
+        "mec": {
+          "name": "Mechanical",
+          "shortName": "MEC"
+        },
+        "kno": {
+          "name": "Knowledge",
+          "shortName": "KNO"
+        },
+        "per": {
+          "name": "Perception",
+          "shortName": "PER"
+        },
+        "tec": {
+          "name": "Technical",
+          "shortName": "TEC"
+        },
+        "met": {
+          "name": "The Force",
+          "shortName": "The Force"
+        }
+      },
+      "ranges": {
+        "OD6S": {
+          "RANGE_POINT_BLANK_SHORT": {
+            "name": "OD6S.RANGE_POINT_BLANK",
+            "difficulty": -5,
+            "map": "OD6S.DIFFICULTY_VERY_EASY"
+          },
+          "RANGE_SHORT_SHORT": {
+            "name": "OD6S.RANGE_SHORT",
+            "difficulty": 0,
+            "map": "OD6S.DIFFICULTY_EASY"
+          },
+          "RANGE_MEDIUM_SHORT": {
+            "name": "OD6S.RANGE_MEDIUM",
+            "difficulty": 5,
+            "map": "OD6S.DIFFICULTY_MODERATE"
+          },
+          "RANGE_LONG_SHORT": {
+            "name": "OD6S.RANGE_LONG",
+            "difficulty": 10,
+            "map": "OD6S.DIFFICULTY_DIFFICULT"
+          }
+        }
+      },
+      "damageTypes": {
+        "p": "OD6S.PHYSICAL",
+        "e": "OD6S.ENERGY"
+      },
+      "cyberneticsLocations": [
+        "OD6S.HEAD",
+        "OD6S.RIGHT_ARM",
+        "OD6S.LEFT_ARM",
+        "OD6S.BODY",
+        "OD6S.RIGHT_LEG",
+        "OD6S.LEFT_LEG"
+      ],
+      "allowedItemTypes": {
+        "container": [
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ],
+        "character": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "character-template",
+          "species-template"
+        ],
+        "npc": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "species-template"
+        ],
+        "creature": [
+          "skill",
+          "specialization",
+          "advantage",
+          "disadvantage",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic"
+        ],
+        "vehicle": [
+          "vehicle-weapon",
+          "vehicle-gear"
+        ],
+        "starship": [
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "actorTypeLabels": {
+        "character": "ACTOR.TypeCharacter",
+        "creature": "ACTOR.TypeCreature",
+        "npc": "ACTOR.TypeNpc",
+        "starship": "ACTOR.TypeStarship",
+        "vehicle": "ACTOR.TypeVehicle"
+      },
+      "templateItemTypes": {
+        "character-template": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation"
+        ],
+        "species-template": [
+          "specialability"
+        ],
+        "item-group": [
+          "skill",
+          "specialability",
+          "armor",
+          "weapon",
+          "gear",
+          "cybernetic",
+          "manifestation",
+          "vehicle-weapon",
+          "vehicle-gear",
+          "starship-weapon",
+          "starship-gear"
+        ]
+      },
+      "itemLabels": {
+        "skill": "OD6S.SKILL",
+        "specialization": "OD6S.SPECIALIZATION",
+        "advantage": "OD6S.ADVANTAGE",
+        "disadvantage": "OD6S.DISADVANTAGE",
+        "specialability": "OD6S.SPECIAL_ABILITY",
+        "armor": "OD6S.ARMOR",
+        "weapon": "OD6S.WEAPON",
+        "gear": "OD6S.GEAR",
+        "cybernetic": "OD6S.CYBERNETICS",
+        "vehicle": "OD6S.VEHICLE",
+        "manifestation": "OD6S.MANIFESTATION",
+        "character-template": "OD6S.CHARACTER_TEMPLATE",
+        "action": "OD6S.ACTION",
+        "species-template": "ITEM.TypeSpecies-template",
+        "starship-gear": "ITEM.TypeStarship-gear",
+        "starship-weapon": "ITEM.TypeStarship-weapon",
+        "vehicle-gear": "ITEM.TypeVehicle-gear",
+        "vehicle-weapon": "ITEM.TypeVehicle-weapon"
+      },
+      "chatTemplates": {
+        "generic": "systems/od6s/templates/chat/generic.html",
+        "roll": "systems/od6s/templates/chat/roll.html",
+        "opposed": "systems/od6s/templates/chat/opposed.html",
+        "damageresult": "systems/od6s/templates/chat/damageresult.html"
+      },
+      "data_tab": {
+        "defense": {
+          "dodge": "OD6S.DODGE",
+          "parry": "OD6S.PARRY",
+          "block": "OD6S.BLOCK"
+        },
+        "offense": {
+          "ranged": "OD6S.RANGED",
+          "melee": "OD6S.MELEE",
+          "brawl": "OD6S.BRAWL"
+        }
+      },
+      "statusEffects": [
+        {
+          "id": "dead",
+          "label": "EFFECT.StatusDead",
+          "icon": "icons/svg/skull.svg"
+        },
+        {
+          "id": "unconscious",
+          "label": "EFFECT.StatusUnconscious",
+          "icon": "icons/svg/unconscious.svg"
+        },
+        {
+          "id": "sleep",
+          "label": "EFFECT.StatusAsleep",
+          "icon": "icons/svg/sleep.svg"
+        },
+        {
+          "id": "stun",
+          "label": "EFFECT.StatusStunned",
+          "icon": "icons/svg/daze.svg"
+        },
+        {
+          "id": "prone",
+          "label": "EFFECT.StatusProne",
+          "icon": "icons/svg/falling.svg"
+        },
+        {
+          "id": "restrain",
+          "label": "EFFECT.StatusRestrained",
+          "icon": "icons/svg/net.svg"
+        },
+        {
+          "id": "paralysis",
+          "label": "EFFECT.StatusParalysis",
+          "icon": "icons/svg/paralysis.svg"
+        },
+        {
+          "id": "fly",
+          "label": "EFFECT.StatusFlying",
+          "icon": "icons/svg/wing.svg"
+        },
+        {
+          "id": "blind",
+          "label": "EFFECT.StatusBlind",
+          "icon": "icons/svg/blind.svg"
+        },
+        {
+          "id": "deaf",
+          "label": "EFFECT.StatusDeaf",
+          "icon": "icons/svg/deaf.svg"
+        },
+        {
+          "id": "silence",
+          "label": "EFFECT.StatusSilenced",
+          "icon": "icons/svg/silenced.svg"
+        },
+        {
+          "id": "fear",
+          "label": "EFFECT.StatusFear",
+          "icon": "icons/svg/terror.svg"
+        },
+        {
+          "id": "burning",
+          "label": "EFFECT.StatusBurning",
+          "icon": "icons/svg/fire.svg"
+        },
+        {
+          "id": "frozen",
+          "label": "EFFECT.StatusFrozen",
+          "icon": "icons/svg/frozen.svg"
+        },
+        {
+          "id": "shock",
+          "label": "EFFECT.StatusShocked",
+          "icon": "icons/svg/lightning.svg"
+        },
+        {
+          "id": "bleeding",
+          "label": "EFFECT.StatusBleeding",
+          "icon": "icons/svg/blood.svg"
+        },
+        {
+          "id": "disease",
+          "label": "EFFECT.StatusDisease",
+          "icon": "icons/svg/biohazard.svg"
+        },
+        {
+          "id": "poison",
+          "label": "EFFECT.StatusPoison",
+          "icon": "icons/svg/poison.svg"
+        },
+        {
+          "id": "radiation",
+          "label": "EFFECT.StatusRadiation",
+          "icon": "icons/svg/radiation.svg"
+        },
+        {
+          "id": "upgrade",
+          "label": "EFFECT.StatusUpgrade",
+          "icon": "icons/svg/upgrade.svg"
+        },
+        {
+          "id": "downgrade",
+          "label": "EFFECT.StatusDowngrade",
+          "icon": "icons/svg/downgrade.svg"
+        },
+        {
+          "id": "target",
+          "label": "EFFECT.StatusTarget",
+          "icon": "icons/svg/target.svg"
+        }
+      ],
+      "hitLocations": {
+        "0": "OD6S.LOCATION_RIGHT_HAND",
+        "1": "OD6S.LOCATION_LEFT_HAND",
+        "2": "OD6S.LOCATION_RIGHT_LEG",
+        "3": "OD6S.LOCATION_RIGHT_FOOT",
+        "4": "OD6S.LOCATION_LEFT_LEG",
+        "5": "OD6S.LOCATION_LEFT_FOOT",
+        "6": "OD6S.LOCATION_ABDOMEN",
+        "7": "OD6S.LOCATION_CHEST",
+        "8": "OD6S.LOCATION_CHEST",
+        "9": "OD6S.LOCATION_HEAD"
+      },
+      "manifestationName": "Force Power",
+      "starshipToughnessName": "Hull",
+      "interstellarDriveName": "Hypderdrive"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2Nzm7UZa6Pe98ULo"
+    },
+    "scene-packer": {
+      "hash": "c8fb1dfcb4daf0c43a7edf29075e98263094a1fc",
+      "sourceId": "Item.2Nzm7UZa6Pe98ULo"
+    }
+  },
+  "_key": "!items!2Nzm7UZa6Pe98ULo"
+}

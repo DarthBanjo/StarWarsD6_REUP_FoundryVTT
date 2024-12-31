@@ -1,0 +1,31 @@
+{
+  "_id": "cKKqq3P0r4n3pbWe",
+  "name": "Cultures",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_cultures.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Planet or social group &mdash; </span><span class=\"fontstyle0\">Corellians, Alderaan royal family, Brentaal, Prexian pirates</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects knowledge of particular cultures and common cultural forms (primitive tribal civilizations tend to be somewhat similar, for example). </span><span class=\"fontstyle0\">Cultures </span><span class=\"fontstyle2\">allows a character to determine how he is expected to behave in a particular situation among a certain group of individuals.</span></p>\n<p><span class=\"fontstyle2\">The more obscure the information or culture, the higher the difficulty. Cultural knowledge includes information about a certain group&rsquo;s art, history, politics, customs, rites of passage, and views on outsiders. For instance, a visitor to Tatooine might make a </span><span class=\"fontstyle0\">cultures </span><span class=\"fontstyle2\">roll to better understand the moisture farmers he&rsquo;s dealing with. Depending on what the player asks about this culture, he could learn the moisture farmers depend heavily on droids, they often trade with&nbsp; roaming bands of Jawa scavengers, and their calendar revolves around<br />planting and harvesting seasons. </span></p>\n<p><span class=\"fontstyle2\">This skill can be used for cultures of one&rsquo;s own species or for those of other species.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to one day or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!cKKqq3P0r4n3pbWe"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "8bV9gT7yV5BvB5u7",
+  "name": "15,000 credit debt to a criminal moneylender",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ce8c4d56bec72a05bfc099650cab2104bdb0659f",
+      "sourceId": "Item.8bV9gT7yV5BvB5u7"
+    }
+  },
+  "_key": "!items!8bV9gT7yV5BvB5u7"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "55O0tfZUACZcgaWU",
+  "name": "Comlink, Vehicle",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/com_veh.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A personal communications transceiver, the comlink consists of a receiver, a transmitter, and a power source. Comlinks come in a variety of shapes and styles. Comlinks can be adjusted to broadcast on countless different frequencies, and there are literally thousands of encryption modules available to ensure secure communications.&nbsp;</span></p>\n<p><em><span class=\"fontstyle0\">A </span></em><span class=\"fontstyle2\"><em>long-range comlink</em> </span><span class=\"fontstyle0\">has a range of 200 kilometers or high orbit, and it requires with a backpack-sized com set and are often found in vehicles. For double the cost, a long-range comlink can be miniaturized to a wrist-sized unit.</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Vehicle/High-power backpack multi-signal comset</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Communications</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">250</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">200 kilometers surface range, surface-to-orbit in all weather.</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">This comset must be installed in a vehicle, or worn as a backpack.</span></p>\n<p><strong>Additional Notes:</strong></p>\n<ul>\n<li><strong>Encryption:&nbsp;</strong><span class=\"fontstyle2\">A comlink can have hardwired encryption routines for<em>&nbsp;</em></span><em>ten times&nbsp;</em><span class=\"fontstyle2\">the base cost. Encryption technology requires a Heroic&nbsp;</span><em>communications&nbsp;</em><span class=\"fontstyle2\">roll to decrypt if intercepted. Encrypted comlinks also create a tiny field of white noise around the device and whoever holds it, making it difficult to overhear what is said into the unit (-2D&nbsp;</span><em>search&nbsp;</em><span class=\"fontstyle2\">penalty to overhear) or sounds coming out of it (-3D&nbsp;</span><span class=\"fontstyle3\">search&nbsp;</span><span class=\"fontstyle2\">penalty).</span></li>\n<li><strong>Video Capability:&nbsp;</strong><span class=\"fontstyle2\">A comlink can have video capability (two dimensional images with audio) for&nbsp;</span><span class=\"fontstyle3\"><em>twice</em>&nbsp;</span><span class=\"fontstyle2\">the base cost.</span></li>\n<li><strong>Holo Capability:&nbsp;</strong><span class=\"fontstyle2\">A comlink can have holo capability for<em>&nbsp;</em></span><em>five times&nbsp;</em><span class=\"fontstyle2\">the base cost. This comlink is able to receive and send holographic images (three-dimensional images in addition to<br />audio), it can even receive (though not send) HoloNet transmissions. Another feature is the ability to match a recorded holographic image with the sender&rsquo;s live audio. When this feature is used, the sender&rsquo;s visual image is replaced by a recorded hologram (of him or another person), which moves to match the sender&rsquo;s speech. Detecting that the image does not exactly<br />match the spoken message is a Difficult&nbsp;</span><em>search&nbsp;</em><span class=\"fontstyle2\">task.</span></li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "cost": 250,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.55O0tfZUACZcgaWU"
+    }
+  },
+  "_key": "!items!55O0tfZUACZcgaWU"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "wb5QyQwtB7OaJ8bu",
+  "name": "Force Harmony",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_forceharmony.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Difficult, modified by proximity</p>\n<p><strong>Sense Difficulty: </strong>Difficult, modified by relationship</p>\n<p><strong>Alter Difficulty:</strong> Moderate</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Life Detection,&nbsp;Life Sense,&nbsp;Projective Telepathy,&nbsp;Receptive Telepathy</em></p>\n<p><em>This power can be kept &ldquo;up.&rdquo;</em></p>\n<p><strong>Effect: </strong>This allows several willing Jedi to manifest the power of the Light Side. As long as this power is held up, it bathes the users in the celestial illumination that is the Light Side. It can act as a shield against the powers of the Dark Side, giving an extra 5D for each Force user involved to resist the effects of powers called upon by Dark Side servants.</p>\n<p>When acting as a shield against the Dark Side, if both the&nbsp;<em>control&nbsp;</em>and&nbsp;<em>sense&nbsp;</em>rolls exceed the success roll of the Dark Side power used (if he power requires multiple skill rolls, the highest roll), then the Dark Side power is interrupted. All &ldquo;up&rdquo; powers are interrupted as if the user were stunned. It does not cancel out the presence of the Dark Side, but can distract its servants and make their actions more difficult.</p>\n<p><strong>Note: </strong>+5D may appear to be an immense bonus, but since this power must be kept up, the Jedi calling upon the power is suffering a 2D penalty simply for calling upon this power. One can only link as many Force users as the initiator of the power has <em>control </em>or <em>sense </em>dice, whichever skill is lower.</p>\n<p>For example, if Leia used <em>Force harmony</em>, since her <em>control </em>is 5D+1 and her <em>sense </em>is 4D+2, she would only be able to link a total of four people (including herself).</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "I4WxVVPjHcuQ6hPk",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Force Harmony",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_forceharmony.svg",
+      "tint": null,
+      "_key": "!items.effects!wb5QyQwtB7OaJ8bu.I4WxVVPjHcuQ6hPk"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!wb5QyQwtB7OaJ8bu"
+}

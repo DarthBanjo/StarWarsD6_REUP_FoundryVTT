@@ -1,0 +1,37 @@
+{
+  "_id": "zeNL47MMS8R61PL0",
+  "name": "Two-season contract with local holovid studio",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-sealed-brown-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6ab700820c2b6633cd1af0e7c1c38298b1b3db9d",
+      "sourceId": "Item.zeNL47MMS8R61PL0"
+    }
+  },
+  "_key": "!items!zeNL47MMS8R61PL0"
+}

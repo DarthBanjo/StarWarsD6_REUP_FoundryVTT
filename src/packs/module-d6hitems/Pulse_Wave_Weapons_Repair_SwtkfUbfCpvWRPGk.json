@@ -1,0 +1,36 @@
+{
+  "_id": "SwtkfUbfCpvWRPGk",
+  "name": "Pulse-Wave Weapons Repair",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_blasterrepair.svg",
+  "data": {
+    "description": "<p><em>Specializations:&nbsp;Indicates a specific kind or model of Pulse-Wave &mdash; pulse-wave&nbsp;pistol, pulse-wave rifle.</em></p>\n<p>A character&rsquo;s ability to fix and modify any pulse-wave weapons is represented by this&nbsp;repair skill.</p>\n<p>Normally, only characters from early Republic time will know this skill.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized to circumstances.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    },
+    "scene-packer": {
+      "hash": "31ec27042e1a450e00fa14629078dce8d578ff0b",
+      "sourceId": "Item.SwtkfUbfCpvWRPGk",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!SwtkfUbfCpvWRPGk"
+}

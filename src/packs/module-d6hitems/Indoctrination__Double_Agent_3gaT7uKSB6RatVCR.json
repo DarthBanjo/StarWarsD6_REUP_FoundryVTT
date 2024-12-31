@@ -1,0 +1,26 @@
+{
+  "_id": "3gaT7uKSB6RatVCR",
+  "name": "Indoctrination, Double Agent",
+  "type": "specialability",
+  "img": "icons/skills/social/diplomacy-handshake-gray.webp",
+  "data": {
+    "description": "<p>At the time of character creation and with the gamemaster's approval&nbsp;only,&nbsp;you receive an additional 2D to allocate to one&nbsp;<em>Mechanical</em>, <em>Technical&nbsp;</em>or&nbsp;<em>Knowledge&nbsp;</em>skill that fits your current cover assignment.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "87d674544a7cfdce3372f4ed8b3f5a5a6583e16e",
+      "sourceId": "Item.NgtJkkUYQQpXjgVY"
+    }
+  },
+  "_key": "!items!3gaT7uKSB6RatVCR"
+}

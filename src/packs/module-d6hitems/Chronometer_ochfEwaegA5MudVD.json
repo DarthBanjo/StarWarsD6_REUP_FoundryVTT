@@ -1,0 +1,37 @@
+{
+  "_id": "ochfEwaegA5MudVD",
+  "name": "Chronometer",
+  "type": "gear",
+  "img": "icons/commodities/tech/watch.webp",
+  "data": {
+    "description": "<p>Alliance Agitator</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "edede5dc4d8058bbfda884e1b85f34bb2eafc6fd",
+      "sourceId": "Item.ochfEwaegA5MudVD"
+    }
+  },
+  "_key": "!items!ochfEwaegA5MudVD"
+}

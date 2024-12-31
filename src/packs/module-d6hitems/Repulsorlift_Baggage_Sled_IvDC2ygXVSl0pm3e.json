@@ -1,0 +1,37 @@
+{
+  "_id": "IvDC2ygXVSl0pm3e",
+  "name": "Repulsorlift Baggage Sled",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_repulsorsled.webp",
+  "data": {
+    "description": "<p><strong>Model:&nbsp;</strong>Falkenharn Repulsors Mark V14 Baggage Handler<br /><strong>Type:&nbsp;</strong>Personal repulsor conveyor<br /><strong>Cost:&nbsp;</strong>250, 50 (infrared guide stick)<br /><strong>Availability:</strong>&nbsp;2<br /><strong>Game Notes:&nbsp;</strong>When fully extended and locked into place, the carrier is 1.75 meters long, 80 centimeters wide and 65 centimeters tall. Left and right sections are hinged and can be folded back for storage. Manual steering handle (removable) and lift control studs are located at each end. Three miniaturized repulsor inducers and inertia dampeners are located along bottom surface layers and covered by a protective grill. When fully charged, this carrier provides continuous lift for 100 standard hours. Flotation height distance is adjustable to 1.8 meters. An optional infrared guide stick allows for hands-off control of the carrier within an effective range of 10 meters.<br /><strong>Source:</strong>&nbsp;Galladinium&rsquo;s Fantastic Technology (page 64)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 250,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3e6b9a31f95b93303e89f7a1bb1e3a41495fa304",
+      "sourceId": "Item.IvDC2ygXVSl0pm3e"
+    }
+  },
+  "_key": "!items!IvDC2ygXVSl0pm3e"
+}

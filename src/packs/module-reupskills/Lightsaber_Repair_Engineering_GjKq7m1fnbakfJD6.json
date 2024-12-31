@@ -1,0 +1,31 @@
+{
+  "_id": "GjKq7m1fnbakfJD6",
+  "name": "Lightsaber Repair/Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_lightsaberrepair.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specific type or model lightsaber &mdash; </span><span class=\"fontstyle2\">double-bladed lightsaber, light-whip.</span></em></p>\n<p><span class=\"fontstyle0\">Characters use this skill when repairing, modifying, or building a lightsaber, the weapon of the Jedi. This skill is generally restricted to Jedi Knights who learned it from their master. </span><span class=\"fontstyle2\">Lightsaber repair/engineering </span><span class=\"fontstyle0\">combines the repair and design skills into one, due to the special nature of the skill. The cost and difficulty to repair equipment depends upon how badly it is damaged &mdash; see &ldquo;Weapons&rdquo; in &ldquo;Using Repair Skills&rdquo; above.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Lightsaber Construction: </span></strong><span class=\"fontstyle2\">To construct a Iightsaber from its basic components parts takes a minimum of one month and requires a successful lightsaber repair roll against a Very Difficult difficulty. </span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">Decrease the difficulty by one level for each extra month spent building the saber, to a minimum of Easy. Jedi characters may adjust a Iightsaber&rsquo;s base damage die code through modifications (as indicated in the &ldquo;Improving Vehicles, Vessels, and Weapons&rdquo; section). Characters rely on their </span><span class=\"fontstyle3\">lightsaber repair/engineering </span><span class=\"fontstyle2\">skill to make such improvements.</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">Note that </span><span class=\"fontstyle3\">lightsaber repair/engineering </span><span class=\"fontstyle2\">is not an advanced skill, however it should be judiciously governed by the gamemaster and generally used only by Jedi characters.</span></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. Construction takes approximately one month.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!GjKq7m1fnbakfJD6"
+}

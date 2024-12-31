@@ -1,0 +1,37 @@
+{
+  "_id": "daxNOkjldmc1aWbe",
+  "name": "Flashy flight jacket",
+  "type": "gear",
+  "img": "icons/equipment/chest/robe-layered-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4affbe83ba3ae470f80d0d9466e5bbe55c7e7db2",
+      "sourceId": "Item.daxNOkjldmc1aWbe"
+    }
+  },
+  "_key": "!items!daxNOkjldmc1aWbe"
+}

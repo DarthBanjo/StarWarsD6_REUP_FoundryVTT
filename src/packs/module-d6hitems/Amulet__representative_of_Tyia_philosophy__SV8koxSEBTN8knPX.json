@@ -1,0 +1,37 @@
+{
+  "_id": "SV8koxSEBTN8knPX",
+  "name": "Amulet (representative of Tyia philosophy)",
+  "type": "gear",
+  "img": "icons/equipment/neck/necklace-simple-leaves.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9bd16938c218214ca0f6597f2c6d1590c98e60fd",
+      "sourceId": "Item.SV8koxSEBTN8knPX"
+    }
+  },
+  "_key": "!items!SV8koxSEBTN8knPX"
+}

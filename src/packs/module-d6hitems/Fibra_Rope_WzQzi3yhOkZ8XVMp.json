@@ -1,0 +1,41 @@
+{
+  "_id": "WzQzi3yhOkZ8XVMp",
+  "name": "Fibra-Rope",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/syntherope.webp",
+  "data": {
+    "description": "<p><strong>Fibra-Rope</strong><br /><strong>Model:&nbsp;</strong>Standard fibra-rope<br /><strong>Cost:&nbsp;</strong>10 per 25 meters<br /><strong>Availability:&nbsp;</strong>1<br /><strong>Game Notes:&nbsp;</strong>Can resist up to 750 kilograms of force before breaking.<br /><strong>Source:&nbsp;</strong>Gundark&rsquo;s Fantastic Technology (page 76), Tales of the Jedi Companion (page 122)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 20,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Gb9zJDP0bjh15c1N"
+    },
+    "scene-packer": {
+      "hash": "96c4a61d6aaa98d258632e4fbd863412456530c4",
+      "sourceId": "Item.WzQzi3yhOkZ8XVMp",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!WzQzi3yhOkZ8XVMp"
+}

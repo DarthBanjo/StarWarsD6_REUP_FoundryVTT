@@ -1,0 +1,36 @@
+{
+  "_id": "TkeeiLnWCusHgRLj",
+  "name": "Holster",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/holster.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Holsters are generally available for smaller weapons. (Larger weapons are carried on shoulder straps or other convalescences that cost as a hip holster.) A holster for a melee weapon is usually called a sheath.</span><span class=\"fontstyle0\"><br /></span></p>\n<p><span class=\"fontstyle6\"><strong>Type:</strong> </span><span class=\"fontstyle7\">Typical weapon holster</span></p>\n<p><span class=\"fontstyle6\"><strong>Scale:</strong> </span><span class=\"fontstyle7\">Character</span></p>\n<p><strong><span class=\"fontstyle6\">Cost: </span></strong><span class=\"fontstyle7\">25 (Hip), 50 (Concealed)</span></p>\n<p><strong><span class=\"fontstyle6\">Availability: </span></strong><span class=\"fontstyle7\">1</span></p>\n<p><span class=\"fontstyle2\"><strong>Hip Holster:</strong>&nbsp;</span><span class=\"fontstyle0\">This holster holds the weapon in an easily accessed-and easily seen-location.</span></p>\n<p><span class=\"fontstyle2\"><strong>Concealed Holster:</strong>&nbsp;</span><span class=\"fontstyle0\">A concealed holster is designed to help keep a weapon out of sight. In most cases, this is a shoulder holster (the weapon fits under the wearer&rsquo;s armpit, presumably beneath a jacket, vest, or cloak). Small weapons and single-bladed lightsabers can be carried in concealed waistband holsters (often placed inside the wearer&rsquo;s waistband in the small of the back), or carried in ankle, boot, or wrist holsters. </span></p>\n<p><span class=\"fontstyle0\">A concealed holster requires an Easy&nbsp;</span><em><span class=\"fontstyle3\">Dexterity&nbsp;</span></em><span class=\"fontstyle0\">skill roll to draw the weapon, this is considered an action.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.TkeeiLnWCusHgRLj"
+    }
+  },
+  "_key": "!items!TkeeiLnWCusHgRLj"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "GcizPjLBZv1tWbLP",
+  "name": "Lucky Hydrospanner",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/tool_hydrospanner.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Tightens and loosen all forms of fasteners.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 50</p>\n<p><strong>Availability:</strong>&nbsp;1</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.5GD5CgQuqZX32o7V"
+    },
+    "scene-packer": {
+      "hash": "513661ceadd53574cbaee7de04f42cbe3ee1b9af",
+      "sourceId": "Item.GcizPjLBZv1tWbLP"
+    }
+  },
+  "_key": "!items!GcizPjLBZv1tWbLP"
+}

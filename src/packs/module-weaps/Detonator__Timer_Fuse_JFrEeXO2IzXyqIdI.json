@@ -1,0 +1,36 @@
+{
+  "_id": "JFrEeXO2IzXyqIdI",
+  "name": "Detonator, Timer Fuse",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBY/timer.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Sometimes a mission calls for the use of more powerful explosives than either grenades or thermal detonators. Set explosives aren&rsquo;t ranged weapons and can&rsquo;t be used like grenades. </span></p>\n<p><span class=\"fontstyle0\">When set and activated, the charge&rsquo;s timer begins counting down. Standard timers can be set with as much as an hour delay. Longer delays require specialized timers. </span></p>\n<p><span class=\"fontstyle0\">Explosive charges are highly restricted, usually only available to military or law enforcement specialists or specialized construction units. Han Solo and his strike team used proton grenade explosive charges to take out the shield generator on Endor in </span><span class=\"fontstyle2\">Episode VI: Return of the Jedi</span><span class=\"fontstyle0\">. </span></p>\n<p><span class=\"fontstyle0\">An explosive charge delivers a lot of destructive energy to a specific point, making it perfect for demolishing structures or clearing rubble. It causes negligible damage beyond its burst radius. Of course, collateral damage and subsequent explosions usually accompany the use of an explosive charge.</span></p>\n<p><span class=\"fontstyle0\"><strong>Cost:</strong> 50</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1, R</span></p>\n<p><span class=\"fontstyle2\">Note: User can set with Easy <em>demolitions</em> roll. Time can vary from seconds to hours to days.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.JFrEeXO2IzXyqIdI"
+    }
+  },
+  "_key": "!items!JFrEeXO2IzXyqIdI"
+}

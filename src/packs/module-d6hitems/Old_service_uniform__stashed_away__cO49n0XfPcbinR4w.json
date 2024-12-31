@@ -1,0 +1,37 @@
+{
+  "_id": "cO49n0XfPcbinR4w",
+  "name": "Old service uniform (stashed away)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/officer_army_2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "35cf8fbe42f1f3547859a415215d6dab0913cc43",
+      "sourceId": "Item.cO49n0XfPcbinR4w"
+    }
+  },
+  "_key": "!items!cO49n0XfPcbinR4w"
+}

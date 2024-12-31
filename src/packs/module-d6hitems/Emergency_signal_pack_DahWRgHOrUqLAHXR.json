@@ -1,0 +1,37 @@
+{
+  "_id": "DahWRgHOrUqLAHXR",
+  "name": "Emergency signal pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/plasmatorch.webp",
+  "data": {
+    "description": "<p>Flare/glowrod.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "5ff4e4c1e04101555eb4b604e45596dbd64251ec",
+      "sourceId": "Item.DahWRgHOrUqLAHXR"
+    }
+  },
+  "_key": "!items!DahWRgHOrUqLAHXR"
+}

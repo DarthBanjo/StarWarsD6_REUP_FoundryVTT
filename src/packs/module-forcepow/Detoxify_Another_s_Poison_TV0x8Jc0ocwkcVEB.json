@@ -1,0 +1,25 @@
+{
+  "_id": "TV0x8Jc0ocwkcVEB",
+  "name": "Detoxify Another's Poison",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_detoxanotherspoison.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Easy, modified by relationship.</p>\n<p><strong>Alter Difficulty:</strong></p>\n<ul>\n<li>Very Easy for a very mild poison (such as alcohol);</li>\n<li>Easy for a mild poison;</li>\n<li>Moderate for an average poison;</li>\n<li>Difficult for a virulent poison;</li>\n<li>Very Difficult to Heroic for a neurotoxin.</li>\n</ul>\n<p><strong>Required Powers:&nbsp;</strong><em>Accelerate Healing,&nbsp;Accelerate Another's Healing,&nbsp;Control Pain,&nbsp;Control Another's Pain,&nbsp;Detoxify Poison</em></p>\n<p><strong>Time to Use:&nbsp;</strong>Five minutes</p>\n<p><strong>Effect: </strong>T<span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">his power allows a Jedi to remove or detoxify poison from a patent&rsquo;s body faster than is normally possible. While using this power, the Jedi must remain in physical contact with the patient. As long as the Jedi is in contact with the target, that person is considered immune to the effects of the poison. Failure to make the required control and alter difficulty checks or breaking physical contact during the use of the power causes the patient a wound.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.TV0x8Jc0ocwkcVEB"
+    }
+  },
+  "_key": "!items!TV0x8Jc0ocwkcVEB"
+}

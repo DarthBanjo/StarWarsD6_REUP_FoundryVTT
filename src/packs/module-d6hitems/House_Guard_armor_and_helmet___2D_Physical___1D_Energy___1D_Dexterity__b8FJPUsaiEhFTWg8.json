@@ -1,0 +1,62 @@
+{
+  "_id": "b8FJPUsaiEhFTWg8",
+  "name": "House Guard armor and helmet (+2D Physical, +1D Energy, -1D Dexterity)",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/battlearmor2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Similar to regular battle armor, heavy battle armor features more plating than padding, including various pieces molded to fit the user, such as breastplates and armor covering the arms and legs.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Core World Arms Dura-Armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Impact-resistant molded armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Scale:</strong> </span><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">8,000</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">3</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Head, torso, arms, legs: +2D to all </span><span class=\"fontstyle6\">physical </span><span class=\"fontstyle5\">(non-energy) attacks; +2D to all </span><span class=\"fontstyle6\">energy </span><span class=\"fontstyle5\">attacks; -2D penalty to all </span><em><span class=\"fontstyle6\">Dexterity checks</span></em></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 8000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 6,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "4utMTp8z0ERxRaHj",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "House Guard Armor DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/battlearmor2.webp",
+      "tint": null,
+      "_key": "!items.effects!b8FJPUsaiEhFTWg8.4utMTp8z0ERxRaHj"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1n5mtGqscihUouf"
+    },
+    "scene-packer": {
+      "hash": "90f267a64e05a53bd4adf0547c43348034fd235b",
+      "sourceId": "Item.b8FJPUsaiEhFTWg8"
+    }
+  },
+  "_key": "!items!b8FJPUsaiEhFTWg8"
+}

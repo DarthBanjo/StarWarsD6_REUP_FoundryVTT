@@ -1,0 +1,37 @@
+{
+  "_id": "hO0bcgRQp9zptdwH",
+  "name": "Disguise Kit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_disguiseartist.webp",
+  "data": {
+    "description": "<p>(+1D to&nbsp;con&nbsp;for 3D hours when in disguise)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "788099747bddcac94567208b749508728d55a7e1",
+      "sourceId": "Item.hO0bcgRQp9zptdwH"
+    }
+  },
+  "_key": "!items!hO0bcgRQp9zptdwH"
+}

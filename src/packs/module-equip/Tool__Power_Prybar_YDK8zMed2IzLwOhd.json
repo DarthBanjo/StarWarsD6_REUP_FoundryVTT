@@ -1,0 +1,36 @@
+{
+  "_id": "YDK8zMed2IzLwOhd",
+  "name": "Tool, Power Prybar",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/tool_powerprybar.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">For forcing things open. When used to pry things up, open or apart, this tool adds +1D to +3D to the user's </span><em><span class=\"fontstyle2\">Strength </span></em><span class=\"fontstyle0\">depending on the model.</span></p>\n<p><strong>Skill:</strong>&nbsp;various <em>repair </em>skills</p>\n<p><strong>Cost:</strong> 30</p>\n<p><strong>Availability:</strong>&nbsp;1</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 30,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.YDK8zMed2IzLwOhd"
+    }
+  },
+  "_key": "!items!YDK8zMed2IzLwOhd"
+}

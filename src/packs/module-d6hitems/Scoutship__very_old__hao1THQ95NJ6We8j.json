@@ -1,0 +1,37 @@
+{
+  "_id": "hao1THQ95NJ6We8j",
+  "name": "Scoutship (very old)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/skipray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b5220c3be20cb1f949d6ac442ca43e4d9597c9c9",
+      "sourceId": "Item.hao1THQ95NJ6We8j"
+    }
+  },
+  "_key": "!items!hao1THQ95NJ6We8j"
+}

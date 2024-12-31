@@ -1,0 +1,37 @@
+{
+  "_id": "nziv4teGo9cc8qs0",
+  "name": "Deepsuit",
+  "type": "gear",
+  "img": "icons/tools/nautical/diving-helmet.webp",
+  "data": {
+    "description": "<p>Pressure suit and air supply.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "42190d5b04e7daa322a805a20b2ef8930cc6701c",
+      "sourceId": "Item.nziv4teGo9cc8qs0"
+    }
+  },
+  "_key": "!items!nziv4teGo9cc8qs0"
+}

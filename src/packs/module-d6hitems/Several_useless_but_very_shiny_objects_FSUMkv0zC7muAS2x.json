@@ -1,0 +1,37 @@
+{
+  "_id": "FSUMkv0zC7muAS2x",
+  "name": "Several useless but very shiny objects",
+  "type": "gear",
+  "img": "icons/commodities/metal/fragments-steel-barbed.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1f1ffbd2d0361f1d28ec501fca7832ef97379438",
+      "sourceId": "Item.FSUMkv0zC7muAS2x"
+    }
+  },
+  "_key": "!items!FSUMkv0zC7muAS2x"
+}

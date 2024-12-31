@@ -1,0 +1,37 @@
+{
+  "_id": "59AjRzwOHNBUMpDr",
+  "name": "Motion Sensor Array",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_motionsensor.webp",
+  "data": {
+    "description": "<p>Typically added to a standard blast helmet, an external sensor array detects motion within the wearer's visual radius and transmits audial signals corresponding to speed and direction detected. Though range is limited, this early warning system can prepare its wearer against an otherwise unseen attack.</p>\n<p><strong>Motion Sensor Array</strong></p>\n<p><strong>Model:&nbsp;</strong>NeuroSaav MacroMotionMonitor</p>\n<p><strong>Type:&nbsp;</strong>Personal motion detector</p>\n<p><strong>Cost:</strong> 40</p>\n<p><strong>Availability:</strong> 3</p>\n<p><strong>Game Notes:</strong> Adds +1D to&nbsp;<em>search</em> rolls involving motion up to 50 meters away.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 40,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "21c6d154b9e15903b2d9698803ebab408bd761ff",
+      "sourceId": "Item.59AjRzwOHNBUMpDr"
+    }
+  },
+  "_key": "!items!59AjRzwOHNBUMpDr"
+}

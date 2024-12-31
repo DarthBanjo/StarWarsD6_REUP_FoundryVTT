@@ -1,0 +1,38 @@
+{
+  "_id": "wl1fDvPh88FqnjFz",
+  "name": "Direction Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_directionsense.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Sense Difficulty: </span></strong><span class=\"fontstyle2\">Easy; modified by proximity.</span></p>\n<p><em><span class=\"fontstyle3\">This power can be kept &ldquo;up&rdquo;.</span></em></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><em><span class=\"fontstyle3\">Direction sense </span></em><span class=\"fontstyle2\">allows a Jedi to be guided by the Force toward a particular goal or destination. It could be an object of importance, the north pole of a planet, the nearest cantina, etc., but this power does not sense life forms. Alternatively a Jedi may use the Force for guidance through a maze-like cavern. If the Jedi meets the required </span><span class=\"fontstyle3\">sense </span><span class=\"fontstyle2\">difficulty, she just knows the general direction the object or location is in: left, right, forward, behind, above, below. If she succeeds by 10 or more, the Jedi knows exactly in what direction and how far away the location is from her current position.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "hwV8GVTTgoi930HN",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Direction Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_directionsense.svg",
+      "tint": null,
+      "_key": "!items.effects!wl1fDvPh88FqnjFz.hwV8GVTTgoi930HN"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!wl1fDvPh88FqnjFz"
+}

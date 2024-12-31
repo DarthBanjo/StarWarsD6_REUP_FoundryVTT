@@ -1,0 +1,37 @@
+{
+  "_id": "3A5ltN2RAKEjnlZz",
+  "name": "Mrlssti Flitter",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/mrlsstflitter.webp",
+  "data": {
+    "description": "<p>Ownership of an Airspeeder.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "edc17b70ebca6c4e96652de53f3dfa0272ca1e7a",
+      "sourceId": "Item.3A5ltN2RAKEjnlZz"
+    }
+  },
+  "_key": "!items!3A5ltN2RAKEjnlZz"
+}

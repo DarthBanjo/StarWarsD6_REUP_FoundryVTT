@@ -1,0 +1,21 @@
+{
+  "_id": "5hzBxfO28UoPLWPW",
+  "name": "Projective Telepathy",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_projectivetelepathy.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong></p>\n<ul>\n<li>Very Easy.</li>\n<li>Increase difficulty by +5 to +10 if the Jedi cannot verbalize the thoughts she is transmitting (she is gagged or doesn't want to make a sound).</li>\n<li>Modified by proximity.</li>\n</ul>\n<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Very Easy if target is friendly and doesn't resist.</li>\n<li>If target resists, roll Perception or control to determine the difficulty.</li>\n<li>Modified by relationship.</li>\n</ul>\n<p><strong>Required Powers:&nbsp;</strong><em>Life Detection,&nbsp;Life Sense,&nbsp;Receptive Telepathy</em></p>\n<p><strong>Effect: </strong>If the Jedi successfully projects her thoughts, the target \"hears\" her thoughts and \"feels\" her emotions. The Jedi can only broadcast feelings, emotions and perhaps a couple of words &mdash; this power cannot be used to send sentences or to hold conversations. The target understands that the thoughts and feelings he is experiencing are not his own and that they belong to the user of the power. If the Jedi doesn't \"verbally\" identify herself, the target doesn't know who is projecting the thoughts. This power can only be used to communicate with other minds, not control them.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!5hzBxfO28UoPLWPW"
+}

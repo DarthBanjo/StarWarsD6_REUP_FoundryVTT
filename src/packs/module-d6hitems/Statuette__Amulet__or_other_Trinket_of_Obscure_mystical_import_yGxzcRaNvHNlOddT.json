@@ -1,0 +1,37 @@
+{
+  "_id": "yGxzcRaNvHNlOddT",
+  "name": "Statuette, Amulet, or other Trinket of Obscure mystical import",
+  "type": "gear",
+  "img": "icons/commodities/treasure/broach-gold-eye-green.webp",
+  "data": {
+    "description": "<p>Alien Student of the Force</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d780aa1b00e5b9e60eb240b1604eb32303f7b36f",
+      "sourceId": "Item.yGxzcRaNvHNlOddT"
+    }
+  },
+  "_key": "!items!yGxzcRaNvHNlOddT"
+}

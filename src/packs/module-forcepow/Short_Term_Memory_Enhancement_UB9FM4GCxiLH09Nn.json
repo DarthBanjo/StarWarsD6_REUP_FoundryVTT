@@ -1,0 +1,21 @@
+{
+  "_id": "UB9FM4GCxiLH09Nn",
+  "name": "Short-Term Memory Enhancement",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_shorttermmemory.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">Difficult.</span></p>\n<p><strong><span class=\"fontstyle0\">Required Powers:<em> </em></span></strong><em><span class=\"fontstyle3\">Hibernation trance.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle2\">When a Jedi uses this power, he or she can replay recent events in order to more carefully examine images and peripheral occurrences. Using the power, a Jedi can freeze images and even scan memory tracks to recall details that were seen but not consciously registered at the time of observation.</span></p>\n<p><span class=\"fontstyle2\">In game terms, this power can be used to alert a Jedi to information, items, other characters, or anything else that passed before his senses within a specific span of time. In addition, if a gamemaster provided clues or leads to clues that the players originally missed or ignored, this power can be used to recall them. When players get stuck on a puzzle or mystery within an adventure, this power can alert them to possible solutions, if those solutions were observed earlier in the adventure.</span></p>\n<p><span class=\"fontstyle2\">How far back a Jedi can remember depends on the success of his </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">roll.</span></p>\n<p><span class=\"fontstyle2\"><br /></span><span class=\"fontstyle0\">Skill Roll &ge; Difficulty by&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Memory Extends Back<br /></span></p>\n<table class=\"NormalTable\" style=\"height: 67px; width: 41.5162%;\">\n<tbody>\n<tr>\n<td style=\"width: 40.8696%;\" width=\"46\"><span class=\"fontstyle4\">1-8 </span></td>\n<td style=\"width: 59.1304%;\" width=\"150\"><span class=\"fontstyle4\">Through current episode*</span></td>\n</tr>\n<tr>\n<td style=\"width: 40.8696%;\" width=\"46\"><span class=\"fontstyle4\">9-20 <br />21+ </span></td>\n<td style=\"width: 59.1304%;\" width=\"150\"><span class=\"fontstyle4\">Through last episode*<br />Through last two episodes*</span></td>\n</tr>\n</tbody>\n</table>\n<p><em><span class=\"fontstyle5\">*An episode is is essentially one &ldquo;Act&rdquo; of an adventure you are currently running. This definition, however, is left to gamemaster discretion.</span></em> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!UB9FM4GCxiLH09Nn"
+}

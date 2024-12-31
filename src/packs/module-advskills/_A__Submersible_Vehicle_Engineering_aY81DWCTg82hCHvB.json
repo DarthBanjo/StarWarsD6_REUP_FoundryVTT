@@ -1,0 +1,31 @@
+{
+  "_id": "aY81DWCTg82hCHvB",
+  "name": "(A) Submersible Vehicle Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_sub.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Advanced skill -- requires</strong><strong>&nbsp;4D in </strong></span><strong><span class=\"fontstyle2\"><em>submersible vehicle repair</em>. </span></strong></p>\n<p><span class=\"fontstyle0\">This skill allows the design of various submersible vehicles and submersible vehicle systems.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!aY81DWCTg82hCHvB"
+}

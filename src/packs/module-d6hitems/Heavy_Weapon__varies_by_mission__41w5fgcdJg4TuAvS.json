@@ -1,0 +1,37 @@
+{
+  "_id": "41w5fgcdJg4TuAvS",
+  "name": "Heavy Weapon (varies by mission)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/heavyweapon.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "98530202b225796d1c7fec9e7d9ccecaf8ed2f77",
+      "sourceId": "Item.41w5fgcdJg4TuAvS"
+    }
+  },
+  "_key": "!items!41w5fgcdJg4TuAvS"
+}

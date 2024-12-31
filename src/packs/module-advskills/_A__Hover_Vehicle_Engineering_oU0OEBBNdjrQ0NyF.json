@@ -1,0 +1,31 @@
+{
+  "_id": "oU0OEBBNdjrQ0NyF",
+  "name": "(A) Hover Vehicle Engineering",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/a_tec_hover.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Advanced skill -- requires</strong><strong>&nbsp;4D in </strong></span><strong><span class=\"fontstyle2\"><em>hover vehicle repair</em>. </span></strong></p>\n<p><span class=\"fontstyle0\">This skill allows the design of various hover vehicles and hover vehicle systems.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "_key": "!items!oU0OEBBNdjrQ0NyF"
+}

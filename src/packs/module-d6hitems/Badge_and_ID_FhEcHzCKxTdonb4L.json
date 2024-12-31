@@ -1,0 +1,37 @@
+{
+  "_id": "FhEcHzCKxTdonb4L",
+  "name": "Badge and ID",
+  "type": "gear",
+  "img": "icons/sundries/misc/admission-ticket-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "181a639e0348949d979293ea037c07cf94a59e32",
+      "sourceId": "Item.FhEcHzCKxTdonb4L"
+    }
+  },
+  "_key": "!items!FhEcHzCKxTdonb4L"
+}

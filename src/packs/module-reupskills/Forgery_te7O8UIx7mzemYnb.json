@@ -1,0 +1,31 @@
+{
+  "_id": "te7O8UIx7mzemYnb",
+  "name": "Forgery",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_forgery.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific kind of documentation to be forged &mdash; </span><span class=\"fontstyle0\">security codes, datapad scandocs, starship permits.</span></em></p>\n<p><span class=\"fontstyle2\">The character has the ability to falsify electronic documents to say what the character wishes. Characters might forge bank codes to get someone else&rsquo;s credits out of an account, alter official Imperial cargo vouchers so they may appear to have the right permit to carry a certain type of restricted good, or create valid identification so they may impersonate New Republic inspectors.</span></p>\n<p><span class=\"fontstyle2\">A person inspecting a forged document may make an opposed </span><span class=\"fontstyle0\">forgery</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">search </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">Perception </span><span class=\"fontstyle2\">roll to spot the forgery. This is further modified by the difficulty in forging the document and familiarity with the type of document in question.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>Modifiers:</strong><br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+10 or more to forger&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Forger has had extensive experience with document type or inspector has had none.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+5 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has some experience with document type or inspector has had little.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has &ldquo;sample&rdquo; document to compare forgery to.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to forger&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Forger has all necessary materials to perform forgery.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+3-15 to forger&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Forger has special assistance (droids, computers) designed to assist in forging documents.<br /></span><span class=\"fontstyle0\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Both characters have equal experience with document type.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+10 or more to difficulty or inspector&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Inspector has extensive experience with document type or forger has none.<br /></span><span class=\"fontstyle0\" style=\"color: #000000;\"><strong>+5 to difficulty or inspector&rsquo;s roll:</strong> </span><span class=\"fontstyle2\">Inspector has some experience with document type or forger has had little.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3 to inspector&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Inspector has &ldquo;sample&rdquo; document to compare forgery to.<br /></span><strong><span class=\"fontstyle0\" style=\"color: #000000;\">+3-15 to inspector&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Inspector has additional assistance (computers, droids, analyzers) designed to help spot forgeries.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several days.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!te7O8UIx7mzemYnb"
+}

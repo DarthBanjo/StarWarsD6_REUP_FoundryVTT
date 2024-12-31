@@ -1,0 +1,37 @@
+{
+  "_id": "VaJQoJ3kLkuJmvVG",
+  "name": "Large, Floppy Hat",
+  "type": "gear",
+  "img": "icons/equipment/head/hat-belted-grey.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 2,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f85609532c169dd8fc96e2ab446b5db4d7561245",
+      "sourceId": "Item.VaJQoJ3kLkuJmvVG"
+    }
+  },
+  "_key": "!items!VaJQoJ3kLkuJmvVG"
+}

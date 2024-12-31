@@ -1,0 +1,36 @@
+{
+  "_id": "bnPBFiw9fsEetjEA",
+  "name": "All-Temperature Cloak",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/cloak2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This wrap-around cloak protects its wearer from the elements, providing a +1 pip bonus to its wearer&rsquo;s </span><span class=\"fontstyle3\">survival </span><span class=\"fontstyle0\">skill rolls.</span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">A/KT all-temperature cloak</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Synthcloth cloak</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></span></p>\n<p><span class=\"fontstyle0\"><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Adds +1 pip bonus to its wearer&rsquo;s </span><span class=\"fontstyle3\">survival </span><span class=\"fontstyle2\">skill rolls.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.IMnNU3VfaAp1pz6f"
+    }
+  },
+  "_key": "!items!bnPBFiw9fsEetjEA"
+}

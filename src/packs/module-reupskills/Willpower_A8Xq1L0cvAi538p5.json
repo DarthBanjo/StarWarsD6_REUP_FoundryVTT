@@ -1,0 +1,31 @@
+{
+  "_id": "A8Xq1L0cvAi538p5",
+  "name": "Willpower",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_willpower.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of coercion to be resisted &mdash; </span><span class=\"fontstyle0\">persuasion, intimidation</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Willpower </span><span class=\"fontstyle2\">is a character&rsquo;s strength of will and determination. It is used to resist </span><span class=\"fontstyle0\">intimidation </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle0\">persuasion </span><span class=\"fontstyle2\">attempts.</span></p>\n<p><span class=\"fontstyle2\">Also, when a character fails a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check, if the character can make a </span><span class=\"fontstyle0\">willpower </span><span class=\"fontstyle2\">check at one higher level of difficulty, he can drive himself on through sheer willpower. A character doing this has to make a </span><span class=\"fontstyle0\">willpower </span><span class=\"fontstyle2\">check as often as he would normally have had to make a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check, with all checks at one difficulty level higher. Once the character fails a check or stops pushing himself, he is completely exhausted and must rest double the normal length of time. If, as a result of failing a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check, the character would have suffered any damage, the character suffers one worse wound level as a result of pushing his body far beyond its limitations.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!A8Xq1L0cvAi538p5"
+}

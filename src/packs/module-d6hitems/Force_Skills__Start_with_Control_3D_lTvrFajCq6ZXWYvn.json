@@ -1,0 +1,47 @@
+{
+  "_id": "lTvrFajCq6ZXWYvn",
+  "name": "Force Skills: Start with Control 3D",
+  "type": "manifestation",
+  "img": "icons/magic/symbols/runes-triangle-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "14667a08b200eae42780f6f412224a64ca2a9474",
+      "sourceId": "Item.lTvrFajCq6ZXWYvn"
+    }
+  },
+  "_key": "!items!lTvrFajCq6ZXWYvn"
+}

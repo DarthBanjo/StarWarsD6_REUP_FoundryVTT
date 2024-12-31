@@ -1,0 +1,21 @@
+{
+  "_id": "Xnuu3IdFYDNmNdc5",
+  "name": "Magnify Senses",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_magnifysenses.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong> Very Easy. Modified by proximity.</p>\n<p><strong>Time To Use: </strong>Three rounds.</p>\n<p><strong>Effect: </strong>This power allows a Jedi to increase the effectiveness of her normal senses to perceive things that otherwise would be impossible without artificial aids. She can hear noises beyond her normal hearing due to distance or softness (she can't hear beyond normal frequencies). Likewise, she can see normally visible things over distances that would require the use of macrobinoculars; she can identify scents and odors that are normally too faint for human olfactory senses.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Xnuu3IdFYDNmNdc5"
+}

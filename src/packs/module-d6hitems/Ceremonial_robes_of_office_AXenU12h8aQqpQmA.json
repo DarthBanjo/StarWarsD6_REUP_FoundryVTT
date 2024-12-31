@@ -1,0 +1,37 @@
+{
+  "_id": "AXenU12h8aQqpQmA",
+  "name": "Ceremonial robes of office",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-layered-pink.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1c256ba2dbefc75cf41422f8df2c10608466a62b",
+      "sourceId": "Item.AXenU12h8aQqpQmA"
+    }
+  },
+  "_key": "!items!AXenU12h8aQqpQmA"
+}

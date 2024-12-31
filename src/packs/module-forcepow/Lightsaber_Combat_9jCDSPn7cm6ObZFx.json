@@ -1,0 +1,38 @@
+{
+  "_id": "9jCDSPn7cm6ObZFx",
+  "name": "Lightsaber Combat",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_lightsabercombat.svg",
+  "data": {
+    "description": "<dl>\n<dd><strong>Control Difficulty: </strong>Moderate.</dd>\n<dd><strong>Sense Difficulty:</strong> Easy.</dd>\n</dl>\n<p><em>This power may be kept \"up.\"</em></p>\n<p><strong>Effect: </strong>Jedi use this power to wield this elegant but difficult-to-control weapon while also sensing their opponents' actions through the Force.</p>\n<p>This power is called upon at the start of a battle and remains \"up\" until the Jedi is stunned, wounded or worse; a Jedi who has been injured or stunned may attempt to bring the power back \"up.\"</p>\n<p>If the Jedi is successful in using this power, she adds her <em>sense </em>dice to her <em>lightsaber skill</em> roll when attacking and parrying. The Jedi may add or subtract part or all of her <em>control </em>dice to the lightsaber's damage; players must decide how many <em>control </em>dice they are adding or subtracting when the power is activated.</p>\n<p>A Jedi who fails when trying to activate <em>lightsaber combat</em>&nbsp;may only use the lightsaber skill for the duration of the combat.</p>\n<p>Finally, the Jedi may use <em>lightsaber combat</em> to parry blaster bolts as a \"reaction skill.\" The Jedi may also attempt to control where deflected blaster bolts go; this is a \"reaction skill\" and counts as an additional action. (The Jedi cannot<em> full parry</em> when trying to control deflected bolts.)</p>\n<p>If the Jedi tries to control the blaster bolt, she makes a <em>control</em> roll: the difficulty is the range of the target (use the original weapon's ranges) or the target's <em>dodge </em>roll. The blaster bolt's damage stays the same.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "O7WCa5acNWeyAIgr",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Lightsaber Combat",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_lightsabercombat.svg",
+      "tint": null,
+      "_key": "!items.effects!9jCDSPn7cm6ObZFx.O7WCa5acNWeyAIgr"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!9jCDSPn7cm6ObZFx"
+}

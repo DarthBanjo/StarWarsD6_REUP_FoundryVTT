@@ -1,0 +1,37 @@
+{
+  "_id": "BFSwIJdr6bVO5Lvj",
+  "name": "500 credit debt on your MULE Droid",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c56f7858c07eea09f6d0e75f741d13724997a4fc",
+      "sourceId": "Item.BFSwIJdr6bVO5Lvj"
+    }
+  },
+  "_key": "!items!BFSwIJdr6bVO5Lvj"
+}

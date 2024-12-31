@@ -1,0 +1,41 @@
+{
+  "_id": "O7szgSndTu3V1qpE",
+  "name": "Datapad (with forged deeds to land and holding on three worlds)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad.webp",
+  "data": {
+    "description": "<p>The fakes are fairly good and require a Moderate forgery or Difficult Perception roll to discover the forgery.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mKaiF1wwafJpWEvH"
+    },
+    "scene-packer": {
+      "hash": "03d70cb06b9eba4b31e8f2d1df5fa9da7d96ce07",
+      "sourceId": "Item.O7szgSndTu3V1qpE",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!O7szgSndTu3V1qpE"
+}

@@ -1,0 +1,106 @@
+{
+  "_id": "DuclNqpt0viQ1mpC",
+  "name": "Lightsaber, Short",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/lightsaber2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Small Jedi characters such as Master Yoda favor the short lightsaber, sometimes called a shoto. Jedi skilled at two-weapon fighting often use the shoto as their off-hand weapon of choice. A short lightsaber requires a special energy cell to operate (the cost is ten times the price of an ordinary energy cell, but it lasts almost indefinitely.)</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Melee weapon</span></p>\n<p><span class=\"fontstyle4\"><strong>Scale:</strong> </span><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\">Lightsaber</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">Unavailable for sale</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">4, X</span></p>\n<p><strong><span class=\"fontstyle4\">Difficulty: </span></strong><span class=\"fontstyle5\">Moderate</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">4D</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">in an attacking character misses the difficulty number by more than 10 points (the base difficulty; not their opponent&rsquo;s parry total), the character has injured himself with the lightsaber blade. Apply normal damage to the character wielding the blade.</span></p>\n<p><strong>Developer's note:</strong> The user's melee strength modifier is automaticaly added is added to lightsaber damage rolls. Damage can be manually adjusted each roll, or your GM can make use of the active effect stored on the lightsaber (<em>data.strengthdamage.mod</em>) to cancel out the players' melee strength bonus. Set it to a negative value.</p>\n<p><em>For example: </em>&nbsp;Sroff has a Strength of 2D. By default, FoundryVTT adds his strength to the lightsaber's damage of 4D, dealing 6D damage when Sroff attacks.&nbsp; Sroff's gamemaster opens the Effects tab, and edits the lightaber active effect there. Under that effect tab, there is a value for data.strengthdamage.mod, which Sroff's gamemaster sets to -6 to counteract the automatic melee attack bonus (every 3 pips adds up to a whole die, hence 6).</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Melee",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Lightsaber",
+      "specialization": ""
+    },
+    "range": {
+      "short": "0",
+      "medium": "0",
+      "long": "0"
+    },
+    "damage": {
+      "type": "e",
+      "score": 12,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 0,
+        "damage": 0
+      },
+      "2": {
+        "range": 0,
+        "damage": 0
+      },
+      "3": {
+        "range": 0,
+        "damage": 0
+      },
+      "4": {
+        "range": 0,
+        "damage": 0
+      }
+    },
+    "ammo": 0,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_MODERATE",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [
+    {
+      "_id": "z9obcSBxd9TXaM1p",
+      "changes": [
+        {
+          "key": "data.strengthdamage.mod",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Short Lightsaber",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!DuclNqpt0viQ1mpC.z9obcSBxd9TXaM1p"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.EhmlavVTQTkiV1r5"
+    }
+  },
+  "_key": "!items!DuclNqpt0viQ1mpC"
+}

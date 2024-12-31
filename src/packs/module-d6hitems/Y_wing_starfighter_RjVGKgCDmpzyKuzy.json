@@ -1,0 +1,40 @@
+{
+  "_id": "RjVGKgCDmpzyKuzy",
+  "name": "Y-wing starfighter",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/ywing_3.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d629350ed1418a062ef67d2db28b411f08ac3b41",
+      "sourceId": "Item.RjVGKgCDmpzyKuzy"
+    },
+    "core": {
+      "sourceId": "Item.q363lAoT74BK0guG"
+    }
+  },
+  "_key": "!items!RjVGKgCDmpzyKuzy"
+}

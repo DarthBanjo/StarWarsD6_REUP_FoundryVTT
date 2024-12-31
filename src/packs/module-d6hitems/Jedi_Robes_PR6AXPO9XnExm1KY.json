@@ -1,0 +1,37 @@
+{
+  "_id": "PR6AXPO9XnExm1KY",
+  "name": "Jedi Robes",
+  "type": "gear",
+  "img": "icons/equipment/head/hood-leather-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "0af051bb4c1444ed55a20e108993d7d0ca748ae1",
+      "sourceId": "Item.PR6AXPO9XnExm1KY"
+    }
+  },
+  "_key": "!items!PR6AXPO9XnExm1KY"
+}

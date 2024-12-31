@@ -1,0 +1,38 @@
+{
+  "_id": "4kj9NcK8Bt1HNPdb",
+  "name": "Telekinesis",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_telekinesis.svg",
+  "data": {
+    "description": "<p><strong>Alter Difficulty:</strong></p>\n<ul>\n<li>Very Easy for objects weighing one kilogram or less;</li>\n<li>Easy for objects weighing one to ten kilograms;</li>\n<li>Moderate for objects 11 to 100 kilograms;</li>\n<li>Difficult for 101 kilograms to one metric ton;</li>\n<li>Very Difficult for 1,001 kilograms to ten metric tons;</li>\n<li>Heroic for objects weighing 10,001 kilograms to 100 metric tons.</li>\n</ul>\n<p>Object may be moved at 10 meters per round; add +5 per additional 10 meters per round. The target must be in sight of the Jedi.</p>\n<p>Increased difficulty if object isn't moving in simple, straight-line movement:</p>\n<ul>\n<li>+ 1 to +5 for gentle turns.</li>\n<li>+ 6 to +10 for easy maneuvers.</li>\n<li>+11 to +25 or more for complex maneuvers, such as using a levitated lightsaber to attack.</li>\n</ul>\n<p>Modified by proximity.</p>\n<p><em>This power may be kept \"up.\"</em></p>\n<p><strong>Effect: </strong>This power allows the Jedi to levitate and move objects with the power of her mind alone. If used successfully, the object moves as the Jedi desires.</p>\n<p>A Jedi can levitate several objects simultaneously, but each additional object requires a new telekinesis roll.</p>\n<p>This power can be used to levitate oneself or others. It can be used as a primitive space drive in emergencies.</p>\n<p>When used to levitate someone against their will, the target may resist by adding her Perception or control roll to the difficulty number.</p>\n<p>Levitated objects can be used to attack other characters, but this automatically gives the Jedi a Dark Side Point. Such objects do:</p>\n<ul>\n<li>1D damage if under a kilogram,</li>\n<li>2D if one to ten kilos,</li>\n<li>4D if 11 to 100 kilos,</li>\n<li>3D speeder-scale damage if 101 kilos to one metric ton,</li>\n<li>3D starfighter-scale damage if one to ten tons and</li>\n<li>5D starfighter-scale damage if 11 to 100 metric tons.</li>\n</ul>\n<p>Such attacks require an additional <em>control </em>roll by the Jedi, which acts as an attack roll against the target's <em>dodge</em>. If the target doesn't <em>dodge </em>the attack, the difficulty is Easy.</p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "AhaUNxjMmxtJhFP2",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Telekinesis",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_telekinesis.svg",
+      "tint": null,
+      "_key": "!items.effects!4kj9NcK8Bt1HNPdb.AhaUNxjMmxtJhFP2"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!4kj9NcK8Bt1HNPdb"
+}

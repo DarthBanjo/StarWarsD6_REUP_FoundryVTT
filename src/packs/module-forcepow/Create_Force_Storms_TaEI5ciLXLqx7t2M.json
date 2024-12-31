@@ -1,0 +1,21 @@
+{
+  "_id": "TaEI5ciLXLqx7t2M",
+  "name": "Create Force Storms",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_createforcestorms.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Heroic</p>\n<p><strong>Sense Difficulty: </strong>Heroic</p>\n<p><strong>Alter Difficulty: </strong>H<span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">eroic. </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Modified by proximity.</span></p>\n<ul>\n<li>Modified by size of storm desired:\n<ul>\n<li>+5 for 100 meters or less,</li>\n<li>+10 for 100 meters to one kilometer,</li>\n<li>+15 for a base of one kilometer,</li>\n<li>and +2 to difficulty for every kilometer diameter in size.</li>\n</ul>\n</li>\n<li>Modified by damage +5 per 1D of damage.</li>\n<li>Must make Heroic rolls each successive round to control the storm.</li>\n<li>Must make a Very Difficult roll to dissipate the storm.</li>\n</ul>\n<p><strong>Required Powers: </strong><em>Hibernation trance, life detection, life sense, magnify senses, receptive telepathy, sense force, telekinesis, farseeing, projective telepathy, instinctive astrogation, rage</em></p>\n<p><strong>Warning: </strong><em>Force Storms</em> are immensely destructive and violate the laws of nature A Jedi using this power automatically gains a Dark Side Point.</p>\n<p><strong>Effect:</strong> This is perhaps the single most destructive Force power known. This power allows the Jedi to twist the space-time continuum to create vast storms of force. The power also allows limited control of these storms. Capable of creating annihilating vortices, the storms can swallow whole fleets of spaceships or tear the surfaces off worlds.</p>\n<p>Use of this power requires the focusing of hate and anger to an almost palpable degree and there is considerable danger involved. Some are able to create Force storms, but fail at harnessing what they have foolishly unleashed. Often, those who fail to control the storm are themselves consumed and destroyed. If the user is destroyed, the storm dissipates within minutes.</p>\n<p>When creating a force storm, the character must determine the diameter and the amount of damage (on a capital scale). If the force-user fails any of her rolls, the storm is summoned with the desired damage, but it attempts to consume the summoner.</p>\n<p>At a +10 difficulty, the summoner can attempt unusual maneuvers with the storm, such as to create a vortex to draw unwary victims to a specified point.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!TaEI5ciLXLqx7t2M"
+}

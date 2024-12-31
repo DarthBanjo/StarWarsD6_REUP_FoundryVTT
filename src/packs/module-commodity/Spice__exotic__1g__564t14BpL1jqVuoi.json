@@ -1,0 +1,32 @@
+{
+  "_id": "564t14BpL1jqVuoi",
+  "name": "Spice, exotic (1g)",
+  "type": "gear",
+  "img": "icons/commodities/materials/powder-teal.webp",
+  "data": {
+    "description": "<p>1g = 20</p>\n<p>1 kg = 20,000</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 20,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!564t14BpL1jqVuoi"
+}

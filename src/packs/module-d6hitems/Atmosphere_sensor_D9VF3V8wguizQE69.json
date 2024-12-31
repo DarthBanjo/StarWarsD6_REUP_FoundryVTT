@@ -1,0 +1,41 @@
+{
+  "_id": "D9VF3V8wguizQE69",
+  "name": "Atmosphere sensor",
+  "type": "cybernetic",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_scoutdroid.webp",
+  "data": {
+    "description": "<p>Determines air content in one hour and type (I, II, III, or IV) in five minutes.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.HEAD",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "43623472150cc4ace2a64afe57637aa5746ff0a9",
+      "sourceId": "Item.D9VF3V8wguizQE69"
+    }
+  },
+  "_key": "!items!D9VF3V8wguizQE69"
+}

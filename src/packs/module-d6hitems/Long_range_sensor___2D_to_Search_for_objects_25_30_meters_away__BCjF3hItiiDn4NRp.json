@@ -1,0 +1,41 @@
+{
+  "_id": "BCjF3hItiiDn4NRp",
+  "name": "Long-range sensor (+2D to Search for objects 25-30 meters away)",
+  "type": "cybernetic",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_scoutdroid.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "attribute": "",
+    "skill": "",
+    "value": "",
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "location": "OD6S.HEAD",
+    "slots": 0,
+    "label": "OD6S.CHAR_CYBERNETICS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "43623472150cc4ace2a64afe57637aa5746ff0a9",
+      "sourceId": "Item.BCjF3hItiiDn4NRp"
+    }
+  },
+  "_key": "!items!BCjF3hItiiDn4NRp"
+}

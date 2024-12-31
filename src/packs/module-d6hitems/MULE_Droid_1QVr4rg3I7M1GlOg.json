@@ -1,0 +1,37 @@
+{
+  "_id": "1QVr4rg3I7M1GlOg",
+  "name": "MULE Droid",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/droid_scout_1.webp",
+  "data": {
+    "description": "<p>MULE Droid<br />Type: Mechanical Universal Labor Eliminating Droid, PackTack 41LT-R<br />DEXTERITY 1D<br />KNOWLEDGE 1D<br />MECHANICAL 3D<br />Repulsorlift operation 4D+1<br />PERCEPTION 3D<br />Search 3D+2<br />STRENGTH 6D<br />Lifting 7D<br />TECHNICAL 2D<br />Droid programming 4D, droid repair 5D<br />Equipped With:<br />-Heavy lifting claw<br />-Large storage bay (2 cubic meters) protected by +1D armor<br />-Repulsorlift, max altitude one meter<br />Special Skills:<br />Repair Advice: Although the Mule cannot repair itself, it can advise anyone attempting to fix it, using the combined actions rules.<br />Move: 7<br />Size: 1.5 meters<br />Cost: 7,500 credits<br />Equipments: Often slung with additional storage pods.<br />Source: Galaxy Guide 8 &ndash; Scouts (page 45), Rules of Engagement &ndash; The Rebel SpecForce Handbook (page 56)</p>\n<p>Note: MULE droids were used to help scout unexplored worlds. They resembled mules, except that they had wheels for hooves, and had a grasper arm protruding from their chest. They were used by scouts, many who considered their droid irreplaceable. They could carry two liters of supplies inside them as well as more on their back. Though they rarely broke, they were simple to fix in most cases.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e44157e95b278b6d35e0aee714bc9acd57b78ffe",
+      "sourceId": "Item.1QVr4rg3I7M1GlOg"
+    }
+  },
+  "_key": "!items!1QVr4rg3I7M1GlOg"
+}

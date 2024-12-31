@@ -1,0 +1,32 @@
+{
+  "_id": "LhjmQrCJdCwxodR8",
+  "name": "Musical Instrument Operation",
+  "type": "skill",
+  "img": "icons/skills/trades/music-notes-sound-blue.webp",
+  "data": {
+    "description": "<p>This skill is a mechanical skill, governing the ability to play music. Its specialization would be a specific type of instrument.</p>\n<p>&nbsp;</p>\n<p><strong>Source:</strong> Bimm Bard Template</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "92c83746c26275520f1c16f8605e2312c4823c56",
+      "sourceId": "Item.LhjmQrCJdCwxodR8"
+    }
+  },
+  "_key": "!items!LhjmQrCJdCwxodR8"
+}

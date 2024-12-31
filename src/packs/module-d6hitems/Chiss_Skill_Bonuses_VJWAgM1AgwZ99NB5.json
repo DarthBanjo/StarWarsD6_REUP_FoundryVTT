@@ -1,0 +1,26 @@
+{
+  "_id": "VJWAgM1AgwZ99NB5",
+  "name": "Chiss Skill Bonuses",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/s_chiss.webp",
+  "data": {
+    "description": "<p>At the time of character creation only, Chiss characters gain 2D for every one die they assign to&nbsp;<em>tactics</em>,&nbsp;<em>command</em>, and&nbsp;<em>scholar: art</em>&nbsp;skills.</p>\n<p>Chiss characters&nbsp;<strong>also</strong> recieve a permanent +1D bonus to all <em>tactics </em>skill rolls.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "12514b8c06089b9146d697ec008f90d4fef52bf9",
+      "sourceId": "Item.VJWAgM1AgwZ99NB5"
+    }
+  },
+  "_key": "!items!VJWAgM1AgwZ99NB5"
+}

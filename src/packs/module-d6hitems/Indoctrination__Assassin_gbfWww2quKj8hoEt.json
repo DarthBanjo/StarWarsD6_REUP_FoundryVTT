@@ -1,0 +1,26 @@
+{
+  "_id": "gbfWww2quKj8hoEt",
+  "name": "Indoctrination, Assassin",
+  "type": "specialability",
+  "img": "icons/svg/deaf.svg",
+  "data": {
+    "description": "<p>You may not place any beginning skill dice in Knowledge skills other than intimidation, survival and willpower.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "87d674544a7cfdce3372f4ed8b3f5a5a6583e16e",
+      "sourceId": "Item.QhWMQuR8KTCKasGw"
+    }
+  },
+  "_key": "!items!gbfWww2quKj8hoEt"
+}

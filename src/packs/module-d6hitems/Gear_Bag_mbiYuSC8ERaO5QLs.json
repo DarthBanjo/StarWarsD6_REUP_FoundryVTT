@@ -1,0 +1,37 @@
+{
+  "_id": "mbiYuSC8ERaO5QLs",
+  "name": "Gear Bag",
+  "type": "gear",
+  "img": "icons/containers/bags/satchel-leather-embossed-tan.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "eaf4fb1ac1dc0d593aae50c203a4c93551fcfcdc",
+      "sourceId": "Item.mbiYuSC8ERaO5QLs"
+    }
+  },
+  "_key": "!items!mbiYuSC8ERaO5QLs"
+}

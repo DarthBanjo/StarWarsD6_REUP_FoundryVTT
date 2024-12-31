@@ -1,0 +1,37 @@
+{
+  "_id": "m8ZNwG0fHftA4fhc",
+  "name": "Storytelling",
+  "type": "specialization",
+  "img": "systems/od6s/icons/blank.png",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "skill": "Persuasion",
+    "label": "OD6S.CHAR_SPECIALIZATIONS",
+    "die": {
+      "dice": 0,
+      "pips": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3553c9a3c2caf7a8a564938cc9abfce55b22466e",
+      "sourceId": "Item.m8ZNwG0fHftA4fhc"
+    }
+  },
+  "_key": "!items!m8ZNwG0fHftA4fhc"
+}

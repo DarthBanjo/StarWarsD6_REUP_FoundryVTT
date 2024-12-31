@@ -1,0 +1,36 @@
+{
+  "_id": "Tc9ZRzJlRcepiOo9",
+  "name": "Computer, Personal",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/comp_hand.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Personal computers are designed for use in homes, businesses, and small starships and transports. They are capable of performing various data searches on the HoloNet or other networked information systems, and may also assist in various calculations and data storage. Note that Nav Computers which perform astrogation calculations are specifically designed for that task. Personal computers do not generally have that kind of<br />computation power.</span> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Standard Private Computer</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Computer</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Computer programming/repair</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">Varies (see below)</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong> </span><span class=\"fontstyle2\">Private computers can be used to access public information networks, or even to slice into the HoloNet or other secure networks. It can be loaded with as many as 5 datacards simultaneously. Private computers grant a </span><em><span class=\"fontstyle3\">computer programming/repair </span></em><span class=\"fontstyle2\">bonus to rolls relating to calculation, or involving information download. The bonus depends on the computer&rsquo;s power:</span> </p>\n<table style=\"width: 100%; margin-left: auto; margin-right: auto;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Bonus</strong></td>\n<td><strong>Cost</strong></td>\n</tr>\n<tr>\n<td>+1</td>\n<td>250</td>\n</tr>\n<tr>\n<td>+2</td>\n<td>450</td>\n</tr>\n<tr>\n<td>1D</td>\n<td>800</td>\n</tr>\n<tr>\n<td>1D+1</td>\n<td>1,200</td>\n</tr>\n<tr>\n<td>1D+2</td>\n<td>2,400</td>\n</tr>\n<tr>\n<td>2D</td>\n<td>4,800</td>\n</tr>\n</tbody>\n</table>",
+    "labels": {},
+    "tags": [],
+    "cost": 250,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Tc9ZRzJlRcepiOo9"
+    }
+  },
+  "_key": "!items!Tc9ZRzJlRcepiOo9"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "MKx7hmfiVfrSlLgf",
+  "name": "Melee Parry",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_meleeparry.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of melee weapon used &mdash; </span><span class=\"fontstyle0\">lightsabers, knives, clubs, axes, vibroblades</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Melee parry </span><span class=\"fontstyle2\">is the &ldquo;reaction skill&rdquo; used if a character has a melee weapon and is attacked by someone with a </span><span class=\"fontstyle0\">melee combat</span><span class=\"fontstyle2\">, </span><span class=\"fontstyle0\">brawling </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">lightsaber </span><span class=\"fontstyle2\">attack. (Melee parry can&rsquo;t be used to parry blaster attacks &mdash; that&rsquo;s </span><span class=\"fontstyle0\">dodge.</span><span class=\"fontstyle2\">)</span> </p>\n<p><span class=\"fontstyle0\">If your character is defending against someone who is unarmed and doesn&rsquo;t have sharp natural weapons, the defender gets a +5 bonus modifier to his </span><span class=\"fontstyle2\">melee parry </span><span class=\"fontstyle0\">roll.</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">&nbsp;(REUP P90)</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!MKx7hmfiVfrSlLgf"
+}

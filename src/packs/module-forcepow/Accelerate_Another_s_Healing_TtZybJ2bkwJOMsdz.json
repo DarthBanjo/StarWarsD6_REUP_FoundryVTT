@@ -1,0 +1,25 @@
+{
+  "_id": "TtZybJ2bkwJOMsdz",
+  "name": "Accelerate Another's Healing",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_accelerateanothershealing.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Easy. Modified by relationship.</p>\n<p><strong>Alter Difficulty: </strong>Very Easy.</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Control Another's Pain,&nbsp;Control Pain</em></p>\n<p><strong>Time To Use: </strong>One minute</p>\n<p><strong>Effect: </strong>The target is allowed to make extra healing rolls, as outlined in&nbsp;<em>Accelerate Healing</em>. The Jedi must be touching the character whenever she activates this power.</p>\n<p><span class=\"fontstyle2\">The target may make two natural healing rolls for the current day (12 hours apart) regardless of the severity of the injury. The target gets a +2 modifier to both </span><span class=\"fontstyle3\">Strength&nbsp;</span><span class=\"fontstyle2\">rolls to heal.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.TtZybJ2bkwJOMsdz"
+    }
+  },
+  "_key": "!items!TtZybJ2bkwJOMsdz"
+}

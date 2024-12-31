@@ -1,0 +1,26 @@
+{
+  "_id": "T86RxrjIdmtyhlMU",
+  "name": "Add Persuasion: Storytelling Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_persuasion.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "477cf666c8db706df635f3d76adfc95c2a14986c",
+      "sourceId": "Item.T86RxrjIdmtyhlMU"
+    }
+  },
+  "_key": "!items!T86RxrjIdmtyhlMU"
+}

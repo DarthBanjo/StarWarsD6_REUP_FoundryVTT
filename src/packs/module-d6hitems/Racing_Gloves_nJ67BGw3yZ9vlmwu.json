@@ -1,0 +1,37 @@
+{
+  "_id": "nJ67BGw3yZ9vlmwu",
+  "name": "Racing Gloves",
+  "type": "gear",
+  "img": "icons/equipment/hand/gloves-leather-tan.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d00a280531980990d99cc7bc14da4e5f8d03963e",
+      "sourceId": "Item.nJ67BGw3yZ9vlmwu"
+    }
+  },
+  "_key": "!items!nJ67BGw3yZ9vlmwu"
+}

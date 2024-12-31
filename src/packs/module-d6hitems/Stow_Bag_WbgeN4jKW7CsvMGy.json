@@ -1,0 +1,37 @@
+{
+  "_id": "WbgeN4jKW7CsvMGy",
+  "name": "Stow Bag",
+  "type": "gear",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3050379c54a26253b81805540871d6fe32dffce4",
+      "sourceId": "Item.WbgeN4jKW7CsvMGy"
+    }
+  },
+  "_key": "!items!WbgeN4jKW7CsvMGy"
+}

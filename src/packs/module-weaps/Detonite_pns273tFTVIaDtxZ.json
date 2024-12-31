@@ -1,0 +1,36 @@
+{
+  "_id": "pns273tFTVIaDtxZ",
+  "name": "Detonite",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/detonite.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Detonite is a contact explosive that comes in tiny clay-like blocks. It can be shaped or molded around a target and crammed into small cracks. Detonite is very stable in its normal forms and requires a timer to be set off.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Detonite Charge</span></p>\n<p><span class=\"fontstyle0\"><strong>Scale:</strong> </span><span class=\"fontstyle2\">Speeder</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Demolitions: Explosive Charge</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">500 per cube</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2, R</span></p>\n<p><span class=\"fontstyle0\"><strong>Damage:</strong> </span><span class=\"fontstyle2\">1D (speeder-scale da</span><span class=\"fontstyle2\">mage)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.pns273tFTVIaDtxZ"
+    }
+  },
+  "_key": "!items!pns273tFTVIaDtxZ"
+}

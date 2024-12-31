@@ -1,0 +1,47 @@
+{
+  "_id": "mEgokzFPNRJj1mxe",
+  "name": "Force Skills: Start with Control 2D, Sense 1D",
+  "type": "manifestation",
+  "img": "icons/magic/symbols/runes-triangle-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e5cca449ab5ff5d16213aa00edd2c041cceed185",
+      "sourceId": "Item.mEgokzFPNRJj1mxe"
+    }
+  },
+  "_key": "!items!mEgokzFPNRJj1mxe"
+}

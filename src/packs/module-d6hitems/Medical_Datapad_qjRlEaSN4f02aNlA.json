@@ -1,0 +1,41 @@
+{
+  "_id": "qjRlEaSN4f02aNlA",
+  "name": "Medical Datapad",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mKaiF1wwafJpWEvH"
+    },
+    "scene-packer": {
+      "hash": "3671a87552531e5ff625acb283348827d06bff7e",
+      "sourceId": "Item.qjRlEaSN4f02aNlA",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!qjRlEaSN4f02aNlA"
+}

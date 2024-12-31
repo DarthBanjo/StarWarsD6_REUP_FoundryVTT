@@ -1,0 +1,37 @@
+{
+  "_id": "ztNye0UPttzNa5qG",
+  "name": "Tailor-made clothing",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_fashion.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "784218b56e006c45127ab5d4184322fdaa037281",
+      "sourceId": "Item.ztNye0UPttzNa5qG"
+    }
+  },
+  "_key": "!items!ztNye0UPttzNa5qG"
+}

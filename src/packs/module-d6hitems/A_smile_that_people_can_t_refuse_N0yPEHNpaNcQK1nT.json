@@ -1,0 +1,26 @@
+{
+  "_id": "N0yPEHNpaNcQK1nT",
+  "name": "A smile that people can't refuse",
+  "type": "specialability",
+  "img": "icons/skills/social/thumbsup-approval-like.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c5aa298814eee240432174046fe7304516b3b063",
+      "sourceId": "Item.N0yPEHNpaNcQK1nT"
+    }
+  },
+  "_key": "!items!N0yPEHNpaNcQK1nT"
+}

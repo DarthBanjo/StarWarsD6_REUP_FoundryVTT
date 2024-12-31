@@ -1,0 +1,31 @@
+{
+  "_id": "HpK4trQOZgCDqbFC",
+  "name": "Computer Programming/Repair",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_compprogrepair.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model computer &mdash; </span><span class=\"fontstyle0\">portable computer, mainframe, datapad, YT1300- computer.</span></p>\n<p><span class=\"fontstyle2\">Characters use this skill to repair, modify, and program computers &mdash; it also covers a character&rsquo;s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The time required and the Difficulty of are determined by the type of information sought.</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Public data. Your character&rsquo;s credit balance. (1 minute)<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)<br /></span><strong><span class=\"fontstyle2\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Private data. A person&rsquo;s diary, or their credit balance. (1 hour)<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Secret data. A corporation&rsquo;s records, military plans. (8 hours)<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Top-secret data. The Navy&rsquo;s cloaking device plans, a Grand Moff&rsquo;s itinerary (gamemaster discretion).</span><br /><span class=\"fontstyle2\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Information that only a select few individuals would know. The location of all of Emperor Palpatine&rsquo;s secret weapons vaults (gamemaster discretion).</span> </p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several minutes, hours, or days.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+    }
+  },
+  "_key": "!items!HpK4trQOZgCDqbFC"
+}

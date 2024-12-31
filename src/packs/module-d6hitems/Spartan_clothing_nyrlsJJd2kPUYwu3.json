@@ -1,0 +1,37 @@
+{
+  "_id": "nyrlsJJd2kPUYwu3",
+  "name": "Spartan clothing",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-collared-grey.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b7ef7a3121b967afc5d729584ac7db5234633890",
+      "sourceId": "Item.nyrlsJJd2kPUYwu3"
+    }
+  },
+  "_key": "!items!nyrlsJJd2kPUYwu3"
+}

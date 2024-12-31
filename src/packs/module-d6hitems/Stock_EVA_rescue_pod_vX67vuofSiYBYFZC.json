@@ -1,0 +1,37 @@
+{
+  "_id": "vX67vuofSiYBYFZC",
+  "name": "Stock EVA rescue pod",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_evarescuepod.webp",
+  "data": {
+    "description": "<p><strong>EVA Vacuum Pod</strong><br />Model: Regallis Engineering EVA Vacuum Pod<br />Type: Droid-monitored space pod<br />Skill: Powersuit operation: repair pod<br />Crew: 1<br />Cover: Full<br />Cost: 15,000<br />Maneuverability: 1D<br />Move: 55; 160 kmh<br />Body Strength: 4D<br />Game Notes: Life support system capable of functioning for 2 hours. Has full comlink system and a number of attachments for the two forward arms, plus and exterior &ldquo;storage pouch&rdquo; of additional attachments. An annual maintenance overhaul of each pod (Easy powersuit repair total) is required.<br />Source: Galladinium&rsquo;s Fantastic Technology (page 54), Arms and Equipment Guide (page 45)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1f4be35a0b58722bfed5e576dd88b787a974519a",
+      "sourceId": "Item.vX67vuofSiYBYFZC"
+    }
+  },
+  "_key": "!items!vX67vuofSiYBYFZC"
+}

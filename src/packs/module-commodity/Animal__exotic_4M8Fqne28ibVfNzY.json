@@ -1,0 +1,32 @@
+{
+  "_id": "4M8Fqne28ibVfNzY",
+  "name": "Animal, exotic",
+  "type": "gear",
+  "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 2000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!4M8Fqne28ibVfNzY"
+}

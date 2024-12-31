@@ -1,0 +1,21 @@
+{
+  "_id": "bSXtTPNKOs6g5Bo1",
+  "name": "Transfer Life",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_transferlife.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Heroic, modified by relationship. If target is unwilling, increase difficulty by +15.</p>\n<p><strong>Sense Difficulty: </strong>Heroic, modified by proximity. If target is unwilling, increase difficulty by + 15.</p>\n<p><strong>Alter Difficulty:</strong> Variable, depending on willingness and Force affinity.</p>\n<table>\n<tbody>\n<tr>\n<th>Circumstances</th>\n<th>Difficulty</th>\n</tr>\n<tr>\n<td>Specially Prepared Clone Host Body</td>\n<td>Easy</td>\n</tr>\n<tr>\n<td>Recently Dead Body</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>Live Willing Host</td>\n<td>Very Difficult</td>\n</tr>\n<tr>\n<td>Live Unwilling Host</td>\n<td>Heroic</td>\n</tr>\n</tbody>\n</table>\n<p>Those who are Force-sensitive may make an opposed <em>alter </em>or <em>willpower </em>roll, selecting either the roll or the difficulty, whichever is higher.</p>\n<p><strong>Required Powers:</strong>&nbsp;<em>Absorb/Dissipate Energy,&nbsp;Accelerate Healing,&nbsp;Control Pain,&nbsp;Detoxify Poison,&nbsp;Emptiness,&nbsp;Hibernation Trance,&nbsp;Reduce Injury,&nbsp;Remain Conscious,&nbsp;Resist Stun,&nbsp;Life Detection,&nbsp;Life Sense,&nbsp;Magnify Senses,&nbsp;Receptive Telepathy,&nbsp;Sense Force,&nbsp;Injure/Kill,&nbsp;Telekinesis,&nbsp;Farseeing,&nbsp;Projective Telepathy,&nbsp;Accelerate Another's Healing,&nbsp;Control Another's Pain,&nbsp;Feed on Dark Side,&nbsp;Inflict Pain,&nbsp;Return Another to Consciousness,&nbsp;Transfer Force,&nbsp;Affect Mind,&nbsp;Control Mind,&nbsp;Dim Other's Senses</em></p>\n<p><strong>Warning:</strong> Any Jedi using this power receives two Dark Side Points. If attempting to possess an unwilling host, the Jedi receives four Dark Side Points.</p>\n<p><strong>Effect: </strong>This power allows the character to transfer his or her life energy into another body. The key to immortality itself, this is one of the most difficult and evil of all Dark Side powers. To overcome a spirit already residing in a body is nearly impossible. This is why the power is nearly useless without the ability to clone host bodies. It is believed that if the user&rsquo;s body perishes as an attempt fails, the user&rsquo;s life energy is lost, dispersed to the void.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!bSXtTPNKOs6g5Bo1"
+}

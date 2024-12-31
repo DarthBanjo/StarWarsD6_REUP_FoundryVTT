@@ -1,0 +1,25 @@
+{
+  "_id": "erUlbMAwAHPl3bw3",
+  "name": "Remove Another's Fatigue",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_controlanothersfatigue.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Easy</p>\n<p><strong>Alter Difficulty: </strong>Moderate. Modified by proximity and relationship.</p>\n<p><strong>Required Powers:</strong>&nbsp;<em>Accelerate Healing,&nbsp;Accelerate Another's Healing,&nbsp;Control Pain,&nbsp;Control Another's Pain,&nbsp;Remove Fatigue</em></p>\n<p><strong>Effect: </strong>This power allows the Jedi to remove the effects of effects of fatigue in another. Unlike the basic power, the Jedi must wait until the target is actually fatigued, before offering assistance. Hence the penalties for failing a stamina check can be counteracted, but must be addressed as they occur.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.erUlbMAwAHPl3bw3"
+    }
+  },
+  "_key": "!items!erUlbMAwAHPl3bw3"
+}

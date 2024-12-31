@@ -1,0 +1,21 @@
+{
+  "_id": "l6pZhii7gGoUhHgO",
+  "name": "Lifemerge",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_lifemerge.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty:</strong> Difficult</p>\n<p><strong>Sense Difficulty:&nbsp;</strong>Difficult</p>\n<p><strong>Effect: </strong><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">A Jedi may attempt to activate this power at his </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">death. At the moment the Jedi knows death is imminent (just </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">after a fatal wound, or just before it), the Jedi calms his mind </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and body (Difficult </span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">control </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">roll), preparing to surrender his mortal shell. The Jedi then reaches out with his mind, tracing the </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">ebb and flow of the Force around him and through him (Difficult </span><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">sense </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">roll).</span></p>\n<p><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Upon succeeding at both rolls, the Jedi&rsquo;s spirit exits his body </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and becomes one with the Force, while still retaining his original </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">identity. His body fades into nothingness, but the Jedi who passes in this fashion will not completely die.</span></p>\n<p><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">The Jedi can make a number of visitations to his close friends </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and associates equal to the number of Force Points he had upon </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">death. In this fashion, a player who knows his character is about </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">to die can ensure that death will mean something, as he can </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">manifest to important persons in later sessions and warn them </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">of impending disaster, or offer wisdom and teaching. </span></p>\n<p><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">At the gamemaster&rsquo;s discretion, and based on the power level </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">of the Jedi when he died, only Force-sensitive characters may </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">witness the visitation. After death, the Jedi cannot influence the </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">material world in any way.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!l6pZhii7gGoUhHgO"
+}

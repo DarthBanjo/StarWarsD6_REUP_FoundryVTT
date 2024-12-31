@@ -1,0 +1,31 @@
+{
+  "_id": "3663SaRfrdzCR2Ux",
+  "name": "Con",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_con.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular method of conning &mdash; </span><span class=\"fontstyle0\">disguise, fast-talk</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is used to trick and deceive characters, or otherwise convince them to do something that isn&rsquo;t in their best interest. (</span><span class=\"fontstyle0\">Con </span><span class=\"fontstyle2\">is another interaction skill, so you&rsquo;ll often want to use roleplaying to resolve these situations.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">The difficulty of the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">depends upon who is being conned.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">A close friend or relative who has no reason to suspect a </span><span class=\"fontstyle2\">con</span><span class=\"fontstyle0\">.<br /></span><strong><span class=\"fontstyle3\">&bull; Easy: </span></strong><span class=\"fontstyle0\">Naive teenager, gullible person.<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">A stormtrooper when the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">doesn&rsquo;t personally involve him.<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">A customs or law enforcement officer; stormtrooper when </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">will involve possible danger.<br /></span><strong><span class=\"fontstyle3\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Someone who should know better. Jabba the Hutt, an Imperial general.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Someone who </span><span class=\"fontstyle2\">really </span><span class=\"fontstyle0\">knows better. A Jedi Knight, Emperor Palpatine.<br /></span></span></p>\n<p>&nbsp;</p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle3\"><strong>Modifiers:</strong><br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to victim&rsquo;s roll: </span></strong><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will cause victim to do something illegal or highly dangerous.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+5 or more to victim&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Person knows the character is prone to pulling cons and has their guard up.<br /></span><span class=\"fontstyle3\"><strong>No modifier:</strong> </span><span class=\"fontstyle2\">Con </span><span class=\"fontstyle0\">will convince victim to do something they might normally do anyway.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+5 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim generally likes character, but suspects something because of character&rsquo;s unusual behavior.<br /></span><strong><span class=\"fontstyle3\" style=\"color: #000000;\">+10 or more to </span><span class=\"fontstyle4\">conning </span></strong><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>character&rsquo;s roll:</strong> </span><span class=\"fontstyle0\">Victim has no reason to suspect dishonesty, and trusts and likes that character.</span></span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\">Characters can </span><span class=\"fontstyle2\">actively resist </span><span class=\"fontstyle0\">a </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">attempt by rolling their </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">or </span><span class=\"fontstyle2\">Perception </span><span class=\"fontstyle0\">dice against the opponent&rsquo;s </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">total. In that case, the </span><span class=\"fontstyle2\">con </span><span class=\"fontstyle0\">difficulty number is </span><span class=\"fontstyle2\">ignored</span><span class=\"fontstyle0\">, but the modifiers are not.</span></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One combat round to several minutes, depending upon how long it takes the character to say what is needed to pull off the con.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!3663SaRfrdzCR2Ux"
+}

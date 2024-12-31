@@ -1,0 +1,37 @@
+{
+  "_id": "tU9o6GLhkRWU0fhC",
+  "name": "Fine Clothes",
+  "type": "gear",
+  "img": "icons/equipment/waist/belt-buckle-gold-green.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "12c921517b790284c9666b9930e3fe0b325c1e1f",
+      "sourceId": "Item.tU9o6GLhkRWU0fhC"
+    }
+  },
+  "_key": "!items!tU9o6GLhkRWU0fhC"
+}

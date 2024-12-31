@@ -1,0 +1,37 @@
+{
+  "_id": "nOzU0yIGL3TKlxYq",
+  "name": "Portable Bar",
+  "type": "gear",
+  "img": "icons/consumables/drinks/wine-bottle-glass-white.webp",
+  "data": {
+    "description": "<p>Arrogant Imperial Noble</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "63ac8c143a14865c109cdabc5bb26cf51752bc67",
+      "sourceId": "Item.nOzU0yIGL3TKlxYq"
+    }
+  },
+  "_key": "!items!nOzU0yIGL3TKlxYq"
+}

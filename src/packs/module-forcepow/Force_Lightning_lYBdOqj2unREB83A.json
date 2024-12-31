@@ -1,0 +1,25 @@
+{
+  "_id": "lYBdOqj2unREB83A",
+  "name": "Force Lightning",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_forcelightning.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong><span class=\"fontstyle2\">Difficult, modified by proximity, limited to line of sight.<br /></span></p>\n<p><span class=\"fontstyle0\"><strong>Alter Difficulty:</strong> </span><span class=\"fontstyle2\">Target&rsquo;s </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle3\">Perception </span><span class=\"fontstyle2\">roll.<br /></span></p>\n<p><span class=\"fontstyle0\"><strong>Warning:</strong> </span><span class=\"fontstyle2\">A Jedi who uses this power for any reason immediately gains a Dark Side Point.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">This power is a corruption of the Force. When used, it produces bolts of white or blue energy that fly from the user&rsquo;s fingertips like lightning. The bolts tear through their target, causing painful wounds. Since this power is Force-generated it can be Force-repelled using </span><em><span class=\"fontstyle3\">absorb/dissipate </span></em><span class=\"fontstyle2\"><em>energy</em>.</span></p>\n<p><span class=\"fontstyle3\"><em>Force lighting</em> </span><span class=\"fontstyle2\">courses over and into its target, convulsing the target with serious pain, and eventually killing him. Armor does not protect a character from </span><em><span class=\"fontstyle3\">Force lightning</span></em><span class=\"fontstyle2\">. </span><em><span class=\"fontstyle3\">Force lightnin</span></em><span class=\"fontstyle2\"><em>g</em> causes 1D of damage for each 2D of </span><span class=\"fontstyle3\">alter </span><span class=\"fontstyle2\">the user has (rounded down: a character with an </span><em><span class=\"fontstyle3\">alter </span></em><span class=\"fontstyle2\">of 5D would cause 2D of damage).</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.lYBdOqj2unREB83A"
+    }
+  },
+  "_key": "!items!lYBdOqj2unREB83A"
+}

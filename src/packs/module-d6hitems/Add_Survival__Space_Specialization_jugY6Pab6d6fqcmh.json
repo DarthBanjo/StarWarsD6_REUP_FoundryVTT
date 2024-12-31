@@ -1,0 +1,26 @@
+{
+  "_id": "jugY6Pab6d6fqcmh",
+  "name": "Add Survival: Space Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_survival.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7720efcce6d97d3b4cfb5901f5f39b812c9e864e",
+      "sourceId": "Item.jugY6Pab6d6fqcmh"
+    }
+  },
+  "_key": "!items!jugY6Pab6d6fqcmh"
+}

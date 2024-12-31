@@ -1,0 +1,49 @@
+{
+  "_id": "wTJ3vIYbO3YbtLX1",
+  "name": "Greater Force Shield",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_greatershield.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong> Difficult.</p>\n<p><strong>Alter Difficulty: </strong>Very Difficult.</p>\n<p><em>This power may be kept &ldquo;up&rdquo;.</em></p>\n<p><strong>Required Powers: </strong><em>Absorb/dissipate energy, concentration, magnify senses, telekinesis, lesser force shield.</em></p>\n<p><strong>Effect: </strong>When a Jedi successfully activates this power, he creates a protective shield around his body. This shield is effective against both energy and physical attacks. The strength of the shield is equal the character&rsquo;s alter roll divided by three, rounded down.</p>\n<p>For example, if the Jedi has 9D in alter, he may add 3D to his Strength roll to resist damage. If the Jedi exceeds the alter difficulty by +10, he may extend the greater force shield to another character if he has direct contact with that character.</p>\n<p><strong>Developer's Note: </strong>The active effect programmed into this Force Power grants +2D to Physical and Energy Resistances. Change it manually after assigning it to a character to match one-third of their <em>Alter</em> skill.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "YDfnWCGqGj1IYZt3",
+      "changes": [
+        {
+          "key": "data.er.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.pr.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Greater Force Shield",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/senalt_greatershield.svg",
+      "tint": null,
+      "_key": "!items.effects!wTJ3vIYbO3YbtLX1.YDfnWCGqGj1IYZt3"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!wTJ3vIYbO3YbtLX1"
+}

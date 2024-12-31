@@ -1,0 +1,21 @@
+{
+  "_id": "he1IE9uYfKt6gclD",
+  "name": "Force Push",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_forcepush.svg",
+  "data": {
+    "description": "<p><strong>Alter Difficulty: </strong></p>\n<ul>\n<li>Target&rsquo;s control or Strength roll</li>\n<li>+3 to difficulty for every 5 meters away from target, line of sight only.</li>\n</ul>\n<p><strong>Required Powers: </strong><em>Concentration, life detection, telekinesis.</em></p>\n<p><strong>Effect: </strong>With this power, a Jedi may use the Force to push several adjacent targets backwards, knocking them prone or banging them against a wall. Each target past the first incurs a -1D penalty on the Jedi using the power (i.e, 1 target, no penalty; 2 targets, -1D penalty; 3 targets, -2D penalty; 4 targets, -3D penalty...).</p>\n<p>Each target makes either a control or Strength roll to resist, and the acting Jedi&rsquo;s alter roll result is compared to each result in turn to determine the effects. A target that is knocked back into a wall or other solid object takes the listed damage. If a Jedi kills a living being as a result of this power he immediately receives a Dark Side Point; as such, he may roll less than his full alter score if he so chooses.</p>\n<table>\n<tbody>\n<tr>\n<td width=\"78\">Alter Roll &ge;<br />Difficulty By:</td>\n<td width=\"116\">Target pushed back/<br />Collision damage</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<td width=\"51\">0-5</td>\n<td width=\"92\">2 meters / 2D</td>\n</tr>\n<tr>\n<td width=\"51\">6-10</td>\n<td width=\"92\">3 meters / 3D</td>\n</tr>\n<tr>\n<td width=\"51\">11-15</td>\n<td width=\"92\">5 meters / 4D</td>\n</tr>\n<tr>\n<td width=\"51\">16-20 <br />21+</td>\n<td width=\"92\">10 meters / 5D<br />15 meters / 6D</td>\n</tr>\n</tbody>\n</table>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!he1IE9uYfKt6gclD"
+}

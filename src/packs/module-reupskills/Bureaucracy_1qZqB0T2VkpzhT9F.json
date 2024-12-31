@@ -1,0 +1,31 @@
+{
+  "_id": "1qZqB0T2VkpzhT9F",
+  "name": "Bureaucracy",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_bureaucracy.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific planetary or administrative government, or branch within it &mdash; </span><span class=\"fontstyle0\">Tatooine, Celanon, Bureau of Commerce, Bureau of Ships and Services</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s familiarity with bureaucracies and their procedures. </span><span class=\"fontstyle0\">Bureaucracy </span><span class=\"fontstyle2\">can be used in two ways:</span></p>\n<p><span class=\"fontstyle2\">First, the character can use this skill to determine whether or not he knows what to expect from a bureaucracy. For example, if a character needs to get a permit for his blaster, a successful </span><span class=\"fontstyle0\">bureaucracy </span><span class=\"fontstyle2\">skill check means he knows what forms and identification he needs, who he would have to talk to, how long the process might take and some short cuts he might be able to use.</span></p>\n<p><span class=\"fontstyle2\">Second, </span><span class=\"fontstyle0\">bureaucracy </span><span class=\"fontstyle2\">can also be used to find out what information a bureaucracy has on file.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several days",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!1qZqB0T2VkpzhT9F"
+}

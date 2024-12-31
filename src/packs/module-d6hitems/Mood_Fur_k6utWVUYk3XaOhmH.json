@@ -1,0 +1,26 @@
+{
+  "_id": "k6utWVUYk3XaOhmH",
+  "name": "Mood Fur",
+  "type": "specialability",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "data": {
+    "description": "<p>&nbsp;A Kushiban's fur changes color with its emotional state.&nbsp;A Kushiban in a calm, normal state of emotions was white, while a Kushiban in the deepest of despairs was totally black.</p>\n<p><strong>Source: </strong>Kushiban</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c4378613a940736a1f1e9d7081cc9cacfffb0b1b",
+      "sourceId": "Item.k6utWVUYk3XaOhmH"
+    }
+  },
+  "_key": "!items!k6utWVUYk3XaOhmH"
+}

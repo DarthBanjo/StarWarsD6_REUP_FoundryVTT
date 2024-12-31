@@ -1,0 +1,37 @@
+{
+  "_id": "MmoUmOWY0tTDgn3x",
+  "name": "Water purification kit",
+  "type": "gear",
+  "img": "icons/sundries/survival/wetskin-leather-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "fe02d6340b8d4d376519e510145009ea3515ab0e",
+      "sourceId": "Item.MmoUmOWY0tTDgn3x"
+    }
+  },
+  "_key": "!items!MmoUmOWY0tTDgn3x"
+}

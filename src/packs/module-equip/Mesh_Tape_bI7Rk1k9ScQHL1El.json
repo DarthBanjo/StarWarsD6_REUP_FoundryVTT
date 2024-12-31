@@ -1,0 +1,36 @@
+{
+  "_id": "bI7Rk1k9ScQHL1El",
+  "name": "Mesh Tape",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/CCBYSA/tool_meshtape.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">The usefulness of mesh tape is limited only by a character&rsquo;s imagination. Mesh tape adhesive can support up to 90 kg indefinitely (and up to 180 kg for up to 5 rounds). Like the force: it has a light side, a dark side, and it binds the galaxy together.</span></p>\n<p><span class=\"fontstyle4\"><strong>Model:</strong> </span><span class=\"fontstyle5\">Standard Mesh Tape</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Utility adhesive</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">5</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Mesh tape requires </span><span class=\"fontstyle6\">Strength </span><span class=\"fontstyle5\">3D to break when used to bind another character. A roll provides 30 meters of tape, 5 centimeters wide.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 5,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.bI7Rk1k9ScQHL1El"
+    }
+  },
+  "_key": "!items!bI7Rk1k9ScQHL1El"
+}

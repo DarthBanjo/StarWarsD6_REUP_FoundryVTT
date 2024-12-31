@@ -1,0 +1,36 @@
+{
+  "_id": "Jpaj5zLlTnOxnQsp",
+  "name": "Translator, Vox-Box",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/voxbox.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Communication with aliens who don&rsquo;t know Basic (or can&rsquo;t speak Basic, such as Wookiees), will likely use a translation device. There are myriad available on the market, some with very basic pre-programmed phrases, such as a vox-box and others which are able to translate languages in real-time. Two of the more common devices are listed below. Altering one or more of a vox-box&rsquo;s pre-programmed phrases requires a Moderate </span><span class=\"fontstyle2\"><em>computer programming/repair</em> roll</span><span class=\"fontstyle0\">.</span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Standard Alien Enhancer Vox-Box</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Audio playback unit</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">200</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">2 (Basic), 3 (other languages)</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong> </span><span class=\"fontstyle2\">This is a simple audio playback unit with twelve preprogrammed basic phrases (&ldquo;Yes&rdquo;, &ldquo;No&rdquo;, &ldquo;Greetings&rdquo;, &ldquo;When?&rdquo;, &ldquo;Where?&rdquo;, &ldquo;How much?&rdquo;, &ldquo;Please take me to someone with authority&rdquo;, &ldquo;I understand&rdquo;, &ldquo;I need medical attention&rdquo;, &ldquo;I mean no harm&rdquo;, &ldquo;I&rsquo;m sorry&rdquo;, and &ldquo;I don&rsquo;t speak Basic&rdquo;, each with its own button. Useful for species unable to speak Basic.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Jpaj5zLlTnOxnQsp"
+    }
+  },
+  "_key": "!items!Jpaj5zLlTnOxnQsp"
+}

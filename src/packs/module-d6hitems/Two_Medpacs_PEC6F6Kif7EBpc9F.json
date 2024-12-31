@@ -1,0 +1,40 @@
+{
+  "_id": "PEC6F6Kif7EBpc9F",
+  "name": "Two Medpacs",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/REUP_CC/medpack_CC.webp",
+  "data": {
+    "description": "<p>Medpacs are emergency medical kits that contain the necessary medicines, stimulants, coagulants and healing drugs to save lives in crisis situations. While most commercial and military medpacs contain a wide variety of medical supplies, medpacs are not as effective as a fully-stocked medical bay. Medpacs contain supplies for on-site treatment of contusions, burns, broken limbs and other traumatic injuries; serious wounds (internal bleeding, brain damage, and so forth) must be treated in a more advanced facility.</p>\n<p>Most medpacs are designed for use on a limited number of species; aliens that are not widespread throughout the galaxy &mdash; such as the Noghri &mdash; will find commercial medpacs of limited use. Imperial-issue medpacs contain medicines that are useful on humans only.</p>\n<p>A character using a medpac must make a successful <em>first aid </em>check. One a medpac has been used, it is expended.</p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Standard medpac</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><span class=\"fontstyle3\">First aid</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><span class=\"fontstyle0\"><strong>Game Notes:</strong> </span><span class=\"fontstyle2\">Heals one wound level on a successful </span><span class=\"fontstyle3\">first aid </span><span class=\"fontstyle2\">roll, being expended after that.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 2,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.m6JwSi809Ijjmb8b"
+    },
+    "scene-packer": {
+      "hash": "145d51c133ba28e96665554be2f75136edafe172",
+      "sourceId": "Item.PEC6F6Kif7EBpc9F"
+    }
+  },
+  "_key": "!items!PEC6F6Kif7EBpc9F"
+}

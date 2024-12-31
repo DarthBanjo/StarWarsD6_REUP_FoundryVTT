@@ -1,0 +1,42 @@
+{
+  "_id": "5RQsG49pnsHXLjrh",
+  "name": "Feed on Dark Side",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_feedondarkside.svg",
+  "data": {
+    "description": "<p><strong>Control difficulty: </strong></p>\n<ul>\n<li>Moderate when first activated,</li>\n<li>Very Easy each round afterwards.</li>\n</ul>\n<p><strong>Alter difficulty:&nbsp;</strong></p>\n<ul>\n<li>Moderate when first activated;</li>\n<li>no additional rolls needed.</li>\n</ul>\n<p><strong>Required Power:&nbsp;</strong><em>Sense Force</em></p>\n<p><strong>Warning:&nbsp;</strong>Use of this power gives the user a Dark Side Point.</p>\n<p><em>This power can be kept \"up\"</em></p>\n<p><strong>Effect:&nbsp;</strong>This allows the Jedi to feed off a foe&rsquo;s anger, fear, and hatred, or other negative emotions in order to become stronger. It does not matter to the dark side why the others are filled with dark emotions; the feelings alone suffice.</p>\n<p>In game terms, in any round in which a character using this power is in the presence of a light side Force-sensitive who gains a Dark Side Point, the character gains a Dark Side Point and a Force Point. If multiple characters gain Dark Side Points in the same round, the character gains multiple Force Points. These Force Points must be spent within five minutes of being received.</p>\n<p>This is a power that Dark Jedi use to gain power from the anger and hatred they create in their foes. For player characters who are quick to anger, it is impossible to die roll their way out of this situation. The only way to stop a Jedi from gaining extra Force Points from this power is to resist the dark side. This can be extremely difficult, particularly since there is nothing to prevent the Dark Jedi from doing everything in his power to provide these negative emotions. This might include deception, the butchering of innocents, taunts, insults, threats against the characters, their friends, families, home planets or bases, and anything else likely to make them call on the dark side.</p>\n<p>Players who fail to devise a better way of defeating a Dark Jedi other than by brute force are very likely to be destroyed if faced with this power.</p>\n<p><strong>Warning:</strong>&nbsp;avoid overusing this power, since it can severely disrupt game balance if not used in moderation.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "w0aNZCaH6oePQEDY",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Feed On Dark Side",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_feedondarkside.svg",
+      "tint": null,
+      "_key": "!items.effects!5RQsG49pnsHXLjrh.w0aNZCaH6oePQEDY"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.5RQsG49pnsHXLjrh"
+    }
+  },
+  "_key": "!items!5RQsG49pnsHXLjrh"
+}

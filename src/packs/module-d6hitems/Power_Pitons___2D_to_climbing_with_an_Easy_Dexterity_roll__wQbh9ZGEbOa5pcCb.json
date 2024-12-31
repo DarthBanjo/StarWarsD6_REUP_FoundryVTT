@@ -1,0 +1,37 @@
+{
+  "_id": "wQbh9ZGEbOa5pcCb",
+  "name": "Power Pitons (+2D to climbing with an Easy Dexterity roll)",
+  "type": "gear",
+  "img": "icons/equipment/wrist/bracer-ornate-black-silver.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "559791cbcef26e14eadaf4b5604241e5e94fd47c",
+      "sourceId": "Item.wQbh9ZGEbOa5pcCb"
+    }
+  },
+  "_key": "!items!wQbh9ZGEbOa5pcCb"
+}

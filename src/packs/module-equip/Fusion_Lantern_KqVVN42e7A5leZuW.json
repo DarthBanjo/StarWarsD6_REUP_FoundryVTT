@@ -1,0 +1,36 @@
+{
+  "_id": "KqVVN42e7A5leZuW",
+  "name": "Fusion Lantern",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/DarthBanjo/lantern.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A hand-held light source larger than a glow rod, the fusion lantern produces light and heat. The light spreads out from the lantern, producing illumination in a 50 meter radius (although more expensive models can have much longer ranges).</span></p>\n<p><span class=\"fontstyle0\">Some higher-priced fusion lanterns are considerably larger and heavier, but are capable of generating considerably greater heat, and a brighter beam and radius.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Standard fusion lantern</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">25</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">50 meter radius</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 25,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.KqVVN42e7A5leZuW"
+    }
+  },
+  "_key": "!items!KqVVN42e7A5leZuW"
+}

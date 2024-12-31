@@ -1,0 +1,38 @@
+{
+  "_id": "dADe8xkj1onQWBwR",
+  "name": "Weather Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_weathersense.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong></p>\n<ul>\n<li>Easy if the Jedi has lived in the area for more than a year;</li>\n<li>Moderate if the Jedi has lived in the area between six and twelve months;</li>\n<li>Difficult if the Jedi has lived in the area between one and six months;</li>\n<li>Very Difficult if the Jedi has lived in the area less than one month.</li>\n<li>Modified for proximity and local meteorological conditions.</li>\n</ul>\n<p><strong>Required Powers:</strong> <em>Magnify senses</em></p>\n<p><em>This power may be kept up.</em></p>\n<p><strong>Effect:</strong> This power allows the Jedi to attune himself to the workings of local weather patterns. By sensing the movements of clouds, winds, tides, and solar bodies, someone using this power can discern patterns in the weather, and so make limited predictions regarding the behavior of atmospheric phenomenon. This power does not lend itself to quick predictions, however. It usually takes weeks for a Jedi to become accustomed to local weather patterns and become familiar with unique features of the local topography that is possible to obtain accurate readings. The prediction is effective for four hours. The difficulty increases if the Jedi wishes to make more extended forecasts.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "sU4YKo3LEugCjkET",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Weather Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_weathersense.svg",
+      "tint": null,
+      "_key": "!items.effects!dADe8xkj1onQWBwR.sU4YKo3LEugCjkET"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!dADe8xkj1onQWBwR"
+}

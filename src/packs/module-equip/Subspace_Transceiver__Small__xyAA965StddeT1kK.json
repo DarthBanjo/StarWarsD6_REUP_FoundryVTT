@@ -1,0 +1,36 @@
+{
+  "_id": "xyAA965StddeT1kK",
+  "name": "Subspace Transceiver (Small)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/trans_larger.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Subspace transceivers allow faster-than-light audio, video and hologram communications at greater ranges than standard comlinks, but their ranges are still quite limited. Small subspace transceivers may only reach a few light-years away, although high-powered units can reach a distance of well over 100 lightyears. Most starships have a subspace transceiver for distress signals, and the average citizen can normally afford to send a subspace message at a relatively modest cost.</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Desktop subspace radio</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><span class=\"fontstyle3\">Communications: subspace radio</span></p>\n<p><span class=\"fontstyle0\"><strong>Cost:</strong> </span><span class=\"fontstyle2\">300</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">3 light-years.</span></p>\n<p><strong>Additional Notes:&nbsp;</strong></p>\n<p>&nbsp;</p>\n<ul>\n<li><strong>Encryption:&nbsp;</strong><span class=\"fontstyle2\">A subspace radio can have hardwired encryption routines for&nbsp;</span><span class=\"fontstyle3\">five times&nbsp;</span><span class=\"fontstyle2\">the base cost. Encryption technology requires a Heroic&nbsp;</span><em>communications&nbsp;</em><span class=\"fontstyle2\">roll to decrypt if intercepted.</span></li>\n<li><strong>Video Capability:&nbsp;</strong><span class=\"fontstyle2\">A subspace radio can have video capability (two-dimensional images with audio) for&nbsp;</span><span class=\"fontstyle3\">twice&nbsp;</span><span class=\"fontstyle2\">the base cost.</span></li>\n<li><strong>Holo Capability:&nbsp;</strong><span class=\"fontstyle2\">A subspace radio can have holo capability for&nbsp;</span><span class=\"fontstyle3\">four times&nbsp;</span><span class=\"fontstyle2\">the base cost. This subspace radio is able to receive and send holographic images (three-dimensional images in addition to audio), it can receive (though not send) HoloNet transmissions. Another feature is the ability to match a recorded holographic image with the sender&rsquo;s live audio. When this feature is used, the sender&rsquo;s visual image is replaced by a recorded hologram (of him or another person), which moves to match the sender&rsquo;s speech. Detecting that the image does not exactly match the spoken message is a Difficult&nbsp;</span><em>search&nbsp;</em><span class=\"fontstyle2\">task.</span></li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "cost": 300,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.xyAA965StddeT1kK"
+    }
+  },
+  "_key": "!items!xyAA965StddeT1kK"
+}

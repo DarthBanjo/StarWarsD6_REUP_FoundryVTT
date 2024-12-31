@@ -1,0 +1,44 @@
+{
+  "_id": "jFSWwjaE9Iu7nd7a",
+  "name": "Remove Fatigue",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_removefatigue.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">Moderate.</span></p>\n<p><em><span class=\"fontstyle3\">This power may be kept &ldquo;up&rdquo;.</span></em></p>\n<p><span class=\"fontstyle0\"><strong>Required Powers:</strong> </span><span class=\"fontstyle3\"><em>Accelerate healing, control pain</em>.</span></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">The character uses this power to combat the effects of strenuous work. The Jedi manipulates the Force, causing bodily toxins to be ejected much more efficiently, thus allowing for greater stamina. While kept up, the Jedi must make a </span><em><span class=\"fontstyle3\">stamina </span></em><span class=\"fontstyle2\">check once per day. While using this power, a Jedi must fail two </span><em><span class=\"fontstyle3\">stamina </span></em><span class=\"fontstyle2\">checks before he or she is fatigued. The character still has to eat and drink normally. If the Jedi does fail two </span><span class=\"fontstyle3\">stamina </span><span class=\"fontstyle2\">checks and becomes fatigued, a penalty of &ndash;1D is applied to all attributes and skills for 1D hours.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "ChX7AQPQhP7t5x12",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Remove Fatigue",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_removefatigue.svg",
+      "tint": null,
+      "_key": "!items.effects!jFSWwjaE9Iu7nd7a.ChX7AQPQhP7t5x12"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!jFSWwjaE9Iu7nd7a"
+}

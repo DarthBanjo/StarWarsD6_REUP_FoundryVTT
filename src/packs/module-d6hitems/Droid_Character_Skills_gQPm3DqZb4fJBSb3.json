@@ -1,0 +1,26 @@
+{
+  "_id": "gQPm3DqZb4fJBSb3",
+  "name": "Droid Character Skills",
+  "type": "specialability",
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+  "data": {
+    "description": "<p>You start with 17D to allocate to skills, but may not place more than 2D in any one skill</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "f0b9517daf695e57e81662522a9687a4cd330ac8",
+      "sourceId": "Item.gQPm3DqZb4fJBSb3"
+    }
+  },
+  "_key": "!items!gQPm3DqZb4fJBSb3"
+}

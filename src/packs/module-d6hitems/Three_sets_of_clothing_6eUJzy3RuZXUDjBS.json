@@ -1,0 +1,37 @@
+{
+  "_id": "6eUJzy3RuZXUDjBS",
+  "name": "Three sets of clothing",
+  "type": "gear",
+  "img": "icons/equipment/shoulder/shoulderguard-leather-purple.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e1f62d395eb631f7e95772221906d016b5571ba3",
+      "sourceId": "Item.6eUJzy3RuZXUDjBS"
+    }
+  },
+  "_key": "!items!6eUJzy3RuZXUDjBS"
+}

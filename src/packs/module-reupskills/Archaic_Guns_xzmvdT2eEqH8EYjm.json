@@ -1,0 +1,31 @@
+{
+  "_id": "xzmvdT2eEqH8EYjm",
+  "name": "Archaic Guns",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_archaicguns.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Indicates a specific kind or model of archaic gun &mdash; </span><span class=\"fontstyle0\">black powder pistol, matchlock, musket, wheelock</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\"><br />Archaic guns is a &ldquo;ranged combat&rdquo; skill used to fire any primitive gun, including black powder pistols, flintlocks and muskets. Normally, only characters from primitive-technology worlds will know this skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!xzmvdT2eEqH8EYjm"
+}

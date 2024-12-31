@@ -1,0 +1,1078 @@
+{
+  "_id": "UY054ucecAcGBQer",
+  "name": "Typical TIE Fighter Pilot",
+  "type": "npc",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/imp_pilot_1.webp",
+  "data": {
+    "move": {
+      "type": "Number",
+      "label": "OD6S.CHAR_MOVE",
+      "mod": 0,
+      "value": 10
+    },
+    "chartype": {
+      "type": "String",
+      "label": "OD6S.CHAR_TYPE",
+      "content": "Imperial Starfighter Pilot"
+    },
+    "species": {
+      "type": "String",
+      "label": "OD6S.CHAR_SPECIES",
+      "content": "Usually Human"
+    },
+    "wounds": {
+      "type": "String",
+      "label": "OD6S.CHAR_HEALTH",
+      "short_label": "OD6S.CHAR_HEALTH",
+      "value": "0",
+      "body_points": {
+        "max": 0,
+        "current": 0
+      }
+    },
+    "stuns": {
+      "type": "Number",
+      "label": "OD6S_CHAR_STUNS",
+      "value": 0
+    },
+    "strengthdamage": {
+      "type": "Number",
+      "label": "OD6S.STRENGTH_DAMAGE",
+      "short_label": "OD6S.STRENGTH_DAMAGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "ranged": {
+      "type": "Number",
+      "label": "OD6S.RANGED_ATTACK_MOD",
+      "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "melee": {
+      "type": "Number",
+      "label": "OD6S.MELEE_ATTACK_MOD",
+      "short_label": "OD6S.MELEE_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "brawl": {
+      "type": "Number",
+      "label": "OD6S.BRAWL_ATTACK_MOD",
+      "short_label": "OD6S.BRAWL_ATTACK_MOD_SHORT",
+      "mod": 0
+    },
+    "sheetmode": {
+      "type": "String",
+      "label": "OD6S.SHEET_MODE",
+      "short_label": "OD6S.SHEET_MODE_SHORT",
+      "value": "normal"
+    },
+    "dodge": {
+      "type": "Number",
+      "label": "OD6S.DODGE",
+      "short_label": "OD6S.DODGE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "parry": {
+      "type": "Number",
+      "label": "OD6S.PARRY",
+      "short_label": "OD6S.PARRY_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "block": {
+      "type": "Number",
+      "label": "OD6S.BLOCK",
+      "short_label": "OD6S.BLOCK_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "pr": {
+      "type": "Number",
+      "label": "OD6S.PHYSICAL_RESISTANCE",
+      "short_label": "OD6S.PHYSICAL_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "er": {
+      "type": "Number",
+      "label": "OD6S.ENERGY_RESISTANCE",
+      "short_label": "OD6S.ENERGY_RESISTANCE_SHORT",
+      "mod": 0,
+      "score": 0
+    },
+    "credits": {
+      "type": "Number",
+      "label": "OD6S.CHAR_CREDITS",
+      "value": 0
+    },
+    "funds": {
+      "type": "Number",
+      "label": "OD6S.CHAR_FUNDS",
+      "score": 0
+    },
+    "initiative": {
+      "type": "String",
+      "label": "OD6S.INITIATIVE",
+      "formula": "",
+      "mod": 0,
+      "score": 0
+    },
+    "scale": {
+      "type": "Number",
+      "label": "OD6S.SCALE",
+      "score": 0,
+      "mod": null
+    },
+    "attributes": {
+      "agi": {
+        "label": "OD6S.CHAR_AGILITY",
+        "short_label": "OD6S.CHAR_AGILITY_SHORT",
+        "base": 10,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "str": {
+        "label": "OD6S.CHAR_STRENGTH",
+        "short_label": "OD6S.CHAR_STRENGTH_SHORT",
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "mec": {
+        "label": "OD6S.CHAR_MECHANICAL",
+        "short_label": "OD6S.CHAR_MECHANICAL_SHORT",
+        "base": 12,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "kno": {
+        "label": "OD6S.CHAR_KNOWLEDGE",
+        "short_label": "OD6S.CHAR_KNOWLEDGE_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "per": {
+        "label": "OD6S.CHAR_PERCEPTION",
+        "short_label": "OD6S.CHAR_PERCEPTION_SHORT",
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "tec": {
+        "label": "OD6S.CHAR_TECHNICAL",
+        "short_label": "OD6S.CHAR_TECHNICAL_SHORT",
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "max": 15,
+        "min": 3,
+        "type": "Number"
+      },
+      "met": {
+        "label": "OD6S.CHAR_METAPHYSICS",
+        "short_label": "OD6S.CHAR_METAPHYSICS_SHORT",
+        "base": 0,
+        "mod": 0,
+        "score": 0,
+        "type": "Number",
+        "min": null,
+        "max": null
+      }
+    },
+    "customeffects": {
+      "skills": {},
+      "specializations": {}
+    },
+    "custom1": "",
+    "custom2": "",
+    "custom3": "",
+    "custom4": "",
+    "labels": {},
+    "tags": [],
+    "description": {
+      "type": "String",
+      "label": "OD6S.DESCRIPTION",
+      "content": ""
+    },
+    "vehicle": {
+      "uuid": "Actor.kjs2j0DS0Uyyzx3H",
+      "name": "TIE Fighter",
+      "type": "starship",
+      "move": {
+        "value": 10,
+        "type": "Number",
+        "label": "OD6S.MOVE"
+      },
+      "maneuverability": {
+        "score": 6,
+        "type": "Number",
+        "label": "OD6S.MANEUVERABILITY"
+      },
+      "toughness": {
+        "score": 6,
+        "type": "Number",
+        "label": "OD6S.TOUGHNESS"
+      },
+      "crewmembers": [
+        {
+          "uuid": "Actor.UY054ucecAcGBQer",
+          "name": "Typical TIE Fighter Pilot"
+        }
+      ],
+      "items": {},
+      "attribute": {
+        "value": "mec",
+        "type": "String",
+        "label": "OD6S.ATTRIBUTE"
+      },
+      "skill": {
+        "value": "Starfighter Piloting",
+        "type": "String",
+        "label": "OD6S.SKILL"
+      },
+      "specialization": {
+        "value": "TIE",
+        "type": "String",
+        "label": "OD6S.SPECIALIZATION"
+      },
+      "damage": {
+        "value": "OD6S.DAMAGE_NONE",
+        "type": "String",
+        "label": "OD6S.DAMAGE"
+      },
+      "shields": {
+        "value": 0,
+        "allocated": 0,
+        "type": "Number",
+        "label": "OD6S.SHIELDS",
+        "skill": "OD6S.SHIELDS",
+        "arcs": {
+          "front": {
+            "label": "OD6S.FRONT",
+            "value": 0,
+            "type": "Number"
+          },
+          "rear": {
+            "label": "OD6S.REAR",
+            "value": 0,
+            "type": "Number"
+          },
+          "left": {
+            "label": "OD6S.LEFT",
+            "value": 0,
+            "type": "Number"
+          },
+          "right": {
+            "label": "OD6S.RIGHT",
+            "value": 0,
+            "type": "Number"
+          }
+        }
+      },
+      "scale": {
+        "score": 18,
+        "type": "Number",
+        "label": "OD6S.SCALE"
+      },
+      "sensors": {
+        "value": true,
+        "type": "Boolean",
+        "label": "OD6S.SENSORS",
+        "skill": "Sensors",
+        "mod": 0,
+        "types": {
+          "passive": {
+            "score": 0,
+            "range": 20,
+            "label": "OD6S.SENSORS_PASSIVE",
+            "type": "Number"
+          },
+          "scan": {
+            "score": 3,
+            "range": 40,
+            "label": "OD6S.SENSORS_SCAN",
+            "type": "Number"
+          },
+          "search": {
+            "score": 6,
+            "range": 60,
+            "label": "OD6S.SENSORS_SEARCH",
+            "type": "Number"
+          },
+          "focus": {
+            "score": 9,
+            "range": 3,
+            "label": "OD6S.SENSORS_FOCUS",
+            "type": "Number"
+          }
+        }
+      },
+      "armor": {
+        "score": 0,
+        "type": "Number",
+        "label": "OD6S.ARMOR"
+      },
+      "dodge": {
+        "score": 0,
+        "mod": 0,
+        "type": "Number",
+        "label": "OD6S.DODGE"
+      },
+      "ranged": {
+        "type": "Number",
+        "label": "OD6S.RANGED_ATTACK_MOD",
+        "short_label": "OD6S.RANGED_ATTACK_MOD_SHORT",
+        "score": 0
+      },
+      "ranged_damage": {
+        "type": "Number",
+        "label": "OD6S.RANGED_DAMAGE_MOD",
+        "short_label": "OD6S.RANGED_DAMAGE_MOD_SHORT",
+        "score": 0
+      },
+      "ram": {
+        "type": "Number",
+        "label": "OD6S.RAM_ATTACK_MOD",
+        "short_label": "OD6S.RAM_ATTACK_MOD_SHORT",
+        "score": 0
+      },
+      "ram_damage": {
+        "type": "Number",
+        "label": "OD6S.RAM_DAMAGE_MOD",
+        "short_label": "OD6S.RAM_DAMAGE_MOD_SHORT",
+        "score": 0
+      },
+      "vehicle_weapons": [
+        {
+          "_id": "UjmSAmyfHYs6EsyK",
+          "name": "2 Laser Cannons (fire linked)",
+          "type": "starship-weapon",
+          "img": "systems/od6s/icons/blank.png",
+          "data": {
+            "description": "",
+            "labels": {},
+            "tags": [],
+            "cost": 0,
+            "price": "",
+            "availability": "",
+            "quantity": 1,
+            "equipped": {
+              "value": true,
+              "type": "Boolean",
+              "label": "OD6S.EQUIPPED",
+              "consumable": false
+            },
+            "scale": {
+              "type": "Number",
+              "score": 0
+            },
+            "ammo": {
+              "type": "Number",
+              "value": 0
+            },
+            "arc": {
+              "type": "String",
+              "value": "Front"
+            },
+            "crew": {
+              "type": "Number",
+              "value": 1
+            },
+            "attribute": {
+              "type": "String",
+              "value": "mec"
+            },
+            "skill": {
+              "type": "String",
+              "value": "Starship Gunnery"
+            },
+            "specialization": {
+              "type": "String",
+              "value": ""
+            },
+            "fire_control": {
+              "type": "Number",
+              "score": 6
+            },
+            "range": {
+              "short": 300,
+              "medium": 1200,
+              "long": 2500
+            },
+            "damage": {
+              "type": "e",
+              "score": 15
+            },
+            "linked": {
+              "type": "Number",
+              "value": 0
+            },
+            "difficulty": 0,
+            "mods": {
+              "difficulty": 0,
+              "attack": 0,
+              "damage": 0
+            },
+            "area-units": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.AREA_UNITS"
+            },
+            "mass": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.MASS"
+            },
+            "energy": {
+              "type": "Number",
+              "value": 0,
+              "label": "OD6S.ENERGY"
+            },
+            "label": "OD6S.STARSHIP_WEAPON"
+          },
+          "effects": [],
+          "folder": "2TxmbcS50INp1SfU",
+          "sort": 0,
+          "permission": {
+            "default": 0,
+            "uw16b8PR8Y6FGcPN": 3
+          },
+          "flags": {
+            "core": {
+              "sourceId": "Item.V4IVKjUZMEVYTVIB"
+            }
+          },
+          "id": "UjmSAmyfHYs6EsyK"
+        }
+      ]
+    }
+  },
+  "token": {
+    "name": "Typical TIE Fighter Pilot",
+    "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/imp_pilot_1.webp",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
+    "flags": {},
+    "randomImg": true,
+    "tint": null,
+    "x": null,
+    "y": null,
+    "elevation": null
+  },
+  "items": [
+    {
+      "_id": "vA3KFnK0RBoq5EdY",
+      "name": "Armored Flight Suit",
+      "type": "armor",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/armoredflightsuit.webp",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">A combat-ready flight suit that provides additional protection against vacuum for limited periods, this armor comes in various models, including the Corellian TX-3 (favored by various pirate gangs) and the Imperial TIE flight suit (worn by TIE fighter pilots throughout the Empire).</span></p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Corellian TX-3</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Armored flight suit</span></p>\n<p><span class=\"fontstyle0\"><strong>Scale:</strong> </span><span class=\"fontstyle2\">Character</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">4,000</span></p>\n<p><span class=\"fontstyle0\"><strong>Availability:</strong> </span><span class=\"fontstyle2\">2</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">Provides +1D to </span><span class=\"fontstyle3\">Strength </span><span class=\"fontstyle2\">to resist </span><span class=\"fontstyle3\">physical </span><span class=\"fontstyle2\">and </span><span class=\"fontstyle3\">energy </span><span class=\"fontstyle2\">damage and additional protection against vacuum for limited periods. It grants a +1D+1 bonus to </span><span class=\"fontstyle3\">stamina </span><span class=\"fontstyle2\">to resist cold temperatures. An armored flight suit provides up to 10 hours of life support, allowing its wearer to survive in the vacuum of space or any other hostile environment.</span></p>\n<p><span class=\"fontstyle3\"><em>Utility Belt:</em> </span><span class=\"fontstyle2\">Ion flares, one week concentrated rations, spare comlink, water packs, 1 medpac.</span> </p>\n<p>&nbsp;</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 4000,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "pr": 3,
+        "er": 3,
+        "label": "OD6S.CHAR_ARMOR"
+      },
+      "effects": [],
+      "folder": "cYcUqPBDsqJaR5Eq",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.g1n5mtGqscihUouf"
+        }
+      },
+      "prDice": 1,
+      "prPips": 0,
+      "erDice": 1,
+      "erPips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.vA3KFnK0RBoq5EdY"
+    },
+    {
+      "_id": "F20rjjM6v6WmKDxu",
+      "name": "Blaster",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_blaster.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">A specific type or model of character-scale blaster weapon &mdash; </span><span class=\"fontstyle0\">blaster pistol, heavy blaster pistol, blaster rifle, BlasTech DL-44, hold-out blaster.</span></em></p>\n<p><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to shoot blaster weapons that can be held and carried by a character. </span><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">covers everything from tiny holdout blasters to large repeating blasters (such as the EWEB heavy repeating blaster used by Imperial snowtroopers on Hoth in </span><span class=\"fontstyle0\">The Empire Strikes Back</span><span class=\"fontstyle2\">). Other blaster types include sporting blasters (Princess Leia uses a sporting blaster in </span><span class=\"fontstyle0\">Star Wars: A New Hope</span><span class=\"fontstyle2\">), blaster pistols, heavy blaster pistols (like Han Solo&rsquo;s BlasTech DL-44), and the blaster rifles used by stormtroopers.</span></p>\n<p><span class=\"fontstyle2\">Do not use blaster to fire fixed blasters or multi-crew weapons (use </span><span class=\"fontstyle0\">blaster artillery</span><span class=\"fontstyle2\">), weapons mounted on vehicles (use </span><span class=\"fontstyle0\">vehicle blasters</span><span class=\"fontstyle2\">), or starship weapons (use </span><span class=\"fontstyle0\">capital ship gunnery </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">starship gunnery</span><span class=\"fontstyle2\">, both </span><span class=\"fontstyle0\">Mechanical </span><span class=\"fontstyle2\">skills).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "agi",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+        }
+      },
+      "id": "F20rjjM6v6WmKDxu",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.F20rjjM6v6WmKDxu"
+    },
+    {
+      "_id": "YJiluyKpjPIjleOZ",
+      "name": "Dodge",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_dodge.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Kind of ranged attack to be dodged &mdash; </span><span class=\"fontstyle0\">energy weapons, grenades, missile weapons</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Dodge </span><span class=\"fontstyle2\">is a &ldquo;reaction skill&rdquo; used to avoid any ranged attack, including blaster fire, grenades, bullets and arrows. Characters using this are doing whatever they can to </span><span class=\"fontstyle0\">dodge </span><span class=\"fontstyle2\">the attack &mdash; slipping around a corner for cover, diving behind cargo containers, dropping to the ground, or any other maneuvers to avoid getting hit.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "agi",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+        }
+      },
+      "id": "YJiluyKpjPIjleOZ",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.YJiluyKpjPIjleOZ"
+    },
+    {
+      "_id": "3hUraCW0uAoPtY7H",
+      "name": "Planetary Systems",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_planetarysys.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific system or planet &mdash; </span><span class=\"fontstyle0\">Tatooine, Endor, Hoth, Kessel.</span></em></p>\n<p><span class=\"fontstyle2\">This skill reflects a character&rsquo;s general knowledge of geography, weather, life-forms, trade products, settlements, technology, government and other general information about different systems and planets. Much of this information is gained from personal experience, computer records and hearsay from others who&rsquo;ve visited various systems.</span></p>\n<p><span class=\"fontstyle0\">Characters specializing in particular planets have a deeper knowledge of more subtle details &mdash; more than the average general database would contain. Although someone with an improved </span><span class=\"fontstyle2\">planetary systems </span><span class=\"fontstyle0\">skill would know that Tatooine&rsquo;s deserts are home to Jawas and Tusken Raiders, those with </span><span class=\"fontstyle2\">planetary systems: Tatooine </span><span class=\"fontstyle0\">would know the role the Jawa scavengers play in supplying the moisture farmers with spare parts and droids.</span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "kno",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+        }
+      },
+      "id": "3hUraCW0uAoPtY7H",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.3hUraCW0uAoPtY7H"
+    },
+    {
+      "_id": "QjGAwCOMnq29tjs5",
+      "name": "Sensors",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_sensors.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model scanner &mdash; </span><span class=\"fontstyle0\">hand scanner, med diagnostic scanner, heat sensor</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Characters with the this skill can operate various kinds of sensors, including those that detect lifeforms, identify vehicles, pick up energy readings, and make long-distance visual readings. </span><span class=\"fontstyle0\">Sensors </span><span class=\"fontstyle2\">covers everything from portable hand scanners (like the one used by Han Solo on Hoth) to the huge sensor arrays used on capital ships and in military bases.</span></p>\n<p><span class=\"fontstyle2\">Some scanners have die code bonuses &mdash; these extra dice are added when characters roll their sensors skill.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 2,
+        "mod": 3,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "id": "QjGAwCOMnq29tjs5",
+      "dice": 0,
+      "pips": 2,
+      "_key": "!actors.items!UY054ucecAcGBQer.QjGAwCOMnq29tjs5"
+    },
+    {
+      "_id": "WmkYdO07Nn8y32ZT",
+      "name": "Starfighter Piloting",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_starfighterpiloting.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model starfighter &mdash; </span><span class=\"fontstyle0\">X-wing, TIE/In, TIE interceptor, Z-95 Headhunter</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Starfighter piloting </span><span class=\"fontstyle2\">is used for all combat starfighters, including X-wings, Y-wings, A-wings, and TIE fighters. See the chapter on &ldquo;Space Travel and Combat.&rdquo;</span></p>\n<p><span class=\"fontstyle0\">Starfighter piloting </span><span class=\"fontstyle2\">can be used for a starship dodge &mdash; a &ldquo;reaction skill&rdquo; &mdash; to avoid enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 6,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round or longer.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "id": "WmkYdO07Nn8y32ZT",
+      "dice": 2,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.WmkYdO07Nn8y32ZT"
+    },
+    {
+      "_id": "sQSDNOS4sS87ef5C",
+      "name": "Starship Gunnery",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_starshipgunnery.svg",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type or model weapon &mdash; </span><span class=\"fontstyle0\">concussion missiles, ion cannons, laser cannon, proton torpedoes, turbolasers</span><span class=\"fontstyle2\">.</span></p>\n<p><span class=\"fontstyle0\">Starship gunnery </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill that covers all starfighter-scale weapons, including laser cannons, ion cannons, concussion missiles, and proton torpedoes.</span></p>\n<p><span class=\"fontstyle2\">Starfighter-scale weapons may be mounted on both starfighter-scale ships and capital-scale vessels. See the chapter on &ldquo;Space Travel and Combat,&rdquo; for more information on using this skill.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "mec",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+        }
+      },
+      "id": "sQSDNOS4sS87ef5C",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.sQSDNOS4sS87ef5C"
+    },
+    {
+      "_id": "YxC2k08N2bYtNE2m",
+      "name": "Command",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_command.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Leader&rsquo;s unit &mdash; </span><span class=\"fontstyle0\">Rogue Squadron, Imperial stormtroopers</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">is a measure of a character&rsquo;s ability to convince gamemaster characters and subordinates to do what they&rsquo;re told. </span><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">generally shouldn&rsquo;t be used against other player characters to force them to do something against their will &mdash; these situations should be handled through roleplaying interaction.</span></p>\n<p><span class=\"fontstyle2\">A high </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can complement individual participants&rsquo; rolls in a group activity, while a low </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.</span></p>\n<p><span class=\"fontstyle2\">The skill is often used in combat situations, such as a squad leader commanding his troops or a Star Destroyer captain telling his gunners which enemy ship to target.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\">When a character uses </span><span class=\"fontstyle2\">command</span><span class=\"fontstyle0\">, determine a difficulty number.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Characters have every reason to obey. (Stormtroopers taking orders from an Imperial admiral.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Characters have some reason to obey. (A bunch of Rebels from different units working together to fight off Imperial troops.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Characters have no reason to disobey. (A crowd of civilians being commanded to &ldquo;Move along&rdquo; at an accident scene.)<br /></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Characters are skeptical or suspicious. (A bunch of Ewoks who are carrying you lashed to stakes.)<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Characters have every reason to be suspicious. (Imperial troops who think you&rsquo;re a Rebel agent.)<br /></span><strong><span class=\"fontstyle3\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Characters have no reason at all to listen to you. (Imperial troops when you&rsquo;re dressed like a Rebel.)<br /></span></p>\n<p><span class=\"fontstyle2\">Command </span><span class=\"fontstyle0\">is also used when coordinating projects with many workers, such as manufacturing ships in space dock and other complex operations. See the&nbsp; sections on &ldquo;Combined Actions&rdquo; in the chapter on &ldquo;The Rules.&rdquo;</span></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "YxC2k08N2bYtNE2m",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.YxC2k08N2bYtNE2m"
+    },
+    {
+      "_id": "WHSU2edM36Rqde7B",
+      "name": "Search",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_search.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: Tracking.</span></em></p>\n<p><span class=\"fontstyle0\">This skill is used when the character is trying to spot hidden objects or individuals. If the subject of the search has been purposefully hidden, the searching character makes an opposed roll against the hiding character&rsquo;s </span><span class=\"fontstyle2\">hide<br /></span><span class=\"fontstyle0\">skill. If the object hasn&rsquo;t been hidden, the character simply makes a roll against a difficulty.</span></p>\n<p><span class=\"fontstyle0\">This skill is also used to spot characters using the </span><span class=\"fontstyle2\">sneak </span><span class=\"fontstyle0\">skill, such as a group of rebels moving into position to prepare an ambush, or someone attempting to conceal themselves. This is an opposed roll &mdash; the character </span><span class=\"fontstyle2\">sneaking </span><span class=\"fontstyle0\">around makes a roll, and anyone who might spot the character makes a </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">(or </span><span class=\"fontstyle2\">Perception</span><span class=\"fontstyle0\">) roll.</span></p>\n<p><span class=\"fontstyle0\">Here are some sample </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">difficulties:<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s exact location.<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s general location.<br /></span><strong><span class=\"fontstyle3\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Character has only vague information, or has only a general idea regarding what he is looking for.<br /></span><span class=\"fontstyle3\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Character is conducting a general </span><span class=\"fontstyle2\">search</span><span class=\"fontstyle0\">, but doesn&rsquo;t know what he is looking for (looking for clues at a crime scene). Looking for objects that are very small, like coins.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Character doesn&rsquo;t know what he is looking for, or is searching for a very obscure or extremely small object.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Object is almost microscopic in size.</span></p>\n<p><span class=\"fontstyle3\">Modifiers:<br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-6 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If tracking wheeled/tracked vehicle.</span><br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">Soft dirt, mud, or snow.<br /></span><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">For every two people in a party being tracked.<br /></span><strong><span class=\"fontstyle3\">-3 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Per each additional vehicle being tracked.<br /></span></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>No Modifier: </strong></span><span class=\"fontstyle0\">Grassland.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+3 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a forest or thin crowd.<br /><span class=\"fontstyle3\"><strong>+3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a day old.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+6 to search difficulty</strong>: </span><span class=\"fontstyle0\">In a rain forest or big crowd.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Tracking during bad weather.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">If the trail is a few days old.</span></span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+9 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a desert, wasteland, or over a hard surface.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><span class=\"fontstyle3\"><strong>+9 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a week old.<br /></span></span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "per",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round to several days.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+        }
+      },
+      "id": "WHSU2edM36Rqde7B",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.WHSU2edM36Rqde7B"
+    },
+    {
+      "_id": "HrCJvBHQWhWULYqi",
+      "name": "Stamina",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/str_stamina.svg",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">Stamina </span><span class=\"fontstyle2\">checks reflect that a character is being pushed to his or her physical limits. They should be called for once in a while to show the strain on a character; only require them when a character does something out of the ordinary.</span></p>\n<p><span class=\"fontstyle2\">Whenever a character fails a </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">roll, he is fatigued; all actions are at -1D for every </span><span class=\"fontstyle0\">stamina </span><span class=\"fontstyle2\">check failed until the character rests for as long as he exerted himself.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "str",
+        "min": false,
+        "base": 3,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "Stamina checks are made when characters exert themselves over long periods of time.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.k8QCsoBe74eik0Af"
+        }
+      },
+      "id": "HrCJvBHQWhWULYqi",
+      "dice": 1,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.HrCJvBHQWhWULYqi"
+    },
+    {
+      "_id": "MoFU0EEVMa4rhMqJ",
+      "name": "Computer Programming/Repair",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_compprogrepair.svg",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model computer &mdash; </span><span class=\"fontstyle0\">portable computer, mainframe, datapad, YT1300- computer.</span></p>\n<p><span class=\"fontstyle2\">Characters use this skill to repair, modify, and program computers &mdash; it also covers a character&rsquo;s familiarity with computer security procedures, his ability to evade them, and the ability to get secure information.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n<p><span class=\"fontstyle0\"><strong>The time required and the Difficulty of are determined by the type of information sought.</strong><br /></span><strong><span class=\"fontstyle2\">&bull; Very Easy: </span></strong><span class=\"fontstyle0\">Public data. Your character&rsquo;s credit balance. (1 minute)<br /></span><span class=\"fontstyle2\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Public data, but finding it may take a little more research. Who owns a building or starship. (10 minutes)<br /></span><strong><span class=\"fontstyle2\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Private data. A person&rsquo;s diary, or their credit balance. (1 hour)<br /></span><strong><span class=\"fontstyle2\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Secret data. A corporation&rsquo;s records, military plans. (8 hours)<br /></span><strong><span class=\"fontstyle2\">&bull; Very Difficult: </span></strong><span class=\"fontstyle0\">Top-secret data. The Navy&rsquo;s cloaking device plans, a Grand Moff&rsquo;s itinerary (gamemaster discretion).</span><br /><span class=\"fontstyle2\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Information that only a select few individuals would know. The location of all of Emperor Palpatine&rsquo;s secret weapons vaults (gamemaster discretion).</span> </p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "tec",
+        "min": false,
+        "base": 4,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "One round to several minutes, hours, or days.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+        }
+      },
+      "id": "MoFU0EEVMa4rhMqJ",
+      "dice": 1,
+      "pips": 1,
+      "_key": "!actors.items!UY054ucecAcGBQer.MoFU0EEVMa4rhMqJ"
+    },
+    {
+      "_id": "I8R5L0e4tFdCtWwR",
+      "name": "Starfighter Repair",
+      "type": "skill",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_starfighterrepair.svg",
+      "data": {
+        "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model starfighter &mdash; </span><span class=\"fontstyle0\">X-wing, TIE/In, TIE interceptor, Z-95 Headhunter.</span></em></p>\n<p><span class=\"fontstyle2\">This repair skill represents a character&rsquo;s ability to fix and modify starfighters. Each roll may repair one damaged system aboard a particular fighter. The cost and difficulty to repair a ship depends on how badly it is damaged, and what systems have been hit. See &ldquo;Using Repair Skills&rdquo; above for difficulties and costs associated with various systems which may be damaged.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "attribute": "tec",
+        "min": false,
+        "base": 9,
+        "mod": 0,
+        "score": 0,
+        "time_taken": "In general, 15 minutes, then one hour, then one day, then two days. May be customized by circumstances.",
+        "label": "OD6S.CHAR_SKILLS"
+      },
+      "effects": [],
+      "folder": "u7EFqEX0eZK1p7Fj",
+      "sort": 0,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3,
+        "default": 2
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.skills.9YIaypPGLhj7G85G"
+        }
+      },
+      "id": "I8R5L0e4tFdCtWwR",
+      "dice": 3,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.I8R5L0e4tFdCtWwR"
+    },
+    {
+      "_id": "XRYOkJK2hZB8gueB",
+      "name": "Blaster Pistol",
+      "type": "weapon",
+      "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/blaster_2.webp",
+      "data": {
+        "description": "<p><span class=\"fontstyle0\">The word &ldquo;blaster&rdquo; is a blanket term for literally thousands of different designs from hundreds of manufacturers, such as the popular BlasTech DL-18. Blasters are popular with urban police forces, traders, and anyone who needs to pack respectable firepower in an easily carried package. Ownership of these weapons is restricted in many systems.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Blaster pistol</span></p>\n<p><strong><span class=\"fontstyle4\">Scale: </span></strong><span class=\"fontstyle5\">Character</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\"><em>Blaster: Blaster Pistol</em></span></p>\n<p><strong><span class=\"fontstyle4\">Ammo: </span></strong><span class=\"fontstyle5\">100</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">500 (power packs: 25)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1, F, R or X</span></p>\n<p><span class=\"fontstyle4\"><strong>Fire Rate:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Range:</strong> </span><span class=\"fontstyle5\">3-10/30/120</span></p>\n<p><strong><span class=\"fontstyle4\">Damage: </span></strong><span class=\"fontstyle5\">4D</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+        "labels": {},
+        "tags": [],
+        "cost": 500,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "scale": {
+          "score": 0,
+          "type": "Number",
+          "label": "OD6S.SCALE"
+        },
+        "subtype": "Ranged",
+        "stats": {
+          "attribute": "AGI",
+          "skill": "Blaster",
+          "specialization": "Blaster Pistol"
+        },
+        "range": {
+          "short": "10",
+          "medium": "30",
+          "long": "120"
+        },
+        "damage": {
+          "type": "e",
+          "score": 12,
+          "muscle": false
+        },
+        "blast_radius": {
+          "1": {
+            "range": 0,
+            "damage": 0
+          },
+          "2": {
+            "range": 0,
+            "damage": 0
+          },
+          "3": {
+            "range": 0,
+            "damage": 0
+          },
+          "4": {
+            "range": 0,
+            "damage": 0
+          }
+        },
+        "ammo": 100,
+        "ammo_price": "",
+        "ammo_cost": 0,
+        "rof": 1,
+        "stun": 0,
+        "difficulty": "OD6S.DIFFICULTY_EASY",
+        "mods": {
+          "difficulty": 0,
+          "attack": 0,
+          "damage": 0
+        },
+        "label": "OD6S.CHAR_WEAPONS",
+        "credits": null
+      },
+      "effects": [],
+      "folder": "EFY8IfYAcGkwA8t9",
+      "sort": 900000,
+      "permission": {
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.od6s.weapons.l0ZTW2CZqGHpNa6L"
+        }
+      },
+      "dice": 4,
+      "pips": 0,
+      "_key": "!actors.items!UY054ucecAcGBQer.XRYOkJK2hZB8gueB"
+    },
+    {
+      "_id": "nDF4a4cVxIYD6cvT",
+      "name": "Navigation computer linkup helmet",
+      "type": "gear",
+      "img": "icons/equipment/head/goggles-leather-blue.webp",
+      "data": {
+        "description": "<p>Internal Comlink</p>\n<p>+1D to Sensors (Already reflected on TIE FIGHTER PILOT actor)</p>",
+        "labels": {},
+        "tags": [],
+        "cost": 0,
+        "price": "",
+        "availability": "",
+        "quantity": 1,
+        "equipped": {
+          "value": true,
+          "type": "Boolean",
+          "label": "OD6S.EQUIPPED",
+          "consumable": false
+        },
+        "consumable": false,
+        "label": "OD6S.CHAR_GEAR"
+      },
+      "effects": [],
+      "folder": "2TxmbcS50INp1SfU",
+      "sort": 100000,
+      "permission": {
+        "default": 0,
+        "uw16b8PR8Y6FGcPN": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "Item.oKeeQweva1Do5qny"
+        }
+      },
+      "_key": "!actors.items!UY054ucecAcGBQer.nDF4a4cVxIYD6cvT"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "od6s": {
+      "fatepointeffect": false,
+      "crew": "Actor.kjs2j0DS0Uyyzx3H",
+      "hasTakenTurn": false
+    },
+    "core": {
+      "sheetClass": "od6s-star-wars.ActorSheetStarWars"
+    }
+  },
+  "_key": "!actors!UY054ucecAcGBQer"
+}

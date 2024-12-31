@@ -1,0 +1,26 @@
+{
+  "_id": "b6IjxMA9nCzGS9lv",
+  "name": "Vampires",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/s_anzati.webp",
+  "data": {
+    "description": "<p>The Anzati feed from living beings: for every turn spent feeding, 2 pips are subtracted from the victim&rsquo;s Knowledge, Mechanical, Perception, and Technical attributes. If any one attribute is reduced to 0 or less, the victim dies. The damage to the attributes is permanent, and reduces skills accordingly.<br /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7e8686d2495765c42bda5461ff016a9926ec9df3",
+      "sourceId": "Item.b6IjxMA9nCzGS9lv"
+    }
+  },
+  "_key": "!items!b6IjxMA9nCzGS9lv"
+}

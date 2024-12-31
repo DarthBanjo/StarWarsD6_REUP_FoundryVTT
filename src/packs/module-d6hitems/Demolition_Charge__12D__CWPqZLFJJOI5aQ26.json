@@ -1,0 +1,40 @@
+{
+  "_id": "CWPqZLFJJOI5aQ26",
+  "name": "Demolition Charge (12D)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/fuse1.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Sometimes a mission calls for the use of more powerful explosives than either grenades or thermal detonators. Set explosives aren&rsquo;t ranged weapons and can&rsquo;t be used like grenades. </span></p>\n<p><span class=\"fontstyle0\">When set and activated, the charge&rsquo;s timer begins counting down. Standard timers can be set with as much as an hour delay. Longer delays require specialized timers. </span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.8Ki8QBGFcaoP6oco"
+    },
+    "scene-packer": {
+      "hash": "05e280f8b89e40b2aa1e8e7a003c6dedeeb97405",
+      "sourceId": "Item.CWPqZLFJJOI5aQ26"
+    }
+  },
+  "_key": "!items!CWPqZLFJJOI5aQ26"
+}

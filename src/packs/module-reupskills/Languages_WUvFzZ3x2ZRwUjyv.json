@@ -1,0 +1,31 @@
+{
+  "_id": "WUvFzZ3x2ZRwUjyv",
+  "name": "Languages",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/kno_languages.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific language known &mdash; </span><span class=\"fontstyle0\">Wookiee, Huttese, Bocce, Ewok.</span></em></p>\n<p><span class=\"fontstyle2\">The common language of the Known Galaxy is Basic. Most people speak it &mdash; if not as their main language, they are at least fluent in it &mdash; and virtually everyone can understand it. However, some areas of the galaxy are so isolated that Basic is rarely spoken. Some aliens can&rsquo;t or refuse to speak Basic. For example, Wookiees can under</span><span class=\"fontstyle2\">stand Basic, but, because of the structure of their mouths, usually cannot speak it. Ewoks do not normally understand Basic, but can learn it fairly easily. </span></p>\n<p><span class=\"fontstyle2\">The </span><span class=\"fontstyle0\">languages </span><span class=\"fontstyle2\">skill is used to determine whether or not a character understands something in another language. If the character wants to say something in a language in which he isn&rsquo;t fluent (see &ldquo;specialization&rdquo; below) increase the difficulty by two levels.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Specialization: </strong>Characters may specialize in a specific language, such as Wookiee, Huttese, or astromech droid. Once the character has 5D in the specialized language, the character is considered fluent in the language and no longer has to make rolls to understand anything in that language.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.LOEvsBlrl0mwonW6"
+    }
+  },
+  "_key": "!items!WUvFzZ3x2ZRwUjyv"
+}

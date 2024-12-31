@@ -1,0 +1,31 @@
+{
+  "_id": "UkrPNROoU7G7gvSj",
+  "name": "Blaster Artillery",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_blasterartillery.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">The particular type or model of artillery &mdash; </span><span class=\"fontstyle0\">anti-infantry, anti-vehicle, Golan Arms DF.9, surface-to-space, surface-to-surface</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Blaster artillery </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill that covers all fixed, multi-crew heavy energy weapons, such as those used by the Rebel Alliance at the Battle of Hoth and the fixed ion cannons fired from a planet&rsquo;s surface.</span></p>\n<p><span class=\"fontstyle2\">The time taken to use this skill is often one round. However, certain kinds of artillery have a &ldquo;fire rate,&rdquo; which indicates how many times a round that weapon can be used. For example, the anti-vehicle laser cannon used at Hoth can only be used once every other round (fire rate: 1/2), but the anti-infantry battery can fire up to twice per round (fire rate: 2).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!UkrPNROoU7G7gvSj"
+}

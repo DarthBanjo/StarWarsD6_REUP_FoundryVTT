@@ -1,0 +1,37 @@
+{
+  "_id": "Aer3cC6Zm5Xo26OM",
+  "name": "Bacta Geltab",
+  "type": "gear",
+  "img": "icons/consumables/potions/vial-cork-blue.webp",
+  "data": {
+    "description": "<p><strong>Bacta Geltab</strong><br /><strong>Model:</strong> Genetech G-5 Geltab<br /><strong>Type: </strong>Medpac treatment enhancer<br /><strong>Skill: </strong>Dexterity<br /><strong>Cost: </strong>50 (for pack of six)<br /><strong>Availability:</strong> 1<br /><strong>Game Notes: </strong>By applying a bacta geltab to a wound, and making a Very Easy Dexterity roll, the user gains a +1D bonus on the following first aid roll using a medpac on the treated wound.<br /><strong>Source: </strong>Lord of the Expanse &ndash; Sector Guide (page 45)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 6,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": true,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9a76b70c90da6fdb81d617cf542fe1d009551eab",
+      "sourceId": "Item.Aer3cC6Zm5Xo26OM"
+    }
+  },
+  "_key": "!items!Aer3cC6Zm5Xo26OM"
+}

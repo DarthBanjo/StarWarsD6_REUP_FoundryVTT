@@ -1,0 +1,40 @@
+{
+  "_id": "aKlZj8kKRrLsi4YO",
+  "name": "25,000 credit debt debt to Imperial warlord",
+  "type": "gear",
+  "img": "icons/magic/time/hourglass-tilted-gray.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "3e61bff699c1c8f4863d2d9f49099ea645b147aa",
+      "sourceId": "Item.aKlZj8kKRrLsi4YO"
+    },
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-d6hitems.QvBFfVX5SJ9vGBsx"
+    }
+  },
+  "_key": "!items!aKlZj8kKRrLsi4YO"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "Q0EZvAo7lTX0ZzOz",
+  "name": "Computer, Portable",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/comp_portable.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Compact and light enough to be carried in an attache case or backpack but powerful enough to run fairly complex programs, portable computers are the information technology of choice for anyone who needs access to a lot of data while on the go. As such, they are particularly popular with traveling business executives, military commanders in the field, and slicers.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Hand-held Computer<br /></span><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Computer<br /></span><strong><span class=\"fontstyle4\">Skill: </span></strong><span class=\"fontstyle6\"><em>Computer programming/repair</em><br /></span><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">Varies (see below)<br /></span><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">1<br /></span><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Hand-held computers can be used to access public information networks, or to slice into the HoloNet or other secure<br />networks. It can be loaded with as many as 5 datacards simultaneously. Hand-held computers grant a </span><span class=\"fontstyle6\"><em>computer programming/repair</em> </span><span class=\"fontstyle5\">bonus to rolls relating to calculation, or involving information download. The bonus depends on the computer&rsquo;s power:</span> </p>\n<table style=\"width: 100%; margin-left: auto; margin-right: auto;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>Bonus</strong></td>\n<td><strong>Cost</strong></td>\n</tr>\n<tr>\n<td>+1</td>\n<td>500</td>\n</tr>\n<tr>\n<td>+2</td>\n<td>750</td>\n</tr>\n<tr>\n<td>1D</td>\n<td>1000</td>\n</tr>\n<tr>\n<td>1D+1</td>\n<td>1,500</td>\n</tr>\n<tr>\n<td>1D+2</td>\n<td>3,000</td>\n</tr>\n<tr>\n<td>2D</td>\n<td>6,000</td>\n</tr>\n</tbody>\n</table>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Q0EZvAo7lTX0ZzOz"
+    }
+  },
+  "_key": "!items!Q0EZvAo7lTX0ZzOz"
+}

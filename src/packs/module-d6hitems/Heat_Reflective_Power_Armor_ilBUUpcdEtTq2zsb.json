@@ -1,0 +1,59 @@
+{
+  "_id": "ilBUUpcdEtTq2zsb",
+  "name": "Heat Reflective Power Armor",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_compforceassaulttrooper.webp",
+  "data": {
+    "description": "<p>Heat reflective power&nbsp;armor&nbsp;was&nbsp;a type of&nbsp;armor&nbsp;worn by CompForce Assault troopers. The&nbsp;armor&nbsp;was&nbsp;white&nbsp;and&nbsp;differed&nbsp;significantly&nbsp;in&nbsp;design&nbsp;from&nbsp;standard&nbsp;Imperial&nbsp;armor&nbsp;designs&nbsp;used&nbsp;by&nbsp;the&nbsp;Imperial&nbsp;Army and Navy. The&nbsp;armor&nbsp;provided minor protection against energy weapons, and greater protection against physical attacks.</p>\n<p><strong>Source:</strong> Heroes &amp; Rogues</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 6,
+    "er": 3,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "8NVuUlTk3qs4uNjE",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Heat Reflective Power Armor DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!ilBUUpcdEtTq2zsb.8NVuUlTk3qs4uNjE"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7ac8bfa3594870066806c3bbb15916634e43c8db",
+      "sourceId": "Item.ilBUUpcdEtTq2zsb"
+    }
+  },
+  "_key": "!items!ilBUUpcdEtTq2zsb"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "Kv8BlkWRAGVAiDHC",
+  "name": "Pocket Scrambler",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/pocketscrabler.webp",
+  "data": {
+    "description": "<p>This is a simple add-on device that can be attached to any normal communications device, such as a comlink or subspace transceiver. The pocket scrambler automatically encodes any outgoing message so that it can be read only by a communications device equipped with a linked pocket scrambler.</p>\n<p><strong><span class=\"fontstyle0\">Model: </span></strong><span class=\"fontstyle2\">Verge Corp. PS-xqt9s Pocket Scrambler</span></p>\n<p><strong><span class=\"fontstyle0\">Type: </span></strong><span class=\"fontstyle2\">Data encryption device </span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><span class=\"fontstyle3\">Communications</span></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">400</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">4, F or R</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">An Easy </span><span class=\"fontstyle3\">communications </span><span class=\"fontstyle2\">roll is required for normal use. </span><span class=\"fontstyle2\">Without a similar device and the appropriate code, a Very Difficult </span><span class=\"fontstyle3\">communications </span><span class=\"fontstyle2\">roll is necessary to decrypt message.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 400,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.Kv8BlkWRAGVAiDHC"
+    }
+  },
+  "_key": "!items!Kv8BlkWRAGVAiDHC"
+}

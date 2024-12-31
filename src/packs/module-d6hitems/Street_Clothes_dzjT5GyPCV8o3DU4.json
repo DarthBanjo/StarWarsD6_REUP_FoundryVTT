@@ -1,0 +1,37 @@
+{
+  "_id": "dzjT5GyPCV8o3DU4",
+  "name": "Street Clothes",
+  "type": "gear",
+  "img": "icons/equipment/chest/shirt-simple-grey.webp",
+  "data": {
+    "description": "<p>Alliance Agitator</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "379b06127d6e7a705fa33009857258e4be37e12a",
+      "sourceId": "Item.dzjT5GyPCV8o3DU4"
+    }
+  },
+  "_key": "!items!dzjT5GyPCV8o3DU4"
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "f6FqE4wIcfoJXdHq",
+  "name": "Force Skills: Start with Control 1D, Alter 1D",
+  "type": "manifestation",
+  "img": "icons/magic/symbols/runes-triangle-blue.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ed4d7b9e0a83f6305cc7664647ce3d98a68d1623",
+      "sourceId": "Item.f6FqE4wIcfoJXdHq"
+    }
+  },
+  "_key": "!items!f6FqE4wIcfoJXdHq"
+}

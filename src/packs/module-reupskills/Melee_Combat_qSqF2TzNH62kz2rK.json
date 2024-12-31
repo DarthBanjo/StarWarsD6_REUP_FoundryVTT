@@ -1,0 +1,31 @@
+{
+  "_id": "qSqF2TzNH62kz2rK",
+  "name": "Melee Combat",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_meleecombat.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type of melee weapon &mdash; </span><span class=\"fontstyle0\">swords, knives, axes, vibroblades, vibro-axes</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Melee combat </span><span class=\"fontstyle2\">is the &ldquo;melee combat&rdquo; skill used for all hand-to-hand weapons (except lightsabers, which is covered under the </span><span class=\"fontstyle0\">lightsaber </span><span class=\"fontstyle2\">skill). Melee weapons include vibro-axes, force pikes, clubs, bayonets and even impromptu weapons like chairs and blaster butts.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!qSqF2TzNH62kz2rK"
+}

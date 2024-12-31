@@ -1,0 +1,30 @@
+{
+  "_id": "vOXf2yDU2hkOMpWk",
+  "name": "Alter",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/1_skill_alter.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A Jedi with </span><span class=\"fontstyle2\">alter </span><span class=\"fontstyle0\">learns how to change the distribution and nature of the Force. Jedi who have mastered </span><span class=\"fontstyle2\">alter </span><span class=\"fontstyle0\">can move physical objects with their minds, can help others control their own Force, or can manipulate the Force in the bodies of others. This power can be used to change the perceptions of others and make them come to incorrect conclusions.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "met",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.metaphysics-skills.WDgImGP351VaPnJV"
+    }
+  },
+  "_key": "!items!vOXf2yDU2hkOMpWk"
+}

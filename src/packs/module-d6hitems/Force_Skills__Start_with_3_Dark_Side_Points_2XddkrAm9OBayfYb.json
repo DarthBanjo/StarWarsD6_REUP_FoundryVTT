@@ -1,0 +1,47 @@
+{
+  "_id": "2XddkrAm9OBayfYb",
+  "name": "Force Skills: Start with 3 Dark Side Points",
+  "type": "manifestation",
+  "img": "icons/magic/symbols/runes-triangle-orange.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS",
+    "attack": false,
+    "activate": false,
+    "active": false,
+    "roll": false,
+    "skills": {
+      "channel": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "sense": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      },
+      "transform": {
+        "value": false,
+        "difficulty": "E",
+        "rolled": false
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "75841c560fef226a5ef6267e77bebe91de169c40",
+      "sourceId": "Item.2XddkrAm9OBayfYb"
+    }
+  },
+  "_key": "!items!2XddkrAm9OBayfYb"
+}

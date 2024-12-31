@@ -1,0 +1,37 @@
+{
+  "_id": "5shyjdRelW3jAO4o",
+  "name": "Several changes of clothing for just about any occasion",
+  "type": "gear",
+  "img": "icons/containers/chest/chest-elm-steel-tan.webp",
+  "data": {
+    "description": "<p>Arrogant Noble</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "2767a5104b197e685d127f4f0b128acc91cbee3d",
+      "sourceId": "Item.5shyjdRelW3jAO4o"
+    }
+  },
+  "_key": "!items!5shyjdRelW3jAO4o"
+}

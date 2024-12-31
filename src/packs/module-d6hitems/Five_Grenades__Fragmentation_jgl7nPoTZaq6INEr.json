@@ -1,0 +1,89 @@
+{
+  "_id": "jgl7nPoTZaq6INEr",
+  "name": "Five Grenades, Fragmentation",
+  "type": "weapon",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/grenade_1.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Grenades come in a variety of sizes and forms, and can be simple explosives, or may eject noxious gases or smoke or any other number of payloads, depending upon the specific needs of the purchaser.</span></p>\n<p><span class=\"fontstyle0\"><strong>Type:</strong> </span><span class=\"fontstyle2\">Grenade</span></p>\n<p><strong><span class=\"fontstyle0\">Scale: </span></strong><span class=\"fontstyle2\">Character</span></p>\n<p><span class=\"fontstyle0\"><strong>Skill:</strong> </span><em><span class=\"fontstyle3\">Grenade</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">200</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1, R</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">3-7/20/40</span></p>\n<p><span class=\"fontstyle0\"><strong>Blast Radius:</strong> </span><span class=\"fontstyle2\">0-2/4/6/10</span></p>\n<p><strong><span class=\"fontstyle0\">Damage: </span></strong><span class=\"fontstyle2\">5D/4D/3D/2D</span></p>\n<p>&nbsp;</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 5,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "scale": {
+      "score": 0,
+      "type": "Number",
+      "label": "OD6S.SCALE"
+    },
+    "subtype": "Explosive",
+    "stats": {
+      "attribute": "AGI",
+      "skill": "Grenade",
+      "specialization": ""
+    },
+    "range": {
+      "short": "7",
+      "medium": "20",
+      "long": "40"
+    },
+    "damage": {
+      "type": "p",
+      "score": 0,
+      "muscle": false
+    },
+    "blast_radius": {
+      "1": {
+        "range": 2,
+        "damage": 5
+      },
+      "2": {
+        "range": 4,
+        "damage": 4
+      },
+      "3": {
+        "range": 6,
+        "damage": 3
+      },
+      "4": {
+        "range": 10,
+        "damage": 2
+      }
+    },
+    "ammo": 1,
+    "ammo_price": "",
+    "ammo_cost": 0,
+    "rof": 0,
+    "stun": 0,
+    "difficulty": "OD6S.DIFFICULTY_EASY",
+    "mods": {
+      "difficulty": 0,
+      "attack": 0,
+      "damage": 0
+    },
+    "label": "OD6S.CHAR_WEAPONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-weaps.2nYPQ7fUeg2qrCow"
+    },
+    "scene-packer": {
+      "hash": "b5774d39d93be6bd490dbb272ed7989364bbc84c",
+      "sourceId": "Item.jgl7nPoTZaq6INEr"
+    }
+  },
+  "_key": "!items!jgl7nPoTZaq6INEr"
+}

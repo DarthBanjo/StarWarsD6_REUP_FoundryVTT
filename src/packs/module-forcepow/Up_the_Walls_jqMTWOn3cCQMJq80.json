@@ -1,0 +1,21 @@
+{
+  "_id": "jqMTWOn3cCQMJq80",
+  "name": "Up the Walls",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_upthewalls.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle2\">Control Difficulty: </span></strong><span class=\"fontstyle3\">Difficult.</span></p>\n<p><strong><span class=\"fontstyle2\">Required Powers: </span></strong><span class=\"fontstyle4\"><em>Enhance attribute, burst of speed</em>.</span></p>\n<p><strong><span class=\"fontstyle2\">Effect: </span></strong><span class=\"fontstyle3\">You can use some or all of your movement on a wall, as long as you begin and end your turn on the floor. The height you can achieve on the wall is limited only by your movement limit. You must use this power in conjunction with your </span><span class=\"fontstyle4\">running </span><span class=\"fontstyle3\">skill, multiple action penalties apply.</span></p>\n<p><span class=\"fontstyle3\">If you do not end your move on the floor or if you fail your </span><span class=\"fontstyle4\">running </span><span class=\"fontstyle3\">roll, you fall prone, taking damage as appropriate for your height above the floor. Treat the wall as normal floor for the purposes of measuring your movement, but not for where you can begin or end your move. Shifting from a horizontal surface to a vertical surface (and vice-versa) costs 2 meters of movement.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!jqMTWOn3cCQMJq80"
+}

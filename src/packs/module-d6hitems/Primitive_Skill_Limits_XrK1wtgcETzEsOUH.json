@@ -1,0 +1,26 @@
+{
+  "_id": "XrK1wtgcETzEsOUH",
+  "name": "Primitive Skill Limits",
+  "type": "specialability",
+  "img": "icons/environment/wilderness/camp-improvised.webp",
+  "data": {
+    "description": "<p>New characters may not place skill dice in any vehicle or starship except <em>Glider</em>.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "492113d06cf37a03f8456aef2e2953ad828ae37a",
+      "sourceId": "Item.XrK1wtgcETzEsOUH"
+    }
+  },
+  "_key": "!items!XrK1wtgcETzEsOUH"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "nG1cZsmwwuDBt6aD",
+  "name": "Micro-tool pack",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/toolkit2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "76cc37273f108d0efa7b710da735d8453a84b0dd",
+      "sourceId": "Item.nG1cZsmwwuDBt6aD"
+    }
+  },
+  "_key": "!items!nG1cZsmwwuDBt6aD"
+}

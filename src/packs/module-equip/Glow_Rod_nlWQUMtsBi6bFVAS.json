@@ -1,0 +1,36 @@
+{
+  "_id": "nlWQUMtsBi6bFVAS",
+  "name": "Glow Rod",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/REUP_CC/glowrod_CC.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Glow rods are portable illumination devices that derive their power from long-lasting energy cells or chemical reactants. Personal glow rods are generally small, hand-held units that project a beam of light up to 50 meters (although more expensive models can have much longer ranges).</span></p>\n<p><span class=\"fontstyle0\">Some higher-priced glow-rods are considerably larger and heavier, but are capable of generating a considerably brighter beam. These larger units are often equipped with sturdy legs, and a programmable swivel mount, allowing the device to act as </span><span class=\"fontstyle0\">a limited searchlight or signaling device.</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Standard glow rod.</span></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">10</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><strong><span class=\"fontstyle4\">Range: </span></strong><span class=\"fontstyle5\">50 meters</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.nlWQUMtsBi6bFVAS"
+    }
+  },
+  "_key": "!items!nlWQUMtsBi6bFVAS"
+}

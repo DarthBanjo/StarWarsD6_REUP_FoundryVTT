@@ -1,0 +1,37 @@
+{
+  "_id": "Ekjt5CKgneXyJRiU",
+  "name": "Collapsible survival tent",
+  "type": "gear",
+  "img": "icons/sundries/survival/bedroll-blue-red.webp",
+  "data": {
+    "description": "<p><strong>Emergency Inflation Shelter</strong><br /><strong>Model:</strong> Valerenn Environmentals Personal Shelter Capsule<br /><strong>Type: </strong>Personal environmental protection shelter<br /><strong>Skill: </strong>Survival<br /><strong>Cost:</strong> 500<br /><strong>Availability: </strong>2<br /><strong>Game Notes: </strong>Prior to activation, the PSC is a flat, 1 meter square, 25 centimeters thick cube that houses an inflatable, highly reflective fabric shelter. Filaments running throughout the fabric draw solar energy to the shelter&rsquo;s batteries, allowing for up to 10 hours of continuous use. When fully inflated, the shelter expands to a diameter of 2.5 meters and oxygen recycling and heating elements are automatically activated. A zippered entranceway gives access to the interior. A Very Easy survival roll is required for activation.<br /><strong>Source: </strong>Galladinium&rsquo;s Fantastic Technology (page 65)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 500,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "92fba5ffbfe5eb789650a26a1b62fcc9e31bb0df",
+      "sourceId": "Item.Ekjt5CKgneXyJRiU"
+    }
+  },
+  "_key": "!items!Ekjt5CKgneXyJRiU"
+}

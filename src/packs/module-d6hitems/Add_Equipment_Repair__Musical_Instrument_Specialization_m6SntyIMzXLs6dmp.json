@@ -1,0 +1,26 @@
+{
+  "_id": "m6SntyIMzXLs6dmp",
+  "name": "Add Equipment Repair: Musical Instrument Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/tec_equiprepair.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "686d7cbf3260bfdc75f41cc6dd2c658d01f3bb6b",
+      "sourceId": "Item.m6SntyIMzXLs6dmp"
+    }
+  },
+  "_key": "!items!m6SntyIMzXLs6dmp"
+}

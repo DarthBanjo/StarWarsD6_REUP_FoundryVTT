@@ -1,0 +1,37 @@
+{
+  "_id": "TYSlpRrlU6DTTyj8",
+  "name": "Space Rescue Corps uniform",
+  "type": "gear",
+  "img": "icons/equipment/back/cloak-collared-red-gold.webp",
+  "data": {
+    "description": "<p>Black with Crimson Trim</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "cbed0337c72a1efa12163d9f5c48a834a1563926",
+      "sourceId": "Item.TYSlpRrlU6DTTyj8"
+    }
+  },
+  "_key": "!items!TYSlpRrlU6DTTyj8"
+}

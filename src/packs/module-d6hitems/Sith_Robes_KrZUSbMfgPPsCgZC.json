@@ -1,0 +1,37 @@
+{
+  "_id": "KrZUSbMfgPPsCgZC",
+  "name": "Sith Robes",
+  "type": "gear",
+  "img": "icons/equipment/head/hood-red.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e56fe145181101b313f7f691e10204db4c4fab52",
+      "sourceId": "Item.KrZUSbMfgPPsCgZC"
+    }
+  },
+  "_key": "!items!KrZUSbMfgPPsCgZC"
+}

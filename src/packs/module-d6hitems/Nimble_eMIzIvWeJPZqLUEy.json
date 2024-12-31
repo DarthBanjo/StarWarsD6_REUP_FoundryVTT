@@ -1,0 +1,26 @@
+{
+  "_id": "eMIzIvWeJPZqLUEy",
+  "name": "Nimble",
+  "type": "specialability",
+  "img": "icons/skills/movement/feet-winged-boots-blue.webp",
+  "data": {
+    "description": "<p>Kushiban gain a +1D bonus to Climbing/Jumping skill checks that involve jumping or leaping, as well as a +1D bonus to all Dodge skill rolls.</p>\n<p><strong>Source: </strong>Kushiban</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "51ef661c0a8b6056a0efbd7bc805cd01d0e972f5",
+      "sourceId": "Item.eMIzIvWeJPZqLUEy"
+    }
+  },
+  "_key": "!items!eMIzIvWeJPZqLUEy"
+}

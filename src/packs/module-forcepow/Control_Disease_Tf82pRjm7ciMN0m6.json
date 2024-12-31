@@ -1,0 +1,42 @@
+{
+  "_id": "Tf82pRjm7ciMN0m6",
+  "name": "Control Disease",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_controldisease.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong></p>\n<ul>\n<li><span class=\"fontstyle2\">Very Easy for a mild infection, such as a cold; </span></li>\n<li><span class=\"fontstyle2\">Easy for a modest infection or illness, such as a high fever or severe flu; </span></li>\n<li><span class=\"fontstyle2\">Moderate for a severe illness, such as gangrene or a hive virus; </span></li>\n<li><span class=\"fontstyle2\">Difficult for a life-threatening disease; </span></li>\n<li><span class=\"fontstyle2\">Very Difficult for a massive, long-standing disease; </span></li>\n<li><span class=\"fontstyle2\">Heroic for a rapid-acting life-threatening disease.</span></li>\n</ul>\n<p><span class=\"fontstyle0\"><strong>Required Powers:</strong> </span><span class=\"fontstyle3\">Accelerate healing.</span></p>\n<p><strong><span class=\"fontstyle0\">Time to Use: </span></strong><span class=\"fontstyle2\">30 minutes to several uses over the course of weeks.</span></p>\n<p><span class=\"fontstyle0\"><strong>Effect:</strong> </span><span class=\"fontstyle3\">Control disease </span><span class=\"fontstyle2\">allows the Jedi to direct and control the anti-bodies and healing resources of her body to throw off an infection or to resist diseases within the body. Using the power requires the Jedi to meditate for half an hour.</span></p>\n<p><span class=\"fontstyle2\">If the disease is life-threatening or long-standing, the Jedi must make repeated skill attempts over the course of several weeks or months to cure the disease entirely. (gamemaster&rsquo;s discretion as to how many rolls are needed and how often.)</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "u9msSIwcd2Lt6lmI",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!Tf82pRjm7ciMN0m6.u9msSIwcd2Lt6lmI"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Tf82pRjm7ciMN0m6"
+}

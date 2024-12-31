@@ -1,0 +1,38 @@
+{
+  "_id": "V1EuFB90bPq6n3MO",
+  "name": "Life Bond",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_lifebond.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Moderate</p>\n<p><strong>Sense Difficulty: </strong>See below. Modified by proximity.</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Life Detection,&nbsp;Life Sense,&nbsp;Magnify Senses,&nbsp;Receptive Telepathy</em></p>\n<p><em>This power can be kept up.</em></p>\n<p><strong>Effect:</strong> A Jedi character may choose the <em>life bond</em> power to permanently form a mental link with one other individual, normally a mate (although sometimes siblings, parent and child, or even very close friends choose to <em>life bond</em>).</p>\n<p>Detailed information can be learned by activating the power. If both characters have the <em>life bond</em> power, reduce all sense difficulties by one level (although both characters must still roll for <em>life bond</em> to achieve the benefits listed below). The following benefits are only in effect when the characters are actively using the life bond power.</p>\n<ul>\n<li>On an Easy <em>sense </em>roll, the Force-user is aware of the other&rsquo;s general location and general emotional state: whether the person is frightened, in pain, injured, happy, or experiencing some other strong emotion.</li>\n<li>On a Moderate <em style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">sense </em><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">roll, the Force-user experiences the other&rsquo;s senses: he or she sees though the other&rsquo;s eyes, hears what the other hears, and smells, tastes, and feels what the other person is experiencing. However, at this level, the characters are affected by each other&rsquo;s experiences &ndash; both characters share pain, and if one character is injured, the other character suffers an injury one level lower.</span></li>\n<li>On a Difficult <em>sense </em>roll, the Force-user is considered telepathically linked to the life bond partner and can read the surface thoughts of the other if the other is willing to share those thoughts.</li>\n<li>On a Very Difficult <em>sense </em>roll, the Force-user can send thoughts to the life-bonded partner (as per the <em>projective telepathy</em> power), allowing the characters to carry on a telepathic conversation.</li>\n</ul>\n<p>As an added benefit, the two characters can have premonitions about each other: for example, if one character is severely injured, his or her life bond partner will sense that something bad has happened. This aspect of the life bond power is modified by proximity only, as outlined below. Sensing premonitions is automatic of within 11,000 kilometers of each other. If on the same planet but more than 1,000 kilometers from each other, a Very Easy sense roll is necessary to sense premonitions. If not on the same planet but in the same star system, and Easy sense roll is necessary to sense premonitions. If not in the same star system but within 10 light-years, a Moderate sense roll is required. If more than 10 light-years but less than 100 light-years away, a Difficult sense roll is necessary. If more than 100 light-years away from each other, a Very Difficult sense roll is necessary.</p>\n<p>Life-bonded characters may not share skills, attributes, Force Points, or Character Points. However, since the characters do have such a close bond, the actions of one can affect the other. If a life-bonded character commits an evil action, the Jedi partner receives a Dark Side Point even though these actions were not the Jedi&rsquo;s fault. Obviously, life bonding is an exceedingly serious commitment, and not to be taken lightly.</p>\n<p>Both characters must agree to the<em> life bond</em> for the power to work and a character mayonly life bond with one other individual. Life bonding takes 1D weeks to complete (as the Jedi becomes accustomed to the background Force presence of the life bond partner). During that time, the Jedi&rsquo;s <em>control </em>is -1D. The life bond power may not be activated until the bond is completely formed.</p>\n<p>Death is the only means of severing the<em> life bond</em>. If one member of the life-bonded couple is killed, the surviving partner enters a nearcatatonic state of shock for 1D days. After reawakening, the partner grieves and readjusts to a solitary existence; all die codes are reduced by -1D for the same amount of time it took to forge the life bond.</p>\n<p>Any attempt to forge a new life bond in the future requires a much longer period of adjustment: 2D weeks for a second bond, 3D weeks for a third bond, and so forth.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "2l77oFdYpB8OwC8e",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Life Bond",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consen_lifebond.svg",
+      "tint": null,
+      "_key": "!items.effects!V1EuFB90bPq6n3MO.2l77oFdYpB8OwC8e"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!V1EuFB90bPq6n3MO"
+}

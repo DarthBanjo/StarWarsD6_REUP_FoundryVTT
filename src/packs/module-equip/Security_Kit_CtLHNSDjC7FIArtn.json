@@ -1,0 +1,36 @@
+{
+  "_id": "CtLHNSDjC7FIArtn",
+  "name": "Security Kit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/sec_kit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">A security kit is a set of special tools for bypassing electronic and mechanical locks. It usually includes electronic components and dedicated sensor devices. On most worlds, possession of a security kit is illegal for anyone who doesn&rsquo;t have the proper permits, such as members of law enforcement agencies and professional security experts.</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Typical security kit</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Security</span></em></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">750, 1,500 (mastercraft)</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, R or X</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">This item gives it user a +1D bonus on </span><em><span class=\"fontstyle6\">security </span></em><span class=\"fontstyle5\">rolls. It also provides a +1D bonus on any <em>repair </em>rolls relating to security systems. A mastercraft security kit provides a +2D bonus to </span><em><span class=\"fontstyle6\">security </span></em><span class=\"fontstyle5\">and contains a comlink that monitors frequencies typically used by silent alarms, so the user can know if such an alarm has been triggered at any point during the operation.</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 750,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.CtLHNSDjC7FIArtn"
+    }
+  },
+  "_key": "!items!CtLHNSDjC7FIArtn"
+}

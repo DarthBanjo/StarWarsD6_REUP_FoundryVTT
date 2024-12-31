@@ -1,0 +1,37 @@
+{
+  "_id": "gW1QvJY2zUqarv6V",
+  "name": "Navigational computer linkup helmet (internal comlink, +1D to sensors)",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/blasthelm.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7123f06c88487606dc61ece5c450f9252e2321a4",
+      "sourceId": "Item.gW1QvJY2zUqarv6V"
+    }
+  },
+  "_key": "!items!gW1QvJY2zUqarv6V"
+}

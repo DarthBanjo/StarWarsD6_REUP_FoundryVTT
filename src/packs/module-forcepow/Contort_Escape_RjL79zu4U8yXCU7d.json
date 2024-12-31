@@ -1,0 +1,42 @@
+{
+  "_id": "RjL79zu4U8yXCU7d",
+  "name": "Contort/Escape",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_contortescape.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle0\">Control Difficulty: </span></strong></p>\n<ul>\n<li><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Very Easy for loose bonds; </span></li>\n<li><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Easy for hand </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">binders; </span></li>\n<li><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Moderate for serious restraints; </span></li>\n<li><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Difficult to Heroic for </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">maximum security (varies at gamemaster&rsquo;s discretion, depending </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">on security measures).</span></li>\n</ul>\n<p><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><strong>Required Powers:</strong> </span><em><span class=\"fontstyle3\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Concentration, control pain, enhance </span></em><em style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><span class=\"fontstyle3\">attribute</span></em><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">.</span></p>\n<p><span class=\"fontstyle2\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"><strong>Effect:</strong> </span><span class=\"fontstyle0\" style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">The character may escape bonds by contorting in </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">painful and difficult (but still physically possible) ways. By </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">stretching, twisting, and dislocating joints a Jedi can escape </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">almost any physical restraining device. While this is indeed a </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">painful procedure, Jedi are trained to block out the pain and </span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">focus on the task at hand.</span></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "u9msSIwcd2Lt6lmI",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "",
+      "transfer": true,
+      "flags": {},
+      "icon": null,
+      "tint": null,
+      "_key": "!items.effects!RjL79zu4U8yXCU7d.u9msSIwcd2Lt6lmI"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!RjL79zu4U8yXCU7d"
+}

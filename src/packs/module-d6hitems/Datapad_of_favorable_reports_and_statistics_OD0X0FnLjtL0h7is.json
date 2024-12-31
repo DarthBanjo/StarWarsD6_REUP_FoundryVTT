@@ -1,0 +1,41 @@
+{
+  "_id": "OD0X0FnLjtL0h7is",
+  "name": "Datapad of favorable reports and statistics",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/datapad2.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">Datapads are electronic information storage devices noted for their small size and portability. Datapads can store relevant personal data, encyclopedic entries and other basic information, though the microprocessors in such units generally cannot perform higher level computing.</span></p>\n<p><span class=\"fontstyle0\">Datapads are available in a wide range of configurations &mdash; less expensive models are often dedicated to the storage and collation of a single type of data. Smaller, more expensive units can be customized to handle a variety of information types. Some high-priced datapads contain a small holo-projector which gives the user a &ldquo;heads-up&rdquo; display rather than the standard flat screen common on lower-end units.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Standard Datapad</span></p>\n<p><strong><span class=\"fontstyle4\">Type: </span></strong><span class=\"fontstyle5\">Portable computer workstation</span></p>\n<p><strong><span class=\"fontstyle4\">Skill: </span></strong><em><span class=\"fontstyle6\">Computer programming/repair</span></em></p>\n<p><strong><span class=\"fontstyle4\">Cost: </span></strong><span class=\"fontstyle5\">100; (1,000 with holo-projector unit and built-in comlink.)</span></p>\n<p><span class=\"fontstyle4\"><strong>Availability:</strong> </span><span class=\"fontstyle5\">1</span></p>\n<p><span class=\"fontstyle4\"><strong>Game Notes:</strong> </span><span class=\"fontstyle5\">Datapads may be used to access public information networks or the HoloNet if combined with a comlink or other connection device. It can be loaded with as many as 5 datacards simultaneously.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.mKaiF1wwafJpWEvH"
+    },
+    "scene-packer": {
+      "hash": "d3d6992527517c7405276e5214104bac345ea939",
+      "sourceId": "Item.OD0X0FnLjtL0h7is",
+      "defaultPermission": 2
+    }
+  },
+  "_key": "!items!OD0X0FnLjtL0h7is"
+}

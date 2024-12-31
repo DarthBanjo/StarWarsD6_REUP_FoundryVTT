@@ -1,0 +1,26 @@
+{
+  "_id": "BX7UN4x71N5OLWov",
+  "name": "Add Blaster: Repeating Blaster Specialization",
+  "type": "specialability",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_blaster.svg",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "87c2546e9f601701013ce21622c83abe411c9bb5",
+      "sourceId": "Item.BX7UN4x71N5OLWov"
+    }
+  },
+  "_key": "!items!BX7UN4x71N5OLWov"
+}

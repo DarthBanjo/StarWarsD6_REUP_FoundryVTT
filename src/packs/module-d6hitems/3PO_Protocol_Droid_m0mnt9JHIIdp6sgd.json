@@ -1,0 +1,37 @@
+{
+  "_id": "m0mnt9JHIIdp6sgd",
+  "name": "3PO Protocol Droid",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/templateArt/t_protocoldroid.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "fd42556f3ae3137a672ba0f8843032f341f1319b",
+      "sourceId": "Item.m0mnt9JHIIdp6sgd"
+    }
+  },
+  "_key": "!items!m0mnt9JHIIdp6sgd"
+}

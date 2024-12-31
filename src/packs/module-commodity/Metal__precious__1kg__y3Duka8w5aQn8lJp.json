@@ -1,0 +1,32 @@
+{
+  "_id": "y3Duka8w5aQn8lJp",
+  "name": "Metal, precious (1kg)",
+  "type": "gear",
+  "img": "icons/commodities/metal/ingot-engraved-gold.webp",
+  "data": {
+    "description": "<p>1 kg = 10,000</p>\n<p>1 metric ton =&nbsp;<span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">10,000,000</span></p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!y3Duka8w5aQn8lJp"
+}

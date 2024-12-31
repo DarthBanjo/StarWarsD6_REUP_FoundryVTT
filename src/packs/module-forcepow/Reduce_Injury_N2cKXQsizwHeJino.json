@@ -1,0 +1,21 @@
+{
+  "_id": "N2cKXQsizwHeJino",
+  "name": "Reduce Injury",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_reduceinjury.svg",
+  "data": {
+    "description": "<p><strong><span class=\"fontstyle2\">Control Difficulty: </span></strong></p>\n<ul>\n<li><span class=\"fontstyle3\">Moderate for </span><span class=\"fontstyle4\">incapacitated </span><span class=\"fontstyle3\">characters, </span></li>\n<li><span class=\"fontstyle3\">Difficult for </span><span class=\"fontstyle4\">mortally wounded </span><span class=\"fontstyle3\">characters, </span></li>\n<li><span class=\"fontstyle3\">Very Difficult for </span><span class=\"fontstyle4\">dead </span><span class=\"fontstyle3\">characters.</span></li>\n</ul>\n<p><span class=\"fontstyle2\"><strong>Required Powers:</strong> </span><span class=\"fontstyle4\"><em>Control pain</em>.</span></p>\n<p><strong><span class=\"fontstyle2\">Effect: </span></strong><span class=\"fontstyle3\">A Jedi may use this power to reduce the amount of injury she suffers. This power is normally only used in desperation because of its long-term repercussions.</span></p>\n<p><span class=\"fontstyle3\">The power must be used in the round that the injury is suffered or in the round immediately following. When the power is successful, the Jedi loses a Force Point. Any injury that is suffered is reduced to </span><span class=\"fontstyle4\">wounded</span><span class=\"fontstyle3\">. If the original injury would have killed the character, the gamemaster will inflict a relevant permanent injury on the character.</span></p>\n<p><span class=\"fontstyle3\"><br /></span><span class=\"fontstyle2\"><strong>Note:</strong> </span><span class=\"fontstyle3\">It is not always a &ldquo;selfish&rdquo; act to save one&rsquo;s life, so the character </span><span class=\"fontstyle4\">might </span><span class=\"fontstyle3\">be able to get the Force Point back. If the character was fighting to save her friends from certain doom &mdash; and if she fails, they </span><span class=\"fontstyle4\">certainly </span><span class=\"fontstyle3\">die &mdash; then this could even be considered an heroic action.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!N2cKXQsizwHeJino"
+}

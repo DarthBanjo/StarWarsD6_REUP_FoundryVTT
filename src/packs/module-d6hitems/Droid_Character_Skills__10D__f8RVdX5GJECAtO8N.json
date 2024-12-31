@@ -1,0 +1,26 @@
+{
+  "_id": "f8RVdX5GJECAtO8N",
+  "name": "Droid Character Skills (10D)",
+  "type": "specialability",
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+  "data": {
+    "description": "<p>You start with 10D to allocate to skills, but may not place more than 2D in any one skill</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_SPECIAL_ABILITIES"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ff59f23288820ca5606556f4fd7aada0f32a4c81",
+      "sourceId": "Item.f8RVdX5GJECAtO8N"
+    }
+  },
+  "_key": "!items!f8RVdX5GJECAtO8N"
+}

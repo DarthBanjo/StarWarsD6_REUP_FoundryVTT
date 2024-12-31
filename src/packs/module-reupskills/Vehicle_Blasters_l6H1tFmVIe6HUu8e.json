@@ -1,0 +1,31 @@
+{
+  "_id": "l6H1tFmVIe6HUu8e",
+  "name": "Vehicle Blasters",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_vehicleblasters.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type or model of vehicle-mounted blaster &mdash; </span><span class=\"fontstyle0\">heavy blaster cannon, heavy laser cannon, light blaster cannon, light laser cannon, medium blaster cannon, medium laser cannon</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle0\">Vehicle blasters </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to fire vehicle-mounted energy weapons, especially those that are speeder- or walker-scale. (The weapon&rsquo;s description will list which skill it uses.) </span><span class=\"fontstyle0\">Vehicle blasters </span><span class=\"fontstyle2\">can also be used to fire speeder- or walker-scale weapons mounted on starships.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!l6H1tFmVIe6HUu8e"
+}

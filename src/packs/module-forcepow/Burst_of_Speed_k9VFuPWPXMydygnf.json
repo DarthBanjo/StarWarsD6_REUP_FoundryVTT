@@ -1,0 +1,89 @@
+{
+  "_id": "k9VFuPWPXMydygnf",
+  "name": "Burst of Speed",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_burstofspeed.svg",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><strong>Control Difficulty:</strong> </span><span class=\"fontstyle2\">Moderate.</span></p>\n<p><span class=\"fontstyle0\"><strong>Required Powers:</strong> </span><em><span class=\"fontstyle3\">Enhance attribute.</span></em></p>\n<p><strong><span class=\"fontstyle0\">Effect: </span></strong><span class=\"fontstyle2\">A Jedi can use this power to enhance his Move rating, increasing his running and walking speeds dramatically for a short period of time. Both the duration and Move increase are determined by the amount the Jedi&rsquo;s </span><span class=\"fontstyle3\">control </span><span class=\"fontstyle2\">roll exceeds the difficulty. The duration can be increased by spending character points &mdash; for each character point spent, the duration is increased by one round. These points can be spent at any time before the power fades.<br /></span></p>\n<p>&nbsp;</p>\n<table class=\"NormalTable\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 27.2165%;\" width=\"48\">\n<p><span class=\"fontstyle5\">Control roll&nbsp;</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">&ge; <br />Difficulty By:</span></p>\n<p><span class=\"fontstyle5\">0-8 <br />9-20 <br />21+ </span></p>\n</td>\n<td style=\"width: 24.3558%;\" width=\"71\">\n<p><span class=\"fontstyle5\">Move Increase<br /><br /></span></p>\n<p><span class=\"fontstyle5\">+5 <br />+10 <br />+15 </span></p>\n</td>\n<td style=\"width: 48.4277%;\" width=\"69\">\n<p><span class=\"fontstyle5\">Duration<br /><br /></span></p>\n<p><span class=\"fontstyle5\">4 Rounds<br />3 Rounds<br />2 Rounds</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "8dLqHOkxF8wLfF5O",
+      "changes": [
+        {
+          "key": "data.move.value",
+          "mode": 2,
+          "value": "5"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "rounds": 4
+      },
+      "label": "Burst of Speed: Add 5 Move",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_burstofspeed.svg",
+      "tint": null,
+      "_key": "!items.effects!k9VFuPWPXMydygnf.8dLqHOkxF8wLfF5O"
+    },
+    {
+      "_id": "Rczgioggc6xpo1Nf",
+      "changes": [
+        {
+          "key": "data.move.value",
+          "mode": 2,
+          "value": "10"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 3
+      },
+      "label": "Burst of Speed: Add 10 Move",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_burstofspeed.svg",
+      "tint": null,
+      "_key": "!items.effects!k9VFuPWPXMydygnf.Rczgioggc6xpo1Nf"
+    },
+    {
+      "_id": "hYpkebjGE7BwdIhW",
+      "changes": [
+        {
+          "key": "data.move.value",
+          "mode": 2,
+          "value": "15"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 2
+      },
+      "label": "Burst of Speed: Add 15 Move",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/con_burstofspeed.svg",
+      "tint": null,
+      "_key": "!items.effects!k9VFuPWPXMydygnf.hYpkebjGE7BwdIhW"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.yCzmNqzHOG8PdezG"
+    }
+  },
+  "_key": "!items!k9VFuPWPXMydygnf"
+}

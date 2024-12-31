@@ -1,0 +1,37 @@
+{
+  "_id": "3b3ihrhQDYphCC92",
+  "name": "Average clothes",
+  "type": "gear",
+  "img": "icons/equipment/chest/shirt-collared-yellow.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "122d46e42e4da406fd650347cb8dea0146969a7e",
+      "sourceId": "Item.3b3ihrhQDYphCC92"
+    }
+  },
+  "_key": "!items!3b3ihrhQDYphCC92"
+}

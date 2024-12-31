@@ -1,0 +1,21 @@
+{
+  "_id": "B2xlDxaakQVUwdTH",
+  "name": "Injure/Kill",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_injurekill.svg",
+  "data": {
+    "description": "<p><strong>Alter Difficulty:</strong> Target's <em>control </em>or <em>Perception </em>roll.</p>\n<p><strong>Required Power:&nbsp;</strong><em>Life Detection,&nbsp;Life Sense</em></p>\n<p><strong>Warning:</strong> A character who uses this power receives a Dark Side Point.</p>\n<p><strong>Effect: </strong>An attacker must be touching the target to use this power. In combat, this means making a successful <em>brawling </em>attack in the same round that the power is to be used. When the power is activated, if the attacker's <em>alter </em>roll is higher than the character's resisting <em>control </em>or <em>Perception </em>total, figure damage as if the <em>alter </em>roll was a damage total and the <em>control </em>or <em>Perception </em>roll was a <em>Strength </em>roll to resist damage.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!B2xlDxaakQVUwdTH"
+}

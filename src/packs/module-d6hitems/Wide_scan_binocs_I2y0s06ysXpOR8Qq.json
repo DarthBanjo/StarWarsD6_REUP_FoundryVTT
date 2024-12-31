@@ -1,0 +1,40 @@
+{
+  "_id": "I2y0s06ysXpOR8Qq",
+  "name": "Wide-scan binocs",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/macrobinocs.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Macrobinoculars are personal image-magnification devices, often capable of enhancing vision up to one kilometer away (this is an &ldquo;average&rdquo; set of macrobinoculars; other models may have much longer or shorter ranges). These devices provide computer-enhanced images as well as information on range and targeting. All </span><em><span class=\"fontstyle2\">search</span></em><span class=\"fontstyle0\">- and </span><em><span class=\"fontstyle2\">Perception</span></em><span class=\"fontstyle0\">-oriented skills are increased by 3D when using these tools to view areas more than 100 meters away (normal modifiers apply).</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">If attached to a blaster via specialized programming software, they provide a +3D bonus to all medium and long-range shots (they are ineffectual for short and point-blank range shots). Additionally, the user must be using the macrobinoculars and weapon in a &ldquo;sniper&rdquo; type of position, requiring a steady resting spot and at least one round of preparation.</span></span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">Thousands of different models of macrobinoculars are commercially available. Lower-priced units often forgo any kind of &ldquo;zoom&rdquo; feature, instead providing only a fixed magnification. </span></span><span class=\"fontstyle0\"><span class=\"fontstyle0\">Higher-priced macrobinoculars can provide detailed range and targeting data and often can record a holographic representation of whatever is seen through the device&rsquo;s viewfinder.</span> <br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\" /></span></p>\n<p><span class=\"fontstyle0\"><strong>Model:</strong> </span><span class=\"fontstyle2\">Standard macrobinoculars</span></p>\n<p><strong><span class=\"fontstyle0\">Skill: </span></strong><em><span class=\"fontstyle3\">Sensors</span></em></p>\n<p><strong><span class=\"fontstyle0\">Cost: </span></strong><span class=\"fontstyle2\">100</span></p>\n<p><strong><span class=\"fontstyle0\">Availability: </span></strong><span class=\"fontstyle2\">1</span></p>\n<p><strong><span class=\"fontstyle0\">Range: </span></strong><span class=\"fontstyle2\">100-250/500/1,000</span></p>\n<p><strong><span class=\"fontstyle0\">Game Notes: </span></strong><span class=\"fontstyle2\">All modes have an Easy </span><em><span class=\"fontstyle3\">sensors </span></em><span class=\"fontstyle2\">difficulty at short range, increasing one level per range band. </span><span class=\"fontstyle3\"><em>Search</em> </span><span class=\"fontstyle2\">and other </span><em><span class=\"fontstyle3\">Perception</span></em><span class=\"fontstyle2\">-based rolls may be increased when using macrobinoculars by +3D when used to find something more than 100 meters away.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 100,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.OmYLMQ7e6IeJzLzg"
+    },
+    "scene-packer": {
+      "hash": "6b1db0c0f0cf312c085492c2aefd14d3fdb09ac5",
+      "sourceId": "Item.I2y0s06ysXpOR8Qq"
+    }
+  },
+  "_key": "!items!I2y0s06ysXpOR8Qq"
+}

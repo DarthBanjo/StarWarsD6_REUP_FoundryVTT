@@ -1,0 +1,37 @@
+{
+  "_id": "DTU4C33BaZ6TrCtS",
+  "name": "Crate Hooks (STR+2 to Lifting or Melee Combat)",
+  "type": "gear",
+  "img": "icons/tools/hand/sickle-steel-grey.webp",
+  "data": {
+    "description": "<p><strong>Crate Hooks</strong><br />Model: Vlanth Cargo Grippers<br />Type: Crate hooks<br />Skill: Lifting or melee combat<br />Cost: 50 per pair<br />Availability: 1<br />Damage: STR+1D<br />Game Notes: Although crate hooks make good melee weapons, they&rsquo;re too small and awkward to be used to parry attacks.<br />Source: Platt&rsquo;s Smugglers Guide (page 49)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 50,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ef61d784f2117eeecf63b89949a4bf8213d2c447",
+      "sourceId": "Item.DTU4C33BaZ6TrCtS"
+    }
+  },
+  "_key": "!items!DTU4C33BaZ6TrCtS"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "uGIKXWHiU67l5QWD",
+  "name": "Beast Languages",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_beastlang.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty:</strong></p>\n<ul>\n<li>Easy if the animal is domesticated/friendly (such as a bantha);</li>\n<li>Moderate to Difficult if the animal is wild, but non-predatory (such as an undomesticated tauntaun);</li>\n<li>Very Difficult to Heroic if the animal is ferocious/predatory (such as a wild rancor).</li>\n</ul>\n<p><em>This power may be kept up.</em></p>\n<p><strong>Required Powers:</strong>&nbsp;<em>Life Sense,&nbsp;Receptive Telepathy,&nbsp;Projective Telepathy,&nbsp;Translation</em></p>\n<p><strong>Effect: </strong>This power allows the Jedi to translate a beast-language and allows the Jedi to speak it. As creatures rarely have &ldquo;true&rdquo; languages, the Jedi is actually reading the differences in surface emotions within grunts and growls and other cues of body language. Note that the character may keep up this power if the Jedi needs to continue picking up the emotional state of a creature. For beasts that can be ridden, subtract 2D from their orneriness code while this power is in effect. A creature&rsquo;s minimum orneriness code is 0D.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "V2TpLbpletA5J3c7",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Beast Languages",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_beastlang.svg",
+      "tint": null,
+      "_key": "!items.effects!uGIKXWHiU67l5QWD.V2TpLbpletA5J3c7"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!uGIKXWHiU67l5QWD"
+}

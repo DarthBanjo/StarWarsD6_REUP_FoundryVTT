@@ -1,0 +1,37 @@
+{
+  "_id": "WA3Vs5BUKrnOlgAo",
+  "name": "Sculpting Tools",
+  "type": "gear",
+  "img": "icons/tools/hand/chisel-steel-brown.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "dbb2f5412f1a47c89d0b3299938fbc34f8e1265b",
+      "sourceId": "Item.WA3Vs5BUKrnOlgAo"
+    }
+  },
+  "_key": "!items!WA3Vs5BUKrnOlgAo"
+}

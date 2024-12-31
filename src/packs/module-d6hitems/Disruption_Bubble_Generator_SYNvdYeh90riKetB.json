@@ -1,0 +1,37 @@
+{
+  "_id": "SYNvdYeh90riKetB",
+  "name": "Disruption Bubble Generator",
+  "type": "gear",
+  "img": "icons/skills/social/diplomacy-offering-ritual.webp",
+  "data": {
+    "description": "<p><strong>Disruption Bubble Generator</strong><br /><strong>Model:</strong>&nbsp;Bakuran DB Generator<br /><strong>Type:&nbsp;</strong>Anti-surveillance device<br /><strong>Cost:</strong>&nbsp;150,000 (Bakuran black market), 2,500-5,000 (elsewhere)<br /><strong>Availability:</strong>&nbsp;4, F, R or X<br /><strong>Game Notes:&nbsp;</strong>The Disruption Bubble Generator is capable of producing a small, quiet area of interference to audio sensors. This bubble is generally 2 meters in diameter and can only be penetrated by a Very Difficult <em>sensors</em> roll.</p>\n<p>The Disruption Bubble generators still in circulation are extremely old and extremely fragile. They should be treated as having 1D Strength to resist damage. If dropped, shot or handled roughly the device must roll to resist damage. If the device fails its <em>strength</em> roll, it is destroyed.<br /><strong>Source:&nbsp;</strong>The Truce at Bakura Sourcebook (pages 137-138), Gundark&rsquo;s Fantastic Technology (pages 96-97)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 5000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d033032095c60aa6caaf41dc2fbaff107bea7b97",
+      "sourceId": "Item.SYNvdYeh90riKetB"
+    }
+  },
+  "_key": "!items!SYNvdYeh90riKetB"
+}

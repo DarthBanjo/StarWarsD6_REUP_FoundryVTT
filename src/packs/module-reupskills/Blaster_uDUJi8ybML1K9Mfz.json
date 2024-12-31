@@ -1,0 +1,31 @@
+{
+  "_id": "uDUJi8ybML1K9Mfz",
+  "name": "Blaster",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/dex_blaster.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">A specific type or model of character-scale blaster weapon &mdash; </span><span class=\"fontstyle0\">blaster pistol, heavy blaster pistol, blaster rifle, BlasTech DL-44, hold-out blaster.</span></em></p>\n<p><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to shoot blaster weapons that can be held and carried by a character. </span><span class=\"fontstyle0\">Blaster </span><span class=\"fontstyle2\">covers everything from tiny holdout blasters to large repeating blasters (such as the EWEB heavy repeating blaster used by Imperial snowtroopers on Hoth in </span><span class=\"fontstyle0\">The Empire Strikes Back</span><span class=\"fontstyle2\">). Other blaster types include sporting blasters (Princess Leia uses a sporting blaster in </span><span class=\"fontstyle0\">Star Wars: A New Hope</span><span class=\"fontstyle2\">), blaster pistols, heavy blaster pistols (like Han Solo&rsquo;s BlasTech DL-44), and the blaster rifles used by stormtroopers.</span></p>\n<p><span class=\"fontstyle2\">Do not use blaster to fire fixed blasters or multi-crew weapons (use </span><span class=\"fontstyle0\">blaster artillery</span><span class=\"fontstyle2\">), weapons mounted on vehicles (use </span><span class=\"fontstyle0\">vehicle blasters</span><span class=\"fontstyle2\">), or starship weapons (use </span><span class=\"fontstyle0\">capital ship gunnery </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">starship gunnery</span><span class=\"fontstyle2\">, both </span><span class=\"fontstyle0\">Mechanical </span><span class=\"fontstyle2\">skills).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.qKCLma9xkqgBy0yX"
+    }
+  },
+  "_key": "!items!uDUJi8ybML1K9Mfz"
+}

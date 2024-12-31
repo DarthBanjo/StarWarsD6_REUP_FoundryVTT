@@ -1,0 +1,58 @@
+{
+  "_id": "g1n5mtGqscihUouf",
+  "name": "Armored Spacesuit",
+  "type": "armor",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/armoredspacesuit.webp",
+  "data": {
+    "description": "<p><span class=\"fontstyle0\">This bulky coverall contains a sealed life support system that provides everything the wearer needs to survive for 25 hours in the vacuum of space or any other hostile environment.</span></p>\n<p><strong><span class=\"fontstyle4\">Model: </span></strong><span class=\"fontstyle5\">Merr-Sonn Weapons Superior Boarding Armor</span></p>\n<p><span class=\"fontstyle4\"><strong>Type:</strong> </span><span class=\"fontstyle5\">Armored space suit</span></p>\n<p><span class=\"fontstyle4\"><strong>Cost:</strong> </span><span class=\"fontstyle5\">10,000</span></p>\n<p><strong><span class=\"fontstyle4\">Availability: </span></strong><span class=\"fontstyle5\">2, X</span></p>\n<p><strong><span class=\"fontstyle4\">Game Notes: </span></strong><span class=\"fontstyle5\">Armor provides +2D versus </span><span class=\"fontstyle6\">energy</span><span class=\"fontstyle5\">, +1D versus </span><span class=\"fontstyle6\">physical </span><span class=\"fontstyle5\">damage; -1D from </span><span class=\"fontstyle6\">Dexterity </span><span class=\"fontstyle5\">and related skills. Holds 25 hours of atmosphere.</span></p>\n<p><span class=\"fontstyle6\"><strong>Rocket Pack:</strong> </span><span class=\"fontstyle5\">Suit includes a rocket pack; Space Move: 1, uses </span><em><span class=\"fontstyle6\">rocket pack operation</span></em><span class=\"fontstyle5\">.</span> </p>",
+    "labels": {},
+    "tags": [],
+    "cost": 10000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "pr": 3,
+    "er": 6,
+    "label": "OD6S.CHAR_ARMOR"
+  },
+  "effects": [
+    {
+      "_id": "4utMTp8z0ERxRaHj",
+      "changes": [
+        {
+          "key": "data.attributes.agi.mod",
+          "mode": 2,
+          "value": "-3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Armored Spacesuit DEX Penalty",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/armoredspacesuit.webp",
+      "tint": null,
+      "_key": "!items.effects!g1n5mtGqscihUouf.4utMTp8z0ERxRaHj"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.starwarsd6-essentialcompanion-od6s.module-equip.g1n5mtGqscihUouf"
+    }
+  },
+  "_key": "!items!g1n5mtGqscihUouf"
+}

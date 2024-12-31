@@ -1,0 +1,152 @@
+{
+  "_id": "ELcKFezvmao89BFV",
+  "name": "Drain Life Essence",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Difficult, inversely modified by relationship. For example, using this power on a close relative would add +30 to the difficulty; using this power on complete strangers of other species would add nothing to the difficulty.</p>\n<p><strong>Sense Difficulty:</strong> Based on number of victims:</p>\n<ul>\n<li><strong>Very Easy: </strong>1-5</li>\n<li><strong>Easy:</strong> 6-50</li>\n<li><strong>Moderate:</strong> 51-1,000</li>\n<li><strong>Difficult: </strong>1,001-50,000</li>\n<li><strong>Very Difficult:</strong> 50,001-1 million</li>\n<li><strong>Heroic:</strong> 1 million to 10 million</li>\n</ul>\n<p><strong>Alter Difficulty:</strong></p>\n<ul>\n<li>Easy for willing, worshipful subjects.</li>\n<li>Difficult for ambivalent or apathetic individuals.</li>\n<li>Heroic for enemies.</li>\n<li>Add +10 to the difficulty if individuals are imbued with the Light Side of the Force.</li>\n</ul>\n<p><strong>Required Powers:</strong> <em>Control pain, hibernation trance, life detection, life sense, magnify senses, receptive telepathy, sense Force, telekinesis, farseeing, projectile telepathy, control another&rsquo;s pain, transfer Force, affect mind, control mind*, dim other&rsquo;s senses</em></p>\n<p><em>This power may be kept &ldquo;up &ldquo;</em></p>\n<p><strong>Warning:&nbsp;</strong>Any Jedi who uses this power gains a Dark Side Point.</p>\n<p><strong>Effect:</strong> This power allows a Dark Jedi to draw life energy from those around him and to channel the negative effects of the Dark Side into those victims.</p>\n<p>All living things are a part of and contribute to the Force; even those with no awareness of the Force are affected by and are a part of it. Many beings go through their daily lives wasting much of their life energy. This power draws that life energy from beings, allowing a Jedi to use that energy to further his or her own ends.</p>\n<p>In order to draw this energy, the Jedi must roll for this power once per day; this power is considered &ldquo;up&rdquo; at all times, and thus the Jedi suffers appropriate die penalties.</p>\n<p>The amount of energy the Jedi draws depends on the number of individuals affected by the power and how long they have been drained.</p>\n<p><strong>For individuals who have been drained for less then one week or longer than one month:</strong></p>\n<ul>\n<li>1-5&mdash;One Force Point per week</li>\n<li>6-50&mdash;One Force Point per five days</li>\n<li>51-1,000&mdash;One Force Point per three days</li>\n<li>1,001-50,000&mdash;One Force Point per two days</li>\n<li>50,001-1 million&mdash;One Force Point per day</li>\n<li>1 million to 10 million&mdash;One Force Point per 12 hours</li>\n</ul>\n<p><strong>For individuals who have been drained longer than one week and less than one month:</strong></p>\n<ul>\n<li>1-5&mdash;One Force Point per five days and +1D to all Force skills</li>\n<li>6-50&mdash;One Force Point per three days and +2D to all Force skills</li>\n<li>51-1,000&mdash;One Force Point per two days and +3D to all Force skills</li>\n<li>1,001-50,000&mdash;One Force Point per day and +3D+2 to all Force skills</li>\n<li>50,001-1 million&mdash;One Force Point per 12 hours and +4D to all Force skills</li>\n<li>1 million to 10 million&mdash;One Force Point per 6 hours and +4D+2 to all Force skills</li>\n</ul>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "fyjQ7HsHTaXFyQnA",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Drain Life Essence 1-5",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.fyjQ7HsHTaXFyQnA"
+    },
+    {
+      "_id": "EFftCTzNBWdMoVuG",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Drain Life Essence 5-60",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.EFftCTzNBWdMoVuG"
+    },
+    {
+      "_id": "GUqEulfNzGp1SEHd",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "label": "Drain Life Essence 51-1,000",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.GUqEulfNzGp1SEHd"
+    },
+    {
+      "_id": "IwHxLnBtYxBgQ1Z8",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "11"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Drain Life Essence 1,001-50,000",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.IwHxLnBtYxBgQ1Z8"
+    },
+    {
+      "_id": "SFRbivB5kLRjY9OW",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "12"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Drain Life Essence 50,001-1M",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.SFRbivB5kLRjY9OW"
+    },
+    {
+      "_id": "qBoFRRae3FLiEn6t",
+      "changes": [
+        {
+          "key": "data.attributes.met.mod",
+          "mode": 2,
+          "value": "14"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Drain Life Essence 1M-10M",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/consenalt_drainlifeessence.svg",
+      "tint": null,
+      "_key": "!items.effects!ELcKFezvmao89BFV.qBoFRRae3FLiEn6t"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!ELcKFezvmao89BFV"
+}

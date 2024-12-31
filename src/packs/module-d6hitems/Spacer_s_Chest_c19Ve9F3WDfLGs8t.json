@@ -1,0 +1,37 @@
+{
+  "_id": "c19Ve9F3WDfLGs8t",
+  "name": "Spacer's Chest",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_spacerschest.webp",
+  "data": {
+    "description": "<p>Spacer's Chest A spacer's chest is perhaps the only thing a career spacer can rely on. Most spacers are tramp workers, moving from berth to berth dozens of times in a career. They tend to travel light, because lots of personal goods slow you down, and because there's so little space aboard ship for personal gear. Most spacers tote their few belongings in a hardy piece of luggage, called a spacer's chest, which carries their spare clothes, data discs, small tools, datapad, food concentrates and snacks, spare blaster and blaster packs, and perhaps a few mementos and oddities from their travels.</p>\n<dl>\n<dd><strong>Model:&nbsp;</strong>SoroSuub's Wanderer Space Chest</dd>\n<dd><strong>Type:</strong>&nbsp;Spacer's chest</dd>\n<dd><strong>Cost:&nbsp;</strong>200 credits</dd>\n<dd><strong>Availability:</strong>&nbsp;1</dd>\n<dd><strong>Game Notes:&nbsp;</strong>A rectangular, 1 meter long chest, with handles on each face. It can be locked with an electronic combo-lock (Moderate&nbsp;to pick), sealed against vacuum, and is quite durable: 6D Strength.</dd>\n</dl>\n<p><strong>Notes:&nbsp;</strong>Items like a spacer's chest or a good shipsuit are often overlooked by fringe operators; they're too busy buying the biggest gun or the sharpest melee weapon to bother with \"trivialities\" like clothing and storage gear. Personally, I like a shipsuit with a lot of pockets for gear, and a chest to store my bulkier belongings. That way, I always know where my tools and weapons are, so I can get to them quickly.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 200,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "660a780a51d462d7e5a25b685b6b2eceb09ea20d",
+      "sourceId": "Item.c19Ve9F3WDfLGs8t"
+    }
+  },
+  "_key": "!items!c19Ve9F3WDfLGs8t"
+}

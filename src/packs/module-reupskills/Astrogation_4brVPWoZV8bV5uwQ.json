@@ -1,0 +1,31 @@
+{
+  "_id": "4brVPWoZV8bV5uwQ",
+  "name": "Astrogation",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_astrogation.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Time Taken: </span><span class=\"fontstyle2\">One minute when your position is known and you are following a commonly-traveled jump route for which hyperspace coordinates have already been calculated (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before and the nav computer must calculate coordinates. One day when you must take readings to determine your ship&rsquo;s current position and then compute jump coordinates.</span></em></p>\n<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific trade route &mdash; </span><span class=\"fontstyle0\">Kessel Run, Tatooine to Coruscant, Corellian Run Trade Route</span><span class=\"fontstyle2\">.</span></em></p>\n<p><span class=\"fontstyle2\">Starship pilots use </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">to plot a course from one star system to another. For more details on </span><span class=\"fontstyle0\">astrogation </span><span class=\"fontstyle2\">difficulties, see the chapter on &ldquo;Space Travel and Combat.&rdquo;</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One minute or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!4brVPWoZV8bV5uwQ"
+}

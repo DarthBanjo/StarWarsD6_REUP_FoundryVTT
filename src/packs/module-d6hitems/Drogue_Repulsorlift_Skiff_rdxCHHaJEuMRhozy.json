@@ -1,0 +1,37 @@
+{
+  "_id": "rdxCHHaJEuMRhozy",
+  "name": "Drogue Repulsorlift Skiff",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/actorIcons/speeder_razalon.webp",
+  "data": {
+    "description": "<p>Drogue<br />Craft: Modified Aratech WorkStar Repulsorlift Skiff<br />Type: Small cargo skiff<br />Scale: Speeder<br />Length: 5 meters<br />Skill: Repulsorlift operation: skiff<br />Crew: 1<br />Passengers: 1 (in place of normal cargo limits)<br />Cargo Capacity: 350 kilograms<br />Cover: 1/4<br />Altitude Range: Ground level-200 meters<br />Cost: 1,000<br />Maneuverability: 1D<br />Move: 14; 40 kmh (vertical), 8; 25 kmh (horizontal)<br />Body Strength: 2D<br />Source: Galaxy Guide 11 &ndash; Criminal Organizations (page 86), Rules of Engagement &ndash; The Rebel SpecForces Handbook (page 50)</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 1000,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "28ac574c3dd5e1af908faa19aae2b3d8afd5873e",
+      "sourceId": "Item.rdxCHHaJEuMRhozy"
+    }
+  },
+  "_key": "!items!rdxCHHaJEuMRhozy"
+}

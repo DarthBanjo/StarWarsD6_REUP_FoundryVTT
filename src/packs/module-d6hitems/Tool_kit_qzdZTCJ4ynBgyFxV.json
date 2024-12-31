@@ -1,0 +1,37 @@
+{
+  "_id": "qzdZTCJ4ynBgyFxV",
+  "name": "Tool kit",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/WEG_FAIR/toolkit2.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e5abe74a5f4fe32b8e4589b0c00ed827ac43bbc2",
+      "sourceId": "Item.qzdZTCJ4ynBgyFxV"
+    }
+  },
+  "_key": "!items!qzdZTCJ4ynBgyFxV"
+}

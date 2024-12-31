@@ -1,0 +1,31 @@
+{
+  "_id": "RMFmrHhFKGPUsjQ7",
+  "name": "Search",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/per_search.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: Tracking.</span></em></p>\n<p><span class=\"fontstyle0\">This skill is used when the character is trying to spot hidden objects or individuals. If the subject of the search has been purposefully hidden, the searching character makes an opposed roll against the hiding character&rsquo;s </span><span class=\"fontstyle2\">hide<br /></span><span class=\"fontstyle0\">skill. If the object hasn&rsquo;t been hidden, the character simply makes a roll against a difficulty.</span></p>\n<p><span class=\"fontstyle0\">This skill is also used to spot characters using the </span><span class=\"fontstyle2\">sneak </span><span class=\"fontstyle0\">skill, such as a group of rebels moving into position to prepare an ambush, or someone attempting to conceal themselves. This is an opposed roll &mdash; the character </span><span class=\"fontstyle2\">sneaking </span><span class=\"fontstyle0\">around makes a roll, and anyone who might spot the character makes a </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">(or </span><span class=\"fontstyle2\">Perception</span><span class=\"fontstyle0\">) roll.</span></p>\n<p><span class=\"fontstyle0\">Here are some sample </span><span class=\"fontstyle2\">search </span><span class=\"fontstyle0\">difficulties:<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s exact location.<br /></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Character knows object&rsquo;s general location.<br /></span><strong><span class=\"fontstyle3\">&bull; Moderate: </span></strong><span class=\"fontstyle0\">Character has only vague information, or has only a general idea regarding what he is looking for.<br /></span><span class=\"fontstyle3\"><strong>&bull; Difficult:</strong> </span><span class=\"fontstyle0\">Character is conducting a general </span><span class=\"fontstyle2\">search</span><span class=\"fontstyle0\">, but doesn&rsquo;t know what he is looking for (looking for clues at a crime scene). Looking for objects that are very small, like coins.<br /></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Character doesn&rsquo;t know what he is looking for, or is searching for a very obscure or extremely small object.<br /></span><span class=\"fontstyle3\"><strong>&bull; Heroic:</strong> </span><span class=\"fontstyle0\">Object is almost microscopic in size.</span></p>\n<p><span class=\"fontstyle3\">Modifiers:<br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-6 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If tracking wheeled/tracked vehicle.</span><br /></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">Soft dirt, mud, or snow.<br /></span><span class=\"fontstyle3\"><strong>-3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">For every two people in a party being tracked.<br /></span><strong><span class=\"fontstyle3\">-3 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Per each additional vehicle being tracked.<br /></span></span><span class=\"fontstyle0\"><span class=\"fontstyle3\"><strong>No Modifier: </strong></span><span class=\"fontstyle0\">Grassland.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+3 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a forest or thin crowd.<br /><span class=\"fontstyle3\"><strong>+3 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a day old.</span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+6 to search difficulty</strong>: </span><span class=\"fontstyle0\">In a rain forest or big crowd.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">Tracking during bad weather.<br /><strong><span class=\"fontstyle3\">+6 to search difficulty:&nbsp;</span></strong><span class=\"fontstyle0\">If the trail is a few days old.</span></span><br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><strong>+9 to search difficulty:</strong> </span><span class=\"fontstyle0\">In a desert, wasteland, or over a hard surface.<br /></span><span class=\"fontstyle3\" style=\"color: #000000;\"><span class=\"fontstyle3\"><strong>+9 to search difficulty:</strong>&nbsp;</span><span class=\"fontstyle0\">If the trail is a week old.<br /></span></span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "per",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to several days.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.FPJaY7gAagt0iaLo"
+    }
+  },
+  "_key": "!items!RMFmrHhFKGPUsjQ7"
+}

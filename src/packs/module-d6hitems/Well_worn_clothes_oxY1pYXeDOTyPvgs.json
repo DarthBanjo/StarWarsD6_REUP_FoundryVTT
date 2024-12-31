@@ -1,0 +1,37 @@
+{
+  "_id": "oxY1pYXeDOTyPvgs",
+  "name": "Well-worn clothes",
+  "type": "gear",
+  "img": "icons/equipment/chest/shirt-simple-white.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a982e0a28f57a56ac35069329922301300a3c75a",
+      "sourceId": "Item.oxY1pYXeDOTyPvgs"
+    }
+  },
+  "_key": "!items!oxY1pYXeDOTyPvgs"
+}

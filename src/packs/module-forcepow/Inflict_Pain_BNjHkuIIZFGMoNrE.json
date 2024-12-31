@@ -1,0 +1,25 @@
+{
+  "_id": "BNjHkuIIZFGMoNrE",
+  "name": "Inflict Pain",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/conalt_inflictpain.svg",
+  "data": {
+    "description": "<p><strong>Control Difficulty: </strong>Very Easy. Modified by proximity.</p>\n<p><strong>Alter Difficulty: </strong>Target's <em>control </em>or <em>Perception </em>roll. Modified by proximity.</p>\n<p><strong>Required Power:</strong>&nbsp;<em>Control Pain,&nbsp;Life Sense</em></p>\n<p><strong>Warning: </strong>A character who uses this power immediately receives a dark side Point.</p>\n<p><strong>Effect: </strong>The target experiences great agony. The user causes damage by rolling their <em>alter </em>skill, while the target resists damage with their <em>control</em>, <em>Perception </em>or <em>willpower</em>. Damage is figured as if the attack was a stun attack, although if the target suffers any damage at all, they are so crippled by pain that they are incapable of acting for the rest of the round and the next round.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.BNjHkuIIZFGMoNrE"
+    }
+  },
+  "_key": "!items!BNjHkuIIZFGMoNrE"
+}

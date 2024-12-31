@@ -1,0 +1,38 @@
+{
+  "_id": "pWWMrYQDu0LsRgNn",
+  "name": "Kinetic Combat",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_kineticcombat.svg",
+  "data": {
+    "description": "<p><strong>Alter Difficulty:&nbsp;</strong>Difficult</p>\n<p><strong>Required Powers:&nbsp;</strong><em>Telekinesis</em></p>\n<p><strong>Effect:&nbsp;</strong>Once the Jedi has successfully activated this power, he may wield a melee weapon or lightsaber with the power of the Force at a distance up to 10 meters, as though the weapon were in his hands using his melee weapons or <em>lightsaber </em>skill respectively. Multiple action penalties apply.</p>\n<p>The first round, the Jedi can make only one attack. As his control improves, he may attack with the weapon as many times as possible (as determined by multiple action penalties).</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "2QBs1MQlJ3Zg95UR",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 100,
+        "startRound": 1
+      },
+      "label": "Kinetic Combat",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/alt_kineticcombat.svg",
+      "tint": null,
+      "_key": "!items.effects!pWWMrYQDu0LsRgNn.2QBs1MQlJ3Zg95UR"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!pWWMrYQDu0LsRgNn"
+}

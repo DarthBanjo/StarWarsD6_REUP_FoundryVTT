@@ -1,0 +1,31 @@
+{
+  "_id": "LKWKVqT2CdK8rFEB",
+  "name": "Powersuit Operation",
+  "type": "skill",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/skillIcons/mec_powersuitops.svg",
+  "data": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular kind or model powersuit &mdash; </span><span class=\"fontstyle0\">spacetrooper armor, servo-lifter</span><span class=\"fontstyle2\">. </span></em></p>\n<p><span class=\"fontstyle2\">Powersuits are devices which enhance a person&rsquo;s natural abilities through servo-mechanisms and powered movement. These suits are often used for construction or cargo movement work wherever industrial droids are neither practical nor desirable. This technology has also been adapted to the zero-gee stormtrooper (spacetrooper) battle suits.</span></p>\n<p><span class=\"fontstyle0\">Powersuit operation </span><span class=\"fontstyle2\">can be used as a &ldquo;reaction skill&rdquo; to dodge enemy fire.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.oRix06vn0SU9j7sD"
+    }
+  },
+  "_key": "!items!LKWKVqT2CdK8rFEB"
+}

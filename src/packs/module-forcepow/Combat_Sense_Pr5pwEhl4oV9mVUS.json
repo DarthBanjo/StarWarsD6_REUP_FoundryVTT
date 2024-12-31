@@ -1,0 +1,74 @@
+{
+  "_id": "Pr5pwEhl4oV9mVUS",
+  "name": "Combat Sense",
+  "type": "manifestation",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_combatsense.svg",
+  "data": {
+    "description": "<p><strong>Sense Difficulty: </strong></p>\n<ul>\n<li>Moderate for one opponent,</li>\n<li>+3 for every additional opponent a Jedi wants to defend against.</li>\n</ul>\n<p><strong>Required Powers</strong>:&nbsp;<em>Danger Sense</em>,&nbsp;<em>Life Detection</em></p>\n<p><strong>Effect:</strong> <em>Combat sense </em>helps a Jedi focus on the battle at hand. Everything else becomes dulled and muted as the Jedi's senses are all turned to the combat happening around him. All targets become mentally highlighted in the Jedi's mind, aiding him in attack and defense.</p>\n<p>In game terms, by focusing his attention on his opponents, a Jedi gains certain important advantages. First, he gets to decide when he wants to act during a round&mdash;no initiative rolls are needed while the power is in effect. If more than one Jedi is using this power, whichever Jedi rolled highest when invoking the power gets to determine exactly when they are acting in the round.</p>\n<p>Second, his attack and defense rolls are increased by +2D. Combat sense lasts for ten combat rounds and doesn't count as a \"skill use\" for determining die code penalties.</p>",
+    "labels": {},
+    "tags": [],
+    "label": "OD6S.CHAR_MANIFESTATIONS"
+  },
+  "effects": [
+    {
+      "_id": "YqTboKtqkX0n4meF",
+      "changes": [
+        {
+          "key": "data.initiative.mod",
+          "mode": 5,
+          "value": "100"
+        },
+        {
+          "key": "data.melee.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.parry.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.ranged.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.block.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.dodge.mod",
+          "mode": 2,
+          "value": "6"
+        },
+        {
+          "key": "data.brawl.mod",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10,
+        "startRound": 1
+      },
+      "label": "Combat Sense",
+      "transfer": true,
+      "flags": {},
+      "icon": "modules/starwarsd6-essentialcompanion-od6s/art/items/forceIcons/sen_combatsense.svg",
+      "tint": null,
+      "_key": "!items.effects!Pr5pwEhl4oV9mVUS.YqTboKtqkX0n4meF"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {},
+  "_key": "!items!Pr5pwEhl4oV9mVUS"
+}

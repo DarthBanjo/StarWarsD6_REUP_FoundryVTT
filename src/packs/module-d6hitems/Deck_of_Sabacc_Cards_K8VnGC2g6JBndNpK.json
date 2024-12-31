@@ -1,0 +1,36 @@
+{
+  "_id": "K8VnGC2g6JBndNpK",
+  "name": "Deck of Sabacc Cards",
+  "type": "gear",
+  "img": "modules/starwarsd6-essentialcompanion-od6s/art/items/equipIcons/icon_sabbacc.webp",
+  "data": {
+    "description": "<p>Sabacc&nbsp;was a popular card game that was often played for high stakes. When played professionally, the game was overseen by a dealer, either organic, as in&nbsp;Coruscant's&nbsp;Outlander Club&nbsp;(40 BBY to 10 ABY), where four-armed&nbsp;Kiughfid&nbsp;dealers passed out the cards and took up money for the house, or mechanical, as in other locales, where&nbsp;automated sabacc dealer droids&nbsp;oversaw proceedings. The game is typically played by 4 to 6 beings, and is rarely played with more than eight participants. The cards are typically electronic devices that change their value when receiving a very specific pulse that is given in random intervals. A winning hand can very quickly become a devastatingly losing hand and vice versa. The object of the game is to place bets and to be the one player with a card total 23 or the nearest total below this score. The&nbsp;Ryn&nbsp;claimed to have invented the sabacc deck and cards as a means of fortune telling.</p>",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Item.K8VnGC2g6JBndNpK"
+    }
+  },
+  "_key": "!items!K8VnGC2g6JBndNpK"
+}

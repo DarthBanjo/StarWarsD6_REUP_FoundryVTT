@@ -1,0 +1,37 @@
+{
+  "_id": "1On8Xzv85h8Pzno6",
+  "name": "Datachip with verified credit line (of 10,000 credits, usable only in certain casinos)",
+  "type": "gear",
+  "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+  "data": {
+    "description": "",
+    "labels": {},
+    "tags": [],
+    "cost": 0,
+    "price": "",
+    "availability": "",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "type": "Boolean",
+      "label": "OD6S.EQUIPPED",
+      "consumable": false
+    },
+    "consumable": false,
+    "label": "OD6S.CHAR_GEAR"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4bb4c57f928843d9c608ba1b1a582ffb619dfcf4",
+      "sourceId": "Item.1On8Xzv85h8Pzno6"
+    }
+  },
+  "_key": "!items!1On8Xzv85h8Pzno6"
+}
