@@ -1,7 +1,7 @@
 import assert from 'assert';
 import {Command} from 'commander';;
 import enquirer from 'enquirer';
-import {extractPack} from '@foundryvtt/foundryvtt-cli';
+import {compilePack} from '@foundryvtt/foundryvtt-cli';
 import fs from 'fs/promises';
 import path from 'path';
 import {rimraf} from 'rimraf';
@@ -66,25 +66,32 @@ program
     await fs.mkdir(options.dataDir);
 
     for (let pack of mj.packs) {
-      const dataPath = await path.resolve(await path.dirname(moduleJsonPath), pack.path);
+      const dataPath = path.join(options.dataDir, pack.name);
       const packName = pack.name;
       const documentType = pack.type;
       const sourcePath = path.join(options.sourceDir, packName)
 
       pack.path = `./packs/${packName}`;
-      console.log(`Extracting ${dataPath} to ${sourcePath}`)
-      await fs.mkdir(sourcePath);
-      await compilePath(
+      console.log(`Compiling ${sourcePath} to ${dataPath} `)
+      await fs.mkdir(dataPath);
+      await compilePack(
         sourcePath,
         dataPath,
         {
           documentType,
+          recursive: true,
+          yaml: true,
+          log: true,
         }
       )
     }
-  }
 
-  await fs.writeFile(path.resolve(dataPath, '..', 'module.json'), JSON.stringify(moduleJson, null, 2))
-)
+    const mjPath = path.resolve(options.dataDir, '..', 'module.json');
+
+    console.log(`Writing module.json to ${mjPath}`);
+
+    await fs.writeFile(mjPath, JSON.stringify(mj, null, 2))
+  });
+
 
 await program.parseAsync()
